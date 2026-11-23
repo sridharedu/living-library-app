@@ -57,9 +57,42 @@ foreach ($sec in $lib) {
 
             if ($mdFilePath) {
                 $mdContent = [System.IO.File]::ReadAllText($mdFilePath, [System.Text.Encoding]::UTF8)
-                if ($mdContent -ne $top.explanation) {
-                    $top.explanation = $mdContent
-                    $updatedFromMd++
+                
+                # Extract quote (first blockquote)
+                $quoteMatch = [regex]::Match($mdContent, '(?ms)^\s*>\s*\*\*(.*?)\*\*')
+                if (-not $quoteMatch.Success) {
+                    $quoteMatch = [regex]::Match($mdContent, '(?m)^\s*>\s*(.*?)$')
+                }
+                
+                $extractedQuote = ""
+                $extractedExpl = ""
+                
+                if ($quoteMatch.Success) {
+                    $extractedQuote = $quoteMatch.Groups[1].Value.Trim()
+                    $extractedQuote = [regex]::Replace($extractedQuote, '(?is)<sub.*?</sub>', '').Trim()
+                    
+                    $remaining = $mdContent.Substring($quoteMatch.Index + $quoteMatch.Length).Trim()
+                    $remaining = [regex]::Replace($remaining, '(?is)<sub.*?</sub>', '').Trim()
+                    $extractedExpl = $remaining
+                } else {
+                    $extractedQuote = "// Quote goes here"
+                    $extractedExpl = $mdContent.Trim()
+                }
+                
+                $top | Add-Member -NotePropertyName "quote" -NotePropertyValue $extractedQuote -Force
+                $top | Add-Member -NotePropertyName "explanation" -NotePropertyValue $extractedExpl -Force
+                $updatedFromMd++
+            } else {
+                if (-not $top.quote) {
+                    $raw = if ($top.explanation) { $top.explanation } else { "" }
+                    $m2 = [regex]::Match($raw, '(?ms)^\s*>\s*\*\*(.*?)\*\*')
+                    if ($m2.Success) {
+                        $top | Add-Member -NotePropertyName "quote" -NotePropertyValue $m2.Groups[1].Value.Trim() -Force
+                        $rem = $raw.Substring($m2.Index + $m2.Length).Trim()
+                        $top.explanation = [regex]::Replace($rem, '(?is)<sub.*?</sub>', '').Trim()
+                    } else {
+                        $top | Add-Member -NotePropertyName "quote" -NotePropertyValue "// Quote goes here" -Force
+                    }
                 }
             }
 
