@@ -1,3 +1,3 @@
 > **Request scope creates one bean instance per HTTP request and requires a web-aware application context.**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>

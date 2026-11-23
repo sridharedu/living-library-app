@@ -1,3 +1,3 @@
 > **Spring Boot test slices load only a focused part of the application, such as MVC, JPA, JSON, or REST clients.**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>

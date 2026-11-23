@@ -1,3 +1,3 @@
 > **A refresh token is a longer-lived credential used to obtain new access tokens without asking the user to authenticate again.**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>

@@ -1,3 +1,3 @@
 > **A ServiceAccount provides an identity for Pods and can receive Kubernetes API permissions through RBAC.**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>

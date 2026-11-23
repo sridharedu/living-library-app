@@ -1,3 +1,3 @@
 > **A call from one method to another method on the same object bypasses the Spring proxy, so proxy-based advice may not run.**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>

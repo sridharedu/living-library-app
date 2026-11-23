@@ -1,3 +1,3 @@
 > **Spring Cloud Config serves externalized application settings from a central source, commonly Git. It enables environment-specific configuration and controlled updates across many services.**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>

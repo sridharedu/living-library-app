@@ -2,12 +2,12 @@
 
 This directory (`docs/`) contains all **1,992 technical reference documents** for the **Ultimate Technology Living Library**.
 
-Every file in this directory has been clean-reset to contain **only the original 1–2 sentence core definition** as a prominent bold quotation, followed by a strict protective comment for future AI / automated updates:
+Every file in this directory contains **only the original 1–2 sentence core definition** as a prominent bold quotation, followed immediately by a faint footnote directive note:
 
 ```markdown
 > **[Original 1-2 sentence core definition verbatim from INITIAL_LIBRARY]**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>
 ```
 
 ---
@@ -15,10 +15,11 @@ Every file in this directory has been clean-reset to contain **only the original
 ## 🚨 RULE 1: MANDATORY RETENTION OF THE OPENING CORE DEFINITION
 
 > [!IMPORTANT]
-> ### 🔒 DO NOT REMOVE THE OPENING DEFINITION OR PROTECTIVE COMMENT
+> ### 🔒 DO NOT REMOVE THE OPENING DEFINITION
 > - **The first blockquote line `> **<definition>**` MUST remain intact at line 1 of every `.md` file.**
 > - **DO NOT delete, overwrite, or rephrase it.**
-> - Whenever any AI model, batch processing tool, or human editor enhances or updates a topic, **ALL NEW CONTENT MUST BE APPENDED BELOW THE PROTECTIVE COMMENT LINE.**
+> - The faint `<sub>*Note: ...*</sub>` line indicates that this note can be replaced with full content during file updates.
+> - Whenever any AI model, batch processing tool, or human editor enhances or updates a topic, **the definition must be preserved, and rich technical content should be provided.**
 >
 > **Where to find all 1,992 original definitions:**  
 > `C:\Users\sridh\AppData\Local\Programs\antigravity\living-library\src\app.js.extracted`  
@@ -56,14 +57,12 @@ When batch-enhancing these documents, follow these guidelines:
 
 ---
 
-## 📐 Standard Enhanced Layout Structure (When Appending)
+## 📐 Standard Enhanced Layout Structure (When Updating)
 
-When appending enhanced content below the protective comment, adhere to this structure:
+When replacing the placeholder note with enhanced content, adhere to this structure:
 
 ```markdown
 > **[PRESERVED ORIGINAL CORE DEFINITION]**
-
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
 
 ---
 

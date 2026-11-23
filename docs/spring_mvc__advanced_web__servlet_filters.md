@@ -1,3 +1,3 @@
 > **Servlet filters run before and after the servlet and can inspect or modify requests and responses. They are suitable for cross-cutting HTTP concerns.**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>

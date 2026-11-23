@@ -1,3 +1,3 @@
 > **A Helm chart is a versioned package containing templates, default values, metadata, and optional dependencies for a Kubernetes application.**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>

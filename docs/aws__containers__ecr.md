@@ -1,3 +1,3 @@
 > **Amazon ECR is a managed container-image registry with IAM access, scanning, lifecycle policies, and replication.**
 
-<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>
