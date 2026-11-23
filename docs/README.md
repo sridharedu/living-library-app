@@ -1,14 +1,13 @@
 # 📝 Technology Living Library — Markdown Documentation Batch Guidelines
 
-This directory (`docs/`) contains all **1,992 technical reference documents** for the **Ultimate Technology Living Library**.
+This directory contains all **1,992 technical reference documents** for the **Ultimate Technology Living Library**.
 
-Every file in this directory contains **only the original 1–2 sentence core definition** as a prominent bold quotation, followed immediately by a faint footnote directive note:
+To ensure seamless performance on GitHub (preventing GitHub's 1,000-file directory truncation limit) and across operating systems, all documents are organized into **part subfolders of up to 500 files each**:
 
-```markdown
-> **[Original 1-2 sentence core definition verbatim from INITIAL_LIBRARY]**
-
-<sub>*Note: Do not remove the definition above when updating. This note can be replaced during file updates.*</sub>
-```
+- 📂 `docs/part-01/` — Topics 0001–0500 (500 files)
+- 📂 `docs/part-02/` — Topics 0501–1000 (500 files)
+- 📂 `docs/part-03/` — Topics 1001–1500 (500 files)
+- 📂 `docs/part-04/` — Topics 1501–1992 (492 files)
 
 ---
 
@@ -27,14 +26,14 @@ Every file in this directory contains **only the original 1–2 sentence core de
 
 ---
 
-## 🚨 RULE 2: NEVER CHANGE ANY FILE NAME
+## 🚨 RULE 2: NEVER CHANGE ANY BASE FILE NAME
 
 > [!CAUTION]
-> ### STRICT INVARIANT: DO NOT RENAME FILES
+> ### STRICT INVARIANT: DO NOT RENAME BASE FILES
 > - Every file name strictly matches its counterpart diagram and application mapping:  
->   `docs/<section>__<group>__<topic>.md` ➔ `images/<section>__<group>__<topic>.png`
-> - **DO NOT rename, move, or change extensions.**
-> - **ONLY perform in-place content updates.**
+>   `docs/part-XX/<section>__<group>__<topic>.md` ➔ `images/part-XX/<section>__<group>__<topic>.png`
+> - **DO NOT rename, move outside its part, or change extensions.**
+> - **ONLY perform in-place content updates within each part folder.**
 
 ---
 
@@ -93,5 +92,5 @@ A concise, high-signal paragraph (3-5 sentences) detailing the architectural pur
 ## 4. Chalkboard Reference Diagram
 Visual architecture and component interaction flow is mapped in the local chalkboard diagram:
 
-`images/<section>__<group>__<topic>.png`
+`images/part-XX/<section>__<group>__<topic>.png`
 ```

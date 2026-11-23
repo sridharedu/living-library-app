@@ -46,15 +46,26 @@ foreach ($sec in $lib) {
             $total++
             $tSlug = Slugify $top.title
             $mdFileName = "${sSlug}__${gSlug}__${tSlug}.md"
-            $mdFilePath = Join-Path $docsDir $mdFileName
+            $imageFileName = "${sSlug}__${gSlug}__${tSlug}.png"
+            $partNum = [int][math]::Floor(($total - 1) / 500) + 1
+            $partName = "part-" + $partNum.ToString("D2")
 
-            if (Test-Path $mdFilePath) {
+            $partFilePath = Join-Path (Join-Path $docsDir $partName) $mdFileName
+            $rootFilePath = Join-Path $docsDir $mdFileName
+
+            $mdFilePath = if (Test-Path $partFilePath) { $partFilePath } elseif (Test-Path $rootFilePath) { $rootFilePath } else { $null }
+
+            if ($mdFilePath) {
                 $mdContent = [System.IO.File]::ReadAllText($mdFilePath, [System.Text.Encoding]::UTF8)
                 if ($mdContent -ne $top.explanation) {
                     $top.explanation = $mdContent
                     $updatedFromMd++
                 }
             }
+
+            # Stamp deterministic part paths on topic
+            $top | Add-Member -NotePropertyName "image" -NotePropertyValue "images/$partName/$imageFileName" -Force
+            $top | Add-Member -NotePropertyName "doc" -NotePropertyValue "docs/$partName/$mdFileName" -Force
         }
     }
 }
