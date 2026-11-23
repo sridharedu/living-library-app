@@ -2,23 +2,23 @@
 
 This directory (`docs/`) contains all **1,992 technical reference documents** for the **Ultimate Technology Living Library**.
 
-Use this guide as the strict specification for any batch processing script, LLM agent, or human editor updating these `.md` files.
+Every file in this directory has been clean-reset to contain **only the original 1–2 sentence core definition** as a prominent bold quotation, followed by a strict protective comment for future AI / automated updates:
+
+```markdown
+> **[Original 1-2 sentence core definition verbatim from INITIAL_LIBRARY]**
+
+<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
+```
 
 ---
 
-## 🚨 RULE 1: PRESERVE THE ORIGINAL 2-LINE CORE DEFINITION
+## 🚨 RULE 1: MANDATORY RETENTION OF THE OPENING CORE DEFINITION
 
 > [!IMPORTANT]
-> ### 🔒 MANDATORY RETENTION OF ORIGINAL DEFINITION
-> Every topic has an **original 1–2 sentence core definition** (the true essence and meaning of the topic).
-> - **YOU MUST RETAIN THIS EXACT TEXT VERBATIM.**
+> ### 🔒 DO NOT REMOVE THE OPENING DEFINITION OR PROTECTIVE COMMENT
+> - **The first blockquote line `> **<definition>**` MUST remain intact at line 1 of every `.md` file.**
 > - **DO NOT delete, overwrite, or rephrase it.**
-> - Format it prominently at the top of the file inside a dedicated callout blockquote or bold quotation:
->
-> ```markdown
-> > **Core Mental Model:**  
-> > *"<Insert the exact original 1–2 sentence pre-loaded definition here without alteration>"*
-> ```
+> - Whenever any AI model, batch processing tool, or human editor enhances or updates a topic, **ALL NEW CONTENT MUST BE APPENDED BELOW THE PROTECTIVE COMMENT LINE.**
 >
 > **Where to find all 1,992 original definitions:**  
 > `C:\Users\sridh\AppData\Local\Programs\antigravity\living-library\src\app.js.extracted`  
@@ -39,11 +39,10 @@ Use this guide as the strict specification for any batch processing script, LLM 
 
 ## 🎨 Design & Aesthetic Standard: "Visually Great, Crisp, No Clutter"
 
-The goal is a **visually wonderful, Notion-grade Markdown document** that is **concise, high-impact, and free of generic filler text**.
+When batch-enhancing these documents, follow these guidelines:
 
-### Visual Style Rules:
 1. **No Wall-of-Text / No Generic Fluff:**
-   - Eliminate repetitive boilerplates.
+   - Eliminate repetitive boilerplates ("serves as a foundational component within... At an architectural level, it abstracts underlying complexity...").
    - Keep prose tight, punchy, and direct to the point.
 2. **Rich Typography & Structural Rhythm:**
    - Use GitHub-style alerts (`> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`).
@@ -57,25 +56,19 @@ The goal is a **visually wonderful, Notion-grade Markdown document** that is **c
 
 ---
 
-## 📐 Standard Golden Template for Every Topic
+## 📐 Standard Enhanced Layout Structure (When Appending)
 
-Every updated `.md` file should adhere to this 4-part structure:
+When appending enhanced content below the protective comment, adhere to this structure:
 
 ```markdown
-# [Topic Title]
+> **[PRESERVED ORIGINAL CORE DEFINITION]**
 
-> **Core Mental Model:**  
-> *[INSERT EXACT ORIGINAL PRE-LOADED 1-2 SENTENCE DEFINITION HERE]*
+<!-- CRITICAL: Do not remove the line above during any updates to this file. Any AI, automated tool, or batch script updating this file must preserve the opening definition intact. -->
 
 ---
 
 ## 1. Architectural Overview & Mental Model
-A concise, high-signal paragraph (3-5 sentences) detailing the architecture purpose, system boundaries, and design trade-offs.
-
-```text
-[Optional lightweight visual flow or ASCII diagram]
-Producer ➔ [ Partition Log (Offsets 0, 1, 2...) ] ➔ Consumer Group
-```
+A concise, high-signal paragraph (3-5 sentences) detailing the architectural purpose, system boundaries, and design trade-offs.
 
 ## 2. Execution Mechanics & Runtime Flow
 - **Initialization & Configuration:** How the component boots, binds state, or pre-allocates resources.
@@ -84,13 +77,6 @@ Producer ➔ [ Partition Log (Offsets 0, 1, 2...) ] ➔ Consumer Group
 
 ```java
 // Crisp, realistic production-ready code snippet (8-12 lines max)
-ProducerRecord<String, OrderEvent> record = 
-    new ProducerRecord<>("orders", orderId, event);
-producer.send(record, (metadata, exception) -> {
-    if (exception == null) {
-        log.info("Committed offset: {}", metadata.offset());
-    }
-});
 ```
 
 ## 3. Production Best Practices & Failure Modes
@@ -109,32 +95,4 @@ producer.send(record, (metadata, exception) -> {
 Visual architecture and component interaction flow is mapped in the local chalkboard diagram:
 
 `images/<section>__<group>__<topic>.png`
-```
-
----
-
-## 🛠️ Automated Extraction Helper (Node.js Script)
-
-To pull the exact original 2-line explanation for any topic, run:
-
-```javascript
-const fs = require('fs');
-const content = fs.readFileSync('C:/Users/sridh/AppData/Local/Programs/antigravity/living-library/src/app.js.extracted', 'utf8');
-const start = content.indexOf('const INITIAL_LIBRARY=') + 'const INITIAL_LIBRARY='.length;
-const raw = content.slice(start, content.indexOf(';\nconst EMBEDDED_LIBRARY_ID', start)).trim();
-const library = JSON.parse(raw.slice(0, raw.lastIndexOf(']') + 1));
-
-// Look up topic by title
-function getOriginalDefinition(topicTitle) {
-  for (const section of library) {
-    for (const group of section.groups) {
-      for (const topic of group.topics) {
-        if (topic.title.toLowerCase() === topicTitle.toLowerCase()) {
-          return topic.explanation;
-        }
-      }
-    }
-  }
-  return null;
-}
 ```
