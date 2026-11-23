@@ -65,16 +65,22 @@ Write-Host "Updated $updatedFromMd topics from modified .md files in docs/." -Fo
 # Hash library
 $newJson = $lib | ConvertTo-Json -Depth 6 -Compress
 
-function Hash-Snapshot([string]$text) {
-    $hash = [uint32]2166136261
-    for ($i = 0; $i -lt $text.Length; $i++) {
-        $hash = $hash -bxor [uint32][int]$text[$i]
-        $hash = [uint32](($hash * [uint32]16777619) -band 0xFFFFFFFF)
+if (-not ([System.Management.Automation.PSTypeName]'FastHash').Type) {
+    Add-Type -TypeDefinition @"
+    public class FastHash {
+        public static string Fnv1a(string text) {
+            uint hash = 2166136261;
+            for (int i = 0; i < text.Length; i++) {
+                hash ^= text[i];
+                hash *= 16777619;
+            }
+            return hash.ToString("x8");
+        }
     }
-    return $hash.ToString("x8")
+"@
 }
 
-$nextId = Hash-Snapshot $newJson
+$nextId = [FastHash]::Fnv1a($newJson)
 
 # Get current revision and bump it
 $revMatch = [regex]::Match($html, 'EMBEDDED_LIBRARY_REVISION=(\d+)')
