@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Track heap growth, capture dumps near failure, compare retained objects, and follow GC-root paths to the code retaining unused data.
+> **Track heap growth, capture dumps near failure, compare retained objects, and follow GC-root paths to the code retaining unused data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Analyzing memory leaks** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. Track heap growth, capture dumps near failure, compare retained objects, and follow GC-root paths to the code retaining unused data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Track heap growth, capture dumps near failure, compare retained objects, and follow GC-root paths to the code retaining unused data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

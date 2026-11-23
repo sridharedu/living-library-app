@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Failover promotes a healthy replica or standby when the active database becomes unavailable.
+> **Failover promotes a healthy replica or standby when the active database becomes unavailable.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Failover** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Failover promotes a healthy replica or standby when the active database becomes unavailable.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Failover promotes a healthy replica or standby when the active database becomes unavailable.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A circuit breaker stops calls to a failing dependency after a threshold, then probes recovery after a delay.
+> **A circuit breaker stops calls to a failing dependency after a threshold, then probes recovery after a delay.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Circuit breaker** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. A circuit breaker stops calls to a failing dependency after a threshold, then probes recovery after a delay.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A circuit breaker stops calls to a failing dependency after a threshold, then probes recovery after a delay.
 
 ## 2. Execution Mechanics & Runtime Flow
 

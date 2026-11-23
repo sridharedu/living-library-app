@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Object defines core methods such as equals, hashCode, toString, getClass, clone, wait, notify, and notifyAll.
+> **Object defines core methods such as equals, hashCode, toString, getClass, clone, wait, notify, and notifyAll.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Object class methods** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Object defines core methods such as equals, hashCode, toString, getClass, clone, wait, notify, and notifyAll.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Object defines core methods such as equals, hashCode, toString, getClass, clone, wait, notify, and notifyAll.
 
 ## 2. Execution Mechanics & Runtime Flow
 

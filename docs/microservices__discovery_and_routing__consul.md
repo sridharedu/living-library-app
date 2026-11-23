@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Consul provides service discovery, health checks, key-value configuration, and service-mesh capabilities.
+> **Consul provides service discovery, health checks, key-value configuration, and service-mesh capabilities.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Consul** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Consul provides service discovery, health checks, key-value configuration, and service-mesh capabilities.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Consul provides service discovery, health checks, key-value configuration, and service-mesh capabilities.
 
 ## 2. Execution Mechanics & Runtime Flow
 

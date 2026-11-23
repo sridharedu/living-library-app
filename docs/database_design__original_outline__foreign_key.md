@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A foreign key requires values to reference an existing row in another table. It protects referential integrity between related entities.
+> **A foreign key requires values to reference an existing row in another table. It protects referential integrity between related entities.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Foreign Key** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. A foreign key requires values to reference an existing row in another table. It protects referential integrity between related entities.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A foreign key requires values to reference an existing row in another table. It protects referential integrity between related entities.
 
 ## 2. Execution Mechanics & Runtime Flow
 

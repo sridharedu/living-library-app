@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Performance testing measures response time, throughput, resource usage, and scalability under defined workloads.
+> **Performance testing measures response time, throughput, resource usage, and scalability under defined workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Performance testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Performance testing measures response time, throughput, resource usage, and scalability under defined workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Performance testing measures response time, throughput, resource usage, and scalability under defined workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> HAVING filters grouped results after aggregation, while WHERE filters rows before grouping.
+> **HAVING filters grouped results after aggregation, while WHERE filters rows before grouping.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**HAVING** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. HAVING filters grouped results after aggregation, while WHERE filters rows before grouping.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+HAVING filters grouped results after aggregation, while WHERE filters rows before grouping.
 
 ## 2. Execution Mechanics & Runtime Flow
 

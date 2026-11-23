@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A gateway centralizes cross-cutting edge behavior, reduces client knowledge of internal services, and enables controlled routing. Too much business logic in the gateway becomes a bottleneck and coupling point.
+> **A gateway centralizes cross-cutting edge behavior, reduces client knowledge of internal services, and enables controlled routing. Too much business logic in the gateway becomes a bottleneck and coupling point.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Advantages of API Gateway** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. A gateway centralizes cross-cutting edge behavior, reduces client knowledge of internal services, and enables controlled routing. Too much business logic in the gateway becomes a bottleneck and coupling point.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A gateway centralizes cross-cutting edge behavior, reduces client knowledge of internal services, and enables controlled routing. Too much business logic in the gateway becomes a bottleneck and coupling point.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Locale resolution determines the user's locale from headers, cookies, sessions, or custom rules for internationalized messages.
+> **Locale resolution determines the user's locale from headers, cookies, sessions, or custom rules for internationalized messages.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Locale resolution** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Locale resolution determines the user's locale from headers, cookies, sessions, or custom rules for internationalized messages.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Locale resolution determines the user's locale from headers, cookies, sessions, or custom rules for internationalized messages.
 
 ## 2. Execution Mechanics & Runtime Flow
 

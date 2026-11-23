@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Each thread has a Java stack containing frames for method calls, local variables, operand stacks, and return information.
+> **Each thread has a Java stack containing frames for method calls, local variables, operand stacks, and return information.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Java stacks** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. Each thread has a Java stack containing frames for method calls, local variables, operand stacks, and return information.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Each thread has a Java stack containing frames for method calls, local variables, operand stacks, and return information.
 
 ## 2. Execution Mechanics & Runtime Flow
 

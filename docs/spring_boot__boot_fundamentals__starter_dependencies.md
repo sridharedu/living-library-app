@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Starters are curated dependency groups for a capability, such as web, data JPA, security, or testing.
+> **Starters are curated dependency groups for a capability, such as web, data JPA, security, or testing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Starter dependencies** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. Starters are curated dependency groups for a capability, such as web, data JPA, security, or testing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Starters are curated dependency groups for a capability, such as web, data JPA, security, or testing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

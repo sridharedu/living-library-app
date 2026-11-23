@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Files.createTempFile and createTempDirectory create temporary resources safely. Applications should define cleanup behavior explicitly.
+> **Files.createTempFile and createTempDirectory create temporary resources safely. Applications should define cleanup behavior explicitly.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Temporary files** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. Files.createTempFile and createTempDirectory create temporary resources safely. Applications should define cleanup behavior explicitly.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Files.createTempFile and createTempDirectory create temporary resources safely. Applications should define cleanup behavior explicitly.
 
 ## 2. Execution Mechanics & Runtime Flow
 

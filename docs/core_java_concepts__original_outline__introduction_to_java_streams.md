@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Streams let you describe what result you want through operations such as filter, map, and collect. They reduce loop boilerplate but should remain readable and free of hidden side effects.
+> **Streams let you describe what result you want through operations such as filter, map, and collect. They reduce loop boilerplate but should remain readable and free of hidden side effects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Introduction to Java Streams** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Streams let you describe what result you want through operations such as filter, map, and collect. They reduce loop boilerplate but should remain readable and free of hidden side effects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Streams let you describe what result you want through operations such as filter, map, and collect. They reduce loop boilerplate but should remain readable and free of hidden side effects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

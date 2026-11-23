@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Benefits include loose coupling, independent scaling, spike absorption, extensibility, and replayable workflows. Costs include eventual consistency and more difficult debugging.
+> **Benefits include loose coupling, independent scaling, spike absorption, extensibility, and replayable workflows. Costs include eventual consistency and more difficult debugging.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Advantages of Event-Driven Microservices** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Benefits include loose coupling, independent scaling, spike absorption, extensibility, and replayable workflows. Costs include eventual consistency and more difficult debugging.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Benefits include loose coupling, independent scaling, spike absorption, extensibility, and replayable workflows. Costs include eventual consistency and more difficult debugging.
 
 ## 2. Execution Mechanics & Runtime Flow
 

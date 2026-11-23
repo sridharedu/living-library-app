@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Continuous integration merges small changes frequently and validates them with automated builds and tests.
+> **Continuous integration merges small changes frequently and validates them with automated builds and tests.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Continuous integration** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Continuous integration merges small changes frequently and validates them with automated builds and tests.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Continuous integration merges small changes frequently and validates them with automated builds and tests.
 
 ## 2. Execution Mechanics & Runtime Flow
 

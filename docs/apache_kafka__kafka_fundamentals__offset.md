@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> A Kafka offset is the numeric position of a record inside one partition. Each record receives an increasing offset when it is appended to that partition.
+> **A Kafka offset is the numeric position of a record inside one partition. Each record receives an increasing offset when it is appended to that partition.**
 
 ---
 

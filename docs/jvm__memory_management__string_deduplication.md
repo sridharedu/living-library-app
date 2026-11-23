@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> String deduplication lets supported collectors share identical character data between different String objects to reduce memory usage.
+> **String deduplication lets supported collectors share identical character data between different String objects to reduce memory usage.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**String deduplication** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. String deduplication lets supported collectors share identical character data between different String objects to reduce memory usage.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+String deduplication lets supported collectors share identical character data between different String objects to reduce memory usage.
 
 ## 2. Execution Mechanics & Runtime Flow
 

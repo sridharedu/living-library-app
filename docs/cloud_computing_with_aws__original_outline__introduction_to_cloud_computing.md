@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cloud computing provides on-demand infrastructure and managed services over a network. It shifts capacity from owned hardware to elastic, metered resources.
+> **Cloud computing provides on-demand infrastructure and managed services over a network. It shifts capacity from owned hardware to elastic, metered resources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Introduction to Cloud Computing** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Cloud computing provides on-demand infrastructure and managed services over a network. It shifts capacity from owned hardware to elastic, metered resources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cloud computing provides on-demand infrastructure and managed services over a network. It shifts capacity from owned hardware to elastic, metered resources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An enum defines a fixed set of named instances and can contain fields, methods, constructors, and interface implementations.
+> **An enum defines a fixed set of named instances and can contain fields, methods, constructors, and interface implementations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Enums** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. An enum defines a fixed set of named instances and can contain fields, methods, constructors, and interface implementations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An enum defines a fixed set of named instances and can contain fields, methods, constructors, and interface implementations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

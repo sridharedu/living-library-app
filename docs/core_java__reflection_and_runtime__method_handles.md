@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> MethodHandle provides typed, efficient, dynamically invocable references to methods, constructors, and fields. It is more flexible than reflection.
+> **MethodHandle provides typed, efficient, dynamically invocable references to methods, constructors, and fields. It is more flexible than reflection.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Method handles** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. MethodHandle provides typed, efficient, dynamically invocable references to methods, constructors, and fields. It is more flexible than reflection.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+MethodHandle provides typed, efficient, dynamically invocable references to methods, constructors, and fields. It is more flexible than reflection.
 
 ## 2. Execution Mechanics & Runtime Flow
 

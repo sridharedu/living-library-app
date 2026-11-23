@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Unit testing verifies a small piece of behavior in isolation, usually one class or method. Good unit tests are fast, deterministic, and focused.
+> **Unit testing verifies a small piece of behavior in isolation, usually one class or method. Good unit tests are fast, deterministic, and focused.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Unit Testing?** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Unit testing verifies a small piece of behavior in isolation, usually one class or method. Good unit tests are fast, deterministic, and focused.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Unit testing verifies a small piece of behavior in isolation, usually one class or method. Good unit tests are fast, deterministic, and focused.
 
 ## 2. Execution Mechanics & Runtime Flow
 

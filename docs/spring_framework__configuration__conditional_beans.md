@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Conditional beans are registered only when conditions match, such as a class, property, bean, resource, or platform being present.
+> **Conditional beans are registered only when conditions match, such as a class, property, bean, resource, or platform being present.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Conditional beans** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Conditional beans are registered only when conditions match, such as a class, property, bean, resource, or platform being present.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Conditional beans are registered only when conditions match, such as a class, property, bean, resource, or platform being present.
 
 ## 2. Execution Mechanics & Runtime Flow
 

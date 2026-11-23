@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A partial index includes only rows matching a predicate, reducing size and improving selective query performance.
+> **A partial index includes only rows matching a predicate, reducing size and improving selective query performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Partial indexes** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. A partial index includes only rows matching a predicate, reducing size and improving selective query performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A partial index includes only rows matching a predicate, reducing size and improving selective query performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

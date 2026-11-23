@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ? super T accepts T or its supertypes and is best for writing T values. Reads are only guaranteed as Object.
+> **? super T accepts T or its supertypes and is best for writing T values. Reads are only guaranteed as Object.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lower bounded wildcards** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. ? super T accepts T or its supertypes and is best for writing T values. Reads are only guaranteed as Object.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+? super T accepts T or its supertypes and is best for writing T values. Reads are only guaranteed as Object.
 
 ## 2. Execution Mechanics & Runtime Flow
 

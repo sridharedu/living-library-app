@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cassandra consistency levels control how many replicas must acknowledge reads or writes, such as ONE, QUORUM, or ALL.
+> **Cassandra consistency levels control how many replicas must acknowledge reads or writes, such as ONE, QUORUM, or ALL.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Consistency levels** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Cassandra consistency levels control how many replicas must acknowledge reads or writes, such as ONE, QUORUM, or ALL.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cassandra consistency levels control how many replicas must acknowledge reads or writes, such as ONE, QUORUM, or ALL.
 
 ## 2. Execution Mechanics & Runtime Flow
 

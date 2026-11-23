@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Rolling deployment replaces application instances gradually while keeping part of the old version serving traffic.
+> **Rolling deployment replaces application instances gradually while keeping part of the old version serving traffic.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Rolling deployment** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Rolling deployment replaces application instances gradually while keeping part of the old version serving traffic.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Rolling deployment replaces application instances gradually while keeping part of the old version serving traffic.
 
 ## 2. Execution Mechanics & Runtime Flow
 

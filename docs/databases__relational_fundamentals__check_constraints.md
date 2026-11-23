@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A check constraint enforces a Boolean condition on inserted or updated rows.
+> **A check constraint enforces a Boolean condition on inserted or updated rows.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Check constraints** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. A check constraint enforces a Boolean condition on inserted or updated rows.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A check constraint enforces a Boolean condition on inserted or updated rows.
 
 ## 2. Execution Mechanics & Runtime Flow
 

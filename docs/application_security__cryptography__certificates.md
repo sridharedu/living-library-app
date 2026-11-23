@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A digital certificate binds a public key to an identity and is signed by a trusted certificate authority.
+> **A digital certificate binds a public key to an identity and is signed by a trusted certificate authority.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Certificates** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. A digital certificate binds a public key to an identity and is signed by a trusted certificate authority.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A digital certificate binds a public key to an identity and is signed by a trusted certificate authority.
 
 ## 2. Execution Mechanics & Runtime Flow
 

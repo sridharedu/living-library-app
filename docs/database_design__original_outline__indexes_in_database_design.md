@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Indexes accelerate lookups and sorting by maintaining additional data structures. They improve reads but consume storage and add write overhead.
+> **Indexes accelerate lookups and sorting by maintaining additional data structures. They improve reads but consume storage and add write overhead.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Indexes in Database Design** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. Indexes accelerate lookups and sorting by maintaining additional data structures. They improve reads but consume storage and add write overhead.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Indexes accelerate lookups and sorting by maintaining additional data structures. They improve reads but consume storage and add write overhead.
 
 ## 2. Execution Mechanics & Runtime Flow
 

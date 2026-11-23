@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Lock ordering prevents deadlock by requiring every thread to acquire multiple locks in the same global order.
+> **Lock ordering prevents deadlock by requiring every thread to acquire multiple locks in the same global order.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lock ordering** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. Lock ordering prevents deadlock by requiring every thread to acquire multiple locks in the same global order.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Lock ordering prevents deadlock by requiring every thread to acquire multiple locks in the same global order.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Records are concise immutable data carriers that automatically provide accessors, equals, hashCode, and toString based on their components.
+> **Records are concise immutable data carriers that automatically provide accessors, equals, hashCode, and toString based on their components.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Records** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Records are concise immutable data carriers that automatically provide accessors, equals, hashCode, and toString based on their components.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Records are concise immutable data carriers that automatically provide accessors, equals, hashCode, and toString based on their components.
 
 ## 2. Execution Mechanics & Runtime Flow
 

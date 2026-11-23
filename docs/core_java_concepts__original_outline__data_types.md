@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java has primitive types such as int, long, double, boolean, and char, plus reference types such as String, arrays, and objects. The chosen type controls what values can be stored and how much memory and precision are used.
+> **Java has primitive types such as int, long, double, boolean, and char, plus reference types such as String, arrays, and objects. The chosen type controls what values can be stored and how much memory and precision are used.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Data Types** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Java has primitive types such as int, long, double, boolean, and char, plus reference types such as String, arrays, and objects. The chosen type controls what values can be stored and how much memory and precision are used.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java has primitive types such as int, long, double, boolean, and char, plus reference types such as String, arrays, and objects. The chosen type controls what values can be stored and how much memory and precision are used.
 
 ## 2. Execution Mechanics & Runtime Flow
 

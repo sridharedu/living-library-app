@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Reactive programming models asynchronous data flows with non-blocking execution, composition, and backpressure.
+> **Reactive programming models asynchronous data flows with non-blocking execution, composition, and backpressure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reactive programming** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Reactive programming models asynchronous data flows with non-blocking execution, composition, and backpressure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Reactive programming models asynchronous data flows with non-blocking execution, composition, and backpressure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

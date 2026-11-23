@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Lamport clocks assign logical timestamps that preserve causal ordering, though they cannot detect all concurrent events.
+> **Lamport clocks assign logical timestamps that preserve causal ordering, though they cannot detect all concurrent events.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lamport clocks** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Lamport clocks assign logical timestamps that preserve causal ordering, though they cannot detect all concurrent events.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Lamport clocks assign logical timestamps that preserve causal ordering, though they cannot detect all concurrent events.
 
 ## 2. Execution Mechanics & Runtime Flow
 

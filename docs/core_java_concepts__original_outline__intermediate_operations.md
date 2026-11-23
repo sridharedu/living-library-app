@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Intermediate operations such as filter, map, flatMap, distinct, and sorted return another stream. They are lazy and run only when a terminal operation requests results.
+> **Intermediate operations such as filter, map, flatMap, distinct, and sorted return another stream. They are lazy and run only when a terminal operation requests results.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Intermediate Operations** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Intermediate operations such as filter, map, flatMap, distinct, and sorted return another stream. They are lazy and run only when a terminal operation requests results.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Intermediate operations such as filter, map, flatMap, distinct, and sorted return another stream. They are lazy and run only when a terminal operation requests results.
 
 ## 2. Execution Mechanics & Runtime Flow
 

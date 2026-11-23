@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Security groups are stateful virtual firewalls attached to network interfaces. They define allowed inbound and outbound traffic and should follow least privilege.
+> **Security groups are stateful virtual firewalls attached to network interfaces. They define allowed inbound and outbound traffic and should follow least privilege.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**EC2 Security Groups** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Security groups are stateful virtual firewalls attached to network interfaces. They define allowed inbound and outbound traffic and should follow least privilege.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Security groups are stateful virtual firewalls attached to network interfaces. They define allowed inbound and outbound traffic and should follow least privilege.
 
 ## 2. Execution Mechanics & Runtime Flow
 

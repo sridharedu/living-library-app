@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Slow query analysis combines timing, execution plans, waits, row counts, indexes, and realistic parameters to find the true bottleneck.
+> **Slow query analysis combines timing, execution plans, waits, row counts, indexes, and realistic parameters to find the true bottleneck.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Slow query analysis** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Slow query analysis combines timing, execution plans, waits, row counts, indexes, and realistic parameters to find the true bottleneck.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Slow query analysis combines timing, execution plans, waits, row counts, indexes, and realistic parameters to find the true bottleneck.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A route table maps destination CIDR ranges to network targets such as local routing, gateways, endpoints, or peering connections.
+> **A route table maps destination CIDR ranges to network targets such as local routing, gateways, endpoints, or peering connections.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Route tables** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. A route table maps destination CIDR ranges to network targets such as local routing, gateways, endpoints, or peering connections.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A route table maps destination CIDR ranges to network targets such as local routing, gateways, endpoints, or peering connections.
 
 ## 2. Execution Mechanics & Runtime Flow
 

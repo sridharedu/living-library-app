@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> RejectedExecutionHandler decides what happens when a ThreadPoolExecutor cannot accept more work. Policies may abort, discard, run in the caller, or customize backpressure.
+> **RejectedExecutionHandler decides what happens when a ThreadPoolExecutor cannot accept more work. Policies may abort, discard, run in the caller, or customize backpressure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RejectedExecutionHandler** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. RejectedExecutionHandler decides what happens when a ThreadPoolExecutor cannot accept more work. Policies may abort, discard, run in the caller, or customize backpressure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+RejectedExecutionHandler decides what happens when a ThreadPoolExecutor cannot accept more work. Policies may abort, discard, run in the caller, or customize backpressure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

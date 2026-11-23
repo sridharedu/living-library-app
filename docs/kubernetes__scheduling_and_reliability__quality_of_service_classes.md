@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kubernetes classifies Pods as Guaranteed, Burstable, or BestEffort based on resource requests and limits, influencing eviction priority.
+> **Kubernetes classifies Pods as Guaranteed, Burstable, or BestEffort based on resource requests and limits, influencing eviction priority.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Quality of Service classes** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Kubernetes classifies Pods as Guaranteed, Burstable, or BestEffort based on resource requests and limits, influencing eviction priority.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kubernetes classifies Pods as Guaranteed, Burstable, or BestEffort based on resource requests and limits, influencing eviction priority.
 
 ## 2. Execution Mechanics & Runtime Flow
 

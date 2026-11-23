@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SELECT retrieves data and may include filtering, projection, joins, grouping, ordering, and pagination.
+> **SELECT retrieves data and may include filtering, projection, joins, grouping, ordering, and pagination.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SELECT queries** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. SELECT retrieves data and may include filtering, projection, joins, grouping, ordering, and pagination.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SELECT retrieves data and may include filtering, projection, joins, grouping, ordering, and pagination.
 
 ## 2. Execution Mechanics & Runtime Flow
 

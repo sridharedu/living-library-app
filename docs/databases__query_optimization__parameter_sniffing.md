@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Parameter sniffing occurs when a cached plan is optimized for one parameter value but performs badly for others.
+> **Parameter sniffing occurs when a cached plan is optimized for one parameter value but performs badly for others.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Parameter sniffing** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Parameter sniffing occurs when a cached plan is optimized for one parameter value but performs badly for others.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Parameter sniffing occurs when a cached plan is optimized for one parameter value but performs badly for others.
 
 ## 2. Execution Mechanics & Runtime Flow
 

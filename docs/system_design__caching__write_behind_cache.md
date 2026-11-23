@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A write-behind cache updates the cache immediately and persists changes asynchronously, improving write speed but increasing durability and ordering complexity.
+> **A write-behind cache updates the cache immediately and persists changes asynchronously, improving write speed but increasing durability and ordering complexity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Write-behind cache** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. A write-behind cache updates the cache immediately and persists changes asynchronously, improving write speed but increasing durability and ordering complexity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A write-behind cache updates the cache immediately and persists changes asynchronously, improving write speed but increasing durability and ordering complexity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

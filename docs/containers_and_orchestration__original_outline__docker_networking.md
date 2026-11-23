@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Docker networking lets containers communicate with each other, the host, and external systems. Networks provide DNS-based discovery and configurable isolation.
+> **Docker networking lets containers communicate with each other, the host, and external systems. Networks provide DNS-based discovery and configurable isolation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Docker Networking** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Docker networking lets containers communicate with each other, the host, and external systems. Networks provide DNS-based discovery and configurable isolation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Docker networking lets containers communicate with each other, the host, and external systems. Networks provide DNS-based discovery and configurable isolation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

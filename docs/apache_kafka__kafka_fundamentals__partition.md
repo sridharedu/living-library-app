@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> A Kafka partition is an ordered, append-only sequence of records inside a topic. Every new record is added to the end of the partition and receives a unique, increasing offset.
+> **A Kafka partition is an ordered, append-only sequence of records inside a topic. Every new record is added to the end of the partition and receives a unique, increasing offset.**
 
 ---
 

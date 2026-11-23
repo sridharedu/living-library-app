@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Containerization relies on images, registries, runtimes, namespaces, control groups, writable layers, networking, volumes, and immutable deployment practices.
+> **Containerization relies on images, registries, runtimes, namespaces, control groups, writable layers, networking, volumes, and immutable deployment practices.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Containerization Concepts** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Containerization relies on images, registries, runtimes, namespaces, control groups, writable layers, networking, volumes, and immutable deployment practices.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Containerization relies on images, registries, runtimes, namespaces, control groups, writable layers, networking, volumes, and immutable deployment practices.
 
 ## 2. Execution Mechanics & Runtime Flow
 

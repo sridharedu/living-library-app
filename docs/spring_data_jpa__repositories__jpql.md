@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JPQL queries entities and their mapped fields rather than tables and columns.
+> **JPQL queries entities and their mapped fields rather than tables and columns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JPQL** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. JPQL queries entities and their mapped fields rather than tables and columns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JPQL queries entities and their mapped fields rather than tables and columns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Clean architecture organizes code around use cases and dependency rules that point inward toward stable business policies.
+> **Clean architecture organizes code around use cases and dependency rules that point inward toward stable business policies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Clean architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Clean architecture organizes code around use cases and dependency rules that point inward toward stable business policies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Clean architecture organizes code around use cases and dependency rules that point inward toward stable business policies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

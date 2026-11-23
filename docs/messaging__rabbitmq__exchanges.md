@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An exchange receives messages and routes them to queues according to its type and bindings.
+> **An exchange receives messages and routes them to queues according to its type and bindings.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Exchanges** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. An exchange receives messages and routes them to queues according to its type and bindings.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An exchange receives messages and routes them to queues according to its type and bindings.
 
 ## 2. Execution Mechanics & Runtime Flow
 

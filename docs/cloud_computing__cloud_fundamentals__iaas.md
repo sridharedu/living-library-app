@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Infrastructure as a Service provides virtual machines, networks, and storage while the customer manages the operating system and applications.
+> **Infrastructure as a Service provides virtual machines, networks, and storage while the customer manages the operating system and applications.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**IaaS** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Infrastructure as a Service provides virtual machines, networks, and storage while the customer manages the operating system and applications.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Infrastructure as a Service provides virtual machines, networks, and storage while the customer manages the operating system and applications.
 
 ## 2. Execution Mechanics & Runtime Flow
 

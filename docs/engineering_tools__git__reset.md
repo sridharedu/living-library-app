@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> git reset moves a branch reference and can also update the staging area and working tree depending on soft, mixed, or hard mode.
+> **git reset moves a branch reference and can also update the staging area and working tree depending on soft, mixed, or hard mode.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reset** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. git reset moves a branch reference and can also update the staging area and working tree depending on soft, mixed, or hard mode.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+git reset moves a branch reference and can also update the staging area and working tree depending on soft, mixed, or hard mode.
 
 ## 2. Execution Mechanics & Runtime Flow
 

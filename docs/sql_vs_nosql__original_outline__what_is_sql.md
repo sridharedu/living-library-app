@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SQL is the language used to define, query, modify, and control relational data. It supports selection, joins, aggregation, transactions, and schema operations.
+> **SQL is the language used to define, query, modify, and control relational data. It supports selection, joins, aggregation, transactions, and schema operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is SQL?** serves as a foundational component within *Original outline* in the broader **SQL vs NoSQL** ecosystem. SQL is the language used to define, query, modify, and control relational data. It supports selection, joins, aggregation, transactions, and schema operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SQL is the language used to define, query, modify, and control relational data. It supports selection, joins, aggregation, transactions, and schema operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

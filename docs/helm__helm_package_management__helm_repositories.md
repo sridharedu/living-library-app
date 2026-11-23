@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Helm repository hosts packaged charts and an index that Helm clients can search and download.
+> **A Helm repository hosts packaged charts and an index that Helm clients can search and download.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helm repositories** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. A Helm repository hosts packaged charts and an index that Helm clients can search and download.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Helm repository hosts packaged charts and an index that Helm clients can search and download.
 
 ## 2. Execution Mechanics & Runtime Flow
 

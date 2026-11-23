@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cloud computing is the delivery of compute, storage, databases, networking, and software as remotely managed services. Users provision resources through APIs and pay according to consumption or commitment.
+> **Cloud computing is the delivery of compute, storage, databases, networking, and software as remotely managed services. Users provision resources through APIs and pay according to consumption or commitment.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Cloud Computing?** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Cloud computing is the delivery of compute, storage, databases, networking, and software as remotely managed services. Users provision resources through APIs and pay according to consumption or commitment.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cloud computing is the delivery of compute, storage, databases, networking, and software as remotely managed services. Users provision resources through APIs and pay according to consumption or commitment.
 
 ## 2. Execution Mechanics & Runtime Flow
 

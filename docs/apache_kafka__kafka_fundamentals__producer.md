@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> A Kafka producer is the Java client responsible for creating and sending records to Kafka topics. It is typically implemented using KafkaProducer&lt;K, V&gt;.
+> **A Kafka producer is the Java client responsible for creating and sending records to Kafka topics. It is typically implemented using KafkaProducer&lt;K, V&gt;.**
 
 ---
 

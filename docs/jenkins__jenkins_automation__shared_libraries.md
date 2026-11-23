@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Jenkins shared libraries package reusable pipeline steps, templates, and utilities so teams avoid duplicating delivery logic.
+> **Jenkins shared libraries package reusable pipeline steps, templates, and utilities so teams avoid duplicating delivery logic.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Shared libraries** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Jenkins shared libraries package reusable pipeline steps, templates, and utilities so teams avoid duplicating delivery logic.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Jenkins shared libraries package reusable pipeline steps, templates, and utilities so teams avoid duplicating delivery logic.
 
 ## 2. Execution Mechanics & Runtime Flow
 

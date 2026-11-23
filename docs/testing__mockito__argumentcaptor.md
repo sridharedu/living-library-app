@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ArgumentCaptor captures values passed to a mock so the test can inspect them afterward.
+> **ArgumentCaptor captures values passed to a mock so the test can inspect them afterward.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ArgumentCaptor** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. ArgumentCaptor captures values passed to a mock so the test can inspect them afterward.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ArgumentCaptor captures values passed to a mock so the test can inspect them afterward.
 
 ## 2. Execution Mechanics & Runtime Flow
 

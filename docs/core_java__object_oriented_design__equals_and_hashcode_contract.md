@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Equal objects must return the same hash code. equals must be reflexive, symmetric, transitive, consistent, and return false for null.
+> **Equal objects must return the same hash code. equals must be reflexive, symmetric, transitive, consistent, and return false for null.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**equals and hashCode contract** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Equal objects must return the same hash code. equals must be reflexive, symmetric, transitive, consistent, and return false for null.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Equal objects must return the same hash code. equals must be reflexive, symmetric, transitive, consistent, and return false for null.
 
 ## 2. Execution Mechanics & Runtime Flow
 

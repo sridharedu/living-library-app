@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Integration testing checks real collaboration across boundaries that unit tests intentionally isolate. It is slower but catches wiring and configuration issues.
+> **Integration testing checks real collaboration across boundaries that unit tests intentionally isolate. It is slower but catches wiring and configuration issues.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Integration Testing?** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Integration testing checks real collaboration across boundaries that unit tests intentionally isolate. It is slower but catches wiring and configuration issues.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Integration testing checks real collaboration across boundaries that unit tests intentionally isolate. It is slower but catches wiring and configuration issues.
 
 ## 2. Execution Mechanics & Runtime Flow
 

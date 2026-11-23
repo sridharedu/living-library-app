@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Document databases store self-contained JSON-like records and support flexible nested structures and field-based queries.
+> **Document databases store self-contained JSON-like records and support flexible nested structures and field-based queries.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Document databases** serves as a foundational component within *NoSQL Fundamentals* in the broader **NoSQL** ecosystem. Document databases store self-contained JSON-like records and support flexible nested structures and field-based queries.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Document databases store self-contained JSON-like records and support flexible nested structures and field-based queries.
 
 ## 2. Execution Mechanics & Runtime Flow
 

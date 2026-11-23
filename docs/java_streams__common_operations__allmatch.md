@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> allMatch returns true only when every element satisfies the predicate. It returns true for an empty stream.
+> **allMatch returns true only when every element satisfies the predicate. It returns true for an empty stream.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**allMatch** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. allMatch returns true only when every element satisfies the predicate. It returns true for an empty stream.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+allMatch returns true only when every element satisfies the predicate. It returns true for an empty stream.
 
 ## 2. Execution Mechanics & Runtime Flow
 

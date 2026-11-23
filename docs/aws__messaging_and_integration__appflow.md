@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon AppFlow transfers data between SaaS applications and AWS services using managed flows and optional transformations.
+> **Amazon AppFlow transfers data between SaaS applications and AWS services using managed flows and optional transformations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AppFlow** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. Amazon AppFlow transfers data between SaaS applications and AWS services using managed flows and optional transformations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon AppFlow transfers data between SaaS applications and AWS services using managed flows and optional transformations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Service Level Objectives define target values for SLIs over a time window.
+> **Service Level Objectives define target values for SLIs over a time window.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SLOs** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Service Level Objectives define target values for SLIs over a time window.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Service Level Objectives define target values for SLIs over a time window.
 
 ## 2. Execution Mechanics & Runtime Flow
 

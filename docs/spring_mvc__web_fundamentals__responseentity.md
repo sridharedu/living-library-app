@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ResponseEntity gives explicit control over the response body, status code, and headers.
+> **ResponseEntity gives explicit control over the response body, status code, and headers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ResponseEntity** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. ResponseEntity gives explicit control over the response body, status code, and headers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ResponseEntity gives explicit control over the response body, status code, and headers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring singleton scope creates one bean instance per ApplicationContext, not one instance per JVM.
+> **Spring singleton scope creates one bean instance per ApplicationContext, not one instance per JVM.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Singleton scope** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. Spring singleton scope creates one bean instance per ApplicationContext, not one instance per JVM.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring singleton scope creates one bean instance per ApplicationContext, not one instance per JVM.
 
 ## 2. Execution Mechanics & Runtime Flow
 

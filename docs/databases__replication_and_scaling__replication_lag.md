@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Replication lag is the delay between a change on the primary and its application on a replica.
+> **Replication lag is the delay between a change on the primary and its application on a replica.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Replication lag** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Replication lag is the delay between a change on the primary and its application on a replica.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Replication lag is the delay between a change on the primary and its application on a replica.
 
 ## 2. Execution Mechanics & Runtime Flow
 

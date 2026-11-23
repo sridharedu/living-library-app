@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A unique constraint prevents duplicate combinations of one or more columns.
+> **A unique constraint prevents duplicate combinations of one or more columns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Unique constraints** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. A unique constraint prevents duplicate combinations of one or more columns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A unique constraint prevents duplicate combinations of one or more columns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

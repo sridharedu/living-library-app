@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS SAM is an infrastructure-as-code framework that simplifies defining and deploying serverless applications.
+> **AWS SAM is an infrastructure-as-code framework that simplifies defining and deploying serverless applications.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Serverless Application Model** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. AWS SAM is an infrastructure-as-code framework that simplifies defining and deploying serverless applications.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS SAM is an infrastructure-as-code framework that simplifies defining and deploying serverless applications.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Compose profiles enable optional service groups so one file can support different development or testing scenarios.
+> **Compose profiles enable optional service groups so one file can support different development or testing scenarios.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Compose profiles** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Compose profiles enable optional service groups so one file can support different development or testing scenarios.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Compose profiles enable optional service groups so one file can support different development or testing scenarios.
 
 ## 2. Execution Mechanics & Runtime Flow
 

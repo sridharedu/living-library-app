@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An unmodifiable collection blocks mutation through that reference but may still reflect changes made to the backing collection.
+> **An unmodifiable collection blocks mutation through that reference but may still reflect changes made to the backing collection.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Unmodifiable collections** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. An unmodifiable collection blocks mutation through that reference but may still reflect changes made to the backing collection.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An unmodifiable collection blocks mutation through that reference but may still reflect changes made to the backing collection.
 
 ## 2. Execution Mechanics & Runtime Flow
 

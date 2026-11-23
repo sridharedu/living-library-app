@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Widening conversions are usually automatic, while narrowing conversions require an explicit cast and may lose information.
+> **Widening conversions are usually automatic, while narrowing conversions require an explicit cast and may lose information.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Type conversion and casting** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Widening conversions are usually automatic, while narrowing conversions require an explicit cast and may lose information.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Widening conversions are usually automatic, while narrowing conversions require an explicit cast and may lose information.
 
 ## 2. Execution Mechanics & Runtime Flow
 

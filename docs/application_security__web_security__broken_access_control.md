@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Broken access control allows users to perform actions or access resources beyond their permissions. Enforce authorization on every protected operation.
+> **Broken access control allows users to perform actions or access resources beyond their permissions. Enforce authorization on every protected operation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Broken access control** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Broken access control allows users to perform actions or access resources beyond their permissions. Enforce authorization on every protected operation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Broken access control allows users to perform actions or access resources beyond their permissions. Enforce authorization on every protected operation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

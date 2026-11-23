@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> limit keeps at most the first n elements. On ordered parallel streams it can be expensive because encounter order must be preserved.
+> **limit keeps at most the first n elements. On ordered parallel streams it can be expensive because encounter order must be preserved.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**limit** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. limit keeps at most the first n elements. On ordered parallel streams it can be expensive because encounter order must be preserved.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+limit keeps at most the first n elements. On ordered parallel streams it can be expensive because encounter order must be preserved.
 
 ## 2. Execution Mechanics & Runtime Flow
 

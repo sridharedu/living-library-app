@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Optional dependencies can use Optional, ObjectProvider, nullable injection, or conditional configuration. Use them only when absence is truly valid.
+> **Optional dependencies can use Optional, ObjectProvider, nullable injection, or conditional configuration. Use them only when absence is truly valid.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Optional dependencies** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. Optional dependencies can use Optional, ObjectProvider, nullable injection, or conditional configuration. Use them only when absence is truly valid.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Optional dependencies can use Optional, ObjectProvider, nullable injection, or conditional configuration. Use them only when absence is truly valid.
 
 ## 2. Execution Mechanics & Runtime Flow
 

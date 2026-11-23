@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Retries with backoff wait progressively longer between attempts and should include jitter, limits, and idempotency.
+> **Retries with backoff wait progressively longer between attempts and should include jitter, limits, and idempotency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Retries with backoff** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Retries with backoff wait progressively longer between attempts and should include jitter, limits, and idempotency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Retries with backoff wait progressively longer between attempts and should include jitter, limits, and idempotency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

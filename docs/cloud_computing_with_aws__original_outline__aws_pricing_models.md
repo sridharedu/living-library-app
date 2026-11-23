@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS pricing includes On-Demand, Reserved or committed-use discounts, Spot, Savings Plans, and service-specific tiers. The best mix depends on predictability and interruption tolerance.
+> **AWS pricing includes On-Demand, Reserved or committed-use discounts, Spot, Savings Plans, and service-specific tiers. The best mix depends on predictability and interruption tolerance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Pricing Models** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS pricing includes On-Demand, Reserved or committed-use discounts, Spot, Savings Plans, and service-specific tiers. The best mix depends on predictability and interruption tolerance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS pricing includes On-Demand, Reserved or committed-use discounts, Spot, Savings Plans, and service-specific tiers. The best mix depends on predictability and interruption tolerance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

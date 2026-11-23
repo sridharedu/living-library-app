@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> WireMock simulates HTTP services with programmable stubs, delays, faults, request matching, and verification.
+> **WireMock simulates HTTP services with programmable stubs, delays, faults, request matching, and verification.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**WireMock** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. WireMock simulates HTTP services with programmable stubs, delays, faults, request matching, and verification.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+WireMock simulates HTTP services with programmable stubs, delays, faults, request matching, and verification.
 
 ## 2. Execution Mechanics & Runtime Flow
 

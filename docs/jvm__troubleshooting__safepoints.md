@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A safepoint is a JVM state where threads can be paused safely for operations such as GC, deoptimization, or certain diagnostics.
+> **A safepoint is a JVM state where threads can be paused safely for operations such as GC, deoptimization, or certain diagnostics.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Safepoints** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. A safepoint is a JVM state where threads can be paused safely for operations such as GC, deoptimization, or certain diagnostics.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A safepoint is a JVM state where threads can be paused safely for operations such as GC, deoptimization, or certain diagnostics.
 
 ## 2. Execution Mechanics & Runtime Flow
 

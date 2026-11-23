@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Do not catch and ignore exceptions. Either handle them meaningfully, wrap and rethrow them, or let them propagate with enough context.
+> **Do not catch and ignore exceptions. Either handle them meaningfully, wrap and rethrow them, or let them propagate with enough context.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Avoiding swallowed exceptions** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Do not catch and ignore exceptions. Either handle them meaningfully, wrap and rethrow them, or let them propagate with enough context.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Do not catch and ignore exceptions. Either handle them meaningfully, wrap and rethrow them, or let them propagate with enough context.
 
 ## 2. Execution Mechanics & Runtime Flow
 

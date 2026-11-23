@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An object header stores metadata such as identity hash, locking state, age, class pointer, and array length when applicable.
+> **An object header stores metadata such as identity hash, locking state, age, class pointer, and array length when applicable.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Object headers** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. An object header stores metadata such as identity hash, locking state, age, class pointer, and array length when applicable.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An object header stores metadata such as identity hash, locking state, age, class pointer, and array length when applicable.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Redis replication asynchronously copies data from a primary to replicas for read scaling and failover.
+> **Redis replication asynchronously copies data from a primary to replicas for read scaling and failover.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Redis replication** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis replication asynchronously copies data from a primary to replicas for read scaling and failover.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Redis replication asynchronously copies data from a primary to replicas for read scaling and failover.
 
 ## 2. Execution Mechanics & Runtime Flow
 

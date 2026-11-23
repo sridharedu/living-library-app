@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Dockerizing means creating an image that contains the application and required runtime dependencies. A good image is small, secure, deterministic, and configurable at runtime.
+> **Dockerizing means creating an image that contains the application and required runtime dependencies. A good image is small, secure, deterministic, and configurable at runtime.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dockerizing Applications** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Dockerizing means creating an image that contains the application and required runtime dependencies. A good image is small, secure, deterministic, and configurable at runtime.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Dockerizing means creating an image that contains the application and required runtime dependencies. A good image is small, secure, deterministic, and configurable at runtime.
 
 ## 2. Execution Mechanics & Runtime Flow
 

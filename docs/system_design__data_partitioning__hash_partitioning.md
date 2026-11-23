@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Hash partitioning distributes records using a hash of the partition key, usually providing more even load.
+> **Hash partitioning distributes records using a hash of the partition key, usually providing more even load.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hash partitioning** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Hash partitioning distributes records using a hash of the partition key, usually providing more even load.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Hash partitioning distributes records using a hash of the partition key, usually providing more even load.
 
 ## 2. Execution Mechanics & Runtime Flow
 

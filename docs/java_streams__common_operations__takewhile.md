@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> takeWhile returns the longest prefix of an ordered stream that matches a predicate. Processing stops at the first failure.
+> **takeWhile returns the longest prefix of an ordered stream that matches a predicate. Processing stops at the first failure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**takeWhile** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. takeWhile returns the longest prefix of an ordered stream that matches a predicate. Processing stops at the first failure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+takeWhile returns the longest prefix of an ordered stream that matches a predicate. Processing stops at the first failure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

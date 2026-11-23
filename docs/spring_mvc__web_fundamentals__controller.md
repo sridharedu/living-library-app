@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @Controller marks a Spring MVC component that handles web requests and may return logical view names.
+> **@Controller marks a Spring MVC component that handles web requests and may return logical view names.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Controller** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @Controller marks a Spring MVC component that handles web requests and may return logical view names.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@Controller marks a Spring MVC component that handles web requests and may return logical view names.
 
 ## 2. Execution Mechanics & Runtime Flow
 

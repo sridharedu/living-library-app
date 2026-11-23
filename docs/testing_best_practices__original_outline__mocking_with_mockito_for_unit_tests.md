@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mockito replaces dependencies with controllable test doubles. It helps isolate the class under test, but over-mocking can make tests brittle.
+> **Mockito replaces dependencies with controllable test doubles. It helps isolate the class under test, but over-mocking can make tests brittle.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mocking with Mockito for Unit Tests** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Mockito replaces dependencies with controllable test doubles. It helps isolate the class under test, but over-mocking can make tests brittle.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mockito replaces dependencies with controllable test doubles. It helps isolate the class under test, but over-mocking can make tests brittle.
 
 ## 2. Execution Mechanics & Runtime Flow
 

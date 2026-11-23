@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon FSx provides managed file systems such as Windows File Server, Lustre, NetApp ONTAP, and OpenZFS.
+> **Amazon FSx provides managed file systems such as Windows File Server, Lustre, NetApp ONTAP, and OpenZFS.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**FSx** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. Amazon FSx provides managed file systems such as Windows File Server, Lustre, NetApp ONTAP, and OpenZFS.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon FSx provides managed file systems such as Windows File Server, Lustre, NetApp ONTAP, and OpenZFS.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A ReferenceQueue receives reference objects after the garbage collector determines their referents reached the relevant reachability state.
+> **A ReferenceQueue receives reference objects after the garbage collector determines their referents reached the relevant reachability state.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reference queues** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. A ReferenceQueue receives reference objects after the garbage collector determines their referents reached the relevant reachability state.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A ReferenceQueue receives reference objects after the garbage collector determines their referents reached the relevant reachability state.
 
 ## 2. Execution Mechanics & Runtime Flow
 

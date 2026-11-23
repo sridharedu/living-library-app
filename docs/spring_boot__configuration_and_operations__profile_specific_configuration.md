@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Files such as application-prod.yml add or override configuration when a matching profile is active.
+> **Files such as application-prod.yml add or override configuration when a matching profile is active.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Profile-specific configuration** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. Files such as application-prod.yml add or override configuration when a matching profile is active.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Files such as application-prod.yml add or override configuration when a matching profile is active.
 
 ## 2. Execution Mechanics & Runtime Flow
 

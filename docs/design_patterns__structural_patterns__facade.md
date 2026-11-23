@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Facade provides a simplified entry point over a complex subsystem.
+> **Facade provides a simplified entry point over a complex subsystem.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Facade** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Facade provides a simplified entry point over a complex subsystem.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Facade provides a simplified entry point over a complex subsystem.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An idempotent pipeline can safely rerun the same input without creating duplicate outputs or repeated side effects.
+> **An idempotent pipeline can safely rerun the same input without creating duplicate outputs or repeated side effects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Idempotent pipelines** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. An idempotent pipeline can safely rerun the same input without creating duplicate outputs or repeated side effects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An idempotent pipeline can safely rerun the same input without creating duplicate outputs or repeated side effects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

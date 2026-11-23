@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An authority is a granted permission string. A role is a conventionally prefixed authority, often beginning with ROLE_.
+> **An authority is a granted permission string. A role is a conventionally prefixed authority, often beginning with ROLE_.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Role vs authority** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. An authority is a granted permission string. A role is a conventionally prefixed authority, often beginning with ROLE_.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An authority is a granted permission string. A role is a conventionally prefixed authority, often beginning with ROLE_.
 
 ## 2. Execution Mechanics & Runtime Flow
 

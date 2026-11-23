@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Try-with-resources automatically closes AutoCloseable resources in reverse order. It is safer than manual finally cleanup and preserves close failures as suppressed exceptions.
+> **Try-with-resources automatically closes AutoCloseable resources in reverse order. It is safer than manual finally cleanup and preserves close failures as suppressed exceptions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Try-with-resources** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Try-with-resources automatically closes AutoCloseable resources in reverse order. It is safer than manual finally cleanup and preserves close failures as suppressed exceptions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Try-with-resources automatically closes AutoCloseable resources in reverse order. It is safer than manual finally cleanup and preserves close failures as suppressed exceptions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

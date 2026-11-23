@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Generic varargs can cause heap pollution because the runtime array does not retain generic type information. @SafeVarargs is valid only when the method is truly safe.
+> **Generic varargs can cause heap pollution because the runtime array does not retain generic type information. @SafeVarargs is valid only when the method is truly safe.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Generic varargs** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. Generic varargs can cause heap pollution because the runtime array does not retain generic type information. @SafeVarargs is valid only when the method is truly safe.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Generic varargs can cause heap pollution because the runtime array does not retain generic type information. @SafeVarargs is valid only when the method is truly safe.
 
 ## 2. Execution Mechanics & Runtime Flow
 

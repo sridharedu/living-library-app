@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A saga breaks a business transaction into local transactions connected by events or commands, with compensations for failure.
+> **A saga breaks a business transaction into local transactions connected by events or commands, with compensations for failure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Saga pattern** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. A saga breaks a business transaction into local transactions connected by events or commands, with compensations for failure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A saga breaks a business transaction into local transactions connected by events or commands, with compensations for failure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

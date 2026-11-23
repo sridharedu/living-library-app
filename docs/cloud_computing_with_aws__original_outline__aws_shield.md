@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Shield protects applications from distributed denial-of-service attacks. Standard protection is automatic, while Shield Advanced adds stronger detection, support, and cost-protection features.
+> **AWS Shield protects applications from distributed denial-of-service attacks. Standard protection is automatic, while Shield Advanced adds stronger detection, support, and cost-protection features.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Shield** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS Shield protects applications from distributed denial-of-service attacks. Standard protection is automatic, while Shield Advanced adds stronger detection, support, and cost-protection features.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Shield protects applications from distributed denial-of-service attacks. Standard protection is automatic, while Shield Advanced adds stronger detection, support, and cost-protection features.
 
 ## 2. Execution Mechanics & Runtime Flow
 

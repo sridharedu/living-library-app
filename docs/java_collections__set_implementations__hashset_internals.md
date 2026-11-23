@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> HashSet stores elements as keys in a backing HashMap. Uniqueness depends on correct equals and hashCode implementations.
+> **HashSet stores elements as keys in a backing HashMap. Uniqueness depends on correct equals and hashCode implementations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**HashSet internals** serves as a foundational component within *Set Implementations* in the broader **Java Collections** ecosystem. HashSet stores elements as keys in a backing HashMap. Uniqueness depends on correct equals and hashCode implementations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+HashSet stores elements as keys in a backing HashMap. Uniqueness depends on correct equals and hashCode implementations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

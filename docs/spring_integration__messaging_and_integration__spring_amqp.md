@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring AMQP provides abstractions for AMQP messaging, especially RabbitMQ, including templates, listener containers, converters, and retry support.
+> **Spring AMQP provides abstractions for AMQP messaging, especially RabbitMQ, including templates, listener containers, converters, and retry support.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring AMQP** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Spring AMQP provides abstractions for AMQP messaging, especially RabbitMQ, including templates, listener containers, converters, and retry support.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring AMQP provides abstractions for AMQP messaging, especially RabbitMQ, including templates, listener containers, converters, and retry support.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A useful validation response includes a stable error code, field name, human-readable message, rejected context when safe, and correlation information.
+> **A useful validation response includes a stable error code, field name, human-readable message, rejected context when safe, and correlation information.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Validation error response design** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. A useful validation response includes a stable error code, field name, human-readable message, rejected context when safe, and correlation information.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A useful validation response includes a stable error code, field name, human-readable message, rejected context when safe, and correlation information.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java modules group packages with explicit dependencies and exported APIs. They improve encapsulation and reliable configuration.
+> **Java modules group packages with explicit dependencies and exported APIs. They improve encapsulation and reliable configuration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Java modules** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. Java modules group packages with explicit dependencies and exported APIs. They improve encapsulation and reliable configuration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java modules group packages with explicit dependencies and exported APIs. They improve encapsulation and reliable configuration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

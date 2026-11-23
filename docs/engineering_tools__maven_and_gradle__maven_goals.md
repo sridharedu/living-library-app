@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Maven goal is a specific plugin task that can be bound to a phase or invoked directly.
+> **A Maven goal is a specific plugin task that can be bound to a phase or invoked directly.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Maven goals** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. A Maven goal is a specific plugin task that can be bound to a phase or invoked directly.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Maven goal is a specific plugin task that can be bound to a phase or invoked directly.
 
 ## 2. Execution Mechanics & Runtime Flow
 

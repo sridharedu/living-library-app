@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Composite represents individual objects and groups through the same interface, enabling tree structures.
+> **Composite represents individual objects and groups through the same interface, enabling tree structures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Composite** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Composite represents individual objects and groups through the same interface, enabling tree structures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Composite represents individual objects and groups through the same interface, enabling tree structures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

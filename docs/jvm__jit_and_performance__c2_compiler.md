@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The C2 compiler performs aggressive optimizations for hot code, trading longer compilation time for stronger peak performance.
+> **The C2 compiler performs aggressive optimizations for hot code, trading longer compilation time for stronger peak performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**C2 compiler** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. The C2 compiler performs aggressive optimizations for hot code, trading longer compilation time for stronger peak performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The C2 compiler performs aggressive optimizations for hot code, trading longer compilation time for stronger peak performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

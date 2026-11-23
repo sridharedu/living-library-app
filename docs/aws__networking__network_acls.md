@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Network ACLs are stateless subnet-level allow and deny rules evaluated in numbered order.
+> **Network ACLs are stateless subnet-level allow and deny rules evaluated in numbered order.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Network ACLs** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. Network ACLs are stateless subnet-level allow and deny rules evaluated in numbered order.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Network ACLs are stateless subnet-level allow and deny rules evaluated in numbered order.
 
 ## 2. Execution Mechanics & Runtime Flow
 

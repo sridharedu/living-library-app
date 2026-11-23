@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> BiConsumer<T,U> accepts two values and returns nothing. It is useful for side effects such as processing map entries.
+> **BiConsumer<T,U> accepts two values and returns nothing. It is useful for side effects such as processing map entries.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**BiConsumer** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. BiConsumer<T,U> accepts two values and returns nothing. It is useful for side effects such as processing map entries.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+BiConsumer<T,U> accepts two values and returns nothing. It is useful for side effects such as processing map entries.
 
 ## 2. Execution Mechanics & Runtime Flow
 

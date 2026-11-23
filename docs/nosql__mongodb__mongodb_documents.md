@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> MongoDB stores BSON documents with nested objects and arrays, allowing flexible aggregate-oriented models.
+> **MongoDB stores BSON documents with nested objects and arrays, allowing flexible aggregate-oriented models.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**MongoDB documents** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. MongoDB stores BSON documents with nested objects and arrays, allowing flexible aggregate-oriented models.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+MongoDB stores BSON documents with nested objects and arrays, allowing flexible aggregate-oriented models.
 
 ## 2. Execution Mechanics & Runtime Flow
 

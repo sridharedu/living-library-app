@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A custom class loader controls how classes are located and defined. It is used in plugin systems, containers, isolation, and hot deployment.
+> **A custom class loader controls how classes are located and defined. It is used in plugin systems, containers, isolation, and hot deployment.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Custom class loaders** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. A custom class loader controls how classes are located and defined. It is used in plugin systems, containers, isolation, and hot deployment.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A custom class loader controls how classes are located and defined. It is used in plugin systems, containers, isolation, and hot deployment.
 
 ## 2. Execution Mechanics & Runtime Flow
 

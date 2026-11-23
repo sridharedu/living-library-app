@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Object storage keeps data as objects identified by keys and is optimized for durability, scale, and large unstructured content.
+> **Object storage keeps data as objects identified by keys and is optimized for durability, scale, and large unstructured content.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Object storage** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Object storage keeps data as objects identified by keys and is optimized for durability, scale, and large unstructured content.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Object storage keeps data as objects identified by keys and is optimized for durability, scale, and large unstructured content.
 
 ## 2. Execution Mechanics & Runtime Flow
 

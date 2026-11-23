@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Soak testing runs a realistic workload for an extended period to expose memory leaks, resource exhaustion, and gradual degradation.
+> **Soak testing runs a realistic workload for an extended period to expose memory leaks, resource exhaustion, and gradual degradation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Soak testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Soak testing runs a realistic workload for an extended period to expose memory leaks, resource exhaustion, and gradual degradation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Soak testing runs a realistic workload for an extended period to expose memory leaks, resource exhaustion, and gradual degradation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

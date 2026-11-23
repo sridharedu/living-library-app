@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ConfigMaps store non-secret configuration as key-value data or files and can be mounted or exposed as environment variables.
+> **ConfigMaps store non-secret configuration as key-value data or files and can be mounted or exposed as environment variables.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ConfigMaps** serves as a foundational component within *Configuration and Storage* in the broader **Kubernetes** ecosystem. ConfigMaps store non-secret configuration as key-value data or files and can be mounted or exposed as environment variables.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ConfigMaps store non-secret configuration as key-value data or files and can be mounted or exposed as environment variables.
 
 ## 2. Execution Mechanics & Runtime Flow
 

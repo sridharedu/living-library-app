@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Replay strategies define how historical events are reprocessed safely, including offsets, rate limits, idempotency, and side-effect control.
+> **Replay strategies define how historical events are reprocessed safely, including offsets, rate limits, idempotency, and side-effect control.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Replay strategies** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Replay strategies define how historical events are reprocessed safely, including offsets, rate limits, idempotency, and side-effect control.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Replay strategies define how historical events are reprocessed safely, including offsets, rate limits, idempotency, and side-effect control.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Distributed transactions coordinate changes across multiple resources or services. They are expensive and often replaced by sagas or event-driven consistency.
+> **Distributed transactions coordinate changes across multiple resources or services. They are expensive and often replaced by sagas or event-driven consistency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Distributed transactions** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. Distributed transactions coordinate changes across multiple resources or services. They are expensive and often replaced by sagas or event-driven consistency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Distributed transactions coordinate changes across multiple resources or services. They are expensive and often replaced by sagas or event-driven consistency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

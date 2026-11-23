@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @SpringBootTest loads a broad Spring Boot application context for end-to-end integration testing within the application boundary.
+> **@SpringBootTest loads a broad Spring Boot application context for end-to-end integration testing within the application boundary.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring Boot Test** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. @SpringBootTest loads a broad Spring Boot application context for end-to-end integration testing within the application boundary.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@SpringBootTest loads a broad Spring Boot application context for end-to-end integration testing within the application boundary.
 
 ## 2. Execution Mechanics & Runtime Flow
 

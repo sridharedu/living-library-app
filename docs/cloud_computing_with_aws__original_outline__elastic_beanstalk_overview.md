@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Elastic Beanstalk is a managed application platform for deploying code to environments built from EC2, load balancers, scaling groups, and supporting services.
+> **Elastic Beanstalk is a managed application platform for deploying code to environments built from EC2, load balancers, scaling groups, and supporting services.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Elastic Beanstalk Overview** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Elastic Beanstalk is a managed application platform for deploying code to environments built from EC2, load balancers, scaling groups, and supporting services.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Elastic Beanstalk is a managed application platform for deploying code to environments built from EC2, load balancers, scaling groups, and supporting services.
 
 ## 2. Execution Mechanics & Runtime Flow
 

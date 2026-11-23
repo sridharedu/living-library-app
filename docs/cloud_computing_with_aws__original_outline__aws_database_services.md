@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS provides managed relational, key-value, document, graph, time-series, cache, and warehouse databases. Selection should follow access patterns and consistency requirements.
+> **AWS provides managed relational, key-value, document, graph, time-series, cache, and warehouse databases. Selection should follow access patterns and consistency requirements.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Database Services** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS provides managed relational, key-value, document, graph, time-series, cache, and warehouse databases. Selection should follow access patterns and consistency requirements.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS provides managed relational, key-value, document, graph, time-series, cache, and warehouse databases. Selection should follow access patterns and consistency requirements.
 
 ## 2. Execution Mechanics & Runtime Flow
 

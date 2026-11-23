@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A custom starter packages reusable dependencies, auto-configuration, metadata, and defaults for organization-specific capabilities.
+> **A custom starter packages reusable dependencies, auto-configuration, metadata, and defaults for organization-specific capabilities.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Custom starter** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. A custom starter packages reusable dependencies, auto-configuration, metadata, and defaults for organization-specific capabilities.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A custom starter packages reusable dependencies, auto-configuration, metadata, and defaults for organization-specific capabilities.
 
 ## 2. Execution Mechanics & Runtime Flow
 

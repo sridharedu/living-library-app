@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An anti-corruption layer translates between external models and the local domain model so outside concepts do not leak inward.
+> **An anti-corruption layer translates between external models and the local domain model so outside concepts do not leak inward.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Anti-corruption layer** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. An anti-corruption layer translates between external models and the local domain model so outside concepts do not leak inward.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An anti-corruption layer translates between external models and the local domain model so outside concepts do not leak inward.
 
 ## 2. Execution Mechanics & Runtime Flow
 

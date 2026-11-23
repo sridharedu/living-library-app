@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Retry repeats a failed operation when the failure is likely transient. It requires limits, backoff, jitter, and idempotency.
+> **Retry repeats a failed operation when the failure is likely transient. It requires limits, backoff, jitter, and idempotency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Retry** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. Retry repeats a failed operation when the failure is likely transient. It requires limits, backoff, jitter, and idempotency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Retry repeats a failed operation when the failure is likely transient. It requires limits, backoff, jitter, and idempotency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

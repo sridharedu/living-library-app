@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cardinality estimation predicts how many rows each plan operator will produce. Poor estimates often lead to poor plans.
+> **Cardinality estimation predicts how many rows each plan operator will produce. Poor estimates often lead to poor plans.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cardinality estimation** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Cardinality estimation predicts how many rows each plan operator will produce. Poor estimates often lead to poor plans.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cardinality estimation predicts how many rows each plan operator will produce. Poor estimates often lead to poor plans.
 
 ## 2. Execution Mechanics & Runtime Flow
 

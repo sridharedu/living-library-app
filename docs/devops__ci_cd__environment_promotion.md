@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Environment promotion moves the same immutable artifact through test, staging, and production with environment-specific configuration.
+> **Environment promotion moves the same immutable artifact through test, staging, and production with environment-specific configuration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Environment promotion** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Environment promotion moves the same immutable artifact through test, staging, and production with environment-specific configuration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Environment promotion moves the same immutable artifact through test, staging, and production with environment-specific configuration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Collections can be sorted using natural ordering or an explicit comparator. Sorting requires a consistent comparison rule and generally costs O(n log n).
+> **Collections can be sorted using natural ordering or an explicit comparator. Sorting requires a consistent comparison rule and generally costs O(n log n).**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Sorting Collections** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Collections can be sorted using natural ordering or an explicit comparator. Sorting requires a consistent comparison rule and generally costs O(n log n).
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Collections can be sorted using natural ordering or an explicit comparator. Sorting requires a consistent comparison rule and generally costs O(n log n).
 
 ## 2. Execution Mechanics & Runtime Flow
 

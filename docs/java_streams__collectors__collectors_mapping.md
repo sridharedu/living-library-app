@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> mapping transforms elements before passing them to a downstream collector.
+> **mapping transforms elements before passing them to a downstream collector.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collectors.mapping** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. mapping transforms elements before passing them to a downstream collector.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+mapping transforms elements before passing them to a downstream collector.
 
 ## 2. Execution Mechanics & Runtime Flow
 

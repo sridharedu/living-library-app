@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Grafana Tempo is a distributed tracing backend optimized for storing and querying large trace volumes.
+> **Grafana Tempo is a distributed tracing backend optimized for storing and querying large trace volumes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Tempo** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Grafana Tempo is a distributed tracing backend optimized for storing and querying large trace volumes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Grafana Tempo is a distributed tracing backend optimized for storing and querying large trace volumes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

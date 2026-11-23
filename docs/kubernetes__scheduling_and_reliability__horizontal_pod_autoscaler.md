@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Horizontal Pod Autoscaler changes replica count based on metrics such as CPU, memory, or custom signals.
+> **The Horizontal Pod Autoscaler changes replica count based on metrics such as CPU, memory, or custom signals.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Horizontal Pod Autoscaler** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. The Horizontal Pod Autoscaler changes replica count based on metrics such as CPU, memory, or custom signals.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Horizontal Pod Autoscaler changes replica count based on metrics such as CPU, memory, or custom signals.
 
 ## 2. Execution Mechanics & Runtime Flow
 

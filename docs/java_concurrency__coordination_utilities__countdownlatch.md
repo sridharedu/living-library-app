@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CountDownLatch lets threads wait until a fixed number of events complete. It is one-use and cannot be reset.
+> **CountDownLatch lets threads wait until a fixed number of events complete. It is one-use and cannot be reset.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CountDownLatch** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. CountDownLatch lets threads wait until a fixed number of events complete. It is one-use and cannot be reset.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CountDownLatch lets threads wait until a fixed number of events complete. It is one-use and cannot be reset.
 
 ## 2. Execution Mechanics & Runtime Flow
 

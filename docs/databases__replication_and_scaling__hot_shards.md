@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A hot shard receives disproportionate load because of skewed keys, popular tenants, or time-based writes.
+> **A hot shard receives disproportionate load because of skewed keys, popular tenants, or time-based writes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hot shards** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. A hot shard receives disproportionate load because of skewed keys, popular tenants, or time-based writes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A hot shard receives disproportionate load because of skewed keys, popular tenants, or time-based writes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

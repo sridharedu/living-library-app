@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Time to live defines how long a cached or stored item remains valid before expiring.
+> **Time to live defines how long a cached or stored item remains valid before expiring.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**TTL** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. Time to live defines how long a cached or stored item remains valid before expiring.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Time to live defines how long a cached or stored item remains valid before expiring.
 
 ## 2. Execution Mechanics & Runtime Flow
 

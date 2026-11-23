@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Search engines build inverted indexes and ranking structures for fast full-text and analytical queries.
+> **Search engines build inverted indexes and ranking structures for fast full-text and analytical queries.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Search engines** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Search engines build inverted indexes and ranking structures for fast full-text and analytical queries.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Search engines build inverted indexes and ranking structures for fast full-text and analytical queries.
 
 ## 2. Execution Mechanics & Runtime Flow
 

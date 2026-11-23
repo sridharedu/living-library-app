@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> XML configuration declares beans and wiring outside compiled code. It remains useful in legacy systems, but is more verbose and less refactor-safe than annotations or Java configuration.
+> **XML configuration declares beans and wiring outside compiled code. It remains useful in legacy systems, but is more verbose and less refactor-safe than annotations or Java configuration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**XML-based Configuration** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. XML configuration declares beans and wiring outside compiled code. It remains useful in legacy systems, but is more verbose and less refactor-safe than annotations or Java configuration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+XML configuration declares beans and wiring outside compiled code. It remains useful in legacy systems, but is more verbose and less refactor-safe than annotations or Java configuration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

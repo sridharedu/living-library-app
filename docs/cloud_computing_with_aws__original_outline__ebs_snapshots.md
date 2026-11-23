@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> EBS snapshots are incremental point-in-time backups stored by AWS. They support volume recovery, cloning, cross-account sharing, and regional disaster-recovery workflows.
+> **EBS snapshots are incremental point-in-time backups stored by AWS. They support volume recovery, cloning, cross-account sharing, and regional disaster-recovery workflows.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**EBS Snapshots** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. EBS snapshots are incremental point-in-time backups stored by AWS. They support volume recovery, cloning, cross-account sharing, and regional disaster-recovery workflows.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+EBS snapshots are incremental point-in-time backups stored by AWS. They support volume recovery, cloning, cross-account sharing, and regional disaster-recovery workflows.
 
 ## 2. Execution Mechanics & Runtime Flow
 

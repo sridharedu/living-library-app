@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Discovery removes hard-coded endpoints, supports elastic scaling and failover, and simplifies dynamic environments. It must still be paired with health checks and load balancing.
+> **Discovery removes hard-coded endpoints, supports elastic scaling and failover, and simplifies dynamic environments. It must still be paired with health checks and load balancing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Benefits of Service Discovery** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Discovery removes hard-coded endpoints, supports elastic scaling and failover, and simplifies dynamic environments. It must still be paired with health checks and load balancing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Discovery removes hard-coded endpoints, supports elastic scaling and failover, and simplifies dynamic environments. It must still be paired with health checks and load balancing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

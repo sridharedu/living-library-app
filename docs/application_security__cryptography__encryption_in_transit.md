@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Encryption in transit protects data while it moves across networks, usually through TLS.
+> **Encryption in transit protects data while it moves across networks, usually through TLS.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Encryption in transit** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Encryption in transit protects data while it moves across networks, usually through TLS.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Encryption in transit protects data while it moves across networks, usually through TLS.
 
 ## 2. Execution Mechanics & Runtime Flow
 

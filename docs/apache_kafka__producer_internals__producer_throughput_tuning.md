@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Producer throughput improves with larger batches, modest linger, compression, enough buffer memory, and parallel partitions, while latency and durability requirements set limits.
+> **Producer throughput improves with larger batches, modest linger, compression, enough buffer memory, and parallel partitions, while latency and durability requirements set limits.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Producer throughput tuning** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. Producer throughput improves with larger batches, modest linger, compression, enough buffer memory, and parallel partitions, while latency and durability requirements set limits.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Producer throughput improves with larger batches, modest linger, compression, enough buffer memory, and parallel partitions, while latency and durability requirements set limits.
 
 ## 2. Execution Mechanics & Runtime Flow
 

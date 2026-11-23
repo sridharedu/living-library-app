@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Wide-column stores support sparse rows with many dynamic columns, commonly organized by partition and clustering keys.
+> **Wide-column stores support sparse rows with many dynamic columns, commonly organized by partition and clustering keys.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Wide-column stores** serves as a foundational component within *NoSQL Fundamentals* in the broader **NoSQL** ecosystem. Wide-column stores support sparse rows with many dynamic columns, commonly organized by partition and clustering keys.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Wide-column stores support sparse rows with many dynamic columns, commonly organized by partition and clustering keys.
 
 ## 2. Execution Mechanics & Runtime Flow
 

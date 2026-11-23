@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Polymorphism allows the same interface or parent reference to represent different concrete implementations. The method that runs is selected at runtime based on the actual object.
+> **Polymorphism allows the same interface or parent reference to represent different concrete implementations. The method that runs is selected at runtime based on the actual object.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Polymorphism** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Polymorphism allows the same interface or parent reference to represent different concrete implementations. The method that runs is selected at runtime based on the actual object.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Polymorphism allows the same interface or parent reference to represent different concrete implementations. The method that runs is selected at runtime based on the actual object.
 
 ## 2. Execution Mechanics & Runtime Flow
 

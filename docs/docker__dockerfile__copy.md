@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> COPY transfers files or directories from the build context into the image.
+> **COPY transfers files or directories from the build context into the image.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**COPY** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. COPY transfers files or directories from the build context into the image.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+COPY transfers files or directories from the build context into the image.
 
 ## 2. Execution Mechanics & Runtime Flow
 

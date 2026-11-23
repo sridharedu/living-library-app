@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS edge locations serve content and network services closer to users through offerings such as CloudFront and Route 53.
+> **AWS edge locations serve content and network services closer to users through offerings such as CloudFront and Route 53.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Edge locations** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. AWS edge locations serve content and network services closer to users through offerings such as CloudFront and Route 53.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS edge locations serve content and network services closer to users through offerings such as CloudFront and Route 53.
 
 ## 2. Execution Mechanics & Runtime Flow
 

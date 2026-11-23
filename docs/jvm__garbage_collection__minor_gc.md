@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Minor GC collects the young generation and is usually frequent and relatively short.
+> **Minor GC collects the young generation and is usually frequent and relatively short.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Minor GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Minor GC collects the young generation and is usually frequent and relatively short.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Minor GC collects the young generation and is usually frequent and relatively short.
 
 ## 2. Execution Mechanics & Runtime Flow
 

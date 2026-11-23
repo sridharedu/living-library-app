@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> PromQL is Prometheus' query language for filtering, aggregating, joining, and calculating over time-series data.
+> **PromQL is Prometheus' query language for filtering, aggregating, joining, and calculating over time-series data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**PromQL** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. PromQL is Prometheus' query language for filtering, aggregating, joining, and calculating over time-series data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+PromQL is Prometheus' query language for filtering, aggregating, joining, and calculating over time-series data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

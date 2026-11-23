@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mockito verification checks whether a collaborator was called with expected arguments and frequency.
+> **Mockito verification checks whether a collaborator was called with expected arguments and frequency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Verification** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Mockito verification checks whether a collaborator was called with expected arguments and frequency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mockito verification checks whether a collaborator was called with expected arguments and frequency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

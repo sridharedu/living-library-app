@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Iteration is the controlled traversal of collection elements. Iterators hide internal structure and provide a consistent way to read or safely remove elements while traversing.
+> **Iteration is the controlled traversal of collection elements. Iterators hide internal structure and provide a consistent way to read or safely remove elements while traversing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Iterators and Iteration** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Iteration is the controlled traversal of collection elements. Iterators hide internal structure and provide a consistent way to read or safely remove elements while traversing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Iteration is the controlled traversal of collection elements. Iterators hide internal structure and provide a consistent way to read or safely remove elements while traversing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

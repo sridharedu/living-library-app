@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A lambda has parameters, an arrow, and an expression or block body. Types and parentheses may be omitted when the compiler can infer them.
+> **A lambda has parameters, an arrow, and an expression or block body. Types and parentheses may be omitted when the compiler can infer them.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lambda syntax** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. A lambda has parameters, an arrow, and an expression or block body. Types and parentheses may be omitted when the compiler can infer them.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A lambda has parameters, an arrow, and an expression or block body. Types and parentheses may be omitted when the compiler can infer them.
 
 ## 2. Execution Mechanics & Runtime Flow
 

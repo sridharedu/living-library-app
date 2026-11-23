@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cherry-pick applies the change introduced by selected commits onto the current branch.
+> **Cherry-pick applies the change introduced by selected commits onto the current branch.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cherry-pick** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Cherry-pick applies the change introduced by selected commits onto the current branch.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cherry-pick applies the change introduced by selected commits onto the current branch.
 
 ## 2. Execution Mechanics & Runtime Flow
 

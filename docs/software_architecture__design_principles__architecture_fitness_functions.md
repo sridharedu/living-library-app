@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Architecture fitness functions are automated checks that verify qualities such as dependency rules, latency, security, or resilience over time.
+> **Architecture fitness functions are automated checks that verify qualities such as dependency rules, latency, security, or resilience over time.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Architecture fitness functions** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Architecture fitness functions are automated checks that verify qualities such as dependency rules, latency, security, or resilience over time.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Architecture fitness functions are automated checks that verify qualities such as dependency rules, latency, security, or resilience over time.
 
 ## 2. Execution Mechanics & Runtime Flow
 

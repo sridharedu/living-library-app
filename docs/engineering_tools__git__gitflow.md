@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> GitFlow uses long-lived main and develop branches plus feature, release, and hotfix branches, adding structure but also merge overhead.
+> **GitFlow uses long-lived main and develop branches plus feature, release, and hotfix branches, adding structure but also merge overhead.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**GitFlow** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. GitFlow uses long-lived main and develop branches plus feature, release, and hotfix branches, adding structure but also merge overhead.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+GitFlow uses long-lived main and develop branches plus feature, release, and hotfix branches, adding structure but also merge overhead.
 
 ## 2. Execution Mechanics & Runtime Flow
 

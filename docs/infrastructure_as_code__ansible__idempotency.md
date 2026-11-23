@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An idempotent Ansible task makes a change only when the target differs from the desired state.
+> **An idempotent Ansible task makes a change only when the target differs from the desired state.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Idempotency** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. An idempotent Ansible task makes a change only when the target differs from the desired state.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An idempotent Ansible task makes a change only when the target differs from the desired state.
 
 ## 2. Execution Mechanics & Runtime Flow
 

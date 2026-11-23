@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Partitioning divides data into logical pieces, often within one database system. Sharding distributes those pieces across separate database nodes or clusters.
+> **Partitioning divides data into logical pieces, often within one database system. Sharding distributes those pieces across separate database nodes or clusters.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Sharding vs Partitioning** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Partitioning divides data into logical pieces, often within one database system. Sharding distributes those pieces across separate database nodes or clusters.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Partitioning divides data into logical pieces, often within one database system. Sharding distributes those pieces across separate database nodes or clusters.
 
 ## 2. Execution Mechanics & Runtime Flow
 

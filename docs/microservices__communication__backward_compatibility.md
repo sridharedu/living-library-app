@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A change is backward compatible when existing consumers continue to function without modification.
+> **A change is backward compatible when existing consumers continue to function without modification.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Backward compatibility** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. A change is backward compatible when existing consumers continue to function without modification.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A change is backward compatible when existing consumers continue to function without modification.
 
 ## 2. Execution Mechanics & Runtime Flow
 

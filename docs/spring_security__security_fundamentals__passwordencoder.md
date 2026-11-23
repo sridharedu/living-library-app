@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> PasswordEncoder hashes and verifies passwords using adaptive algorithms such as BCrypt, PBKDF2, scrypt, or Argon2.
+> **PasswordEncoder hashes and verifies passwords using adaptive algorithms such as BCrypt, PBKDF2, scrypt, or Argon2.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**PasswordEncoder** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. PasswordEncoder hashes and verifies passwords using adaptive algorithms such as BCrypt, PBKDF2, scrypt, or Argon2.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+PasswordEncoder hashes and verifies passwords using adaptive algorithms such as BCrypt, PBKDF2, scrypt, or Argon2.
 
 ## 2. Execution Mechanics & Runtime Flow
 

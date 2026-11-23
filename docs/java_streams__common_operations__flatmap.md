@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> flatMap transforms each element into a stream and flattens the nested streams into one sequence.
+> **flatMap transforms each element into a stream and flattens the nested streams into one sequence.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**flatMap** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. flatMap transforms each element into a stream and flattens the nested streams into one sequence.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+flatMap transforms each element into a stream and flattens the nested streams into one sequence.
 
 ## 2. Execution Mechanics & Runtime Flow
 

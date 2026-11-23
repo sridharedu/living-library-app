@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Chain of Responsibility passes a request through handlers until one processes it or the chain ends.
+> **Chain of Responsibility passes a request through handlers until one processes it or the chain ends.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Chain of Responsibility** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Chain of Responsibility passes a request through handlers until one processes it or the chain ends.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Chain of Responsibility passes a request through handlers until one processes it or the chain ends.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Resilience4j provides lightweight Java implementations of circuit breaker, retry, rate limiter, bulkhead, timeout, and cache patterns.
+> **Resilience4j provides lightweight Java implementations of circuit breaker, retry, rate limiter, bulkhead, timeout, and cache patterns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Resilience4j** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. Resilience4j provides lightweight Java implementations of circuit breaker, retry, rate limiter, bulkhead, timeout, and cache patterns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Resilience4j provides lightweight Java implementations of circuit breaker, retry, rate limiter, bulkhead, timeout, and cache patterns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

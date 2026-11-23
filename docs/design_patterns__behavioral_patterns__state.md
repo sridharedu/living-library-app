@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> State lets an object change behavior when its internal state changes by delegating to state-specific implementations.
+> **State lets an object change behavior when its internal state changes by delegating to state-specific implementations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**State** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. State lets an object change behavior when its internal state changes by delegating to state-specific implementations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+State lets an object change behavior when its internal state changes by delegating to state-specific implementations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

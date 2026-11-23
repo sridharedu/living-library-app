@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ArrayList uses a resizable array, giving fast indexed reads and efficient appends. Insertions or removals in the middle are more expensive because later elements must be shifted.
+> **ArrayList uses a resizable array, giving fast indexed reads and efficient appends. Insertions or removals in the middle are more expensive because later elements must be shifted.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ArrayList** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. ArrayList uses a resizable array, giving fast indexed reads and efficient appends. Insertions or removals in the middle are more expensive because later elements must be shifted.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ArrayList uses a resizable array, giving fast indexed reads and efficient appends. Insertions or removals in the middle are more expensive because later elements must be shifted.
 
 ## 2. Execution Mechanics & Runtime Flow
 

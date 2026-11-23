@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> HandlerMapping selects the controller method or handler that should process an incoming Spring MVC request.
+> **HandlerMapping selects the controller method or handler that should process an incoming Spring MVC request.**
 
 ---
 

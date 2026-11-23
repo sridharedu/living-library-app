@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JpaRepository extends repository abstractions with JPA-specific operations such as flush, batch deletion, and entity references.
+> **JpaRepository extends repository abstractions with JPA-specific operations such as flush, batch deletion, and entity references.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JpaRepository** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. JpaRepository extends repository abstractions with JPA-specific operations such as flush, batch deletion, and entity references.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JpaRepository extends repository abstractions with JPA-specific operations such as flush, batch deletion, and entity references.
 
 ## 2. Execution Mechanics & Runtime Flow
 

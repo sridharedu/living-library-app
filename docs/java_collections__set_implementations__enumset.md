@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> EnumSet is a compact, high-performance set implementation for enum values, internally represented with bit vectors.
+> **EnumSet is a compact, high-performance set implementation for enum values, internally represented with bit vectors.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**EnumSet** serves as a foundational component within *Set Implementations* in the broader **Java Collections** ecosystem. EnumSet is a compact, high-performance set implementation for enum values, internally represented with bit vectors.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+EnumSet is a compact, high-performance set implementation for enum values, internally represented with bit vectors.
 
 ## 2. Execution Mechanics & Runtime Flow
 

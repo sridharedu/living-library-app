@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> EXPOSE documents an intended container port, while port publishing maps a host port to a container port. Publishing is what makes the service reachable from outside the Docker network.
+> **EXPOSE documents an intended container port, while port publishing maps a host port to a container port. Publishing is what makes the service reachable from outside the Docker network.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Port Mapping and Exposing Ports** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. EXPOSE documents an intended container port, while port publishing maps a host port to a container port. Publishing is what makes the service reachable from outside the Docker network.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+EXPOSE documents an intended container port, while port publishing maps a host port to a container port. Publishing is what makes the service reachable from outside the Docker network.
 
 ## 2. Execution Mechanics & Runtime Flow
 

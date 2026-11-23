@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The inbox pattern records processed message IDs or incoming events so consumers can handle redelivery idempotently.
+> **The inbox pattern records processed message IDs or incoming events so consumers can handle redelivery idempotently.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Inbox pattern** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. The inbox pattern records processed message IDs or incoming events so consumers can handle redelivery idempotently.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The inbox pattern records processed message IDs or incoming events so consumers can handle redelivery idempotently.
 
 ## 2. Execution Mechanics & Runtime Flow
 

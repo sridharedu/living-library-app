@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Message ordering usually depends on one queue or partition and can be broken by concurrency, retries, or redelivery.
+> **Message ordering usually depends on one queue or partition and can be broken by concurrency, retries, or redelivery.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Message ordering** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Message ordering usually depends on one queue or partition and can be broken by concurrency, retries, or redelivery.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Message ordering usually depends on one queue or partition and can be broken by concurrency, retries, or redelivery.
 
 ## 2. Execution Mechanics & Runtime Flow
 

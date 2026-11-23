@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> KRaft is Kafka's built-in Raft-based metadata quorum that replaces ZooKeeper.
+> **KRaft is Kafka's built-in Raft-based metadata quorum that replaces ZooKeeper.**
 
 ---
 

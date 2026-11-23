@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Peer-to-peer replication lets nodes exchange changes without a single permanent primary. It requires careful conflict and consistency handling.
+> **Peer-to-peer replication lets nodes exchange changes without a single permanent primary. It requires careful conflict and consistency handling.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Peer-to-Peer Replication** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Peer-to-peer replication lets nodes exchange changes without a single permanent primary. It requires careful conflict and consistency handling.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Peer-to-peer replication lets nodes exchange changes without a single permanent primary. It requires careful conflict and consistency handling.
 
 ## 2. Execution Mechanics & Runtime Flow
 

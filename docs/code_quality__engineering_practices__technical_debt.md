@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Technical debt is the future cost created by expedient design, code, or operational decisions that require later correction.
+> **Technical debt is the future cost created by expedient design, code, or operational decisions that require later correction.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Technical debt** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Technical debt is the future cost created by expedient design, code, or operational decisions that require later correction.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Technical debt is the future cost created by expedient design, code, or operational decisions that require later correction.
 
 ## 2. Execution Mechanics & Runtime Flow
 

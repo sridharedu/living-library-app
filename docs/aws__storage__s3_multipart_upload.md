@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Multipart upload sends a large object in independent parts that can be uploaded concurrently and retried separately.
+> **Multipart upload sends a large object in independent parts that can be uploaded concurrently and retried separately.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**S3 multipart upload** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. Multipart upload sends a large object in independent parts that can be uploaded concurrently and retried separately.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Multipart upload sends a large object in independent parts that can be uploaded concurrently and retried separately.
 
 ## 2. Execution Mechanics & Runtime Flow
 

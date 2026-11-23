@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Performance Efficiency focuses on selecting and evolving resources that meet demand efficiently.
+> **Performance Efficiency focuses on selecting and evolving resources that meet demand efficiently.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Performance Efficiency pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. Performance Efficiency focuses on selecting and evolving resources that meet demand efficiently.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Performance Efficiency focuses on selecting and evolving resources that meet demand efficiently.
 
 ## 2. Execution Mechanics & Runtime Flow
 

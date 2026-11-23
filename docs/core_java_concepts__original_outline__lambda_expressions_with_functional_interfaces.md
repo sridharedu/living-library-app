@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A lambda provides a compact implementation of a functional interface's single abstract method. The compiler infers the target interface from the surrounding assignment or method parameter.
+> **A lambda provides a compact implementation of a functional interface's single abstract method. The compiler infers the target interface from the surrounding assignment or method parameter.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lambda Expressions with Functional Interfaces** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. A lambda provides a compact implementation of a functional interface's single abstract method. The compiler infers the target interface from the surrounding assignment or method parameter.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A lambda provides a compact implementation of a functional interface's single abstract method. The compiler infers the target interface from the surrounding assignment or method parameter.
 
 ## 2. Execution Mechanics & Runtime Flow
 

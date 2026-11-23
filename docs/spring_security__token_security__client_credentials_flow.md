@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The client credentials grant issues an access token directly to a trusted machine client acting on its own behalf.
+> **The client credentials grant issues an access token directly to a trusted machine client acting on its own behalf.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Client credentials flow** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. The client credentials grant issues an access token directly to a trusted machine client acting on its own behalf.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The client credentials grant issues an access token directly to a trusted machine client acting on its own behalf.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A sharding key decides how rows are distributed across shards. A good key spreads traffic evenly, supports common queries, and avoids hot partitions.
+> **A sharding key decides how rows are distributed across shards. A good key spreads traffic evenly, supports common queries, and avoids hot partitions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Sharding Key Selection** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. A sharding key decides how rows are distributed across shards. A good key spreads traffic evenly, supports common queries, and avoids hot partitions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A sharding key decides how rows are distributed across shards. A good key spreads traffic evenly, supports common queries, and avoids hot partitions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

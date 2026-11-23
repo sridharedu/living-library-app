@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> RUN executes a command while building an image and commits the resulting filesystem changes into a layer.
+> **RUN executes a command while building an image and commits the resulting filesystem changes into a layer.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RUN** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. RUN executes a command while building an image and commits the resulting filesystem changes into a layer.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+RUN executes a command while building an image and commits the resulting filesystem changes into a layer.
 
 ## 2. Execution Mechanics & Runtime Flow
 

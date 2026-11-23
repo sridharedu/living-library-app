@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Encryption at rest protects stored data on disks, databases, backups, and object storage.
+> **Encryption at rest protects stored data on disks, databases, backups, and object storage.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Encryption at rest** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Encryption at rest protects stored data on disks, databases, backups, and object storage.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Encryption at rest protects stored data on disks, databases, backups, and object storage.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Code reviews improve correctness, design, security, and shared understanding. Effective reviews focus on risk and intent, not personal preference.
+> **Code reviews improve correctness, design, security, and shared understanding. Effective reviews focus on risk and intent, not personal preference.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Code Reviews** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Code reviews improve correctness, design, security, and shared understanding. Effective reviews focus on risk and intent, not personal preference.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Code reviews improve correctness, design, security, and shared understanding. Effective reviews focus on risk and intent, not personal preference.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Encapsulation keeps an object's data and behavior together while controlling access through methods. It protects invariants, reduces accidental misuse, and allows the internal implementation to change safely.
+> **Encapsulation keeps an object's data and behavior together while controlling access through methods. It protects invariants, reduces accidental misuse, and allows the internal implementation to change safely.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Encapsulation** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Encapsulation keeps an object's data and behavior together while controlling access through methods. It protects invariants, reduces accidental misuse, and allows the internal implementation to change safely.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Encapsulation keeps an object's data and behavior together while controlling access through methods. It protects invariants, reduces accidental misuse, and allows the internal implementation to change safely.
 
 ## 2. Execution Mechanics & Runtime Flow
 

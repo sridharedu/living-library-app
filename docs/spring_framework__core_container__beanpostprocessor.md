@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> BeanPostProcessor can inspect or wrap bean instances before and after initialization. Spring uses it for proxies and annotation processing.
+> **BeanPostProcessor can inspect or wrap bean instances before and after initialization. Spring uses it for proxies and annotation processing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**BeanPostProcessor** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. BeanPostProcessor can inspect or wrap bean instances before and after initialization. Spring uses it for proxies and annotation processing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+BeanPostProcessor can inspect or wrap bean instances before and after initialization. Spring uses it for proxies and annotation processing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

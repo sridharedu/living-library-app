@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> REST constraints include client-server separation, statelessness, cacheability, a uniform interface, layered systems, and optional code on demand.
+> **REST constraints include client-server separation, statelessness, cacheability, a uniform interface, layered systems, and optional code on demand.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**REST constraints** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. REST constraints include client-server separation, statelessness, cacheability, a uniform interface, layered systems, and optional code on demand.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+REST constraints include client-server separation, statelessness, cacheability, a uniform interface, layered systems, and optional code on demand.
 
 ## 2. Execution Mechanics & Runtime Flow
 

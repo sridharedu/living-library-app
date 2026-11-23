@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Code coverage measures which lines, branches, or methods tests execute. It is a gap indicator, not proof of test quality.
+> **Code coverage measures which lines, branches, or methods tests execute. It is a gap indicator, not proof of test quality.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Code coverage** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Code coverage measures which lines, branches, or methods tests execute. It is a gap indicator, not proof of test quality.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Code coverage measures which lines, branches, or methods tests execute. It is a gap indicator, not proof of test quality.
 
 ## 2. Execution Mechanics & Runtime Flow
 

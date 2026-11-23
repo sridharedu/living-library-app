@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ENV defines environment variables available during later build steps and at container runtime.
+> **ENV defines environment variables available during later build steps and at container runtime.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ENV** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. ENV defines environment variables available during later build steps and at container runtime.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ENV defines environment variables available during later build steps and at container runtime.
 
 ## 2. Execution Mechanics & Runtime Flow
 

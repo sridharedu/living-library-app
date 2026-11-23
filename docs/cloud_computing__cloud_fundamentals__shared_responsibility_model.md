@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The cloud provider secures the underlying cloud, while customers secure their data, identities, configurations, workloads, and access according to the service model.
+> **The cloud provider secures the underlying cloud, while customers secure their data, identities, configurations, workloads, and access according to the service model.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Shared responsibility model** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. The cloud provider secures the underlying cloud, while customers secure their data, identities, configurations, workloads, and access according to the service model.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The cloud provider secures the underlying cloud, while customers secure their data, identities, configurations, workloads, and access according to the service model.
 
 ## 2. Execution Mechanics & Runtime Flow
 

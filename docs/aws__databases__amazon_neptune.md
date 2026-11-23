@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon Neptune is a managed graph database supporting property graphs and RDF for highly connected data and relationship queries.
+> **Amazon Neptune is a managed graph database supporting property graphs and RDF for highly connected data and relationship queries.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Amazon Neptune** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. Amazon Neptune is a managed graph database supporting property graphs and RDF for highly connected data and relationship queries.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon Neptune is a managed graph database supporting property graphs and RDF for highly connected data and relationship queries.
 
 ## 2. Execution Mechanics & Runtime Flow
 

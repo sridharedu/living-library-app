@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Ingress defines HTTP and HTTPS routing from outside the cluster to Services, based on host and path rules.
+> **Ingress defines HTTP and HTTPS routing from outside the cluster to Services, based on host and path rules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Ingress** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. Ingress defines HTTP and HTTPS routing from outside the cluster to Services, based on host and path rules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Ingress defines HTTP and HTTPS routing from outside the cluster to Services, based on host and path rules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

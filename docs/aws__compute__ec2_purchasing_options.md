@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> EC2 purchasing options include On-Demand, Reserved Instances, Savings Plans, Spot Instances, Dedicated Hosts, and Capacity Reservations.
+> **EC2 purchasing options include On-Demand, Reserved Instances, Savings Plans, Spot Instances, Dedicated Hosts, and Capacity Reservations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**EC2 purchasing options** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. EC2 purchasing options include On-Demand, Reserved Instances, Savings Plans, Spot Instances, Dedicated Hosts, and Capacity Reservations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+EC2 purchasing options include On-Demand, Reserved Instances, Savings Plans, Spot Instances, Dedicated Hosts, and Capacity Reservations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

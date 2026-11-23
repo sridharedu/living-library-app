@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Publish-subscribe lets one producer emit an event to multiple independent subscribers without knowing who consumes it.
+> **Publish-subscribe lets one producer emit an event to multiple independent subscribers without knowing who consumes it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Publish-subscribe** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. Publish-subscribe lets one producer emit an event to multiple independent subscribers without knowing who consumes it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Publish-subscribe lets one producer emit an event to multiple independent subscribers without knowing who consumes it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

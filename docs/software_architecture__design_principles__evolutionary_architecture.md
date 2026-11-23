@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Evolutionary architecture supports incremental change through modularity, automation, observability, and continuous architectural validation.
+> **Evolutionary architecture supports incremental change through modularity, automation, observability, and continuous architectural validation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Evolutionary architecture** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Evolutionary architecture supports incremental change through modularity, automation, observability, and continuous architectural validation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Evolutionary architecture supports incremental change through modularity, automation, observability, and continuous architectural validation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

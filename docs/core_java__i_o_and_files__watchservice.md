@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> WatchService monitors directories for create, modify, and delete events. It is useful for file-based automation but behavior can vary by operating system.
+> **WatchService monitors directories for create, modify, and delete events. It is useful for file-based automation but behavior can vary by operating system.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**WatchService** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. WatchService monitors directories for create, modify, and delete events. It is useful for file-based automation but behavior can vary by operating system.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+WatchService monitors directories for create, modify, and delete events. It is useful for file-based automation but behavior can vary by operating system.
 
 ## 2. Execution Mechanics & Runtime Flow
 

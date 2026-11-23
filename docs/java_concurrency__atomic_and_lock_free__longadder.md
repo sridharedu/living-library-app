@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> LongAdder spreads updates across internal cells and combines them when read. It offers high-throughput counters under contention.
+> **LongAdder spreads updates across internal cells and combines them when read. It offers high-throughput counters under contention.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**LongAdder** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. LongAdder spreads updates across internal cells and combines them when read. It offers high-throughput counters under contention.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+LongAdder spreads updates across internal cells and combines them when read. It offers high-throughput counters under contention.
 
 ## 2. Execution Mechanics & Runtime Flow
 

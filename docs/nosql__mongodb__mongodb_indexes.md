@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> MongoDB supports single-field, compound, multikey, text, geospatial, hashed, wildcard, and partial indexes.
+> **MongoDB supports single-field, compound, multikey, text, geospatial, hashed, wildcard, and partial indexes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**MongoDB indexes** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. MongoDB supports single-field, compound, multikey, text, geospatial, hashed, wildcard, and partial indexes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+MongoDB supports single-field, compound, multikey, text, geospatial, hashed, wildcard, and partial indexes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

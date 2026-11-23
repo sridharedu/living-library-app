@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @Primary marks the preferred bean when several candidates match a dependency.
+> **@Primary marks the preferred bean when several candidates match a dependency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Primary bean** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. @Primary marks the preferred bean when several candidates match a dependency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@Primary marks the preferred bean when several candidates match a dependency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

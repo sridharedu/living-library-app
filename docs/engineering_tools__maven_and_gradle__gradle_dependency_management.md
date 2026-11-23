@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Gradle resolves dependencies from repositories using configurations, version constraints, platforms, and caching.
+> **Gradle resolves dependencies from repositories using configurations, version constraints, platforms, and caching.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Gradle dependency management** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. Gradle resolves dependencies from repositories using configurations, version constraints, platforms, and caching.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Gradle resolves dependencies from repositories using configurations, version constraints, platforms, and caching.
 
 ## 2. Execution Mechanics & Runtime Flow
 

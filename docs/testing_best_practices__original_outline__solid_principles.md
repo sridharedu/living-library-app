@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SOLID promotes maintainable object-oriented design through single responsibility, open-closed, Liskov substitution, interface segregation, and dependency inversion.
+> **SOLID promotes maintainable object-oriented design through single responsibility, open-closed, Liskov substitution, interface segregation, and dependency inversion.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SOLID Principles** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. SOLID promotes maintainable object-oriented design through single responsibility, open-closed, Liskov substitution, interface segregation, and dependency inversion.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SOLID promotes maintainable object-oriented design through single responsibility, open-closed, Liskov substitution, interface segregation, and dependency inversion.
 
 ## 2. Execution Mechanics & Runtime Flow
 

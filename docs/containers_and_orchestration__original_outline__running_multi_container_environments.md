@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Compose creates the required networks and volumes, then starts services according to configuration. Health checks are more reliable than startup order alone.
+> **Compose creates the required networks and volumes, then starts services according to configuration. Health checks are more reliable than startup order alone.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Running Multi-Container Environments** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Compose creates the required networks and volumes, then starts services according to configuration. Health checks are more reliable than startup order alone.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Compose creates the required networks and volumes, then starts services according to configuration. Health checks are more reliable than startup order alone.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cassandra compaction merges SSTables, removes obsolete data, and is tuned for write, read, or time-series patterns.
+> **Cassandra compaction merges SSTables, removes obsolete data, and is tuned for write, read, or time-series patterns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Compaction strategies** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Cassandra compaction merges SSTables, removes obsolete data, and is tuned for write, read, or time-series patterns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cassandra compaction merges SSTables, removes obsolete data, and is tuned for write, read, or time-series patterns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

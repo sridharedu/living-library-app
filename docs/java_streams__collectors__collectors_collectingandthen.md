@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> collectingAndThen applies a finishing transformation after another collector completes, such as wrapping a result as unmodifiable.
+> **collectingAndThen applies a finishing transformation after another collector completes, such as wrapping a result as unmodifiable.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collectors.collectingAndThen** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. collectingAndThen applies a finishing transformation after another collector completes, such as wrapping a result as unmodifiable.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+collectingAndThen applies a finishing transformation after another collector completes, such as wrapping a result as unmodifiable.
 
 ## 2. Execution Mechanics & Runtime Flow
 

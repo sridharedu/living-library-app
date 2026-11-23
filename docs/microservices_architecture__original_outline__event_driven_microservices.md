@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Event-driven microservices publish facts about completed changes and react asynchronously. This reduces direct coupling but requires strong event contracts, idempotency, and observability.
+> **Event-driven microservices publish facts about completed changes and react asynchronously. This reduces direct coupling but requires strong event contracts, idempotency, and observability.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Event-Driven Microservices** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Event-driven microservices publish facts about completed changes and react asynchronously. This reduces direct coupling but requires strong event contracts, idempotency, and observability.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Event-driven microservices publish facts about completed changes and react asynchronously. This reduces direct coupling but requires strong event contracts, idempotency, and observability.
 
 ## 2. Execution Mechanics & Runtime Flow
 

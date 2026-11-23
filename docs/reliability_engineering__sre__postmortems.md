@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A postmortem documents impact, timeline, causes, response, lessons, and follow-up actions after an incident.
+> **A postmortem documents impact, timeline, causes, response, lessons, and follow-up actions after an incident.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Postmortems** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. A postmortem documents impact, timeline, causes, response, lessons, and follow-up actions after an incident.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A postmortem documents impact, timeline, causes, response, lessons, and follow-up actions after an incident.
 
 ## 2. Execution Mechanics & Runtime Flow
 

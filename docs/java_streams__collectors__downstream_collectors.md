@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A downstream collector processes values inside groupingBy, partitioningBy, mapping, filtering, or flatMapping to produce richer grouped results.
+> **A downstream collector processes values inside groupingBy, partitioningBy, mapping, filtering, or flatMapping to produce richer grouped results.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Downstream collectors** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. A downstream collector processes values inside groupingBy, partitioningBy, mapping, filtering, or flatMapping to produce richer grouped results.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A downstream collector processes values inside groupingBy, partitioningBy, mapping, filtering, or flatMapping to produce richer grouped results.
 
 ## 2. Execution Mechanics & Runtime Flow
 

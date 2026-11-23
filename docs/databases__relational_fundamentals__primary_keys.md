@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A primary key uniquely and non-nullably identifies each row in a table.
+> **A primary key uniquely and non-nullably identifies each row in a table.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Primary keys** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. A primary key uniquely and non-nullably identifies each row in a table.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A primary key uniquely and non-nullably identifies each row in a table.
 
 ## 2. Execution Mechanics & Runtime Flow
 

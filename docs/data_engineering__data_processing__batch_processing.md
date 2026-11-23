@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Batch processing handles bounded datasets on a schedule or when enough data accumulates.
+> **Batch processing handles bounded datasets on a schedule or when enough data accumulates.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Batch processing** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. Batch processing handles bounded datasets on a schedule or when enough data accumulates.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Batch processing handles bounded datasets on a schedule or when enough data accumulates.
 
 ## 2. Execution Mechanics & Runtime Flow
 

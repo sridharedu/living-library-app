@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Backpressure lets a consumer control how much data a producer sends, preventing unbounded buffering and overload.
+> **Backpressure lets a consumer control how much data a producer sends, preventing unbounded buffering and overload.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Backpressure** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Backpressure lets a consumer control how much data a producer sends, preventing unbounded buffering and overload.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Backpressure lets a consumer control how much data a producer sends, preventing unbounded buffering and overload.
 
 ## 2. Execution Mechanics & Runtime Flow
 

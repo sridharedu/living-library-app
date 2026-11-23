@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Bean Validation uses annotations such as @NotNull, @Size, and @Pattern to declare reusable validation rules on Java objects.
+> **Bean Validation uses annotations such as @NotNull, @Size, and @Pattern to declare reusable validation rules on Java objects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Bean Validation** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. Bean Validation uses annotations such as @NotNull, @Size, and @Pattern to declare reusable validation rules on Java objects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Bean Validation uses annotations such as @NotNull, @Size, and @Pattern to declare reusable validation rules on Java objects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

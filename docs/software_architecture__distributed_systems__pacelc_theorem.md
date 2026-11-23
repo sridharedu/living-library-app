@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> PACELC extends CAP: during a partition choose availability or consistency, and otherwise choose latency or consistency.
+> **PACELC extends CAP: during a partition choose availability or consistency, and otherwise choose latency or consistency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**PACELC theorem** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. PACELC extends CAP: during a partition choose availability or consistency, and otherwise choose latency or consistency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+PACELC extends CAP: during a partition choose availability or consistency, and otherwise choose latency or consistency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

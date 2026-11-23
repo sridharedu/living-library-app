@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Behavior-driven development describes system behavior in business-readable scenarios and connects examples to executable tests.
+> **Behavior-driven development describes system behavior in business-readable scenarios and connects examples to executable tests.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Behavior-driven development** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Behavior-driven development describes system behavior in business-readable scenarios and connects examples to executable tests.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Behavior-driven development describes system behavior in business-readable scenarios and connects examples to executable tests.
 
 ## 2. Execution Mechanics & Runtime Flow
 

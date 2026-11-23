@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Dependency inversion means high-level code depends on abstractions rather than concrete details. Spring injects implementations behind those abstractions.
+> **Dependency inversion means high-level code depends on abstractions rather than concrete details. Spring injects implementations behind those abstractions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dependency inversion** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. Dependency inversion means high-level code depends on abstractions rather than concrete details. Spring injects implementations behind those abstractions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Dependency inversion means high-level code depends on abstractions rather than concrete details. Spring injects implementations behind those abstractions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

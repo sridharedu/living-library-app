@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Major GC primarily targets the old generation. Terminology varies by collector and may not imply a full-heap collection.
+> **Major GC primarily targets the old generation. Terminology varies by collector and may not imply a full-heap collection.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Major GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Major GC primarily targets the old generation. Terminology varies by collector and may not imply a full-heap collection.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Major GC primarily targets the old generation. Terminology varies by collector and may not imply a full-heap collection.
 
 ## 2. Execution Mechanics & Runtime Flow
 

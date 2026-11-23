@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> git revert creates a new commit that undoes the effect of an earlier commit without rewriting history.
+> **git revert creates a new commit that undoes the effect of an earlier commit without rewriting history.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Revert** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. git revert creates a new commit that undoes the effect of an earlier commit without rewriting history.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+git revert creates a new commit that undoes the effect of an earlier commit without rewriting history.
 
 ## 2. Execution Mechanics & Runtime Flow
 

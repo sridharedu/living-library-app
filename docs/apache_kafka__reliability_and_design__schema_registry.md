@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Schema Registry stores and validates message schemas and compatibility rules for producers and consumers.
+> **A Schema Registry stores and validates message schemas and compatibility rules for producers and consumers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Schema Registry** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. A Schema Registry stores and validates message schemas and compatibility rules for producers and consumers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Schema Registry stores and validates message schemas and compatibility rules for producers and consumers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Generic types are invariant: List<Integer> is not a subtype of List<Number>. Wildcards express flexible relationships between parameterized types.
+> **Generic types are invariant: List<Integer> is not a subtype of List<Number>. Wildcards express flexible relationships between parameterized types.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Generic inheritance** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. Generic types are invariant: List<Integer> is not a subtype of List<Number>. Wildcards express flexible relationships between parameterized types.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Generic types are invariant: List<Integer> is not a subtype of List<Number>. Wildcards express flexible relationships between parameterized types.
 
 ## 2. Execution Mechanics & Runtime Flow
 

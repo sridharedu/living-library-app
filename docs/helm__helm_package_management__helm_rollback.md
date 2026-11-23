@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> helm rollback restores an earlier stored release revision.
+> **helm rollback restores an earlier stored release revision.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helm rollback** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. helm rollback restores an earlier stored release revision.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+helm rollback restores an earlier stored release revision.
 
 ## 2. Execution Mechanics & Runtime Flow
 

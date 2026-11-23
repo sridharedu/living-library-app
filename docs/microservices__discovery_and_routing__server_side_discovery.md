@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> With server-side discovery, a load balancer or gateway discovers service instances and routes requests on behalf of clients.
+> **With server-side discovery, a load balancer or gateway discovers service instances and routes requests on behalf of clients.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Server-side discovery** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. With server-side discovery, a load balancer or gateway discovers service instances and routes requests on behalf of clients.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+With server-side discovery, a load balancer or gateway discovers service instances and routes requests on behalf of clients.
 
 ## 2. Execution Mechanics & Runtime Flow
 

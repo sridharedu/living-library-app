@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Full GC typically processes most or all heap regions and often performs compaction. It is usually the most disruptive pause.
+> **Full GC typically processes most or all heap regions and often performs compaction. It is usually the most disruptive pause.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Full GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Full GC typically processes most or all heap regions and often performs compaction. It is usually the most disruptive pause.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Full GC typically processes most or all heap regions and often performs compaction. It is usually the most disruptive pause.
 
 ## 2. Execution Mechanics & Runtime Flow
 

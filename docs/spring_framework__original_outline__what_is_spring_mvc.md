@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring MVC follows the Model-View-Controller pattern and is built around DispatcherServlet. It supports both server-rendered views and REST endpoints using annotations and message converters.
+> **Spring MVC follows the Model-View-Controller pattern and is built around DispatcherServlet. It supports both server-rendered views and REST endpoints using annotations and message converters.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Spring MVC?** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring MVC follows the Model-View-Controller pattern and is built around DispatcherServlet. It supports both server-rendered views and REST endpoints using annotations and message converters.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring MVC follows the Model-View-Controller pattern and is built around DispatcherServlet. It supports both server-rendered views and REST endpoints using annotations and message converters.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Graceful shutdown stops new submissions, waits for queued tasks, and escalates to interruption only after a timeout.
+> **Graceful shutdown stops new submissions, waits for queued tasks, and escalates to interruption only after a timeout.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Graceful executor shutdown** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. Graceful shutdown stops new submissions, waits for queued tasks, and escalates to interruption only after a timeout.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Graceful shutdown stops new submissions, waits for queued tasks, and escalates to interruption only after a timeout.
 
 ## 2. Execution Mechanics & Runtime Flow
 

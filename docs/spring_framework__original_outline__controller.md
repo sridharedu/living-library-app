@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @Controller marks a class as an MVC web component whose methods may return view names. Add @ResponseBody, or use @RestController, when methods should write data directly to the HTTP response.
+> **@Controller marks a class as an MVC web component whose methods may return view names. Add @ResponseBody, or use @RestController, when methods should write data directly to the HTTP response.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**@Controller** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. @Controller marks a class as an MVC web component whose methods may return view names. Add @ResponseBody, or use @RestController, when methods should write data directly to the HTTP response.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@Controller marks a class as an MVC web component whose methods may return view names. Add @ResponseBody, or use @RestController, when methods should write data directly to the HTTP response.
 
 ## 2. Execution Mechanics & Runtime Flow
 

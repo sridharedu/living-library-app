@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Form login authenticates browser users through an HTML login form and usually establishes an HTTP session.
+> **Form login authenticates browser users through an HTML login form and usually establishes an HTTP session.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Form login** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Form login authenticates browser users through an HTML login form and usually establishes an HTTP session.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Form login authenticates browser users through an HTML login form and usually establishes an HTTP session.
 
 ## 2. Execution Mechanics & Runtime Flow
 

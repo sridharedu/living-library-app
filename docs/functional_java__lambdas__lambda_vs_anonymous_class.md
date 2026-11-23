@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Lambdas are concise implementations of functional interfaces and do not introduce a new this scope. Anonymous classes create a distinct object and class body.
+> **Lambdas are concise implementations of functional interfaces and do not introduce a new this scope. Anonymous classes create a distinct object and class body.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lambda vs anonymous class** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. Lambdas are concise implementations of functional interfaces and do not introduce a new this scope. Anonymous classes create a distinct object and class body.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Lambdas are concise implementations of functional interfaces and do not introduce a new this scope. Anonymous classes create a distinct object and class body.
 
 ## 2. Execution Mechanics & Runtime Flow
 

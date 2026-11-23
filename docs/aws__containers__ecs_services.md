@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An ECS service maintains a desired number of task replicas, replaces unhealthy tasks, and integrates with load balancing and deployment strategies.
+> **An ECS service maintains a desired number of task replicas, replaces unhealthy tasks, and integrates with load balancing and deployment strategies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ECS services** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. An ECS service maintains a desired number of task replicas, replaces unhealthy tasks, and integrates with load balancing and deployment strategies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An ECS service maintains a desired number of task replicas, replaces unhealthy tasks, and integrates with load balancing and deployment strategies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

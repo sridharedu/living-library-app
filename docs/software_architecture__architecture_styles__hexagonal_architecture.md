@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Hexagonal architecture places domain logic at the center and connects external systems through ports and adapters, keeping business rules independent of frameworks.
+> **Hexagonal architecture places domain logic at the center and connects external systems through ports and adapters, keeping business rules independent of frameworks.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hexagonal architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Hexagonal architecture places domain logic at the center and connects external systems through ports and adapters, keeping business rules independent of frameworks.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Hexagonal architecture places domain logic at the center and connects external systems through ports and adapters, keeping business rules independent of frameworks.
 
 ## 2. Execution Mechanics & Runtime Flow
 

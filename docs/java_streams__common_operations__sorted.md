@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> sorted orders elements by natural order or a Comparator. It is stateful and may need to buffer the whole stream.
+> **sorted orders elements by natural order or a Comparator. It is stateful and may need to buffer the whole stream.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**sorted** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. sorted orders elements by natural order or a Comparator. It is stateful and may need to buffer the whole stream.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+sorted orders elements by natural order or a Comparator. It is stateful and may need to buffer the whole stream.
 
 ## 2. Execution Mechanics & Runtime Flow
 

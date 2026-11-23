@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Space-based architecture distributes processing and state across in-memory nodes to reduce database bottlenecks during extreme load.
+> **Space-based architecture distributes processing and state across in-memory nodes to reduce database bottlenecks during extreme load.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Space-based architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Space-based architecture distributes processing and state across in-memory nodes to reduce database bottlenecks during extreme load.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Space-based architecture distributes processing and state across in-memory nodes to reduce database bottlenecks during extreme load.
 
 ## 2. Execution Mechanics & Runtime Flow
 

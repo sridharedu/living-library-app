@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring MVC configuration customizes formatters, converters, interceptors, CORS, content negotiation, argument resolvers, static resources, and view handling. Spring Boot supplies defaults that can be extended.
+> **Spring MVC configuration customizes formatters, converters, interceptors, CORS, content negotiation, argument resolvers, static resources, and view handling. Spring Boot supplies defaults that can be extended.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring MVC Configuration** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring MVC configuration customizes formatters, converters, interceptors, CORS, content negotiation, argument resolvers, static resources, and view handling. Spring Boot supplies defaults that can be extended.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring MVC configuration customizes formatters, converters, interceptors, CORS, content negotiation, argument resolvers, static resources, and view handling. Spring Boot supplies defaults that can be extended.
 
 ## 2. Execution Mechanics & Runtime Flow
 

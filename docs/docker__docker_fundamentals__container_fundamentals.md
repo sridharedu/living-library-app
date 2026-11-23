@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Containers isolate application processes while sharing the host kernel and packaging runtime dependencies into portable images.
+> **Containers isolate application processes while sharing the host kernel and packaging runtime dependencies into portable images.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Container fundamentals** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. Containers isolate application processes while sharing the host kernel and packaging runtime dependencies into portable images.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Containers isolate application processes while sharing the host kernel and packaging runtime dependencies into portable images.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ArrayDeque is a resizable circular-array deque with fast operations at both ends. It is preferred for stack and queue use.
+> **ArrayDeque is a resizable circular-array deque with fast operations at both ends. It is preferred for stack and queue use.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ArrayDeque** serves as a foundational component within *Queues and Heaps* in the broader **Java Collections** ecosystem. ArrayDeque is a resizable circular-array deque with fast operations at both ends. It is preferred for stack and queue use.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ArrayDeque is a resizable circular-array deque with fast operations at both ends. It is preferred for stack and queue use.
 
 ## 2. Execution Mechanics & Runtime Flow
 

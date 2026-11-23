@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Strangler Fig pattern gradually replaces a legacy system by routing selected capabilities to new components over time.
+> **The Strangler Fig pattern gradually replaces a legacy system by routing selected capabilities to new components over time.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Strangler Fig** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. The Strangler Fig pattern gradually replaces a legacy system by routing selected capabilities to new components over time.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Strangler Fig pattern gradually replaces a legacy system by routing selected capabilities to new components over time.
 
 ## 2. Execution Mechanics & Runtime Flow
 

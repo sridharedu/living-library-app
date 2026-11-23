@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A rate limiter controls request frequency using algorithms such as token bucket, leaky bucket, fixed window, or sliding window.
+> **A rate limiter controls request frequency using algorithms such as token bucket, leaky bucket, fixed window, or sliding window.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Rate limiter** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. A rate limiter controls request frequency using algorithms such as token bucket, leaky bucket, fixed window, or sliding window.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A rate limiter controls request frequency using algorithms such as token bucket, leaky bucket, fixed window, or sliding window.
 
 ## 2. Execution Mechanics & Runtime Flow
 

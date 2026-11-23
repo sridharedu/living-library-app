@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Dockerfile instructions define the base image, files, commands, metadata, runtime configuration, and build stages.
+> **Dockerfile instructions define the base image, files, commands, metadata, runtime configuration, and build stages.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dockerfile syntax** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. Dockerfile instructions define the base image, files, commands, metadata, runtime configuration, and build stages.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Dockerfile instructions define the base image, files, commands, metadata, runtime configuration, and build stages.
 
 ## 2. Execution Mechanics & Runtime Flow
 

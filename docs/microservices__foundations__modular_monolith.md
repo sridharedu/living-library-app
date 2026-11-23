@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A modular monolith remains one deployment but enforces strong internal module boundaries, making it simpler than microservices while preserving separation.
+> **A modular monolith remains one deployment but enforces strong internal module boundaries, making it simpler than microservices while preserving separation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Modular monolith** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. A modular monolith remains one deployment but enforces strong internal module boundaries, making it simpler than microservices while preserving separation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A modular monolith remains one deployment but enforces strong internal module boundaries, making it simpler than microservices while preserving separation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

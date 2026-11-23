@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Adapter converts one interface into another expected by a client.
+> **Adapter converts one interface into another expected by a client.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Adapter** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Adapter converts one interface into another expected by a client.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Adapter converts one interface into another expected by a client.
 
 ## 2. Execution Mechanics & Runtime Flow
 

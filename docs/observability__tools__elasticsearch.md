@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Elasticsearch is a distributed search and analytics engine commonly used for logs, text search, and operational data.
+> **Elasticsearch is a distributed search and analytics engine commonly used for logs, text search, and operational data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Elasticsearch** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Elasticsearch is a distributed search and analytics engine commonly used for logs, text search, and operational data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Elasticsearch is a distributed search and analytics engine commonly used for logs, text search, and operational data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

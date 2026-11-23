@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Lambda is a serverless compute service that executes code inside short-lived managed environments. It is well suited to event handlers, APIs, automation, and bursty workloads.
+> **Lambda is a serverless compute service that executes code inside short-lived managed environments. It is well suited to event handlers, APIs, automation, and bursty workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is AWS Lambda?** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Lambda is a serverless compute service that executes code inside short-lived managed environments. It is well suited to event handlers, APIs, automation, and bursty workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Lambda is a serverless compute service that executes code inside short-lived managed environments. It is well suited to event handlers, APIs, automation, and bursty workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

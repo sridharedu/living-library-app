@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> OOP organizes software around objects that combine state and behavior. Java uses encapsulation, inheritance, polymorphism, and abstraction to create reusable and maintainable designs.
+> **OOP organizes software around objects that combine state and behavior. Java uses encapsulation, inheritance, polymorphism, and abstraction to create reusable and maintainable designs.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Object-Oriented Programming (OOP)** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. OOP organizes software around objects that combine state and behavior. Java uses encapsulation, inheritance, polymorphism, and abstraction to create reusable and maintainable designs.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+OOP organizes software around objects that combine state and behavior. Java uses encapsulation, inheritance, polymorphism, and abstraction to create reusable and maintainable designs.
 
 ## 2. Execution Mechanics & Runtime Flow
 

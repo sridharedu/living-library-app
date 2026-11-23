@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A launch template versions EC2 configuration such as AMI, instance type, networking, storage, IAM role, and user data.
+> **A launch template versions EC2 configuration such as AMI, instance type, networking, storage, IAM role, and user data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Launch templates** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. A launch template versions EC2 configuration such as AMI, instance type, networking, storage, IAM role, and user data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A launch template versions EC2 configuration such as AMI, instance type, networking, storage, IAM role, and user data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

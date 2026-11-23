@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ACID means Atomicity, Consistency, Isolation, and Durability. Together they ensure transactions behave reliably even during concurrency or failure.
+> **ACID means Atomicity, Consistency, Isolation, and Durability. Together they ensure transactions behave reliably even during concurrency or failure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ACID Properties in Relational Databases** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. ACID means Atomicity, Consistency, Isolation, and Durability. Together they ensure transactions behave reliably even during concurrency or failure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ACID means Atomicity, Consistency, Isolation, and Durability. Together they ensure transactions behave reliably even during concurrency or failure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

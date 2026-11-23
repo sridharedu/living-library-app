@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Exception messages should explain what failed, include useful identifiers, and avoid secrets. Preserve the cause so the original stack trace remains available.
+> **Exception messages should explain what failed, include useful identifiers, and avoid secrets. Preserve the cause so the original stack trace remains available.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Best practices for exception messages** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Exception messages should explain what failed, include useful identifiers, and avoid secrets. Preserve the cause so the original stack trace remains available.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Exception messages should explain what failed, include useful identifiers, and avoid secrets. Preserve the cause so the original stack trace remains available.
 
 ## 2. Execution Mechanics & Runtime Flow
 

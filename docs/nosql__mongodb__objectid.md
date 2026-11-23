@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ObjectId is MongoDB's common 12-byte identifier containing timestamp and uniqueness components.
+> **ObjectId is MongoDB's common 12-byte identifier containing timestamp and uniqueness components.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ObjectId** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. ObjectId is MongoDB's common 12-byte identifier containing timestamp and uniqueness components.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ObjectId is MongoDB's common 12-byte identifier containing timestamp and uniqueness components.
 
 ## 2. Execution Mechanics & Runtime Flow
 

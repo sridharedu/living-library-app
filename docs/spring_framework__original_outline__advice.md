@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Advice is the code executed before, after, around, or when a matched method throws an exception. Around advice is the most powerful because it controls whether and how the method proceeds.
+> **Advice is the code executed before, after, around, or when a matched method throws an exception. Around advice is the most powerful because it controls whether and how the method proceeds.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Advice** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Advice is the code executed before, after, around, or when a matched method throws an exception. Around advice is the most powerful because it controls whether and how the method proceeds.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Advice is the code executed before, after, around, or when a matched method throws an exception. Around advice is the most powerful because it controls whether and how the method proceeds.
 
 ## 2. Execution Mechanics & Runtime Flow
 

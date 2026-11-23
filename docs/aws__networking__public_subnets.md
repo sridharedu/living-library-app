@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A public subnet has a route to an Internet Gateway, though individual resources also need public addressing and security rules.
+> **A public subnet has a route to an Internet Gateway, though individual resources also need public addressing and security rules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Public subnets** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. A public subnet has a route to an Internet Gateway, though individual resources also need public addressing and security rules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A public subnet has a route to an Internet Gateway, though individual resources also need public addressing and security rules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

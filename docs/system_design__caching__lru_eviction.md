@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Least Recently Used eviction removes the item that has gone unused for the longest time.
+> **Least Recently Used eviction removes the item that has gone unused for the longest time.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**LRU eviction** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. Least Recently Used eviction removes the item that has gone unused for the longest time.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Least Recently Used eviction removes the item that has gone unused for the longest time.
 
 ## 2. Execution Mechanics & Runtime Flow
 

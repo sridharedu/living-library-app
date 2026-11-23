@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Clean code communicates intent through clear names, small cohesive units, simple control flow, useful tests, and minimal duplication.
+> **Clean code communicates intent through clear names, small cohesive units, simple control flow, useful tests, and minimal duplication.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Clean code** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Clean code communicates intent through clear names, small cohesive units, simple control flow, useful tests, and minimal duplication.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Clean code communicates intent through clear names, small cohesive units, simple control flow, useful tests, and minimal duplication.
 
 ## 2. Execution Mechanics & Runtime Flow
 

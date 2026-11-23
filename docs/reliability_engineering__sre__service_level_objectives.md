@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A service level objective is an internal reliability target for one or more service level indicators.
+> **A service level objective is an internal reliability target for one or more service level indicators.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Service level objectives** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. A service level objective is an internal reliability target for one or more service level indicators.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A service level objective is an internal reliability target for one or more service level indicators.
 
 ## 2. Execution Mechanics & Runtime Flow
 

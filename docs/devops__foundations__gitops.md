@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> GitOps uses version-controlled declarative configuration as the source of truth and automated reconciliation to apply changes.
+> **GitOps uses version-controlled declarative configuration as the source of truth and automated reconciliation to apply changes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**GitOps** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. GitOps uses version-controlled declarative configuration as the source of truth and automated reconciliation to apply changes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+GitOps uses version-controlled declarative configuration as the source of truth and automated reconciliation to apply changes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

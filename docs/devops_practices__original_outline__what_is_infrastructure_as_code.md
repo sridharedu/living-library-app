@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> IaC is the practice of defining networks, servers, permissions, databases, and other infrastructure in code. Tools apply those definitions to create or update real environments.
+> **IaC is the practice of defining networks, servers, permissions, databases, and other infrastructure in code. Tools apply those definitions to create or update real environments.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Infrastructure as Code?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. IaC is the practice of defining networks, servers, permissions, databases, and other infrastructure in code. Tools apply those definitions to create or update real environments.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+IaC is the practice of defining networks, servers, permissions, databases, and other infrastructure in code. Tools apply those definitions to create or update real environments.
 
 ## 2. Execution Mechanics & Runtime Flow
 

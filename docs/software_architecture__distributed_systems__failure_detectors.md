@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Failure detectors infer whether nodes are unavailable using heartbeats, timeouts, or suspicion levels, but cannot be perfectly accurate in asynchronous networks.
+> **Failure detectors infer whether nodes are unavailable using heartbeats, timeouts, or suspicion levels, but cannot be perfectly accurate in asynchronous networks.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Failure detectors** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Failure detectors infer whether nodes are unavailable using heartbeats, timeouts, or suspicion levels, but cannot be perfectly accurate in asynchronous networks.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Failure detectors infer whether nodes are unavailable using heartbeats, timeouts, or suspicion levels, but cannot be perfectly accurate in asynchronous networks.
 
 ## 2. Execution Mechanics & Runtime Flow
 

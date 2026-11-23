@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Logstash ingests, transforms, enriches, and routes events through configurable input, filter, and output plugins.
+> **Logstash ingests, transforms, enriches, and routes events through configurable input, filter, and output plugins.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Logstash** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Logstash ingests, transforms, enriches, and routes events through configurable input, filter, and output plugins.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Logstash ingests, transforms, enriches, and routes events through configurable input, filter, and output plugins.
 
 ## 2. Execution Mechanics & Runtime Flow
 

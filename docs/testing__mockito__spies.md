@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A spy wraps a real object and allows selective stubbing or verification while other methods execute normally.
+> **A spy wraps a real object and allows selective stubbing or verification while other methods execute normally.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spies** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. A spy wraps a real object and allows selective stubbing or verification while other methods execute normally.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A spy wraps a real object and allows selective stubbing or verification while other methods execute normally.
 
 ## 2. Execution Mechanics & Runtime Flow
 

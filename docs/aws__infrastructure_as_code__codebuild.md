@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS CodeBuild runs managed build environments for compilation, tests, packaging, and artifact production.
+> **AWS CodeBuild runs managed build environments for compilation, tests, packaging, and artifact production.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CodeBuild** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. AWS CodeBuild runs managed build environments for compilation, tests, packaging, and artifact production.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS CodeBuild runs managed build environments for compilation, tests, packaging, and artifact production.
 
 ## 2. Execution Mechanics & Runtime Flow
 

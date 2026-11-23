@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Full-text indexes tokenize and rank natural-language content for word and phrase searches. They provide more than simple LIKE matching.
+> **Full-text indexes tokenize and rank natural-language content for word and phrase searches. They provide more than simple LIKE matching.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Full-Text Indexes** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Full-text indexes tokenize and rank natural-language content for word and phrase searches. They provide more than simple LIKE matching.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Full-text indexes tokenize and rank natural-language content for word and phrase searches. They provide more than simple LIKE matching.
 
 ## 2. Execution Mechanics & Runtime Flow
 

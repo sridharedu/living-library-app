@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Ansible Vault encrypts sensitive variables or files so secrets can be stored with automation code more safely.
+> **Ansible Vault encrypts sensitive variables or files so secrets can be stored with automation code more safely.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Vault** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Ansible Vault encrypts sensitive variables or files so secrets can be stored with automation code more safely.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Ansible Vault encrypts sensitive variables or files so secrets can be stored with automation code more safely.
 
 ## 2. Execution Mechanics & Runtime Flow
 

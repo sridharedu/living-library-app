@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Load testing evaluates system behavior at expected and peak traffic levels.
+> **Load testing evaluates system behavior at expected and peak traffic levels.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Load testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Load testing evaluates system behavior at expected and peak traffic levels.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Load testing evaluates system behavior at expected and peak traffic levels.
 
 ## 2. Execution Mechanics & Runtime Flow
 

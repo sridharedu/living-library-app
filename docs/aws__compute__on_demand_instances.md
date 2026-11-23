@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> On-Demand Instances provide flexible capacity without long-term commitment and are suited to variable or short-lived workloads.
+> **On-Demand Instances provide flexible capacity without long-term commitment and are suited to variable or short-lived workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**On-Demand Instances** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. On-Demand Instances provide flexible capacity without long-term commitment and are suited to variable or short-lived workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+On-Demand Instances provide flexible capacity without long-term commitment and are suited to variable or short-lived workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

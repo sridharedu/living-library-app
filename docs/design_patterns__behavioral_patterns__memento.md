@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Memento captures an object's state so it can later be restored without exposing internals.
+> **Memento captures an object's state so it can later be restored without exposing internals.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Memento** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Memento captures an object's state so it can later be restored without exposing internals.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Memento captures an object's state so it can later be restored without exposing internals.
 
 ## 2. Execution Mechanics & Runtime Flow
 

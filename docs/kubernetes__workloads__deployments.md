@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Deployment manages stateless Pods through ReplicaSets and supports rolling updates, rollback, scaling, and revision history.
+> **A Deployment manages stateless Pods through ReplicaSets and supports rolling updates, rollback, scaling, and revision history.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Deployments** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A Deployment manages stateless Pods through ReplicaSets and supports rolling updates, rollback, scaling, and revision history.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Deployment manages stateless Pods through ReplicaSets and supports rolling updates, rollback, scaling, and revision history.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Callable<V> represents a task that returns a value and may throw checked exceptions. Executors submit Callables and return Futures.
+> **Callable<V> represents a task that returns a value and may throw checked exceptions. Executors submit Callables and return Futures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Callable** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. Callable<V> represents a task that returns a value and may throw checked exceptions. Executors submit Callables and return Futures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Callable<V> represents a task that returns a value and may throw checked exceptions. Executors submit Callables and return Futures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

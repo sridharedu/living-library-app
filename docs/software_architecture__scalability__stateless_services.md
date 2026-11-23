@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A stateless service keeps no client-specific session state locally, making requests easy to route across interchangeable instances.
+> **A stateless service keeps no client-specific session state locally, making requests easy to route across interchangeable instances.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stateless services** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. A stateless service keeps no client-specific session state locally, making requests easy to route across interchangeable instances.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A stateless service keeps no client-specific session state locally, making requests easy to route across interchangeable instances.
 
 ## 2. Execution Mechanics & Runtime Flow
 

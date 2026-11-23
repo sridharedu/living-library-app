@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Security groups are stateful controls attached to resources, while NACLs are stateless rules applied at subnet boundaries. Security groups are normally the primary access control.
+> **Security groups are stateful controls attached to resources, while NACLs are stateless rules applied at subnet boundaries. Security groups are normally the primary access control.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Security Groups and NACLs** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Security groups are stateful controls attached to resources, while NACLs are stateless rules applied at subnet boundaries. Security groups are normally the primary access control.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Security groups are stateful controls attached to resources, while NACLs are stateless rules applied at subnet boundaries. Security groups are normally the primary access control.
 
 ## 2. Execution Mechanics & Runtime Flow
 

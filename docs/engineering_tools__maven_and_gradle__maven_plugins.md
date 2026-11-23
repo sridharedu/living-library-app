@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Maven plugins provide build behavior such as compilation, testing, packaging, code generation, and deployment.
+> **Maven plugins provide build behavior such as compilation, testing, packaging, code generation, and deployment.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Maven plugins** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. Maven plugins provide build behavior such as compilation, testing, packaging, code generation, and deployment.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Maven plugins provide build behavior such as compilation, testing, packaging, code generation, and deployment.
 
 ## 2. Execution Mechanics & Runtime Flow
 

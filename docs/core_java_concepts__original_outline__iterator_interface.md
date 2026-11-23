@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Iterator provides hasNext, next, and optional remove operations for forward traversal. Most standard collection iterators are fail-fast and may throw ConcurrentModificationException after structural modification.
+> **Iterator provides hasNext, next, and optional remove operations for forward traversal. Most standard collection iterators are fail-fast and may throw ConcurrentModificationException after structural modification.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Iterator Interface** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Iterator provides hasNext, next, and optional remove operations for forward traversal. Most standard collection iterators are fail-fast and may throw ConcurrentModificationException after structural modification.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Iterator provides hasNext, next, and optional remove operations for forward traversal. Most standard collection iterators are fail-fast and may throw ConcurrentModificationException after structural modification.
 
 ## 2. Execution Mechanics & Runtime Flow
 

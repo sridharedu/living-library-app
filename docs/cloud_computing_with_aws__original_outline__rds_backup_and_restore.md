@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> RDS supports automated backups, transaction-log retention, point-in-time recovery, and manual snapshots. Recovery planning must include restore time and cross-region requirements.
+> **RDS supports automated backups, transaction-log retention, point-in-time recovery, and manual snapshots. Recovery planning must include restore time and cross-region requirements.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RDS Backup and Restore** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. RDS supports automated backups, transaction-log retention, point-in-time recovery, and manual snapshots. Recovery planning must include restore time and cross-region requirements.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+RDS supports automated backups, transaction-log retention, point-in-time recovery, and manual snapshots. Recovery planning must include restore time and cross-region requirements.
 
 ## 2. Execution Mechanics & Runtime Flow
 

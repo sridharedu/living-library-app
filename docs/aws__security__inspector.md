@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon Inspector scans supported workloads and images for software vulnerabilities and unintended network exposure.
+> **Amazon Inspector scans supported workloads and images for software vulnerabilities and unintended network exposure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Inspector** serves as a foundational component within *Security* in the broader **AWS** ecosystem. Amazon Inspector scans supported workloads and images for software vulnerabilities and unintended network exposure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon Inspector scans supported workloads and images for software vulnerabilities and unintended network exposure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

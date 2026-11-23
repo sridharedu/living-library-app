@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Timeout testing ensures an operation completes within a defined duration, though strict timing can make tests environment-sensitive.
+> **Timeout testing ensures an operation completes within a defined duration, though strict timing can make tests environment-sensitive.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Timeout testing** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Timeout testing ensures an operation completes within a defined duration, though strict timing can make tests environment-sensitive.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Timeout testing ensures an operation completes within a defined duration, though strict timing can make tests environment-sensitive.
 
 ## 2. Execution Mechanics & Runtime Flow
 

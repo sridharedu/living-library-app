@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Horizontal scaling adds more instances and distributes traffic or data among them.
+> **Horizontal scaling adds more instances and distributes traffic or data among them.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Horizontal scaling** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Horizontal scaling adds more instances and distributes traffic or data among them.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Horizontal scaling adds more instances and distributes traffic or data among them.
 
 ## 2. Execution Mechanics & Runtime Flow
 

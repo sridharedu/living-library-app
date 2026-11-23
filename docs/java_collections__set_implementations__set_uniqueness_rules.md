@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Set considers elements duplicates according to equals, or according to the Comparator in sorted sets. Consistency between equality and ordering matters.
+> **A Set considers elements duplicates according to equals, or according to the Comparator in sorted sets. Consistency between equality and ordering matters.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Set uniqueness rules** serves as a foundational component within *Set Implementations* in the broader **Java Collections** ecosystem. A Set considers elements duplicates according to equals, or according to the Comparator in sorted sets. Consistency between equality and ordering matters.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Set considers elements duplicates according to equals, or according to the Comparator in sorted sets. Consistency between equality and ordering matters.
 
 ## 2. Execution Mechanics & Runtime Flow
 

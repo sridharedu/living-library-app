@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Helm dependencies let one chart include and configure other charts.
+> **Helm dependencies let one chart include and configure other charts.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helm dependencies** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. Helm dependencies let one chart include and configure other charts.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Helm dependencies let one chart include and configure other charts.
 
 ## 2. Execution Mechanics & Runtime Flow
 

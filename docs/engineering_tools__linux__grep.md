@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> grep searches text for matching patterns and supports regular expressions, recursion, context, and filtering.
+> **grep searches text for matching patterns and supports regular expressions, recursion, context, and filtering.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**grep** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. grep searches text for matching patterns and supports regular expressions, recursion, context, and filtering.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+grep searches text for matching patterns and supports regular expressions, recursion, context, and filtering.
 
 ## 2. Execution Mechanics & Runtime Flow
 

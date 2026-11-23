@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Queue choice controls backpressure and scaling behavior. Bounded queues protect memory, direct handoff favors scaling, and unbounded queues can hide overload.
+> **Queue choice controls backpressure and scaling behavior. Bounded queues protect memory, direct handoff favors scaling, and unbounded queues can hide overload.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Queue selection for thread pools** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. Queue choice controls backpressure and scaling behavior. Bounded queues protect memory, direct handoff favors scaling, and unbounded queues can hide overload.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Queue choice controls backpressure and scaling behavior. Bounded queues protect memory, direct handoff favors scaling, and unbounded queues can hide overload.
 
 ## 2. Execution Mechanics & Runtime Flow
 

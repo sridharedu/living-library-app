@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An authorization server authenticates users or clients and issues access, refresh, and identity tokens according to configured grants.
+> **An authorization server authenticates users or clients and issues access, refresh, and identity tokens according to configured grants.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Authorization server** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. An authorization server authenticates users or clients and issues access, refresh, and identity tokens according to configured grants.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An authorization server authenticates users or clients and issues access, refresh, and identity tokens according to configured grants.
 
 ## 2. Execution Mechanics & Runtime Flow
 

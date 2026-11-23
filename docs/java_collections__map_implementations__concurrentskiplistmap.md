@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ConcurrentSkipListMap is a thread-safe sorted map implemented with a skip list. It supports scalable navigation and range operations.
+> **ConcurrentSkipListMap is a thread-safe sorted map implemented with a skip list. It supports scalable navigation and range operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ConcurrentSkipListMap** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. ConcurrentSkipListMap is a thread-safe sorted map implemented with a skip list. It supports scalable navigation and range operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ConcurrentSkipListMap is a thread-safe sorted map implemented with a skip list. It supports scalable navigation and range operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

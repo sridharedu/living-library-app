@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon S3 is highly durable object storage accessed through APIs. It stores objects inside buckets and supports versioning, lifecycle rules, encryption, replication, and event notifications.
+> **Amazon S3 is highly durable object storage accessed through APIs. It stores objects inside buckets and supports versioning, lifecycle rules, encryption, replication, and event notifications.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Amazon S3 (Simple Storage Service)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Amazon S3 is highly durable object storage accessed through APIs. It stores objects inside buckets and supports versioning, lifecycle rules, encryption, replication, and event notifications.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon S3 is highly durable object storage accessed through APIs. It stores objects inside buckets and supports versioning, lifecycle rules, encryption, replication, and event notifications.
 
 ## 2. Execution Mechanics & Runtime Flow
 

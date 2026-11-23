@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Benefits include self-healing, efficient placement, automated scaling, declarative deployment, service discovery, and repeatable operations.
+> **Benefits include self-healing, efficient placement, automated scaling, declarative deployment, service discovery, and repeatable operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Benefits of Container Orchestration** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Benefits include self-healing, efficient placement, automated scaling, declarative deployment, service discovery, and repeatable operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Benefits include self-healing, efficient placement, automated scaling, declarative deployment, service discovery, and repeatable operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

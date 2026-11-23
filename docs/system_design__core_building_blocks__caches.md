@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Caches store frequently used data closer to consumers to reduce latency and backend work.
+> **Caches store frequently used data closer to consumers to reduce latency and backend work.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Caches** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Caches store frequently used data closer to consumers to reduce latency and backend work.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Caches store frequently used data closer to consumers to reduce latency and backend work.
 
 ## 2. Execution Mechanics & Runtime Flow
 

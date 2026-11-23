@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SQS Standard queues offer very high throughput and at-least-once delivery with best-effort ordering.
+> **SQS Standard queues offer very high throughput and at-least-once delivery with best-effort ordering.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Standard queues** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. SQS Standard queues offer very high throughput and at-least-once delivery with best-effort ordering.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SQS Standard queues offer very high throughput and at-least-once delivery with best-effort ordering.
 
 ## 2. Execution Mechanics & Runtime Flow
 

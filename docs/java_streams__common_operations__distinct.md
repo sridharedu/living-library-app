@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> distinct removes duplicates according to equals and hashCode. It is stateful because previously seen elements must be tracked.
+> **distinct removes duplicates according to equals and hashCode. It is stateful because previously seen elements must be tracked.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**distinct** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. distinct removes duplicates according to equals and hashCode. It is stateful because previously seen elements must be tracked.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+distinct removes duplicates according to equals and hashCode. It is stateful because previously seen elements must be tracked.
 
 ## 2. Execution Mechanics & Runtime Flow
 

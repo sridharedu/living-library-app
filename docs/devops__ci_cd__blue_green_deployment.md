@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Blue-green deployment maintains two production environments and switches traffic from the old version to the new one.
+> **Blue-green deployment maintains two production environments and switches traffic from the old version to the new one.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Blue-green deployment** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Blue-green deployment maintains two production environments and switches traffic from the old version to the new one.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Blue-green deployment maintains two production environments and switches traffic from the old version to the new one.
 
 ## 2. Execution Mechanics & Runtime Flow
 

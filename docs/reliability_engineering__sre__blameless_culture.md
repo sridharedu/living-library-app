@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A blameless culture examines systems, incentives, and conditions rather than punishing individuals for reasonable actions.
+> **A blameless culture examines systems, incentives, and conditions rather than punishing individuals for reasonable actions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Blameless culture** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. A blameless culture examines systems, incentives, and conditions rather than punishing individuals for reasonable actions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A blameless culture examines systems, incentives, and conditions rather than punishing individuals for reasonable actions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

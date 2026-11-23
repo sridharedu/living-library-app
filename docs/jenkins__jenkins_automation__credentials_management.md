@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Jenkins credentials management stores secrets centrally and exposes them to jobs only through controlled bindings and scopes.
+> **Jenkins credentials management stores secrets centrally and exposes them to jobs only through controlled bindings and scopes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Credentials management** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Jenkins credentials management stores secrets centrally and exposes them to jobs only through controlled bindings and scopes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Jenkins credentials management stores secrets centrally and exposes them to jobs only through controlled bindings and scopes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

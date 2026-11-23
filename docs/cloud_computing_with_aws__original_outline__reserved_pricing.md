@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Reserved pricing provides discounts in exchange for a one- or three-year commitment. It is best for predictable baseline usage and requires careful capacity planning.
+> **Reserved pricing provides discounts in exchange for a one- or three-year commitment. It is best for predictable baseline usage and requires careful capacity planning.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reserved Pricing** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Reserved pricing provides discounts in exchange for a one- or three-year commitment. It is best for predictable baseline usage and requires careful capacity planning.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Reserved pricing provides discounts in exchange for a one- or three-year commitment. It is best for predictable baseline usage and requires careful capacity planning.
 
 ## 2. Execution Mechanics & Runtime Flow
 

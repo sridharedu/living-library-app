@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Attribute-Based Access Control grants access using attributes of the user, resource, action, and environment.
+> **Attribute-Based Access Control grants access using attributes of the user, resource, action, and environment.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ABAC** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Attribute-Based Access Control grants access using attributes of the user, resource, action, and environment.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Attribute-Based Access Control grants access using attributes of the user, resource, action, and environment.
 
 ## 2. Execution Mechanics & Runtime Flow
 

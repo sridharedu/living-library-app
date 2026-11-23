@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> S3 supports server-side encryption with S3-managed, KMS-managed, or customer-provided keys, plus client-side encryption.
+> **S3 supports server-side encryption with S3-managed, KMS-managed, or customer-provided keys, plus client-side encryption.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**S3 encryption** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. S3 supports server-side encryption with S3-managed, KMS-managed, or customer-provided keys, plus client-side encryption.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+S3 supports server-side encryption with S3-managed, KMS-managed, or customer-provided keys, plus client-side encryption.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Vertical scaling gives one machine more CPU, memory, or storage. It is simple but eventually reaches hardware and availability limits.
+> **Vertical scaling gives one machine more CPU, memory, or storage. It is simple but eventually reaches hardware and availability limits.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Vertical scaling** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Vertical scaling gives one machine more CPU, memory, or storage. It is simple but eventually reaches hardware and availability limits.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Vertical scaling gives one machine more CPU, memory, or storage. It is simple but eventually reaches hardware and availability limits.
 
 ## 2. Execution Mechanics & Runtime Flow
 

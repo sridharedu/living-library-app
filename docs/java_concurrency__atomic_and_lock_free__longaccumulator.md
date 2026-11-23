@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> LongAccumulator generalizes LongAdder by combining values with a supplied associative function and identity.
+> **LongAccumulator generalizes LongAdder by combining values with a supplied associative function and identity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**LongAccumulator** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. LongAccumulator generalizes LongAdder by combining values with a supplied associative function and identity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+LongAccumulator generalizes LongAdder by combining values with a supplied associative function and identity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

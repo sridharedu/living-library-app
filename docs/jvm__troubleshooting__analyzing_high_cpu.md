@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> For high CPU, identify the busy operating-system thread, map it to the JVM thread, inspect repeated stack traces, and confirm with a profiler.
+> **For high CPU, identify the busy operating-system thread, map it to the JVM thread, inspect repeated stack traces, and confirm with a profiler.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Analyzing high CPU** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. For high CPU, identify the busy operating-system thread, map it to the JVM thread, inspect repeated stack traces, and confirm with a profiler.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+For high CPU, identify the busy operating-system thread, map it to the JVM thread, inspect repeated stack traces, and confirm with a profiler.
 
 ## 2. Execution Mechanics & Runtime Flow
 

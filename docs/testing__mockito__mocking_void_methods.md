@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Void methods are stubbed with doNothing, doThrow, doAnswer, or doCallRealMethod.
+> **Void methods are stubbed with doNothing, doThrow, doAnswer, or doCallRealMethod.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mocking void methods** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Void methods are stubbed with doNothing, doThrow, doAnswer, or doCallRealMethod.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Void methods are stubbed with doNothing, doThrow, doAnswer, or doCallRealMethod.
 
 ## 2. Execution Mechanics & Runtime Flow
 

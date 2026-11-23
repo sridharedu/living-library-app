@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mocks can be created with mock() or annotations. Stubbing defines what a method should return or throw for a given input.
+> **Mocks can be created with mock() or annotations. Stubbing defines what a method should return or throw for a given input.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Creating Mocks and Stubs** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Mocks can be created with mock() or annotations. Stubbing defines what a method should return or throw for a given input.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mocks can be created with mock() or annotations. Stubbing defines what a method should return or throw for a given input.
 
 ## 2. Execution Mechanics & Runtime Flow
 

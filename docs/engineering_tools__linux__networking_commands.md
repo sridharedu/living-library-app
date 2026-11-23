@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Common Linux networking tools include ip, ss, ping, traceroute, dig, curl, tcpdump, and nc.
+> **Common Linux networking tools include ip, ss, ping, traceroute, dig, curl, tcpdump, and nc.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Networking commands** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Common Linux networking tools include ip, ss, ping, traceroute, dig, curl, tcpdump, and nc.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Common Linux networking tools include ip, ss, ping, traceroute, dig, curl, tcpdump, and nc.
 
 ## 2. Execution Mechanics & Runtime Flow
 

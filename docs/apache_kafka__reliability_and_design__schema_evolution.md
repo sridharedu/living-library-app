@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Schema evolution changes message formats while preserving compatibility with existing producers, consumers, and retained data.
+> **Schema evolution changes message formats while preserving compatibility with existing producers, consumers, and retained data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Schema evolution** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Schema evolution changes message formats while preserving compatibility with existing producers, consumers, and retained data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Schema evolution changes message formats while preserving compatibility with existing producers, consumers, and retained data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ArrayList stores elements in a resizable array. Random access is fast, while insertion or removal in the middle shifts elements.
+> **ArrayList stores elements in a resizable array. Random access is fast, while insertion or removal in the middle shifts elements.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ArrayList internals** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. ArrayList stores elements in a resizable array. Random access is fast, while insertion or removal in the middle shifts elements.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ArrayList stores elements in a resizable array. Random access is fast, while insertion or removal in the middle shifts elements.
 
 ## 2. Execution Mechanics & Runtime Flow
 

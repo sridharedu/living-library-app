@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Container Runtime Interface lets kubelet communicate with compatible runtimes through a standard API.
+> **The Container Runtime Interface lets kubelet communicate with compatible runtimes through a standard API.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CRI** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Container Runtime Interface lets kubelet communicate with compatible runtimes through a standard API.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Container Runtime Interface lets kubelet communicate with compatible runtimes through a standard API.
 
 ## 2. Execution Mechanics & Runtime Flow
 

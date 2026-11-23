@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Project Object Model defines Maven project metadata, dependencies, plugins, modules, properties, and build configuration.
+> **The Project Object Model defines Maven project metadata, dependencies, plugins, modules, properties, and build configuration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**POM** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. The Project Object Model defines Maven project metadata, dependencies, plugins, modules, properties, and build configuration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Project Object Model defines Maven project metadata, dependencies, plugins, modules, properties, and build configuration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

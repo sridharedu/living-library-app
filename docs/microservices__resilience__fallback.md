@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A fallback returns an alternate result or reduced capability when a dependency fails. It must not hide critical errors or return misleading data.
+> **A fallback returns an alternate result or reduced capability when a dependency fails. It must not hide critical errors or return misleading data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Fallback** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. A fallback returns an alternate result or reduced capability when a dependency fails. It must not hide critical errors or return misleading data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A fallback returns an alternate result or reduced capability when a dependency fails. It must not hide critical errors or return misleading data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring uses JDK dynamic proxies when the target exposes interfaces. The proxy implements those interfaces.
+> **Spring uses JDK dynamic proxies when the target exposes interfaces. The proxy implements those interfaces.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JDK dynamic proxy** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. Spring uses JDK dynamic proxies when the target exposes interfaces. The proxy implements those interfaces.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring uses JDK dynamic proxies when the target exposes interfaces. The proxy implements those interfaces.
 
 ## 2. Execution Mechanics & Runtime Flow
 

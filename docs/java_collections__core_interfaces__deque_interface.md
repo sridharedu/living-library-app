@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Deque supports insertion and removal at both ends. It can act as a queue or stack and is usually preferred over Stack.
+> **Deque supports insertion and removal at both ends. It can act as a queue or stack and is usually preferred over Stack.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Deque interface** serves as a foundational component within *Core Interfaces* in the broader **Java Collections** ecosystem. Deque supports insertion and removal at both ends. It can act as a queue or stack and is usually preferred over Stack.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Deque supports insertion and removal at both ends. It can act as a queue or stack and is usually preferred over Stack.
 
 ## 2. Execution Mechanics & Runtime Flow
 

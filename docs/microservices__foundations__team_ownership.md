@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Strong service ownership means one team is responsible for design, delivery, operation, reliability, and evolution of a capability.
+> **Strong service ownership means one team is responsible for design, delivery, operation, reliability, and evolution of a capability.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Team ownership** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Strong service ownership means one team is responsible for design, delivery, operation, reliability, and evolution of a capability.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Strong service ownership means one team is responsible for design, delivery, operation, reliability, and evolution of a capability.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon EC2 provides resizable virtual machines with configurable compute, storage, networking, operating systems, and purchasing models.
+> **Amazon EC2 provides resizable virtual machines with configurable compute, storage, networking, operating systems, and purchasing models.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Amazon EC2** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. Amazon EC2 provides resizable virtual machines with configurable compute, storage, networking, operating systems, and purchasing models.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon EC2 provides resizable virtual machines with configurable compute, storage, networking, operating systems, and purchasing models.
 
 ## 2. Execution Mechanics & Runtime Flow
 

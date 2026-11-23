@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> jstack prints JVM thread stacks and can expose deadlocks, blocked threads, and current execution locations.
+> **jstack prints JVM thread stacks and can expose deadlocks, blocked threads, and current execution locations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**jstack** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. jstack prints JVM thread stacks and can expose deadlocks, blocked threads, and current execution locations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+jstack prints JVM thread stacks and can expose deadlocks, blocked threads, and current execution locations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

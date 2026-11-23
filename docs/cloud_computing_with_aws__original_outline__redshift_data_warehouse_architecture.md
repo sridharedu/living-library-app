@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Redshift distributes data and query work across compute nodes using columnar storage and parallel execution. Distribution and sort choices strongly affect performance.
+> **Redshift distributes data and query work across compute nodes using columnar storage and parallel execution. Distribution and sort choices strongly affect performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Redshift Data Warehouse Architecture** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Redshift distributes data and query work across compute nodes using columnar storage and parallel execution. Distribution and sort choices strongly affect performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Redshift distributes data and query work across compute nodes using columnar storage and parallel execution. Distribution and sort choices strongly affect performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @Transactional defines transaction boundaries and settings such as propagation, isolation, read-only behavior, timeout, and rollback rules.
+> **@Transactional defines transaction boundaries and settings such as propagation, isolation, read-only behavior, timeout, and rollback rules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Transactional annotation** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. @Transactional defines transaction boundaries and settings such as propagation, isolation, read-only behavior, timeout, and rollback rules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@Transactional defines transaction boundaries and settings such as propagation, isolation, read-only behavior, timeout, and rollback rules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

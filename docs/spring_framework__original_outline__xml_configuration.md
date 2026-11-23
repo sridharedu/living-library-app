@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> XML AOP configuration declares aspects, advice, and pointcuts outside Java code. It is mostly found in legacy applications and is more verbose than annotation-based configuration.
+> **XML AOP configuration declares aspects, advice, and pointcuts outside Java code. It is mostly found in legacy applications and is more verbose than annotation-based configuration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**XML Configuration** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. XML AOP configuration declares aspects, advice, and pointcuts outside Java code. It is mostly found in legacy applications and is more verbose than annotation-based configuration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+XML AOP configuration declares aspects, advice, and pointcuts outside Java code. It is mostly found in legacy applications and is more verbose than annotation-based configuration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

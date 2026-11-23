@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Collection is the root interface for groups of elements, excluding maps. It defines operations such as add, remove, contains, size, and iteration.
+> **Collection is the root interface for groups of elements, excluding maps. It defines operations such as add, remove, contains, size, and iteration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collection interface** serves as a foundational component within *Core Interfaces* in the broader **Java Collections** ecosystem. Collection is the root interface for groups of elements, excluding maps. It defines operations such as add, remove, contains, size, and iteration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Collection is the root interface for groups of elements, excluding maps. It defines operations such as add, remove, contains, size, and iteration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

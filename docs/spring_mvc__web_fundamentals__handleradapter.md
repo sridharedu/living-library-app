@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> HandlerAdapter invokes the selected handler using the correct calling strategy and converts its result into the MVC processing flow.
+> **HandlerAdapter invokes the selected handler using the correct calling strategy and converts its result into the MVC processing flow.**
 
 ---
 

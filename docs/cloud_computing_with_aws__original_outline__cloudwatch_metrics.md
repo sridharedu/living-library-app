@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CloudWatch metrics are time-series measurements such as CPU usage, latency, request count, or custom business values. Metrics are organized by namespace and dimensions.
+> **CloudWatch metrics are time-series measurements such as CPU usage, latency, request count, or custom business values. Metrics are organized by namespace and dimensions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CloudWatch Metrics** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. CloudWatch metrics are time-series measurements such as CPU usage, latency, request count, or custom business values. Metrics are organized by namespace and dimensions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CloudWatch metrics are time-series measurements such as CPU usage, latency, request count, or custom business values. Metrics are organized by namespace and dimensions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

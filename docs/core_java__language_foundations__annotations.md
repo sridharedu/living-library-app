@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Annotations attach metadata to code for compilers, frameworks, tools, or runtime reflection. They do not execute behavior by themselves.
+> **Annotations attach metadata to code for compilers, frameworks, tools, or runtime reflection. They do not execute behavior by themselves.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Annotations** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Annotations attach metadata to code for compilers, frameworks, tools, or runtime reflection. They do not execute behavior by themselves.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Annotations attach metadata to code for compilers, frameworks, tools, or runtime reflection. They do not execute behavior by themselves.
 
 ## 2. Execution Mechanics & Runtime Flow
 

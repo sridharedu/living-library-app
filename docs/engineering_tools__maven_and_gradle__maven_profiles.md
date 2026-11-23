@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Maven profiles conditionally alter configuration for environments or build scenarios, but excessive profile use can hide complexity.
+> **Maven profiles conditionally alter configuration for environments or build scenarios, but excessive profile use can hide complexity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Maven profiles** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. Maven profiles conditionally alter configuration for environments or build scenarios, but excessive profile use can hide complexity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Maven profiles conditionally alter configuration for environments or build scenarios, but excessive profile use can hide complexity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

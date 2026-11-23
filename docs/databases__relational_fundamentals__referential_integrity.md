@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Referential integrity ensures relationships remain valid so foreign-key values point to existing rows or are appropriately null.
+> **Referential integrity ensures relationships remain valid so foreign-key values point to existing rows or are appropriately null.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Referential integrity** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Referential integrity ensures relationships remain valid so foreign-key values point to existing rows or are appropriately null.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Referential integrity ensures relationships remain valid so foreign-key values point to existing rows or are appropriately null.
 
 ## 2. Execution Mechanics & Runtime Flow
 

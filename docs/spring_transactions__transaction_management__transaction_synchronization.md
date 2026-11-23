@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Transaction synchronization registers callbacks that run before commit, after commit, after completion, or when resources are bound and released.
+> **Transaction synchronization registers callbacks that run before commit, after commit, after completion, or when resources are bound and released.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Transaction synchronization** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. Transaction synchronization registers callbacks that run before commit, after commit, after completion, or when resources are bound and released.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Transaction synchronization registers callbacks that run before commit, after commit, after completion, or when resources are bound and released.
 
 ## 2. Execution Mechanics & Runtime Flow
 

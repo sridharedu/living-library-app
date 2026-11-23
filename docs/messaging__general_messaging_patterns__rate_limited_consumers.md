@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Rate-limited consumers control processing speed with permits, delayed retries, bounded concurrency, or broker prefetch settings.
+> **Rate-limited consumers control processing speed with permits, delayed retries, bounded concurrency, or broker prefetch settings.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Rate-limited consumers** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Rate-limited consumers control processing speed with permits, delayed retries, bounded concurrency, or broker prefetch settings.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Rate-limited consumers control processing speed with permits, delayed retries, bounded concurrency, or broker prefetch settings.
 
 ## 2. Execution Mechanics & Runtime Flow
 

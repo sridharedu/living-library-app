@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Nested tests group related scenarios hierarchically and can share contextual setup through nested classes.
+> **Nested tests group related scenarios hierarchically and can share contextual setup through nested classes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Nested tests** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Nested tests group related scenarios hierarchically and can share contextual setup through nested classes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Nested tests group related scenarios hierarchically and can share contextual setup through nested classes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An idempotent API produces the same intended result when the same request is repeated, usually through stable identifiers or idempotency keys.
+> **An idempotent API produces the same intended result when the same request is repeated, usually through stable identifiers or idempotency keys.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Idempotent APIs** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. An idempotent API produces the same intended result when the same request is repeated, usually through stable identifiers or idempotency keys.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An idempotent API produces the same intended result when the same request is repeated, usually through stable identifiers or idempotency keys.
 
 ## 2. Execution Mechanics & Runtime Flow
 

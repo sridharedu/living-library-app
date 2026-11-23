@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> partitioningBy divides elements into two groups keyed by true and false based on a Predicate.
+> **partitioningBy divides elements into two groups keyed by true and false based on a Predicate.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collectors.partitioningBy** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. partitioningBy divides elements into two groups keyed by true and false based on a Predicate.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+partitioningBy divides elements into two groups keyed by true and false based on a Predicate.
 
 ## 2. Execution Mechanics & Runtime Flow
 

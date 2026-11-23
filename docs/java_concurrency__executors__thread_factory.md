@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A ThreadFactory centralizes thread naming, daemon status, priority, uncaught-exception handlers, and other creation settings.
+> **A ThreadFactory centralizes thread naming, daemon status, priority, uncaught-exception handlers, and other creation settings.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Thread factory** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. A ThreadFactory centralizes thread naming, daemon status, priority, uncaught-exception handlers, and other creation settings.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A ThreadFactory centralizes thread naming, daemon status, priority, uncaught-exception handlers, and other creation settings.
 
 ## 2. Execution Mechanics & Runtime Flow
 

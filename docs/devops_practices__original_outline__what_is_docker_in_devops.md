@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> In DevOps, Docker provides a portable build and runtime unit. The same image can move through pipeline stages and environments with fewer configuration differences.
+> **In DevOps, Docker provides a portable build and runtime unit. The same image can move through pipeline stages and environments with fewer configuration differences.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Docker in DevOps?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. In DevOps, Docker provides a portable build and runtime unit. The same image can move through pipeline stages and environments with fewer configuration differences.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+In DevOps, Docker provides a portable build and runtime unit. The same image can move through pipeline stages and environments with fewer configuration differences.
 
 ## 2. Execution Mechanics & Runtime Flow
 

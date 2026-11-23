@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Taints repel Pods from nodes, while tolerations allow selected Pods to be scheduled there.
+> **Taints repel Pods from nodes, while tolerations allow selected Pods to be scheduled there.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Taints and tolerations** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Taints repel Pods from nodes, while tolerations allow selected Pods to be scheduled there.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Taints repel Pods from nodes, while tolerations allow selected Pods to be scheduled there.
 
 ## 2. Execution Mechanics & Runtime Flow
 

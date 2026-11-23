@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A ticket booking system must prevent overselling through holds, expirations, concurrency control, idempotent payment, and clear reservation state transitions.
+> **A ticket booking system must prevent overselling through holds, expirations, concurrency control, idempotent payment, and clear reservation state transitions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design a ticket booking system** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A ticket booking system must prevent overselling through holds, expirations, concurrency control, idempotent payment, and clear reservation state transitions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A ticket booking system must prevent overselling through holds, expirations, concurrency control, idempotent payment, and clear reservation state transitions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

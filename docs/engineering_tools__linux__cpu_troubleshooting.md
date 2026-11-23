@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CPU troubleshooting identifies busy processes and threads, load averages, run queues, system time, IO wait, and hot stack traces.
+> **CPU troubleshooting identifies busy processes and threads, load averages, run queues, system time, IO wait, and hot stack traces.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CPU troubleshooting** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. CPU troubleshooting identifies busy processes and threads, load averages, run queues, system time, IO wait, and hot stack traces.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CPU troubleshooting identifies busy processes and threads, load averages, run queues, system time, IO wait, and hot stack traces.
 
 ## 2. Execution Mechanics & Runtime Flow
 

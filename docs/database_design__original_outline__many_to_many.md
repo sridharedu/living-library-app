@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A many-to-many relationship uses a junction table containing foreign keys to both entities. The junction may also store relationship attributes.
+> **A many-to-many relationship uses a junction table containing foreign keys to both entities. The junction may also store relationship attributes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Many-to-Many** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. A many-to-many relationship uses a junction table containing foreign keys to both entities. The junction may also store relationship attributes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A many-to-many relationship uses a junction table containing foreign keys to both entities. The junction may also store relationship attributes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

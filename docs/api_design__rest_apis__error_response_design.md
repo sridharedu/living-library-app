@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A good API error response includes a stable code, human-readable message, relevant details, correlation ID, and correct HTTP status.
+> **A good API error response includes a stable code, human-readable message, relevant details, correlation ID, and correct HTTP status.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Error response design** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. A good API error response includes a stable code, human-readable message, relevant details, correlation ID, and correct HTTP status.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A good API error response includes a stable code, human-readable message, relevant details, correlation ID, and correct HTTP status.
 
 ## 2. Execution Mechanics & Runtime Flow
 

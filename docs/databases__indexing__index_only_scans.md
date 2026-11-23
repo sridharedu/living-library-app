@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An index-only scan returns query results entirely from the index when visibility rules and required columns allow it.
+> **An index-only scan returns query results entirely from the index when visibility rules and required columns allow it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Index-only scans** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. An index-only scan returns query results entirely from the index when visibility rules and required columns allow it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An index-only scan returns query results entirely from the index when visibility rules and required columns allow it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

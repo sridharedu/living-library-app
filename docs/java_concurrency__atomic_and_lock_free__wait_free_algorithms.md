@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A wait-free algorithm guarantees every thread completes its operation within a bounded number of steps. This guarantee is stronger than lock-free.
+> **A wait-free algorithm guarantees every thread completes its operation within a bounded number of steps. This guarantee is stronger than lock-free.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Wait-free algorithms** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. A wait-free algorithm guarantees every thread completes its operation within a bounded number of steps. This guarantee is stronger than lock-free.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A wait-free algorithm guarantees every thread completes its operation within a bounded number of steps. This guarantee is stronger than lock-free.
 
 ## 2. Execution Mechanics & Runtime Flow
 

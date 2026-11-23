@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Parameter Store provides hierarchical configuration and secret storage with versioning, IAM control, and optional KMS encryption.
+> **Parameter Store provides hierarchical configuration and secret storage with versioning, IAM control, and optional KMS encryption.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Systems Manager Parameter Store** serves as a foundational component within *Security* in the broader **AWS** ecosystem. Parameter Store provides hierarchical configuration and secret storage with versioning, IAM control, and optional KMS encryption.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Parameter Store provides hierarchical configuration and secret storage with versioning, IAM control, and optional KMS encryption.
 
 ## 2. Execution Mechanics & Runtime Flow
 

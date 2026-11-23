@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Zero trust assumes no network location is inherently trusted and continuously verifies identity, device, context, and least-privilege access.
+> **Zero trust assumes no network location is inherently trusted and continuously verifies identity, device, context, and least-privilege access.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Zero trust** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Zero trust assumes no network location is inherently trusted and continuously verifies identity, device, context, and least-privilege access.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Zero trust assumes no network location is inherently trusted and continuously verifies identity, device, context, and least-privilege access.
 
 ## 2. Execution Mechanics & Runtime Flow
 

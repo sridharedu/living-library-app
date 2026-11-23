@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Polyglot persistence selects different storage technologies for different service needs, such as relational, document, key-value, or graph databases.
+> **Polyglot persistence selects different storage technologies for different service needs, such as relational, document, key-value, or graph databases.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Polyglot persistence** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Polyglot persistence selects different storage technologies for different service needs, such as relational, document, key-value, or graph databases.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Polyglot persistence selects different storage technologies for different service needs, such as relational, document, key-value, or graph databases.
 
 ## 2. Execution Mechanics & Runtime Flow
 

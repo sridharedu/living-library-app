@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A cached thread pool creates threads as needed and reuses idle ones. It can grow rapidly and is risky for unbounded workloads.
+> **A cached thread pool creates threads as needed and reuses idle ones. It can grow rapidly and is risky for unbounded workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cached thread pool** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. A cached thread pool creates threads as needed and reuses idle ones. It can grow rapidly and is risky for unbounded workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A cached thread pool creates threads as needed and reuses idle ones. It can grow rapidly and is risky for unbounded workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

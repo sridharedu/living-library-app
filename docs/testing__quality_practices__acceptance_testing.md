@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Acceptance testing verifies that a feature satisfies business requirements and user-visible outcomes.
+> **Acceptance testing verifies that a feature satisfies business requirements and user-visible outcomes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Acceptance testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Acceptance testing verifies that a feature satisfies business requirements and user-visible outcomes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Acceptance testing verifies that a feature satisfies business requirements and user-visible outcomes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A job scheduler stores schedules and state, elects or coordinates workers, dispatches tasks once or idempotently, retries failures, and handles misfires.
+> **A job scheduler stores schedules and state, elects or coordinates workers, dispatches tasks once or idempotently, retries failures, and handles misfires.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design a job scheduler** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A job scheduler stores schedules and state, elects or coordinates workers, dispatches tasks once or idempotently, retries failures, and handles misfires.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A job scheduler stores schedules and state, elects or coordinates workers, dispatches tasks once or idempotently, retries failures, and handles misfires.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> min and max return an Optional containing the smallest or largest element according to a Comparator.
+> **min and max return an Optional containing the smallest or largest element according to a Comparator.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**min and max** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. min and max return an Optional containing the smallest or largest element according to a Comparator.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+min and max return an Optional containing the smallest or largest element according to a Comparator.
 
 ## 2. Execution Mechanics & Runtime Flow
 

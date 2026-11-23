@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Global Accelerator routes traffic through the AWS global network to healthy regional endpoints using static anycast IP addresses.
+> **AWS Global Accelerator routes traffic through the AWS global network to healthy regional endpoints using static anycast IP addresses.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Global Accelerator** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. AWS Global Accelerator routes traffic through the AWS global network to healthy regional endpoints using static anycast IP addresses.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Global Accelerator routes traffic through the AWS global network to healthy regional endpoints using static anycast IP addresses.
 
 ## 2. Execution Mechanics & Runtime Flow
 

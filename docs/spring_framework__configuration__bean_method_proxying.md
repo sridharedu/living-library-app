@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Full @Configuration classes proxy @Bean method calls so repeated inter-bean calls return managed singleton instances rather than new objects.
+> **Full @Configuration classes proxy @Bean method calls so repeated inter-bean calls return managed singleton instances rather than new objects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Bean method proxying** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Full @Configuration classes proxy @Bean method calls so repeated inter-bean calls return managed singleton instances rather than new objects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Full @Configuration classes proxy @Bean method calls so repeated inter-bean calls return managed singleton instances rather than new objects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

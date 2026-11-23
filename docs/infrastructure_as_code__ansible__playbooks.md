@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Ansible playbooks are YAML files that apply ordered plays and tasks to selected hosts.
+> **Ansible playbooks are YAML files that apply ordered plays and tasks to selected hosts.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Playbooks** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Ansible playbooks are YAML files that apply ordered plays and tasks to selected hosts.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Ansible playbooks are YAML files that apply ordered plays and tasks to selected hosts.
 
 ## 2. Execution Mechanics & Runtime Flow
 

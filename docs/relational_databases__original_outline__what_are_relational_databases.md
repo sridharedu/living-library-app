@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Relational databases store data in tables linked by keys and queried with SQL. They are strong when structured schemas, transactions, and relationships matter.
+> **Relational databases store data in tables linked by keys and queried with SQL. They are strong when structured schemas, transactions, and relationships matter.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What are Relational Databases?** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. Relational databases store data in tables linked by keys and queried with SQL. They are strong when structured schemas, transactions, and relationships matter.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Relational databases store data in tables linked by keys and queried with SQL. They are strong when structured schemas, transactions, and relationships matter.
 
 ## 2. Execution Mechanics & Runtime Flow
 

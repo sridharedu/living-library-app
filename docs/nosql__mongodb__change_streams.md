@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> MongoDB change streams expose real-time insert, update, replace, and delete events from the replication log.
+> **MongoDB change streams expose real-time insert, update, replace, and delete events from the replication log.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Change streams** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. MongoDB change streams expose real-time insert, update, replace, and delete events from the replication log.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+MongoDB change streams expose real-time insert, update, replace, and delete events from the replication log.
 
 ## 2. Execution Mechanics & Runtime Flow
 

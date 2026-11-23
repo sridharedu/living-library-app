@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A source connector reads data from an external system and publishes it to Kafka topics.
+> **A source connector reads data from an external system and publishes it to Kafka topics.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Source connectors** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. A source connector reads data from an external system and publishes it to Kafka topics.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A source connector reads data from an external system and publishes it to Kafka topics.
 
 ## 2. Execution Mechanics & Runtime Flow
 

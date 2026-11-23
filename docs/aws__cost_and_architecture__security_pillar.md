@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Security pillar emphasizes identity, traceability, layered protection, data protection, and automated security practices.
+> **The Security pillar emphasizes identity, traceability, layered protection, data protection, and automated security practices.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Security pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. The Security pillar emphasizes identity, traceability, layered protection, data protection, and automated security practices.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Security pillar emphasizes identity, traceability, layered protection, data protection, and automated security practices.
 
 ## 2. Execution Mechanics & Runtime Flow
 

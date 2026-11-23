@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Many NoSQL systems provide built-in sharding, while SQL systems often need explicit partitioning or middleware. SQL sharding is harder when joins and transactions span shards.
+> **Many NoSQL systems provide built-in sharding, while SQL systems often need explicit partitioning or middleware. SQL sharding is harder when joins and transactions span shards.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Sharding in NoSQL vs SQL Databases** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Many NoSQL systems provide built-in sharding, while SQL systems often need explicit partitioning or middleware. SQL sharding is harder when joins and transactions span shards.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Many NoSQL systems provide built-in sharding, while SQL systems often need explicit partitioning or middleware. SQL sharding is harder when joins and transactions span shards.
 
 ## 2. Execution Mechanics & Runtime Flow
 

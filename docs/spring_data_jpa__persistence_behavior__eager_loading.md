@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Eager loading fetches related data immediately with the parent entity. It can simplify access but may load too much data and create large joins.
+> **Eager loading fetches related data immediately with the parent entity. It can simplify access but may load too much data and create large joins.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Eager loading** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. Eager loading fetches related data immediately with the parent entity. It can simplify access but may load too much data and create large joins.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Eager loading fetches related data immediately with the parent entity. It can simplify access but may load too much data and create large joins.
 
 ## 2. Execution Mechanics & Runtime Flow
 

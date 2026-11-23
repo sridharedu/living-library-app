@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Global handlers centralize error mapping, logging, status codes, and response shape. In Spring, @ControllerAdvice is commonly used for this purpose.
+> **Global handlers centralize error mapping, logging, status codes, and response shape. In Spring, @ControllerAdvice is commonly used for this purpose.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Global exception handling patterns** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Global handlers centralize error mapping, logging, status codes, and response shape. In Spring, @ControllerAdvice is commonly used for this purpose.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Global handlers centralize error mapping, logging, status codes, and response shape. In Spring, @ControllerAdvice is commonly used for this purpose.
 
 ## 2. Execution Mechanics & Runtime Flow
 

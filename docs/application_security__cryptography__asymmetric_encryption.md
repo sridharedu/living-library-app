@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Asymmetric encryption uses a public-private key pair for encryption, signatures, or secure key exchange.
+> **Asymmetric encryption uses a public-private key pair for encryption, signatures, or secure key exchange.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Asymmetric encryption** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Asymmetric encryption uses a public-private key pair for encryption, signatures, or secure key exchange.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Asymmetric encryption uses a public-private key pair for encryption, signatures, or secure key exchange.
 
 ## 2. Execution Mechanics & Runtime Flow
 

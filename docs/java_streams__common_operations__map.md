@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> map transforms each stream element into another value using a Function. It preserves one output per input.
+> **map transforms each stream element into another value using a Function. It preserves one output per input.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**map** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. map transforms each stream element into another value using a Function. It preserves one output per input.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+map transforms each stream element into another value using a Function. It preserves one output per input.
 
 ## 2. Execution Mechanics & Runtime Flow
 

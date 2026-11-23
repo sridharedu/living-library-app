@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Anonymous authentication gives unauthenticated requests a consistent Authentication object with an anonymous identity.
+> **Anonymous authentication gives unauthenticated requests a consistent Authentication object with an anonymous identity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Anonymous authentication** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. Anonymous authentication gives unauthenticated requests a consistent Authentication object with an anonymous identity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Anonymous authentication gives unauthenticated requests a consistent Authentication object with an anonymous identity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

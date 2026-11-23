@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Jenkins is an open-source automation server used to build, test, and deploy software. It turns delivery steps into repeatable jobs or pipelines triggered by code changes or schedules.
+> **Jenkins is an open-source automation server used to build, test, and deploy software. It turns delivery steps into repeatable jobs or pipelines triggered by code changes or schedules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Jenkins?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Jenkins is an open-source automation server used to build, test, and deploy software. It turns delivery steps into repeatable jobs or pipelines triggered by code changes or schedules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Jenkins is an open-source automation server used to build, test, and deploy software. It turns delivery steps into repeatable jobs or pipelines triggered by code changes or schedules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

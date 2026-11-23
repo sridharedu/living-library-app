@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An AWS Region is a separate geographic area containing multiple isolated Availability Zones.
+> **An AWS Region is a separate geographic area containing multiple isolated Availability Zones.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Regions** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. An AWS Region is a separate geographic area containing multiple isolated Availability Zones.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An AWS Region is a separate geographic area containing multiple isolated Availability Zones.
 
 ## 2. Execution Mechanics & Runtime Flow
 

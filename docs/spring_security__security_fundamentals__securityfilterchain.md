@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SecurityFilterChain defines which Spring Security filters apply to matching requests and how authentication and authorization are configured.
+> **SecurityFilterChain defines which Spring Security filters apply to matching requests and how authentication and authorization are configured.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SecurityFilterChain** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. SecurityFilterChain defines which Spring Security filters apply to matching requests and how authentication and authorization are configured.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SecurityFilterChain defines which Spring Security filters apply to matching requests and how authentication and authorization are configured.
 
 ## 2. Execution Mechanics & Runtime Flow
 

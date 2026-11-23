@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A non-repeatable read occurs when the same row is read twice and returns different committed values because another transaction updated it.
+> **A non-repeatable read occurs when the same row is read twice and returns different committed values because another transaction updated it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Non-repeatable reads** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. A non-repeatable read occurs when the same row is read twice and returns different committed values because another transaction updated it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A non-repeatable read occurs when the same row is read twice and returns different committed values because another transaction updated it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

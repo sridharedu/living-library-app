@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Transport Layer Security authenticates endpoints and provides encrypted, integrity-protected network communication.
+> **Transport Layer Security authenticates endpoints and provides encrypted, integrity-protected network communication.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**TLS** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Transport Layer Security authenticates endpoints and provides encrypted, integrity-protected network communication.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Transport Layer Security authenticates endpoints and provides encrypted, integrity-protected network communication.
 
 ## 2. Execution Mechanics & Runtime Flow
 

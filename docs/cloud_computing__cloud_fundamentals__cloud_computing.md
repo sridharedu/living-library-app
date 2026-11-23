@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cloud computing delivers compute, storage, networking, databases, and software as on-demand services with metered usage.
+> **Cloud computing delivers compute, storage, networking, databases, and software as on-demand services with metered usage.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cloud computing** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Cloud computing delivers compute, storage, networking, databases, and software as on-demand services with metered usage.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cloud computing delivers compute, storage, networking, databases, and software as on-demand services with metered usage.
 
 ## 2. Execution Mechanics & Runtime Flow
 

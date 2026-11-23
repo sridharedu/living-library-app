@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Git commit points to a tree snapshot, parent commits, author metadata, and a message.
+> **A Git commit points to a tree snapshot, parent commits, author metadata, and a message.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Commits** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. A Git commit points to a tree snapshot, parent commits, author metadata, and a message.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Git commit points to a tree snapshot, parent commits, author metadata, and a message.
 
 ## 2. Execution Mechanics & Runtime Flow
 

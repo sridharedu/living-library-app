@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Command represents an action as an object, enabling queuing, retries, logging, undo, and decoupled invocation.
+> **Command represents an action as an object, enabling queuing, retries, logging, undo, and decoupled invocation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Command** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Command represents an action as an object, enabling queuing, retries, logging, undo, and decoupled invocation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Command represents an action as an object, enabling queuing, retries, logging, undo, and decoupled invocation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

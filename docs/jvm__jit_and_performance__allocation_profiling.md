@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Allocation profiling shows which code creates objects and at what rate, helping find avoidable churn and GC pressure.
+> **Allocation profiling shows which code creates objects and at what rate, helping find avoidable churn and GC pressure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Allocation profiling** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Allocation profiling shows which code creates objects and at what rate, helping find avoidable churn and GC pressure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Allocation profiling shows which code creates objects and at what rate, helping find avoidable churn and GC pressure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

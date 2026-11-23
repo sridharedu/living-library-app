@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The control plane exposes the API, stores cluster state, schedules Pods, and runs controllers. It is the decision-making layer of Kubernetes.
+> **The control plane exposes the API, stores cluster state, schedules Pods, and runs controllers. It is the decision-making layer of Kubernetes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Kubernetes Control Plane** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. The control plane exposes the API, stores cluster state, schedules Pods, and runs controllers. It is the decision-making layer of Kubernetes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The control plane exposes the API, stores cluster state, schedules Pods, and runs controllers. It is the decision-making layer of Kubernetes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kubernetes audit logging records API activity, including who performed an action, what resource was affected, and the result.
+> **Kubernetes audit logging records API activity, including who performed an action, what resource was affected, and the result.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Audit logging** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Kubernetes audit logging records API activity, including who performed an action, what resource was affected, and the result.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kubernetes audit logging records API activity, including who performed an action, what resource was affected, and the result.
 
 ## 2. Execution Mechanics & Runtime Flow
 

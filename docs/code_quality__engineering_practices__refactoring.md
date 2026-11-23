@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Refactoring improves internal structure without changing externally observable behavior.
+> **Refactoring improves internal structure without changing externally observable behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Refactoring** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Refactoring improves internal structure without changing externally observable behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Refactoring improves internal structure without changing externally observable behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

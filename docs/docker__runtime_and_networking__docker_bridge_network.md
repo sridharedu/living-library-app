@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The bridge driver creates an isolated network on one Docker host and supports container DNS on user-defined bridges.
+> **The bridge driver creates an isolated network on one Docker host and supports container DNS on user-defined bridges.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Docker bridge network** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. The bridge driver creates an isolated network on one Docker host and supports container DNS on user-defined bridges.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The bridge driver creates an isolated network on one Docker host and supports container DNS on user-defined bridges.
 
 ## 2. Execution Mechanics & Runtime Flow
 

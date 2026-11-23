@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A data pipeline moves and transforms data through ingestion, validation, storage, processing, and serving stages.
+> **A data pipeline moves and transforms data through ingestion, validation, storage, processing, and serving stages.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Data pipelines** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. A data pipeline moves and transforms data through ingestion, validation, storage, processing, and serving stages.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A data pipeline moves and transforms data through ingestion, validation, storage, processing, and serving stages.
 
 ## 2. Execution Mechanics & Runtime Flow
 

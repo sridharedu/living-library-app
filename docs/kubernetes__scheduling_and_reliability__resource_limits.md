@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Resource limits cap container resource usage; CPU is throttled, while exceeding memory may cause termination.
+> **Resource limits cap container resource usage; CPU is throttled, while exceeding memory may cause termination.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Resource limits** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Resource limits cap container resource usage; CPU is throttled, while exceeding memory may cause termination.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Resource limits cap container resource usage; CPU is throttled, while exceeding memory may cause termination.
 
 ## 2. Execution Mechanics & Runtime Flow
 

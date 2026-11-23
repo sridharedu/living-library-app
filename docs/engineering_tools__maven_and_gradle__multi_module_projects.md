@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Maven multi-module build uses an aggregator POM to build related modules in dependency order.
+> **A Maven multi-module build uses an aggregator POM to build related modules in dependency order.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Multi-module projects** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. A Maven multi-module build uses an aggregator POM to build related modules in dependency order.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Maven multi-module build uses an aggregator POM to build related modules in dependency order.
 
 ## 2. Execution Mechanics & Runtime Flow
 

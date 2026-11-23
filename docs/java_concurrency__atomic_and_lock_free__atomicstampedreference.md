@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AtomicStampedReference pairs a reference with a version stamp, helping detect changes that would otherwise create the ABA problem.
+> **AtomicStampedReference pairs a reference with a version stamp, helping detect changes that would otherwise create the ABA problem.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AtomicStampedReference** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. AtomicStampedReference pairs a reference with a version stamp, helping detect changes that would otherwise create the ABA problem.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AtomicStampedReference pairs a reference with a version stamp, helping detect changes that would otherwise create the ABA problem.
 
 ## 2. Execution Mechanics & Runtime Flow
 

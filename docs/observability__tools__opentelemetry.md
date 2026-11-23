@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> OpenTelemetry provides vendor-neutral APIs, SDKs, conventions, and collectors for metrics, logs, and traces.
+> **OpenTelemetry provides vendor-neutral APIs, SDKs, conventions, and collectors for metrics, logs, and traces.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**OpenTelemetry** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. OpenTelemetry provides vendor-neutral APIs, SDKs, conventions, and collectors for metrics, logs, and traces.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+OpenTelemetry provides vendor-neutral APIs, SDKs, conventions, and collectors for metrics, logs, and traces.
 
 ## 2. Execution Mechanics & Runtime Flow
 

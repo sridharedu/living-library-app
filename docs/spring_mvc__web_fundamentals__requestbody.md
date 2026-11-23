@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @RequestBody asks Spring to deserialize the HTTP request body into a Java object through an HTTP message converter.
+> **@RequestBody asks Spring to deserialize the HTTP request body into a Java object through an HTTP message converter.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RequestBody** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @RequestBody asks Spring to deserialize the HTTP request body into a Java object through an HTTP message converter.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@RequestBody asks Spring to deserialize the HTTP request body into a Java object through an HTTP message converter.
 
 ## 2. Execution Mechanics & Runtime Flow
 

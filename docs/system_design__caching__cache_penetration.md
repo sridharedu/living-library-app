@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cache penetration happens when repeated requests target missing data and bypass the cache every time. Negative caching or validation can reduce it.
+> **Cache penetration happens when repeated requests target missing data and bypass the cache every time. Negative caching or validation can reduce it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cache penetration** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. Cache penetration happens when repeated requests target missing data and bypass the cache every time. Negative caching or validation can reduce it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cache penetration happens when repeated requests target missing data and bypass the cache every time. Negative caching or validation can reduce it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

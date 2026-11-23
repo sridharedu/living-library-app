@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Single-table design stores multiple entity types together and models access patterns through composite keys and indexes.
+> **Single-table design stores multiple entity types together and models access patterns through composite keys and indexes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Single-table design** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Single-table design stores multiple entity types together and models access patterns through composite keys and indexes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Single-table design stores multiple entity types together and models access patterns through composite keys and indexes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Good schema design models entities, relationships, constraints, indexes, and expected access patterns. It balances integrity, clarity, and query performance.
+> **Good schema design models entities, relationships, constraints, indexes, and expected access patterns. It balances integrity, clarity, and query performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Schema Design in Relational Databases** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. Good schema design models entities, relationships, constraints, indexes, and expected access patterns. It balances integrity, clarity, and query performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Good schema design models entities, relationships, constraints, indexes, and expected access patterns. It balances integrity, clarity, and query performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

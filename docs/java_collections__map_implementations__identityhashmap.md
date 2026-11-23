@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> IdentityHashMap compares keys with == instead of equals. It is useful for graph traversal and identity-based metadata.
+> **IdentityHashMap compares keys with == instead of equals. It is useful for graph traversal and identity-based metadata.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**IdentityHashMap** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. IdentityHashMap compares keys with == instead of equals. It is useful for graph traversal and identity-based metadata.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+IdentityHashMap compares keys with == instead of equals. It is useful for graph traversal and identity-based metadata.
 
 ## 2. Execution Mechanics & Runtime Flow
 

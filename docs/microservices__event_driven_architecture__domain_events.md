@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A domain event represents something meaningful that happened inside a bounded context, such as OrderConfirmed.
+> **A domain event represents something meaningful that happened inside a bounded context, such as OrderConfirmed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Domain events** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. A domain event represents something meaningful that happened inside a bounded context, such as OrderConfirmed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A domain event represents something meaningful that happened inside a bounded context, such as OrderConfirmed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

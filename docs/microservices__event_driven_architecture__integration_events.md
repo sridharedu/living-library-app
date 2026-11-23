@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An integration event is a stable external message used to notify other services about a completed business fact.
+> **An integration event is a stable external message used to notify other services about a completed business fact.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Integration events** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. An integration event is a stable external message used to notify other services about a completed business fact.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An integration event is a stable external message used to notify other services about a completed business fact.
 
 ## 2. Execution Mechanics & Runtime Flow
 

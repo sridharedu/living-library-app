@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> IAM policies are JSON documents that allow or deny specific actions on specific resources under optional conditions.
+> **IAM policies are JSON documents that allow or deny specific actions on specific resources under optional conditions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**IAM policies** serves as a foundational component within *Security* in the broader **AWS** ecosystem. IAM policies are JSON documents that allow or deny specific actions on specific resources under optional conditions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+IAM policies are JSON documents that allow or deny specific actions on specific resources under optional conditions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

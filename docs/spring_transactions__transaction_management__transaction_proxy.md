@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring usually applies transactions through an AOP proxy that starts and completes a transaction around eligible method calls.
+> **Spring usually applies transactions through an AOP proxy that starts and completes a transaction around eligible method calls.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Transaction proxy** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. Spring usually applies transactions through an AOP proxy that starts and completes a transaction around eligible method calls.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring usually applies transactions through an AOP proxy that starts and completes a transaction around eligible method calls.
 
 ## 2. Execution Mechanics & Runtime Flow
 

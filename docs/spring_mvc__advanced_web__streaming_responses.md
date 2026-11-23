@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Streaming responses write data incrementally instead of building the entire body in memory, which helps with large downloads or generated content.
+> **Streaming responses write data incrementally instead of building the entire body in memory, which helps with large downloads or generated content.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Streaming responses** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Streaming responses write data incrementally instead of building the entire body in memory, which helps with large downloads or generated content.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Streaming responses write data incrementally instead of building the entire body in memory, which helps with large downloads or generated content.
 
 ## 2. Execution Mechanics & Runtime Flow
 

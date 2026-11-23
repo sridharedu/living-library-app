@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Reflection inspects and invokes classes, fields, methods, and constructors at runtime. It is powerful but slower, less type-safe, and can break encapsulation.
+> **Reflection inspects and invokes classes, fields, methods, and constructors at runtime. It is powerful but slower, less type-safe, and can break encapsulation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reflection API** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. Reflection inspects and invokes classes, fields, methods, and constructors at runtime. It is powerful but slower, less type-safe, and can break encapsulation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Reflection inspects and invokes classes, fields, methods, and constructors at runtime. It is powerful but slower, less type-safe, and can break encapsulation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

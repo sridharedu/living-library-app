@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Terminal operations such as collect, reduce, count, forEach, and findFirst trigger stream execution. After a terminal operation, the stream cannot be reused.
+> **Terminal operations such as collect, reduce, count, forEach, and findFirst trigger stream execution. After a terminal operation, the stream cannot be reused.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Terminal Operations** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Terminal operations such as collect, reduce, count, forEach, and findFirst trigger stream execution. After a terminal operation, the stream cannot be reused.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Terminal operations such as collect, reduce, count, forEach, and findFirst trigger stream execution. After a terminal operation, the stream cannot be reused.
 
 ## 2. Execution Mechanics & Runtime Flow
 

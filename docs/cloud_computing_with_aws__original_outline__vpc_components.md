@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Core VPC components include CIDR ranges, subnets, route tables, internet and NAT gateways, security groups, NACLs, endpoints, and peering or transit connections.
+> **Core VPC components include CIDR ranges, subnets, route tables, internet and NAT gateways, security groups, NACLs, endpoints, and peering or transit connections.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**VPC Components** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Core VPC components include CIDR ranges, subnets, route tables, internet and NAT gateways, security groups, NACLs, endpoints, and peering or transit connections.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Core VPC components include CIDR ranges, subnets, route tables, internet and NAT gateways, security groups, NACLs, endpoints, and peering or transit connections.
 
 ## 2. Execution Mechanics & Runtime Flow
 

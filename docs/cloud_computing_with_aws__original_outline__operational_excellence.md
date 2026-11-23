@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Operational excellence focuses on running, monitoring, and improving systems through automation, observability, small changes, and learning from failures.
+> **Operational excellence focuses on running, monitoring, and improving systems through automation, observability, small changes, and learning from failures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Operational Excellence** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Operational excellence focuses on running, monitoring, and improving systems through automation, observability, small changes, and learning from failures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Operational excellence focuses on running, monitoring, and improving systems through automation, observability, small changes, and learning from failures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

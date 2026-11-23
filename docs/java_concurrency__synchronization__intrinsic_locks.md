@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Every Java object has an intrinsic monitor lock used by synchronized methods and blocks. Lock acquisition is reentrant.
+> **Every Java object has an intrinsic monitor lock used by synchronized methods and blocks. Lock acquisition is reentrant.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Intrinsic locks** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. Every Java object has an intrinsic monitor lock used by synchronized methods and blocks. Lock acquisition is reentrant.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Every Java object has an intrinsic monitor lock used by synchronized methods and blocks. Lock acquisition is reentrant.
 
 ## 2. Execution Mechanics & Runtime Flow
 

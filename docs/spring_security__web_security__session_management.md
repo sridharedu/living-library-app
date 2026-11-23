@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Session management controls creation, fixation protection, concurrency limits, timeout, and invalidation of authenticated sessions.
+> **Session management controls creation, fixation protection, concurrency limits, timeout, and invalidation of authenticated sessions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Session management** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Session management controls creation, fixation protection, concurrency limits, timeout, and invalidation of authenticated sessions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Session management controls creation, fixation protection, concurrency limits, timeout, and invalidation of authenticated sessions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

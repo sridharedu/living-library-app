@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Comparable defines a type's natural ordering through compareTo. The ordering should be consistent, transitive, and preferably compatible with equals.
+> **Comparable defines a type's natural ordering through compareTo. The ordering should be consistent, transitive, and preferably compatible with equals.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Comparable** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. Comparable defines a type's natural ordering through compareTo. The ordering should be consistent, transitive, and preferably compatible with equals.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Comparable defines a type's natural ordering through compareTo. The ordering should be consistent, transitive, and preferably compatible with equals.
 
 ## 2. Execution Mechanics & Runtime Flow
 

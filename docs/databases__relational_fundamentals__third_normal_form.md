@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Third normal form requires second normal form and removes transitive dependency of non-key attributes on other non-key attributes.
+> **Third normal form requires second normal form and removes transitive dependency of non-key attributes on other non-key attributes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Third normal form** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Third normal form requires second normal form and removes transitive dependency of non-key attributes on other non-key attributes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Third normal form requires second normal form and removes transitive dependency of non-key attributes on other non-key attributes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

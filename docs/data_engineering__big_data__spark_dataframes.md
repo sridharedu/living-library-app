@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Spark DataFrame is a distributed table with named columns and a schema. Spark optimizes DataFrame operations through Catalyst and Tungsten.
+> **A Spark DataFrame is a distributed table with named columns and a schema. Spark optimizes DataFrame operations through Catalyst and Tungsten.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spark DataFrames** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. A Spark DataFrame is a distributed table with named columns and a schema. Spark optimizes DataFrame operations through Catalyst and Tungsten.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Spark DataFrame is a distributed table with named columns and a schema. Spark optimizes DataFrame operations through Catalyst and Tungsten.
 
 ## 2. Execution Mechanics & Runtime Flow
 

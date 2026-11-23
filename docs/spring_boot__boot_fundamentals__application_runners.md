@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ApplicationRunner and CommandLineRunner execute code after the application context is ready.
+> **ApplicationRunner and CommandLineRunner execute code after the application context is ready.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Application runners** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. ApplicationRunner and CommandLineRunner execute code after the application context is ready.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ApplicationRunner and CommandLineRunner execute code after the application context is ready.
 
 ## 2. Execution Mechanics & Runtime Flow
 

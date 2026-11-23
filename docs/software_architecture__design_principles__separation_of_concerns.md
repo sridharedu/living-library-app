@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Separation of concerns assigns different responsibilities to distinct modules so each can change with minimal impact on others.
+> **Separation of concerns assigns different responsibilities to distinct modules so each can change with minimal impact on others.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Separation of concerns** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Separation of concerns assigns different responsibilities to distinct modules so each can change with minimal impact on others.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Separation of concerns assigns different responsibilities to distinct modules so each can change with minimal impact on others.
 
 ## 2. Execution Mechanics & Runtime Flow
 

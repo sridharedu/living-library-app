@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Monitoring platforms include Prometheus, Grafana, Datadog, New Relic, CloudWatch, and Azure Monitor. The best choice depends on telemetry sources and operational needs.
+> **Monitoring platforms include Prometheus, Grafana, Datadog, New Relic, CloudWatch, and Azure Monitor. The best choice depends on telemetry sources and operational needs.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Monitoring Tools and Platforms** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Monitoring platforms include Prometheus, Grafana, Datadog, New Relic, CloudWatch, and Azure Monitor. The best choice depends on telemetry sources and operational needs.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Monitoring platforms include Prometheus, Grafana, Datadog, New Relic, CloudWatch, and Azure Monitor. The best choice depends on telemetry sources and operational needs.
 
 ## 2. Execution Mechanics & Runtime Flow
 

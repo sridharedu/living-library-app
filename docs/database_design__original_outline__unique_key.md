@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A unique constraint prevents duplicate values in one or more columns. Unlike a primary key, a table may have multiple unique constraints.
+> **A unique constraint prevents duplicate values in one or more columns. Unlike a primary key, a table may have multiple unique constraints.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Unique Key** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. A unique constraint prevents duplicate values in one or more columns. Unlike a primary key, a table may have multiple unique constraints.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A unique constraint prevents duplicate values in one or more columns. Unlike a primary key, a table may have multiple unique constraints.
 
 ## 2. Execution Mechanics & Runtime Flow
 

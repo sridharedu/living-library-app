@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Spring Boot microservice typically defines a bounded responsibility, API or event contract, service layer, persistence boundary, validation, observability, and independent deployment configuration.
+> **A Spring Boot microservice typically defines a bounded responsibility, API or event contract, service layer, persistence boundary, validation, observability, and independent deployment configuration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Creating Microservices with Spring Boot** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. A Spring Boot microservice typically defines a bounded responsibility, API or event contract, service layer, persistence boundary, validation, observability, and independent deployment configuration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Spring Boot microservice typically defines a bounded responsibility, API or event contract, service layer, persistence boundary, validation, observability, and independent deployment configuration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

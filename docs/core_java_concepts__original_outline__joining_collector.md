@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Collectors.joining combines stream elements into one String, optionally with a delimiter, prefix, and suffix. It is ideal for readable output such as comma-separated names without manual StringBuilder logic.
+> **Collectors.joining combines stream elements into one String, optionally with a delimiter, prefix, and suffix. It is ideal for readable output such as comma-separated names without manual StringBuilder logic.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Joining Collector** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Collectors.joining combines stream elements into one String, optionally with a delimiter, prefix, and suffix. It is ideal for readable output such as comma-separated names without manual StringBuilder logic.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Collectors.joining combines stream elements into one String, optionally with a delimiter, prefix, and suffix. It is ideal for readable output such as comma-separated names without manual StringBuilder logic.
 
 ## 2. Execution Mechanics & Runtime Flow
 

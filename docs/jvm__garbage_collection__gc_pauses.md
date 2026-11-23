@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> GC pauses are periods when application threads stop so the collector can perform work that requires a consistent heap view. Pause length depends on collector, heap size, live data, and allocation rate.
+> **GC pauses are periods when application threads stop so the collector can perform work that requires a consistent heap view. Pause length depends on collector, heap size, live data, and allocation rate.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**GC pauses** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. GC pauses are periods when application threads stop so the collector can perform work that requires a consistent heap view. Pause length depends on collector, heap size, live data, and allocation rate.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+GC pauses are periods when application threads stop so the collector can perform work that requires a consistent heap view. Pause length depends on collector, heap size, live data, and allocation rate.
 
 ## 2. Execution Mechanics & Runtime Flow
 

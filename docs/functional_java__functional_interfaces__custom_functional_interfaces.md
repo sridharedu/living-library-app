@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Create a custom functional interface when standard interfaces do not express the domain clearly or require checked exceptions or specialized signatures.
+> **Create a custom functional interface when standard interfaces do not express the domain clearly or require checked exceptions or specialized signatures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Custom functional interfaces** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. Create a custom functional interface when standard interfaces do not express the domain clearly or require checked exceptions or specialized signatures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Create a custom functional interface when standard interfaces do not express the domain clearly or require checked exceptions or specialized signatures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

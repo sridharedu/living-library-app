@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Tests should run at suitable pipeline stages, with fast checks early and slower tests later. Failed critical tests must block promotion.
+> **Tests should run at suitable pipeline stages, with fast checks early and slower tests later. Failed critical tests must block promotion.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Integrating Automated Tests in CI/CD** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Tests should run at suitable pipeline stages, with fast checks early and slower tests later. Failed critical tests must block promotion.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Tests should run at suitable pipeline stages, with fast checks early and slower tests later. Failed critical tests must block promotion.
 
 ## 2. Execution Mechanics & Runtime Flow
 

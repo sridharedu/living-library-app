@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Key capabilities include centralized configuration, service discovery, API gateways, load balancing, resilience, distributed messaging, tracing integration, and cloud-provider adapters.
+> **Key capabilities include centralized configuration, service discovery, API gateways, load balancing, resilience, distributed messaging, tracing integration, and cloud-provider adapters.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Key Features of Spring Cloud** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Key capabilities include centralized configuration, service discovery, API gateways, load balancing, resilience, distributed messaging, tracing integration, and cloud-provider adapters.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Key capabilities include centralized configuration, service discovery, API gateways, load balancing, resilience, distributed messaging, tracing integration, and cloud-provider adapters.
 
 ## 2. Execution Mechanics & Runtime Flow
 

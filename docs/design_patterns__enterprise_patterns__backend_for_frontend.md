@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Backend for Frontend provides a client-specific API tailored to one user interface, such as mobile or web.
+> **Backend for Frontend provides a client-specific API tailored to one user interface, such as mobile or web.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Backend for Frontend** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. Backend for Frontend provides a client-specific API tailored to one user interface, such as mobile or web.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Backend for Frontend provides a client-specific API tailored to one user interface, such as mobile or web.
 
 ## 2. Execution Mechanics & Runtime Flow
 

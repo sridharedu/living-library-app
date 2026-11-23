@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> anyMatch returns true when at least one element satisfies the predicate and may stop early.
+> **anyMatch returns true when at least one element satisfies the predicate and may stop early.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**anyMatch** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. anyMatch returns true when at least one element satisfies the predicate and may stop early.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+anyMatch returns true when at least one element satisfies the predicate and may stop early.
 
 ## 2. Execution Mechanics & Runtime Flow
 

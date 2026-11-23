@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> WeakHashMap holds keys with weak references, allowing entries to disappear when keys are no longer strongly reachable.
+> **WeakHashMap holds keys with weak references, allowing entries to disappear when keys are no longer strongly reachable.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**WeakHashMap** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. WeakHashMap holds keys with weak references, allowing entries to disappear when keys are no longer strongly reachable.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+WeakHashMap holds keys with weak references, allowing entries to disappear when keys are no longer strongly reachable.
 
 ## 2. Execution Mechanics & Runtime Flow
 

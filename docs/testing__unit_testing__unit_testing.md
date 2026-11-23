@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Unit testing verifies one small behavior in isolation with fast, deterministic tests.
+> **Unit testing verifies one small behavior in isolation with fast, deterministic tests.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Unit testing** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Unit testing verifies one small behavior in isolation with fast, deterministic tests.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Unit testing verifies one small behavior in isolation with fast, deterministic tests.
 
 ## 2. Execution Mechanics & Runtime Flow
 

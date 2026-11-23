@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cooperative rebalancing moves only necessary partitions incrementally, reducing stop-the-world disruption compared with eager rebalancing.
+> **Cooperative rebalancing moves only necessary partitions incrementally, reducing stop-the-world disruption compared with eager rebalancing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cooperative rebalancing** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Cooperative rebalancing moves only necessary partitions incrementally, reducing stop-the-world disruption compared with eager rebalancing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cooperative rebalancing moves only necessary partitions incrementally, reducing stop-the-world disruption compared with eager rebalancing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

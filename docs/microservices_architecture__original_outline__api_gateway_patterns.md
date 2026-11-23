@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Common patterns include a single edge gateway, backend-for-frontend gateways, routing aggregation, protocol translation, and gateway-enforced security or rate limiting.
+> **Common patterns include a single edge gateway, backend-for-frontend gateways, routing aggregation, protocol translation, and gateway-enforced security or rate limiting.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**API Gateway Patterns** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Common patterns include a single edge gateway, backend-for-frontend gateways, routing aggregation, protocol translation, and gateway-enforced security or rate limiting.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Common patterns include a single edge gateway, backend-for-frontend gateways, routing aggregation, protocol translation, and gateway-enforced security or rate limiting.
 
 ## 2. Execution Mechanics & Runtime Flow
 

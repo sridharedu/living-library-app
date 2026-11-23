@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Two-phase locking first acquires locks and then releases them, ensuring serializability when followed strictly but increasing blocking risk.
+> **Two-phase locking first acquires locks and then releases them, ensuring serializability when followed strictly but increasing blocking risk.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Two-phase locking** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. Two-phase locking first acquires locks and then releases them, ensuring serializability when followed strictly but increasing blocking risk.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Two-phase locking first acquires locks and then releases them, ensuring serializability when followed strictly but increasing blocking risk.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Runnable represents an action with no input and no return value through run(). It is commonly submitted to threads or executors when only execution matters.
+> **Runnable represents an action with no input and no return value through run(). It is commonly submitted to threads or executors when only execution matters.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Runnable** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Runnable represents an action with no input and no return value through run(). It is commonly submitted to threads or executors when only execution matters.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Runnable represents an action with no input and no return value through run(). It is commonly submitted to threads or executors when only execution matters.
 
 ## 2. Execution Mechanics & Runtime Flow
 

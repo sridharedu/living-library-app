@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The dual-write problem occurs when updating a database and publishing a message separately, allowing one operation to succeed while the other fails.
+> **The dual-write problem occurs when updating a database and publishing a message separately, allowing one operation to succeed while the other fails.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dual-write problem** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. The dual-write problem occurs when updating a database and publishing a message separately, allowing one operation to succeed while the other fails.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The dual-write problem occurs when updating a database and publishing a message separately, allowing one operation to succeed while the other fails.
 
 ## 2. Execution Mechanics & Runtime Flow
 

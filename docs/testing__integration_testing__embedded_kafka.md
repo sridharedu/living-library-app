@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Embedded Kafka starts Kafka brokers inside a test environment for producer, consumer, serialization, and listener integration testing.
+> **Embedded Kafka starts Kafka brokers inside a test environment for producer, consumer, serialization, and listener integration testing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Embedded Kafka** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. Embedded Kafka starts Kafka brokers inside a test environment for producer, consumer, serialization, and listener integration testing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Embedded Kafka starts Kafka brokers inside a test environment for producer, consumer, serialization, and listener integration testing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

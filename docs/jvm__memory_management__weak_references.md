@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A weakly referenced object can be collected once no strong or soft references remain. Weak references are useful for canonical maps and metadata.
+> **A weakly referenced object can be collected once no strong or soft references remain. Weak references are useful for canonical maps and metadata.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Weak references** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. A weakly referenced object can be collected once no strong or soft references remain. Weak references are useful for canonical maps and metadata.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A weakly referenced object can be collected once no strong or soft references remain. Weak references are useful for canonical maps and metadata.
 
 ## 2. Execution Mechanics & Runtime Flow
 

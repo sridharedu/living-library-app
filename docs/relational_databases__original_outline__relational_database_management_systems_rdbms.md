@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An RDBMS is software that stores and manages relational data, enforces constraints, executes SQL, and provides transaction and recovery mechanisms.
+> **An RDBMS is software that stores and manages relational data, enforces constraints, executes SQL, and provides transaction and recovery mechanisms.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Relational Database Management Systems (RDBMS)** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. An RDBMS is software that stores and manages relational data, enforces constraints, executes SQL, and provides transaction and recovery mechanisms.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An RDBMS is software that stores and manages relational data, enforces constraints, executes SQL, and provides transaction and recovery mechanisms.
 
 ## 2. Execution Mechanics & Runtime Flow
 

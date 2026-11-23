@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Resilience4j CircuitBreaker tracks failures and temporarily rejects calls when a dependency is unhealthy. After a wait period, limited test calls determine whether normal traffic can resume.
+> **Resilience4j CircuitBreaker tracks failures and temporarily rejects calls when a dependency is unhealthy. After a wait period, limited test calls determine whether normal traffic can resume.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Circuit Breaker (Resilience4j)** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Resilience4j CircuitBreaker tracks failures and temporarily rejects calls when a dependency is unhealthy. After a wait period, limited test calls determine whether normal traffic can resume.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Resilience4j CircuitBreaker tracks failures and temporarily rejects calls when a dependency is unhealthy. After a wait period, limited test calls determine whether normal traffic can resume.
 
 ## 2. Execution Mechanics & Runtime Flow
 

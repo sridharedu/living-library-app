@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A synchronized block locks a chosen object for a limited critical section, allowing finer control than synchronizing an entire method.
+> **A synchronized block locks a chosen object for a limited critical section, allowing finer control than synchronizing an entire method.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**synchronized blocks** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. A synchronized block locks a chosen object for a limited critical section, allowing finer control than synchronizing an entire method.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A synchronized block locks a chosen object for a limited critical section, allowing finer control than synchronizing an entire method.
 
 ## 2. Execution Mechanics & Runtime Flow
 

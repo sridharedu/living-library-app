@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Virtual machines emulate complete machines with separate operating systems, while containers share the host kernel. Containers are lighter; VMs provide stronger isolation boundaries.
+> **Virtual machines emulate complete machines with separate operating systems, while containers share the host kernel. Containers are lighter; VMs provide stronger isolation boundaries.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Container vs Virtual Machines** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Virtual machines emulate complete machines with separate operating systems, while containers share the host kernel. Containers are lighter; VMs provide stronger isolation boundaries.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Virtual machines emulate complete machines with separate operating systems, while containers share the host kernel. Containers are lighter; VMs provide stronger isolation boundaries.
 
 ## 2. Execution Mechanics & Runtime Flow
 

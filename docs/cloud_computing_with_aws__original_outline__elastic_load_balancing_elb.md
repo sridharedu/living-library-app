@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Elastic Load Balancing distributes traffic across healthy targets and Availability Zones. It improves availability and supports managed health checks and scaling.
+> **Elastic Load Balancing distributes traffic across healthy targets and Availability Zones. It improves availability and supports managed health checks and scaling.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Elastic Load Balancing (ELB)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Elastic Load Balancing distributes traffic across healthy targets and Availability Zones. It improves availability and supports managed health checks and scaling.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Elastic Load Balancing distributes traffic across healthy targets and Availability Zones. It improves availability and supports managed health checks and scaling.
 
 ## 2. Execution Mechanics & Runtime Flow
 

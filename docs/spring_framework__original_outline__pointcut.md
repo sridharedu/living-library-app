@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A pointcut is an expression that selects the methods where advice should run. Good pointcuts are narrow, intention-revealing, and avoid accidentally intercepting unrelated code.
+> **A pointcut is an expression that selects the methods where advice should run. Good pointcuts are narrow, intention-revealing, and avoid accidentally intercepting unrelated code.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Pointcut** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. A pointcut is an expression that selects the methods where advice should run. Good pointcuts are narrow, intention-revealing, and avoid accidentally intercepting unrelated code.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A pointcut is an expression that selects the methods where advice should run. Good pointcuts are narrow, intention-revealing, and avoid accidentally intercepting unrelated code.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Duration measures time-based amounts such as seconds, while Period measures date-based amounts such as years, months, and days.
+> **Duration measures time-based amounts such as seconds, while Period measures date-based amounts such as years, months, and days.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Duration and Period** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. Duration measures time-based amounts such as seconds, while Period measures date-based amounts such as years, months, and days.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Duration measures time-based amounts such as seconds, while Period measures date-based amounts such as years, months, and days.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> MERGE conditionally inserts, updates, or deletes target rows based on matches with a source dataset.
+> **MERGE conditionally inserts, updates, or deletes target rows based on matches with a source dataset.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**MERGE statement** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. MERGE conditionally inserts, updates, or deletes target rows based on matches with a source dataset.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+MERGE conditionally inserts, updates, or deletes target rows based on matches with a source dataset.
 
 ## 2. Execution Mechanics & Runtime Flow
 

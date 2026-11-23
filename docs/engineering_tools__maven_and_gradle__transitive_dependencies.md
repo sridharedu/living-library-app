@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Transitive dependencies are dependencies pulled in indirectly through direct dependencies.
+> **Transitive dependencies are dependencies pulled in indirectly through direct dependencies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Transitive dependencies** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. Transitive dependencies are dependencies pulled in indirectly through direct dependencies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Transitive dependencies are dependencies pulled in indirectly through direct dependencies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

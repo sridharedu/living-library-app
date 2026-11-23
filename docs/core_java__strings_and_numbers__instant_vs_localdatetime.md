@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Instant represents a moment on the UTC timeline, while LocalDateTime represents a date and time without a zone or offset.
+> **Instant represents a moment on the UTC timeline, while LocalDateTime represents a date and time without a zone or offset.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Instant vs LocalDateTime** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. Instant represents a moment on the UTC timeline, while LocalDateTime represents a date and time without a zone or offset.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Instant represents a moment on the UTC timeline, while LocalDateTime represents a date and time without a zone or offset.
 
 ## 2. Execution Mechanics & Runtime Flow
 

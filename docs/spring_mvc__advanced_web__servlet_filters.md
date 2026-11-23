@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Servlet filters run before and after the servlet and can inspect or modify requests and responses. They are suitable for cross-cutting HTTP concerns.
+> **Servlet filters run before and after the servlet and can inspect or modify requests and responses. They are suitable for cross-cutting HTTP concerns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Servlet filters** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Servlet filters run before and after the servlet and can inspect or modify requests and responses. They are suitable for cross-cutting HTTP concerns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Servlet filters run before and after the servlet and can inspect or modify requests and responses. They are suitable for cross-cutting HTTP concerns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

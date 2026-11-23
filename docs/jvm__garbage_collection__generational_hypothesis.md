@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The generational hypothesis observes that most objects die young, so collectors separate young and old objects for efficiency.
+> **The generational hypothesis observes that most objects die young, so collectors separate young and old objects for efficiency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Generational hypothesis** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. The generational hypothesis observes that most objects die young, so collectors separate young and old objects for efficiency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The generational hypothesis observes that most objects die young, so collectors separate young and old objects for efficiency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

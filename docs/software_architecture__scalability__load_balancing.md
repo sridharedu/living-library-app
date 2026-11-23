@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Load balancing distributes requests across healthy instances using algorithms such as round robin, least connections, hashing, or weighted routing.
+> **Load balancing distributes requests across healthy instances using algorithms such as round robin, least connections, hashing, or weighted routing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Load balancing** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Load balancing distributes requests across healthy instances using algorithms such as round robin, least connections, hashing, or weighted routing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Load balancing distributes requests across healthy instances using algorithms such as round robin, least connections, hashing, or weighted routing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

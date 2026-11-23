@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Field injection writes dependencies directly into fields through reflection. It is concise, but hides requirements, complicates plain unit tests, and should generally be avoided in production design.
+> **Field injection writes dependencies directly into fields through reflection. It is concise, but hides requirements, complicates plain unit tests, and should generally be avoided in production design.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Field Injection** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Field injection writes dependencies directly into fields through reflection. It is concise, but hides requirements, complicates plain unit tests, and should generally be avoided in production design.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Field injection writes dependencies directly into fields through reflection. It is concise, but hides requirements, complicates plain unit tests, and should generally be avoided in production design.
 
 ## 2. Execution Mechanics & Runtime Flow
 

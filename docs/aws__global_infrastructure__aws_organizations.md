@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Organizations centrally manages multiple AWS accounts through organizational units, consolidated billing, and service control policies.
+> **AWS Organizations centrally manages multiple AWS accounts through organizational units, consolidated billing, and service control policies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Organizations** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. AWS Organizations centrally manages multiple AWS accounts through organizational units, consolidated billing, and service control policies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Organizations centrally manages multiple AWS accounts through organizational units, consolidated billing, and service control policies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

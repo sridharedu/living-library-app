@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Column-family databases group related columns and are designed for large-scale distributed workloads with predictable key-based access.
+> **Column-family databases group related columns and are designed for large-scale distributed workloads with predictable key-based access.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Column-family databases** serves as a foundational component within *NoSQL Fundamentals* in the broader **NoSQL** ecosystem. Column-family databases group related columns and are designed for large-scale distributed workloads with predictable key-based access.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Column-family databases group related columns and are designed for large-scale distributed workloads with predictable key-based access.
 
 ## 2. Execution Mechanics & Runtime Flow
 

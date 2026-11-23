@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Key traits include bounded ownership, independent deployment, decentralized data, automation, observability, fault isolation, and lightweight communication through APIs or events.
+> **Key traits include bounded ownership, independent deployment, decentralized data, automation, observability, fault isolation, and lightweight communication through APIs or events.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Key Characteristics of Microservices** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Key traits include bounded ownership, independent deployment, decentralized data, automation, observability, fault isolation, and lightweight communication through APIs or events.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Key traits include bounded ownership, independent deployment, decentralized data, automation, observability, fault isolation, and lightweight communication through APIs or events.
 
 ## 2. Execution Mechanics & Runtime Flow
 

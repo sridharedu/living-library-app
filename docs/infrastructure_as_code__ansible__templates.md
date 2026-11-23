@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Ansible templates render Jinja2 files with variables and copy the result to managed hosts.
+> **Ansible templates render Jinja2 files with variables and copy the result to managed hosts.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Templates** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Ansible templates render Jinja2 files with variables and copy the result to managed hosts.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Ansible templates render Jinja2 files with variables and copy the result to managed hosts.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> RDB persistence creates point-in-time snapshots of Redis data. It is compact and fast to restore but may lose recent changes.
+> **RDB persistence creates point-in-time snapshots of Redis data. It is compact and fast to restore but may lose recent changes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Persistence RDB** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. RDB persistence creates point-in-time snapshots of Redis data. It is compact and fast to restore but may lose recent changes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+RDB persistence creates point-in-time snapshots of Redis data. It is compact and fast to restore but may lose recent changes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

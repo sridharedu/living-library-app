@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @FunctionalInterface documents that an interface must have exactly one abstract method. The compiler reports an error if that contract is broken.
+> **@FunctionalInterface documents that an interface must have exactly one abstract method. The compiler reports an error if that contract is broken.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**FunctionalInterface annotation** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. @FunctionalInterface documents that an interface must have exactly one abstract method. The compiler reports an error if that contract is broken.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@FunctionalInterface documents that an interface must have exactly one abstract method. The compiler reports an error if that contract is broken.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A public cloud provides shared provider-managed infrastructure to many customers with logical isolation. It offers broad services, rapid provisioning, elasticity, and global reach.
+> **A public cloud provides shared provider-managed infrastructure to many customers with logical isolation. It offers broad services, rapid provisioning, elasticity, and global reach.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Public Cloud** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A public cloud provides shared provider-managed infrastructure to many customers with logical isolation. It offers broad services, rapid provisioning, elasticity, and global reach.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A public cloud provides shared provider-managed infrastructure to many customers with logical isolation. It offers broad services, rapid provisioning, elasticity, and global reach.
 
 ## 2. Execution Mechanics & Runtime Flow
 

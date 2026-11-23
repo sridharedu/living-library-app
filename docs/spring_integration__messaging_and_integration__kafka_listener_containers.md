@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Listener containers manage Kafka consumers, polling, thread assignment, acknowledgments, commits, retries, and lifecycle.
+> **Listener containers manage Kafka consumers, polling, thread assignment, acknowledgments, commits, retries, and lifecycle.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Kafka listener containers** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Listener containers manage Kafka consumers, polling, thread assignment, acknowledgments, commits, retries, and lifecycle.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Listener containers manage Kafka consumers, polling, thread assignment, acknowledgments, commits, retries, and lifecycle.
 
 ## 2. Execution Mechanics & Runtime Flow
 

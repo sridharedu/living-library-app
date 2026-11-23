@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Databases commonly use nested loop, hash, and merge joins. The optimizer chooses based on size, ordering, indexes, and estimates.
+> **Databases commonly use nested loop, hash, and merge joins. The optimizer chooses based on size, ordering, indexes, and estimates.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Join algorithms** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Databases commonly use nested loop, hash, and merge joins. The optimizer chooses based on size, ordering, indexes, and estimates.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Databases commonly use nested loop, hash, and merge joins. The optimizer chooses based on size, ordering, indexes, and estimates.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Kubernetes API server is the front door of the control plane and validates, authorizes, and persists API requests.
+> **The Kubernetes API server is the front door of the control plane and validates, authorizes, and persists API requests.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**API server** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Kubernetes API server is the front door of the control plane and validates, authorizes, and persists API requests.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Kubernetes API server is the front door of the control plane and validates, authorizes, and persists API requests.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Autowiring by type asks Spring to resolve a dependency from beans compatible with the required type.
+> **Autowiring by type asks Spring to resolve a dependency from beans compatible with the required type.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Autowiring by type** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. Autowiring by type asks Spring to resolve a dependency from beans compatible with the required type.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Autowiring by type asks Spring to resolve a dependency from beans compatible with the required type.
 
 ## 2. Execution Mechanics & Runtime Flow
 

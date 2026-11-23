@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SAML is an XML-based federation standard commonly used for enterprise single sign-on between identity providers and service providers.
+> **SAML is an XML-based federation standard commonly used for enterprise single sign-on between identity providers and service providers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SAML** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. SAML is an XML-based federation standard commonly used for enterprise single sign-on between identity providers and service providers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SAML is an XML-based federation standard commonly used for enterprise single sign-on between identity providers and service providers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

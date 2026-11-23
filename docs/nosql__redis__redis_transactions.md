@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Redis transactions queue commands with MULTI and execute them atomically with EXEC, though they do not provide rollback.
+> **Redis transactions queue commands with MULTI and execute them atomically with EXEC, though they do not provide rollback.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Redis transactions** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis transactions queue commands with MULTI and execute them atomically with EXEC, though they do not provide rollback.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Redis transactions queue commands with MULTI and execute them atomically with EXEC, though they do not provide rollback.
 
 ## 2. Execution Mechanics & Runtime Flow
 

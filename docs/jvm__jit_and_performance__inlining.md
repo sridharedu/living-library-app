@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Inlining replaces a method call with the called method's body, removing call overhead and enabling further optimizations.
+> **Inlining replaces a method call with the called method's body, removing call overhead and enabling further optimizations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Inlining** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Inlining replaces a method call with the called method's body, removing call overhead and enabling further optimizations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Inlining replaces a method call with the called method's body, removing call overhead and enabling further optimizations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

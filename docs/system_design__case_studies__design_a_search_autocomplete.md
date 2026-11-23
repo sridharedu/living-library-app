@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Autocomplete serves low-latency prefix suggestions using tries, indexes, ranking signals, caching, popularity updates, and typo handling.
+> **Autocomplete serves low-latency prefix suggestions using tries, indexes, ranking signals, caching, popularity updates, and typo handling.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design a search autocomplete** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. Autocomplete serves low-latency prefix suggestions using tries, indexes, ranking signals, caching, popularity updates, and typo handling.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Autocomplete serves low-latency prefix suggestions using tries, indexes, ranking signals, caching, popularity updates, and typo handling.
 
 ## 2. Execution Mechanics & Runtime Flow
 

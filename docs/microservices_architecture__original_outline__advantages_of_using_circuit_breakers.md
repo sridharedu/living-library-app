@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Circuit breakers isolate dependency failures, shorten response time during outages, and support graceful degradation. Poor thresholds or broad fallbacks can hide real problems.
+> **Circuit breakers isolate dependency failures, shorten response time during outages, and support graceful degradation. Poor thresholds or broad fallbacks can hide real problems.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Advantages of Using Circuit Breakers** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Circuit breakers isolate dependency failures, shorten response time during outages, and support graceful degradation. Poor thresholds or broad fallbacks can hide real problems.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Circuit breakers isolate dependency failures, shorten response time during outages, and support graceful degradation. Poor thresholds or broad fallbacks can hide real problems.
 
 ## 2. Execution Mechanics & Runtime Flow
 

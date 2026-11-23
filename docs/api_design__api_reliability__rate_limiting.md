@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Rate limiting controls how many requests an identity or client may send within a period to protect capacity and fairness.
+> **Rate limiting controls how many requests an identity or client may send within a period to protect capacity and fairness.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Rate limiting** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Rate limiting controls how many requests an identity or client may send within a period to protect capacity and fairness.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Rate limiting controls how many requests an identity or client may send within a period to protect capacity and fairness.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A custom Collector defines supplier, accumulator, combiner, finisher, and characteristics. It should obey associativity and identity rules.
+> **A custom Collector defines supplier, accumulator, combiner, finisher, and characteristics. It should obey associativity and identity rules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Custom collectors** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. A custom Collector defines supplier, accumulator, combiner, finisher, and characteristics. It should obey associativity and identity rules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A custom Collector defines supplier, accumulator, combiner, finisher, and characteristics. It should obey associativity and identity rules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

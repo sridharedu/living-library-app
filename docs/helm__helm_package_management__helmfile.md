@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Helmfile declaratively coordinates multiple Helm releases, environments, repositories, and shared values.
+> **Helmfile declaratively coordinates multiple Helm releases, environments, repositories, and shared values.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helmfile** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. Helmfile declaratively coordinates multiple Helm releases, environments, repositories, and shared values.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Helmfile declaratively coordinates multiple Helm releases, environments, repositories, and shared values.
 
 ## 2. Execution Mechanics & Runtime Flow
 

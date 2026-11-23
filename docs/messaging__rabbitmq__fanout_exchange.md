@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A fanout exchange broadcasts every message to all bound queues and ignores routing keys.
+> **A fanout exchange broadcasts every message to all bound queues and ignores routing keys.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Fanout exchange** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. A fanout exchange broadcasts every message to all bound queues and ignores routing keys.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A fanout exchange broadcasts every message to all bound queues and ignores routing keys.
 
 ## 2. Execution Mechanics & Runtime Flow
 

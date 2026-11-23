@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An Application Load Balancer operates at Layer 7 and supports HTTP routing by host, path, headers, methods, and query values.
+> **An Application Load Balancer operates at Layer 7 and supports HTTP routing by host, path, headers, methods, and query values.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Application Load Balancer** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. An Application Load Balancer operates at Layer 7 and supports HTTP routing by host, path, headers, methods, and query values.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An Application Load Balancer operates at Layer 7 and supports HTTP routing by host, path, headers, methods, and query values.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Eventual consistency means replicas or services may temporarily disagree but converge after updates propagate.
+> **Eventual consistency means replicas or services may temporarily disagree but converge after updates propagate.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Eventual consistency** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. Eventual consistency means replicas or services may temporarily disagree but converge after updates propagate.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Eventual consistency means replicas or services may temporarily disagree but converge after updates propagate.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Helm release is one installed instance of a chart with its own values and revision history.
+> **A Helm release is one installed instance of a chart with its own values and revision history.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helm releases** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. A Helm release is one installed instance of a chart with its own values and revision history.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Helm release is one installed instance of a chart with its own values and revision history.
 
 ## 2. Execution Mechanics & Runtime Flow
 

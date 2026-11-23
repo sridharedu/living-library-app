@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Gateway rate limiting protects downstream services by restricting requests per identity, tenant, route, or time window.
+> **Gateway rate limiting protects downstream services by restricting requests per identity, tenant, route, or time window.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Rate limiting at gateway** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Gateway rate limiting protects downstream services by restricting requests per identity, tenant, route, or time window.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Gateway rate limiting protects downstream services by restricting requests per identity, tenant, route, or time window.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Docker image is an immutable layered template containing an application and its dependencies. Containers are running instances created from images.
+> **A Docker image is an immutable layered template containing an application and its dependencies. Containers are running instances created from images.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Docker Images** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Docker image is an immutable layered template containing an application and its dependencies. Containers are running instances created from images.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Docker image is an immutable layered template containing an application and its dependencies. Containers are running instances created from images.
 
 ## 2. Execution Mechanics & Runtime Flow
 

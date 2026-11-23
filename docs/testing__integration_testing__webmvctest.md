@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @WebMvcTest loads Spring MVC infrastructure and selected controllers while mocking or supplying their collaborators.
+> **@WebMvcTest loads Spring MVC infrastructure and selected controllers while mocking or supplying their collaborators.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**WebMvcTest** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. @WebMvcTest loads Spring MVC infrastructure and selected controllers while mocking or supplying their collaborators.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@WebMvcTest loads Spring MVC infrastructure and selected controllers while mocking or supplying their collaborators.
 
 ## 2. Execution Mechanics & Runtime Flow
 

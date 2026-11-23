@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> GROUP BY forms groups of rows so aggregate functions can calculate one result per group.
+> **GROUP BY forms groups of rows so aggregate functions can calculate one result per group.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**GROUP BY** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. GROUP BY forms groups of rows so aggregate functions can calculate one result per group.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+GROUP BY forms groups of rows so aggregate functions can calculate one result per group.
 
 ## 2. Execution Mechanics & Runtime Flow
 

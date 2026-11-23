@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The test pyramid favors many fast unit tests, fewer integration tests, and a small number of end-to-end tests.
+> **The test pyramid favors many fast unit tests, fewer integration tests, and a small number of end-to-end tests.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Test pyramid** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. The test pyramid favors many fast unit tests, fewer integration tests, and a small number of end-to-end tests.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The test pyramid favors many fast unit tests, fewer integration tests, and a small number of end-to-end tests.
 
 ## 2. Execution Mechanics & Runtime Flow
 

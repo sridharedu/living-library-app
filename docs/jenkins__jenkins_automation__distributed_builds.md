@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Distributed builds execute jobs on multiple agents with different labels, tools, operating systems, or capacity.
+> **Distributed builds execute jobs on multiple agents with different labels, tools, operating systems, or capacity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Distributed builds** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Distributed builds execute jobs on multiple agents with different labels, tools, operating systems, or capacity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Distributed builds execute jobs on multiple agents with different labels, tools, operating systems, or capacity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

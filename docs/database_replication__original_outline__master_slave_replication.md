@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Primary-replica replication sends writes to one primary and copies changes to read replicas. It simplifies conflict handling but makes primary availability important.
+> **Primary-replica replication sends writes to one primary and copies changes to read replicas. It simplifies conflict handling but makes primary availability important.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Master-Slave Replication** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Primary-replica replication sends writes to one primary and copies changes to read replicas. It simplifies conflict handling but makes primary availability important.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Primary-replica replication sends writes to one primary and copies changes to read replicas. It simplifies conflict handling but makes primary availability important.
 
 ## 2. Execution Mechanics & Runtime Flow
 

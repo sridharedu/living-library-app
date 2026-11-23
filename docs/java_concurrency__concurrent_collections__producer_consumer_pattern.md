@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The producer-consumer pattern separates work creation from processing through a shared queue, balancing rates and isolating responsibilities.
+> **The producer-consumer pattern separates work creation from processing through a shared queue, balancing rates and isolating responsibilities.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Producer-consumer pattern** serves as a foundational component within *Concurrent Collections* in the broader **Java Concurrency** ecosystem. The producer-consumer pattern separates work creation from processing through a shared queue, balancing rates and isolating responsibilities.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The producer-consumer pattern separates work creation from processing through a shared queue, balancing rates and isolating responsibilities.
 
 ## 2. Execution Mechanics & Runtime Flow
 

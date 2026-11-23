@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Abstraction exposes what an object can do while hiding unnecessary implementation details. In Java, interfaces and abstract classes help callers depend on stable contracts instead of concrete internals.
+> **Abstraction exposes what an object can do while hiding unnecessary implementation details. In Java, interfaces and abstract classes help callers depend on stable contracts instead of concrete internals.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Abstraction** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Abstraction exposes what an object can do while hiding unnecessary implementation details. In Java, interfaces and abstract classes help callers depend on stable contracts instead of concrete internals.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Abstraction exposes what an object can do while hiding unnecessary implementation details. In Java, interfaces and abstract classes help callers depend on stable contracts instead of concrete internals.
 
 ## 2. Execution Mechanics & Runtime Flow
 

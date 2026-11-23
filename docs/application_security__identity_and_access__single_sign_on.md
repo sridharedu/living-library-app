@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Single sign-on lets a user authenticate once with an identity provider and access multiple trusted applications.
+> **Single sign-on lets a user authenticate once with an identity provider and access multiple trusted applications.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Single sign-on** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Single sign-on lets a user authenticate once with an identity provider and access multiple trusted applications.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Single sign-on lets a user authenticate once with an identity provider and access multiple trusted applications.
 
 ## 2. Execution Mechanics & Runtime Flow
 

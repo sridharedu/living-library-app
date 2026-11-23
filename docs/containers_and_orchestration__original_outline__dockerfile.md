@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Dockerfile is a sequence of instructions used to build an image. Good Dockerfiles use small bases, deterministic dependencies, multi-stage builds, and minimal layers.
+> **A Dockerfile is a sequence of instructions used to build an image. Good Dockerfiles use small bases, deterministic dependencies, multi-stage builds, and minimal layers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dockerfile** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Dockerfile is a sequence of instructions used to build an image. Good Dockerfiles use small bases, deterministic dependencies, multi-stage builds, and minimal layers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Dockerfile is a sequence of instructions used to build an image. Good Dockerfiles use small bases, deterministic dependencies, multi-stage builds, and minimal layers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

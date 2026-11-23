@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Argument matchers let stubbing or verification accept broad or custom argument conditions instead of exact values.
+> **Argument matchers let stubbing or verification accept broad or custom argument conditions instead of exact values.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Argument matchers** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Argument matchers let stubbing or verification accept broad or custom argument conditions instead of exact values.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Argument matchers let stubbing or verification accept broad or custom argument conditions instead of exact values.
 
 ## 2. Execution Mechanics & Runtime Flow
 

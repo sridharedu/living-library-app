@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spot Instances use spare EC2 capacity at large discounts but may be interrupted with little notice. They suit fault-tolerant, flexible, and retryable workloads.
+> **Spot Instances use spare EC2 capacity at large discounts but may be interrupted with little notice. They suit fault-tolerant, flexible, and retryable workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spot Instances** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Spot Instances use spare EC2 capacity at large discounts but may be interrupted with little notice. They suit fault-tolerant, flexible, and retryable workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spot Instances use spare EC2 capacity at large discounts but may be interrupted with little notice. They suit fault-tolerant, flexible, and retryable workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Key rotation replaces cryptographic keys on a schedule or after risk events while preserving access to existing protected data.
+> **Key rotation replaces cryptographic keys on a schedule or after risk events while preserving access to existing protected data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Key rotation** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Key rotation replaces cryptographic keys on a schedule or after risk events while preserving access to existing protected data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Key rotation replaces cryptographic keys on a schedule or after risk events while preserving access to existing protected data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

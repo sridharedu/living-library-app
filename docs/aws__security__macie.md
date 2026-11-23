@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon Macie discovers and classifies sensitive data in S3 and identifies risky access patterns.
+> **Amazon Macie discovers and classifies sensitive data in S3 and identifies risky access patterns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Macie** serves as a foundational component within *Security* in the broader **AWS** ecosystem. Amazon Macie discovers and classifies sensitive data in S3 and identifies risky access patterns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon Macie discovers and classifies sensitive data in S3 and identifies risky access patterns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Multi-primary replication allows writes on multiple nodes. It improves locality and availability but introduces conflict detection and resolution complexity.
+> **Multi-primary replication allows writes on multiple nodes. It improves locality and availability but introduces conflict detection and resolution complexity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Master-Master Replication** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Multi-primary replication allows writes on multiple nodes. It improves locality and availability but introduces conflict detection and resolution complexity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Multi-primary replication allows writes on multiple nodes. It improves locality and availability but introduces conflict detection and resolution complexity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

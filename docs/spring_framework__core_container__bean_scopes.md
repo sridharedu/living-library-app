@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Bean scope controls how many instances Spring creates and how long they live, such as singleton, prototype, request, or session.
+> **Bean scope controls how many instances Spring creates and how long they live, such as singleton, prototype, request, or session.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Bean scopes** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. Bean scope controls how many instances Spring creates and how long they live, such as singleton, prototype, request, or session.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Bean scope controls how many instances Spring creates and how long they live, such as singleton, prototype, request, or session.
 
 ## 2. Execution Mechanics & Runtime Flow
 

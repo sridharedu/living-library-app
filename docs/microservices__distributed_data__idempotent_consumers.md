@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An idempotent consumer safely handles the same message more than once by detecting duplicates or making repeated processing harmless.
+> **An idempotent consumer safely handles the same message more than once by detecting duplicates or making repeated processing harmless.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Idempotent consumers** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. An idempotent consumer safely handles the same message more than once by detecting duplicates or making repeated processing harmless.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An idempotent consumer safely handles the same message more than once by detecting duplicates or making repeated processing harmless.
 
 ## 2. Execution Mechanics & Runtime Flow
 

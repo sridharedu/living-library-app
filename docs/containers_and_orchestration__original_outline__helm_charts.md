@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Helm chart is a versioned package containing templates, default values, metadata, and optional dependencies for a Kubernetes application.
+> **A Helm chart is a versioned package containing templates, default values, metadata, and optional dependencies for a Kubernetes application.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helm Charts** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Helm chart is a versioned package containing templates, default values, metadata, and optional dependencies for a Kubernetes application.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Helm chart is a versioned package containing templates, default values, metadata, and optional dependencies for a Kubernetes application.
 
 ## 2. Execution Mechanics & Runtime Flow
 

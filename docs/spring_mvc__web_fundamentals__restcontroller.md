@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @RestController combines @Controller and @ResponseBody so method return values are written directly to the HTTP response body.
+> **@RestController combines @Controller and @ResponseBody so method return values are written directly to the HTTP response body.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RestController** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @RestController combines @Controller and @ResponseBody so method return values are written directly to the HTTP response body.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@RestController combines @Controller and @ResponseBody so method return values are written directly to the HTTP response body.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The persistence context tracks managed entities, guarantees identity within its scope, and coordinates dirty checking and writes.
+> **The persistence context tracks managed entities, guarantees identity within its scope, and coordinates dirty checking and writes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Persistence context** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. The persistence context tracks managed entities, guarantees identity within its scope, and coordinates dirty checking and writes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The persistence context tracks managed entities, guarantees identity within its scope, and coordinates dirty checking and writes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

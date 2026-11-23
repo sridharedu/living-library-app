@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @Value injects individual property or expression values. It is convenient for small cases but less maintainable than typed configuration objects.
+> **@Value injects individual property or expression values. It is convenient for small cases but less maintainable than typed configuration objects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Value injection** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. @Value injects individual property or expression values. It is convenient for small cases but less maintainable than typed configuration objects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@Value injects individual property or expression values. It is convenient for small cases but less maintainable than typed configuration objects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

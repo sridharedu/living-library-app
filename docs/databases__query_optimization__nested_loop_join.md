@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A nested loop join scans one input and probes the other for each row. It works well when the outer side is small and the inner side is indexed.
+> **A nested loop join scans one input and probes the other for each row. It works well when the outer side is small and the inner side is indexed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Nested loop join** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. A nested loop join scans one input and probes the other for each row. It works well when the outer side is small and the inner side is indexed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A nested loop join scans one input and probes the other for each row. It works well when the outer side is small and the inner side is indexed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

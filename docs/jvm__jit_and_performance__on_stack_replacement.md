@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> On-stack replacement compiles and replaces a currently running hot loop without waiting for the method invocation to finish.
+> **On-stack replacement compiles and replaces a currently running hot loop without waiting for the method invocation to finish.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**On-stack replacement** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. On-stack replacement compiles and replaces a currently running hot loop without waiting for the method invocation to finish.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+On-stack replacement compiles and replaces a currently running hot loop without waiting for the method invocation to finish.
 
 ## 2. Execution Mechanics & Runtime Flow
 

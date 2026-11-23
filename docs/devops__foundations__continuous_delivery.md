@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Continuous delivery keeps software deployable through automated validation while production release may remain a deliberate decision.
+> **Continuous delivery keeps software deployable through automated validation while production release may remain a deliberate decision.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Continuous delivery** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Continuous delivery keeps software deployable through automated validation while production release may remain a deliberate decision.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Continuous delivery keeps software deployable through automated validation while production release may remain a deliberate decision.
 
 ## 2. Execution Mechanics & Runtime Flow
 

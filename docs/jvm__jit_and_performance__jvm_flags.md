@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JVM flags configure memory, collectors, diagnostics, compilation, and runtime behavior. Production flags should be documented, tested, and version-aware.
+> **JVM flags configure memory, collectors, diagnostics, compilation, and runtime behavior. Production flags should be documented, tested, and version-aware.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JVM flags** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. JVM flags configure memory, collectors, diagnostics, compilation, and runtime behavior. Production flags should be documented, tested, and version-aware.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JVM flags configure memory, collectors, diagnostics, compilation, and runtime behavior. Production flags should be documented, tested, and version-aware.
 
 ## 2. Execution Mechanics & Runtime Flow
 

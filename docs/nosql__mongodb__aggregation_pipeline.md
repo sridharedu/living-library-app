@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The MongoDB aggregation pipeline processes documents through stages such as match, project, group, sort, unwind, and lookup.
+> **The MongoDB aggregation pipeline processes documents through stages such as match, project, group, sort, unwind, and lookup.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Aggregation pipeline** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. The MongoDB aggregation pipeline processes documents through stages such as match, project, group, sort, unwind, and lookup.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The MongoDB aggregation pipeline processes documents through stages such as match, project, group, sort, unwind, and lookup.
 
 ## 2. Execution Mechanics & Runtime Flow
 

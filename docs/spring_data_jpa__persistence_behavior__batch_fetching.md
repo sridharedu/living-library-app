@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Batch fetching loads several lazy associations or entities in one query using an IN clause, reducing repeated database round trips.
+> **Batch fetching loads several lazy associations or entities in one query using an IN clause, reducing repeated database round trips.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Batch fetching** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. Batch fetching loads several lazy associations or entities in one query using an IN clause, reducing repeated database round trips.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Batch fetching loads several lazy associations or entities in one query using an IN clause, reducing repeated database round trips.
 
 ## 2. Execution Mechanics & Runtime Flow
 

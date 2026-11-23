@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> TDD can feel slower initially, is difficult around legacy or highly integrated code, and can produce brittle tests when implementation details are mocked.
+> **TDD can feel slower initially, is difficult around legacy or highly integrated code, and can produce brittle tests when implementation details are mocked.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Challenges with TDD** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. TDD can feel slower initially, is difficult around legacy or highly integrated code, and can produce brittle tests when implementation details are mocked.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+TDD can feel slower initially, is difficult around legacy or highly integrated code, and can produce brittle tests when implementation details are mocked.
 
 ## 2. Execution Mechanics & Runtime Flow
 

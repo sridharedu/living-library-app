@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Microkernel architecture keeps a small core system and adds optional capabilities through plugins, making product customization easier.
+> **Microkernel architecture keeps a small core system and adds optional capabilities through plugins, making product customization easier.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Microkernel architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Microkernel architecture keeps a small core system and adds optional capabilities through plugins, making product customization easier.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Microkernel architecture keeps a small core system and adds optional capabilities through plugins, making product customization easier.
 
 ## 2. Execution Mechanics & Runtime Flow
 

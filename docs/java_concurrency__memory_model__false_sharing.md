@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> False sharing occurs when threads update different variables that occupy the same CPU cache line, causing unnecessary cache invalidation.
+> **False sharing occurs when threads update different variables that occupy the same CPU cache line, causing unnecessary cache invalidation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**False sharing** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. False sharing occurs when threads update different variables that occupy the same CPU cache line, causing unnecessary cache invalidation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+False sharing occurs when threads update different variables that occupy the same CPU cache line, causing unnecessary cache invalidation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

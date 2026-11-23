@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Deployments manage replica count, Pod templates, revisions, rollouts, and rollback. Updating the Pod template creates a new ReplicaSet and controlled replacement.
+> **Deployments manage replica count, Pod templates, revisions, rollouts, and rollback. Updating the Pod template creates a new ReplicaSet and controlled replacement.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Managing Deployments** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Deployments manage replica count, Pod templates, revisions, rollouts, and rollback. Updating the Pod template creates a new ReplicaSet and controlled replacement.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Deployments manage replica count, Pod templates, revisions, rollouts, and rollback. Updating the Pod template creates a new ReplicaSet and controlled replacement.
 
 ## 2. Execution Mechanics & Runtime Flow
 

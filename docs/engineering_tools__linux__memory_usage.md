@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Use free, top, ps, vmstat, and /proc to inspect memory, swap, process usage, and pressure.
+> **Use free, top, ps, vmstat, and /proc to inspect memory, swap, process usage, and pressure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Memory usage** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Use free, top, ps, vmstat, and /proc to inspect memory, swap, process usage, and pressure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Use free, top, ps, vmstat, and /proc to inspect memory, swap, process usage, and pressure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

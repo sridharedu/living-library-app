@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> IAM controls who can access AWS and what actions they can perform. It manages users, groups, roles, policies, and permission boundaries across an AWS account.
+> **IAM controls who can access AWS and what actions they can perform. It manages users, groups, roles, policies, and permission boundaries across an AWS account.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**IAM (Identity and Access Management)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. IAM controls who can access AWS and what actions they can perform. It manages users, groups, roles, policies, and permission boundaries across an AWS account.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+IAM controls who can access AWS and what actions they can perform. It manages users, groups, roles, policies, and permission boundaries across an AWS account.
 
 ## 2. Execution Mechanics & Runtime Flow
 

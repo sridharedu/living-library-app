@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> NumberFormat and DecimalFormat convert numbers to locale-sensitive strings and parse formatted values.
+> **NumberFormat and DecimalFormat convert numbers to locale-sensitive strings and parse formatted values.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Number formatting** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. NumberFormat and DecimalFormat convert numbers to locale-sensitive strings and parse formatted values.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+NumberFormat and DecimalFormat convert numbers to locale-sensitive strings and parse formatted values.
 
 ## 2. Execution Mechanics & Runtime Flow
 

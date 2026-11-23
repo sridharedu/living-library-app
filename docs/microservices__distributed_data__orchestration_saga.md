@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> In orchestration, a central coordinator directs each saga step and decides compensating actions when a step fails.
+> **In orchestration, a central coordinator directs each saga step and decides compensating actions when a step fails.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Orchestration saga** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. In orchestration, a central coordinator directs each saga step and decides compensating actions when a step fails.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+In orchestration, a central coordinator directs each saga step and decides compensating actions when a step fails.
 
 ## 2. Execution Mechanics & Runtime Flow
 

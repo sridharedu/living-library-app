@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A LoadBalancer Service asks the infrastructure provider to create an external load balancer for the Service.
+> **A LoadBalancer Service asks the infrastructure provider to create an external load balancer for the Service.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**LoadBalancer service** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. A LoadBalancer Service asks the infrastructure provider to create an external load balancer for the Service.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A LoadBalancer Service asks the infrastructure provider to create an external load balancer for the Service.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Shell scripting automates command execution, pipelines, variables, conditions, loops, functions, and system tasks.
+> **Shell scripting automates command execution, pipelines, variables, conditions, loops, functions, and system tasks.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Shell scripting** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Shell scripting automates command execution, pipelines, variables, conditions, loops, functions, and system tasks.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Shell scripting automates command execution, pipelines, variables, conditions, loops, functions, and system tasks.
 
 ## 2. Execution Mechanics & Runtime Flow
 

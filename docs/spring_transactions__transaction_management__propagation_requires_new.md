@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> REQUIRES_NEW suspends the current transaction and starts an independent one. Its commit or rollback is separate from the outer transaction.
+> **REQUIRES_NEW suspends the current transaction and starts an independent one. Its commit or rollback is separate from the outer transaction.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Propagation REQUIRES_NEW** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. REQUIRES_NEW suspends the current transaction and starts an independent one. Its commit or rollback is separate from the outer transaction.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+REQUIRES_NEW suspends the current transaction and starts an independent one. Its commit or rollback is separate from the outer transaction.
 
 ## 2. Execution Mechanics & Runtime Flow
 

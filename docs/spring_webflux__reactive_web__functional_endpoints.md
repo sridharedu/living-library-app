@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Functional endpoints define routing and handling through RouterFunction and HandlerFunction instead of annotation-based controllers.
+> **Functional endpoints define routing and handling through RouterFunction and HandlerFunction instead of annotation-based controllers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Functional endpoints** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Functional endpoints define routing and handling through RouterFunction and HandlerFunction instead of annotation-based controllers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Functional endpoints define routing and handling through RouterFunction and HandlerFunction instead of annotation-based controllers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

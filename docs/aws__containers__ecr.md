@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon ECR is a managed container-image registry with IAM access, scanning, lifecycle policies, and replication.
+> **Amazon ECR is a managed container-image registry with IAM access, scanning, lifecycle policies, and replication.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ECR** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. Amazon ECR is a managed container-image registry with IAM access, scanning, lifecycle policies, and replication.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon ECR is a managed container-image registry with IAM access, scanning, lifecycle policies, and replication.
 
 ## 2. Execution Mechanics & Runtime Flow
 

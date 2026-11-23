@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Flyweight reduces memory by sharing immutable intrinsic state across many lightweight objects.
+> **Flyweight reduces memory by sharing immutable intrinsic state across many lightweight objects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Flyweight** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Flyweight reduces memory by sharing immutable intrinsic state across many lightweight objects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Flyweight reduces memory by sharing immutable intrinsic state across many lightweight objects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

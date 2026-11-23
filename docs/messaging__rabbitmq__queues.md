@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A RabbitMQ queue stores messages until consumers acknowledge or remove them.
+> **A RabbitMQ queue stores messages until consumers acknowledge or remove them.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Queues** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. A RabbitMQ queue stores messages until consumers acknowledge or remove them.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A RabbitMQ queue stores messages until consumers acknowledge or remove them.
 
 ## 2. Execution Mechanics & Runtime Flow
 

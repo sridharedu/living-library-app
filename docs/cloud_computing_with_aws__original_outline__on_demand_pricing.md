@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> On-Demand pricing charges for resources as they are used without a long-term commitment. It offers flexibility but usually costs more for steady workloads.
+> **On-Demand pricing charges for resources as they are used without a long-term commitment. It offers flexibility but usually costs more for steady workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**On-Demand Pricing** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. On-Demand pricing charges for resources as they are used without a long-term commitment. It offers flexibility but usually costs more for steady workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+On-Demand pricing charges for resources as they are used without a long-term commitment. It offers flexibility but usually costs more for steady workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

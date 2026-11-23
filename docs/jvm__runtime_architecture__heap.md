@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The heap stores objects and arrays shared across threads. Garbage collectors reclaim unreachable objects.
+> **The heap stores objects and arrays shared across threads. Garbage collectors reclaim unreachable objects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Heap** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The heap stores objects and arrays shared across threads. Garbage collectors reclaim unreachable objects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The heap stores objects and arrays shared across threads. Garbage collectors reclaim unreachable objects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

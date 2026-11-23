@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A dead letter queue isolates messages that cannot be processed successfully for later inspection or replay.
+> **A dead letter queue isolates messages that cannot be processed successfully for later inspection or replay.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dead letter queue** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. A dead letter queue isolates messages that cannot be processed successfully for later inspection or replay.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A dead letter queue isolates messages that cannot be processed successfully for later inspection or replay.
 
 ## 2. Execution Mechanics & Runtime Flow
 

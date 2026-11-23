@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Delayed messages become available only after a configured delay, useful for retries, scheduling, or expiry workflows.
+> **Delayed messages become available only after a configured delay, useful for retries, scheduling, or expiry workflows.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Delayed messages** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Delayed messages become available only after a configured delay, useful for retries, scheduling, or expiry workflows.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Delayed messages become available only after a configured delay, useful for retries, scheduling, or expiry workflows.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Constructor chaining uses this() within a class or super() to invoke a parent constructor. The call must be the first statement.
+> **Constructor chaining uses this() within a class or super() to invoke a parent constructor. The call must be the first statement.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Constructor chaining** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Constructor chaining uses this() within a class or super() to invoke a parent constructor. The call must be the first statement.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Constructor chaining uses this() within a class or super() to invoke a parent constructor. The call must be the first statement.
 
 ## 2. Execution Mechanics & Runtime Flow
 

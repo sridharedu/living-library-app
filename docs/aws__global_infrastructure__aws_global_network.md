@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The AWS global network connects Regions, Availability Zones, and edge locations through provider-managed private backbone infrastructure.
+> **The AWS global network connects Regions, Availability Zones, and edge locations through provider-managed private backbone infrastructure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS global network** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. The AWS global network connects Regions, Availability Zones, and edge locations through provider-managed private backbone infrastructure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The AWS global network connects Regions, Availability Zones, and edge locations through provider-managed private backbone infrastructure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

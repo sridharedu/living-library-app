@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Memory barriers restrict reordering and force certain memory visibility effects. Java synchronization constructs insert the required barriers automatically.
+> **Memory barriers restrict reordering and force certain memory visibility effects. Java synchronization constructs insert the required barriers automatically.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Memory barriers** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Memory barriers restrict reordering and force certain memory visibility effects. Java synchronization constructs insert the required barriers automatically.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Memory barriers restrict reordering and force certain memory visibility effects. Java synchronization constructs insert the required barriers automatically.
 
 ## 2. Execution Mechanics & Runtime Flow
 

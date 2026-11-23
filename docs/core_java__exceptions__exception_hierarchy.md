@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Throwable is the root type. Error represents serious JVM conditions, while Exception represents conditions applications may handle.
+> **Throwable is the root type. Error represents serious JVM conditions, while Exception represents conditions applications may handle.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Exception hierarchy** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Throwable is the root type. Error represents serious JVM conditions, while Exception represents conditions applications may handle.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Throwable is the root type. Error represents serious JVM conditions, while Exception represents conditions applications may handle.
 
 ## 2. Execution Mechanics & Runtime Flow
 

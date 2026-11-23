@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Stress testing pushes a system beyond normal capacity to discover breaking points and recovery behavior.
+> **Stress testing pushes a system beyond normal capacity to discover breaking points and recovery behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stress testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Stress testing pushes a system beyond normal capacity to discover breaking points and recovery behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Stress testing pushes a system beyond normal capacity to discover breaking points and recovery behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

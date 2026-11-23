@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> The leader replica handles reads and writes, while follower replicas copy its log and can take over after failure.
+> **The leader replica handles reads and writes, while follower replicas copy its log and can take over after failure.**
 
 ---
 

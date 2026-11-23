@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Jenkins freestyle jobs configure build steps through the UI. They are simple but less portable and reviewable than pipeline code.
+> **Jenkins freestyle jobs configure build steps through the UI. They are simple but less portable and reviewable than pipeline code.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Freestyle jobs** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Jenkins freestyle jobs configure build steps through the UI. They are simple but less portable and reviewable than pipeline code.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Jenkins freestyle jobs configure build steps through the UI. They are simple but less portable and reviewable than pipeline code.
 
 ## 2. Execution Mechanics & Runtime Flow
 

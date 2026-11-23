@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Event ordering guarantees depend on the broker and partitioning model. Global ordering is expensive, so systems usually preserve order per key.
+> **Event ordering guarantees depend on the broker and partitioning model. Global ordering is expensive, so systems usually preserve order per key.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Event ordering** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event ordering guarantees depend on the broker and partitioning model. Global ordering is expensive, so systems usually preserve order per key.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Event ordering guarantees depend on the broker and partitioning model. Global ordering is expensive, so systems usually preserve order per key.
 
 ## 2. Execution Mechanics & Runtime Flow
 

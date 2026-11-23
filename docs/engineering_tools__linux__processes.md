@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Linux process is a running program with its own PID, memory, file descriptors, credentials, and execution state.
+> **A Linux process is a running program with its own PID, memory, file descriptors, credentials, and execution state.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Processes** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. A Linux process is a running program with its own PID, memory, file descriptors, credentials, and execution state.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Linux process is a running program with its own PID, memory, file descriptors, credentials, and execution state.
 
 ## 2. Execution Mechanics & Runtime Flow
 

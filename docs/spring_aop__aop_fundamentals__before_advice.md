@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Before advice runs immediately before the target method but cannot directly replace its result.
+> **Before advice runs immediately before the target method but cannot directly replace its result.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Before advice** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. Before advice runs immediately before the target method but cannot directly replace its result.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Before advice runs immediately before the target method but cannot directly replace its result.
 
 ## 2. Execution Mechanics & Runtime Flow
 

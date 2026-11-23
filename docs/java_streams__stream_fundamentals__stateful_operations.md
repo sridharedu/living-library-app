@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Stateful stream operations need information from multiple elements, such as sorted, distinct, limit, or skip. They may require buffering.
+> **Stateful stream operations need information from multiple elements, such as sorted, distinct, limit, or skip. They may require buffering.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stateful operations** serves as a foundational component within *Stream Fundamentals* in the broader **Java Streams** ecosystem. Stateful stream operations need information from multiple elements, such as sorted, distinct, limit, or skip. They may require buffering.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Stateful stream operations need information from multiple elements, such as sorted, distinct, limit, or skip. They may require buffering.
 
 ## 2. Execution Mechanics & Runtime Flow
 

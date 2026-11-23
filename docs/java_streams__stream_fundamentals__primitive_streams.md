@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> IntStream, LongStream, and DoubleStream avoid boxing overhead and provide numeric operations such as sum, average, and range.
+> **IntStream, LongStream, and DoubleStream avoid boxing overhead and provide numeric operations such as sum, average, and range.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Primitive streams** serves as a foundational component within *Stream Fundamentals* in the broader **Java Streams** ecosystem. IntStream, LongStream, and DoubleStream avoid boxing overhead and provide numeric operations such as sum, average, and range.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+IntStream, LongStream, and DoubleStream avoid boxing overhead and provide numeric operations such as sum, average, and range.
 
 ## 2. Execution Mechanics & Runtime Flow
 

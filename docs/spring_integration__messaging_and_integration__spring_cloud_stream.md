@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Cloud Stream builds message-driven applications through binder abstractions for systems such as Kafka and RabbitMQ.
+> **Spring Cloud Stream builds message-driven applications through binder abstractions for systems such as Kafka and RabbitMQ.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring Cloud Stream** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Spring Cloud Stream builds message-driven applications through binder abstractions for systems such as Kafka and RabbitMQ.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Cloud Stream builds message-driven applications through binder abstractions for systems such as Kafka and RabbitMQ.
 
 ## 2. Execution Mechanics & Runtime Flow
 

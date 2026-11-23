@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Lifecycle rules automatically transition objects to cheaper storage classes or expire them based on age or other criteria. They reduce cost when retention requirements are understood.
+> **Lifecycle rules automatically transition objects to cheaper storage classes or expire them based on age or other criteria. They reduce cost when retention requirements are understood.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**S3 Lifecycle Policies** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Lifecycle rules automatically transition objects to cheaper storage classes or expire them based on age or other criteria. They reduce cost when retention requirements are understood.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Lifecycle rules automatically transition objects to cheaper storage classes or expire them based on age or other criteria. They reduce cost when retention requirements are understood.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Data Mapper transfers data between domain objects and storage without making domain objects responsible for persistence.
+> **Data Mapper transfers data between domain objects and storage without making domain objects responsible for persistence.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Data Mapper** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. Data Mapper transfers data between domain objects and storage without making domain objects responsible for persistence.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Data Mapper transfers data between domain objects and storage without making domain objects responsible for persistence.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An architecture decision record captures a significant decision, its context, alternatives, consequences, and current status.
+> **An architecture decision record captures a significant decision, its context, alternatives, consequences, and current status.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Architecture decision records** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. An architecture decision record captures a significant decision, its context, alternatives, consequences, and current status.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An architecture decision record captures a significant decision, its context, alternatives, consequences, and current status.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> G1 divides the heap into regions and incrementally collects those with the most reclaimable space, targeting predictable pauses.
+> **G1 divides the heap into regions and incrementally collects those with the most reclaimable space, targeting predictable pauses.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**G1 GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. G1 divides the heap into regions and incrementally collects those with the most reclaimable space, targeting predictable pauses.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+G1 divides the heap into regions and incrementally collects those with the most reclaimable space, targeting predictable pauses.
 
 ## 2. Execution Mechanics & Runtime Flow
 

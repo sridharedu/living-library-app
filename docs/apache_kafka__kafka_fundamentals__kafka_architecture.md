@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> Apache Kafka is built as a distributed append-only log. Producers write records to named topics, Kafka stores those records across brokers, and consumers read them independently at their own pace.
+> **Apache Kafka is built as a distributed append-only log. Producers write records to named topics, Kafka stores those records across brokers, and consumers read them independently at their own pace.**
 
 ---
 

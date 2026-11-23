@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A foreign key requires values to reference a valid candidate key in another or the same table.
+> **A foreign key requires values to reference a valid candidate key in another or the same table.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Foreign keys** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. A foreign key requires values to reference a valid candidate key in another or the same table.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A foreign key requires values to reference a valid candidate key in another or the same table.
 
 ## 2. Execution Mechanics & Runtime Flow
 

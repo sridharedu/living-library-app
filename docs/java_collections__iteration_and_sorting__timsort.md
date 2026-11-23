@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> TimSort is a stable hybrid sorting algorithm used for many object-array and list sorts in Java. It exploits already ordered runs for good real-world performance.
+> **TimSort is a stable hybrid sorting algorithm used for many object-array and list sorts in Java. It exploits already ordered runs for good real-world performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**TimSort** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. TimSort is a stable hybrid sorting algorithm used for many object-array and list sorts in Java. It exploits already ordered runs for good real-world performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+TimSort is a stable hybrid sorting algorithm used for many object-array and list sorts in Java. It exploits already ordered runs for good real-world performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

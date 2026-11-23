@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Core components include DispatcherServlet, handler mappings, handler adapters, controllers, argument resolvers, validators, message converters, exception resolvers, and view resolvers.
+> **Core components include DispatcherServlet, handler mappings, handler adapters, controllers, argument resolvers, validators, message converters, exception resolvers, and view resolvers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Key Components of Spring MVC** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Core components include DispatcherServlet, handler mappings, handler adapters, controllers, argument resolvers, validators, message converters, exception resolvers, and view resolvers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Core components include DispatcherServlet, handler mappings, handler adapters, controllers, argument resolvers, validators, message converters, exception resolvers, and view resolvers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

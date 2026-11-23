@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cost Optimization focuses on visibility, right-sizing, waste reduction, commitment planning, and value delivered per cost.
+> **Cost Optimization focuses on visibility, right-sizing, waste reduction, commitment planning, and value delivered per cost.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cost Optimization pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. Cost Optimization focuses on visibility, right-sizing, waste reduction, commitment planning, and value delivered per cost.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cost Optimization focuses on visibility, right-sizing, waste reduction, commitment planning, and value delivered per cost.
 
 ## 2. Execution Mechanics & Runtime Flow
 

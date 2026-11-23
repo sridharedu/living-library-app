@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ORC is a columnar storage format optimized for analytics with compression, indexes, statistics, and predicate pushdown.
+> **ORC is a columnar storage format optimized for analytics with compression, indexes, statistics, and predicate pushdown.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ORC** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. ORC is a columnar storage format optimized for analytics with compression, indexes, statistics, and predicate pushdown.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ORC is a columnar storage format optimized for analytics with compression, indexes, statistics, and predicate pushdown.
 
 ## 2. Execution Mechanics & Runtime Flow
 

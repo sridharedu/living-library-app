@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Aware interfaces let beans receive Spring infrastructure objects such as BeanName, ApplicationContext, or Environment. Prefer ordinary dependency injection when possible.
+> **Aware interfaces let beans receive Spring infrastructure objects such as BeanName, ApplicationContext, or Environment. Prefer ordinary dependency injection when possible.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Aware interfaces** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. Aware interfaces let beans receive Spring infrastructure objects such as BeanName, ApplicationContext, or Environment. Prefer ordinary dependency injection when possible.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Aware interfaces let beans receive Spring infrastructure objects such as BeanName, ApplicationContext, or Environment. Prefer ordinary dependency injection when possible.
 
 ## 2. Execution Mechanics & Runtime Flow
 

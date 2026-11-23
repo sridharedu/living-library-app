@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Common sharding strategies include range, hash, directory, geographic, and tenant-based distribution. The choice should follow access patterns, growth, and rebalancing needs.
+> **Common sharding strategies include range, hash, directory, geographic, and tenant-based distribution. The choice should follow access patterns, growth, and rebalancing needs.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Sharding Strategies** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Common sharding strategies include range, hash, directory, geographic, and tenant-based distribution. The choice should follow access patterns, growth, and rebalancing needs.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Common sharding strategies include range, hash, directory, geographic, and tenant-based distribution. The choice should follow access patterns, growth, and rebalancing needs.
 
 ## 2. Execution Mechanics & Runtime Flow
 

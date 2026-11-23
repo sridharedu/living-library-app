@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The enhanced for loop iterates over arrays or Iterable objects without exposing an index. It is clear but unsuitable when modification or position is required.
+> **The enhanced for loop iterates over arrays or Iterable objects without exposing an index. It is clear but unsuitable when modification or position is required.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Enhanced for loop** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. The enhanced for loop iterates over arrays or Iterable objects without exposing an index. It is clear but unsuitable when modification or position is required.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The enhanced for loop iterates over arrays or Iterable objects without exposing an index. It is clear but unsuitable when modification or position is required.
 
 ## 2. Execution Mechanics & Runtime Flow
 

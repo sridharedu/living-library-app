@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Parallel streams help with large, splittable, CPU-bound, stateless workloads where each element requires meaningful computation.
+> **Parallel streams help with large, splittable, CPU-bound, stateless workloads where each element requires meaningful computation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**When parallel streams help** serves as a foundational component within *Parallelism* in the broader **Java Streams** ecosystem. Parallel streams help with large, splittable, CPU-bound, stateless workloads where each element requires meaningful computation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Parallel streams help with large, splittable, CPU-bound, stateless workloads where each element requires meaningful computation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

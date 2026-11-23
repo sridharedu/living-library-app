@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A process has its own memory space and resources, while threads share a process's memory and run independently within it.
+> **A process has its own memory space and resources, while threads share a process's memory and run independently within it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Process vs thread** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. A process has its own memory space and resources, while threads share a process's memory and run independently within it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A process has its own memory space and resources, while threads share a process's memory and run independently within it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

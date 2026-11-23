@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An EC2 key pair uses public-key cryptography for secure instance login, especially SSH. The private key must be protected because AWS does not retain a recoverable copy.
+> **An EC2 key pair uses public-key cryptography for secure instance login, especially SSH. The private key must be protected because AWS does not retain a recoverable copy.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**EC2 Key Pairs** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. An EC2 key pair uses public-key cryptography for secure instance login, especially SSH. The private key must be protected because AWS does not retain a recoverable copy.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An EC2 key pair uses public-key cryptography for secure instance login, especially SSH. The private key must be protected because AWS does not retain a recoverable copy.
 
 ## 2. Execution Mechanics & Runtime Flow
 

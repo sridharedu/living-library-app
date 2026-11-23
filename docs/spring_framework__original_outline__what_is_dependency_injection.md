@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Dependency Injection provides an object's collaborators from outside instead of letting the object create them. The object focuses on its responsibility while wiring is handled separately.
+> **Dependency Injection provides an object's collaborators from outside instead of letting the object create them. The object focuses on its responsibility while wiring is handled separately.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Dependency Injection?** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Dependency Injection provides an object's collaborators from outside instead of letting the object create them. The object focuses on its responsibility while wiring is handled separately.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Dependency Injection provides an object's collaborators from outside instead of letting the object create them. The object focuses on its responsibility while wiring is handled separately.
 
 ## 2. Execution Mechanics & Runtime Flow
 

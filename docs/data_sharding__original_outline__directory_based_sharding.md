@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Directory sharding uses a lookup service that maps each key or tenant to a shard. It offers flexibility but adds a metadata dependency.
+> **Directory sharding uses a lookup service that maps each key or tenant to a shard. It offers flexibility but adds a metadata dependency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Directory-Based Sharding** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Directory sharding uses a lookup service that maps each key or tenant to a shard. It offers flexibility but adds a metadata dependency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Directory sharding uses a lookup service that maps each key or tenant to a shard. It offers flexibility but adds a metadata dependency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

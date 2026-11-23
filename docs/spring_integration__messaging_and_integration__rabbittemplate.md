@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> RabbitTemplate sends and receives RabbitMQ messages and supports exchanges, routing keys, conversion, confirms, and returns.
+> **RabbitTemplate sends and receives RabbitMQ messages and supports exchanges, routing keys, conversion, confirms, and returns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RabbitTemplate** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. RabbitTemplate sends and receives RabbitMQ messages and supports exchanges, routing keys, conversion, confirms, and returns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+RabbitTemplate sends and receives RabbitMQ messages and supports exchanges, routing keys, conversion, confirms, and returns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

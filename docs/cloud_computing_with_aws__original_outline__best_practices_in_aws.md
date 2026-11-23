@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS best practices emphasize least privilege, automation, observability, fault isolation, backup, encryption, tagging, cost ownership, and designing for failure.
+> **AWS best practices emphasize least privilege, automation, observability, fault isolation, backup, encryption, tagging, cost ownership, and designing for failure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Best Practices in AWS** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS best practices emphasize least privilege, automation, observability, fault isolation, backup, encryption, tagging, cost ownership, and designing for failure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS best practices emphasize least privilege, automation, observability, fault isolation, backup, encryption, tagging, cost ownership, and designing for failure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

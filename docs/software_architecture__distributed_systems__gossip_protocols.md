@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Gossip protocols spread state gradually through peer-to-peer exchanges, providing scalable membership and failure information.
+> **Gossip protocols spread state gradually through peer-to-peer exchanges, providing scalable membership and failure information.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Gossip protocols** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Gossip protocols spread state gradually through peer-to-peer exchanges, providing scalable membership and failure information.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Gossip protocols spread state gradually through peer-to-peer exchanges, providing scalable membership and failure information.
 
 ## 2. Execution Mechanics & Runtime Flow
 

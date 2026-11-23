@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SecurityContext stores the current Authentication for the request or execution context.
+> **SecurityContext stores the current Authentication for the request or execution context.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SecurityContext** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. SecurityContext stores the current Authentication for the request or execution context.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SecurityContext stores the current Authentication for the request or execution context.
 
 ## 2. Execution Mechanics & Runtime Flow
 

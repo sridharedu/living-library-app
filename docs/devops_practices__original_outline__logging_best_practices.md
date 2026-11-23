@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Use structured logs with timestamps, severity, correlation IDs, and meaningful context. Avoid secrets, reduce noise, centralize retention, and make logs searchable.
+> **Use structured logs with timestamps, severity, correlation IDs, and meaningful context. Avoid secrets, reduce noise, centralize retention, and make logs searchable.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Logging Best Practices** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Use structured logs with timestamps, severity, correlation IDs, and meaningful context. Avoid secrets, reduce noise, centralize retention, and make logs searchable.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Use structured logs with timestamps, severity, correlation IDs, and meaningful context. Avoid secrets, reduce noise, centralize retention, and make logs searchable.
 
 ## 2. Execution Mechanics & Runtime Flow
 

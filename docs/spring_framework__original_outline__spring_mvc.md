@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring MVC is Spring's servlet-based web framework for HTTP applications and REST APIs. It maps requests to controllers, binds inputs, validates data, and converts responses through a configurable pipeline.
+> **Spring MVC is Spring's servlet-based web framework for HTTP applications and REST APIs. It maps requests to controllers, binds inputs, validates data, and converts responses through a configurable pipeline.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring MVC** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring MVC is Spring's servlet-based web framework for HTTP applications and REST APIs. It maps requests to controllers, binds inputs, validates data, and converts responses through a configurable pipeline.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring MVC is Spring's servlet-based web framework for HTTP applications and REST APIs. It maps requests to controllers, binds inputs, validates data, and converts responses through a configurable pipeline.
 
 ## 2. Execution Mechanics & Runtime Flow
 

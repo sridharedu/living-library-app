@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Windowing groups records by time boundaries such as tumbling, hopping, sliding, or session windows.
+> **Windowing groups records by time boundaries such as tumbling, hopping, sliding, or session windows.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Windowing** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. Windowing groups records by time boundaries such as tumbling, hopping, sliding, or session windows.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Windowing groups records by time boundaries such as tumbling, hopping, sliding, or session windows.
 
 ## 2. Execution Mechanics & Runtime Flow
 

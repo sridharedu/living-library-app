@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Factory Method delegates object creation to subclasses or specialized methods while callers depend on an abstraction.
+> **Factory Method delegates object creation to subclasses or specialized methods while callers depend on an abstraction.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Factory Method** serves as a foundational component within *Creational Patterns* in the broader **Design Patterns** ecosystem. Factory Method delegates object creation to subclasses or specialized methods while callers depend on an abstraction.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Factory Method delegates object creation to subclasses or specialized methods while callers depend on an abstraction.
 
 ## 2. Execution Mechanics & Runtime Flow
 

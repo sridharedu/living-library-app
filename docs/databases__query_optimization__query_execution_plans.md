@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A query execution plan shows the operators, access paths, join order, and estimates chosen to run a query.
+> **A query execution plan shows the operators, access paths, join order, and estimates chosen to run a query.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Query execution plans** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. A query execution plan shows the operators, access paths, join order, and estimates chosen to run a query.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A query execution plan shows the operators, access paths, join order, and estimates chosen to run a query.
 
 ## 2. Execution Mechanics & Runtime Flow
 

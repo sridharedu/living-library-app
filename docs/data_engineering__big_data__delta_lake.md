@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Delta Lake adds ACID transactions, schema enforcement, time travel, and reliable batch-stream processing to data-lake storage.
+> **Delta Lake adds ACID transactions, schema enforcement, time travel, and reliable batch-stream processing to data-lake storage.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Delta Lake** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. Delta Lake adds ACID transactions, schema enforcement, time travel, and reliable batch-stream processing to data-lake storage.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Delta Lake adds ACID transactions, schema enforcement, time travel, and reliable batch-stream processing to data-lake storage.
 
 ## 2. Execution Mechanics & Runtime Flow
 

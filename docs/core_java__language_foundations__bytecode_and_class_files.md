@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Bytecode is the platform-neutral instruction set stored in .class files. The JVM validates and executes it on the target machine.
+> **Bytecode is the platform-neutral instruction set stored in .class files. The JVM validates and executes it on the target machine.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Bytecode and class files** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Bytecode is the platform-neutral instruction set stored in .class files. The JVM validates and executes it on the target machine.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Bytecode is the platform-neutral instruction set stored in .class files. The JVM validates and executes it on the target machine.
 
 ## 2. Execution Mechanics & Runtime Flow
 

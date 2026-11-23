@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spliterator traverses and partitions elements for sequential or parallel processing. Its characteristics help streams optimize execution.
+> **Spliterator traverses and partitions elements for sequential or parallel processing. Its characteristics help streams optimize execution.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spliterator** serves as a foundational component within *Parallelism* in the broader **Java Streams** ecosystem. Spliterator traverses and partitions elements for sequential or parallel processing. Its characteristics help streams optimize execution.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spliterator traverses and partitions elements for sequential or parallel processing. Its characteristics help streams optimize execution.
 
 ## 2. Execution Mechanics & Runtime Flow
 

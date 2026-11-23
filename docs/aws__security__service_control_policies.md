@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Service control policies define permission guardrails for accounts or organizational units in AWS Organizations.
+> **Service control policies define permission guardrails for accounts or organizational units in AWS Organizations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Service control policies** serves as a foundational component within *Security* in the broader **AWS** ecosystem. Service control policies define permission guardrails for accounts or organizational units in AWS Organizations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Service control policies define permission guardrails for accounts or organizational units in AWS Organizations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

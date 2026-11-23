@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A function-based index stores the result of an expression so queries using the same expression can avoid full scans.
+> **A function-based index stores the result of an expression so queries using the same expression can avoid full scans.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Function-based indexes** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. A function-based index stores the result of an expression so queries using the same expression can avoid full scans.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A function-based index stores the result of an expression so queries using the same expression can avoid full scans.
 
 ## 2. Execution Mechanics & Runtime Flow
 

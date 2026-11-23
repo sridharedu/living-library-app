@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> awk processes structured text by splitting records into fields and applying pattern-action rules.
+> **awk processes structured text by splitting records into fields and applying pattern-action rules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**awk** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. awk processes structured text by splitting records into fields and applying pattern-action rules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+awk processes structured text by splitting records into fields and applying pattern-action rules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

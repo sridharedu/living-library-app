@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ModelAndView carries both a logical view name and model data for server-side rendering. It is useful in traditional MVC applications but is uncommon in REST controllers.
+> **ModelAndView carries both a logical view name and model data for server-side rendering. It is useful in traditional MVC applications but is uncommon in REST controllers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ModelAndView** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. ModelAndView carries both a logical view name and model data for server-side rendering. It is useful in traditional MVC applications but is uncommon in REST controllers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ModelAndView carries both a logical view name and model data for server-side rendering. It is useful in traditional MVC applications but is uncommon in REST controllers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

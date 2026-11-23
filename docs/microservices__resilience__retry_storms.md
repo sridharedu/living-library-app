@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A retry storm occurs when many clients retry failures simultaneously, multiplying load on an already unhealthy system.
+> **A retry storm occurs when many clients retry failures simultaneously, multiplying load on an already unhealthy system.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Retry storms** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. A retry storm occurs when many clients retry failures simultaneously, multiplying load on an already unhealthy system.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A retry storm occurs when many clients retry failures simultaneously, multiplying load on an already unhealthy system.
 
 ## 2. Execution Mechanics & Runtime Flow
 

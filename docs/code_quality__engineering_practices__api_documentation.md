@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> API documentation explains endpoints, parameters, schemas, authentication, errors, examples, limits, and compatibility expectations.
+> **API documentation explains endpoints, parameters, schemas, authentication, errors, examples, limits, and compatibility expectations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**API documentation** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. API documentation explains endpoints, parameters, schemas, authentication, errors, examples, limits, and compatibility expectations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+API documentation explains endpoints, parameters, schemas, authentication, errors, examples, limits, and compatibility expectations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

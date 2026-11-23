@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Server-sent events provide a one-way HTTP stream from server to browser using the text/event-stream format.
+> **Server-sent events provide a one-way HTTP stream from server to browser using the text/event-stream format.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Server-sent events** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Server-sent events provide a one-way HTTP stream from server to browser using the text/event-stream format.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Server-sent events provide a one-way HTTP stream from server to browser using the text/event-stream format.
 
 ## 2. Execution Mechanics & Runtime Flow
 

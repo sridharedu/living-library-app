@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An Internet Gateway enables communication between a VPC and the public internet for appropriately routed and addressed resources.
+> **An Internet Gateway enables communication between a VPC and the public internet for appropriately routed and addressed resources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Internet Gateway** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. An Internet Gateway enables communication between a VPC and the public internet for appropriately routed and addressed resources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An Internet Gateway enables communication between a VPC and the public internet for appropriately routed and addressed resources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

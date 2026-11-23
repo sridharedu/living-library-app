@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon Lightsail is an easy-to-use VPS platform with preconfigured instance plans and simple management. It is useful for small websites, prototypes, and basic hosted applications.
+> **Amazon Lightsail is an easy-to-use VPS platform with preconfigured instance plans and simple management. It is useful for small websites, prototypes, and basic hosted applications.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Amazon Lightsail?** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Amazon Lightsail is an easy-to-use VPS platform with preconfigured instance plans and simple management. It is useful for small websites, prototypes, and basic hosted applications.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon Lightsail is an easy-to-use VPS platform with preconfigured instance plans and simple management. It is useful for small websites, prototypes, and basic hosted applications.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> TestRestTemplate is a convenient blocking HTTP client for integration tests that start a Spring Boot server on a real port.
+> **TestRestTemplate is a convenient blocking HTTP client for integration tests that start a Spring Boot server on a real port.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**TestRestTemplate** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. TestRestTemplate is a convenient blocking HTTP client for integration tests that start a Spring Boot server on a real port.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+TestRestTemplate is a convenient blocking HTTP client for integration tests that start a Spring Boot server on a real port.
 
 ## 2. Execution Mechanics & Runtime Flow
 

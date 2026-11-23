@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Feature flags separate code deployment from feature release and allow targeted rollout or rapid disablement.
+> **Feature flags separate code deployment from feature release and allow targeted rollout or rapid disablement.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Feature flags** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Feature flags separate code deployment from feature release and allow targeted rollout or rapid disablement.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Feature flags separate code deployment from feature release and allow targeted rollout or rapid disablement.
 
 ## 2. Execution Mechanics & Runtime Flow
 

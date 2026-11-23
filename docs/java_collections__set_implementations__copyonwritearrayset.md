@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CopyOnWriteArraySet is optimized for small sets with frequent reads and rare writes. Iterators see a stable snapshot.
+> **CopyOnWriteArraySet is optimized for small sets with frequent reads and rare writes. Iterators see a stable snapshot.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CopyOnWriteArraySet** serves as a foundational component within *Set Implementations* in the broader **Java Collections** ecosystem. CopyOnWriteArraySet is optimized for small sets with frequent reads and rare writes. Iterators see a stable snapshot.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CopyOnWriteArraySet is optimized for small sets with frequent reads and rare writes. Iterators see a stable snapshot.
 
 ## 2. Execution Mechanics & Runtime Flow
 

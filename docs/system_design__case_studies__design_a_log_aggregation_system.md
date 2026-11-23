@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A log platform collects, buffers, parses, indexes, stores, searches, and retains high-volume logs while controlling cost and backpressure.
+> **A log platform collects, buffers, parses, indexes, stores, searches, and retains high-volume logs while controlling cost and backpressure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design a log aggregation system** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A log platform collects, buffers, parses, indexes, stores, searches, and retains high-volume logs while controlling cost and backpressure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A log platform collects, buffers, parses, indexes, stores, searches, and retains high-volume logs while controlling cost and backpressure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

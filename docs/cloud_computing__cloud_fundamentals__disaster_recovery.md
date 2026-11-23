@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Disaster recovery restores service after major failure using backups, replication, alternate sites, and tested recovery procedures.
+> **Disaster recovery restores service after major failure using backups, replication, alternate sites, and tested recovery procedures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Disaster recovery** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Disaster recovery restores service after major failure using backups, replication, alternate sites, and tested recovery procedures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Disaster recovery restores service after major failure using backups, replication, alternate sites, and tested recovery procedures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

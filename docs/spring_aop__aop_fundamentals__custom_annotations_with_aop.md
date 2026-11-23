@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A custom annotation can mark methods or classes for an aspect pointcut, creating reusable declarative behavior.
+> **A custom annotation can mark methods or classes for an aspect pointcut, creating reusable declarative behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Custom annotations with AOP** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. A custom annotation can mark methods or classes for an aspect pointcut, creating reusable declarative behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A custom annotation can mark methods or classes for an aspect pointcut, creating reusable declarative behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

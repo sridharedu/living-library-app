@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Dynamic tests are generated at runtime from data or logic and returned through @TestFactory methods.
+> **Dynamic tests are generated at runtime from data or logic and returned through @TestFactory methods.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dynamic tests** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Dynamic tests are generated at runtime from data or logic and returned through @TestFactory methods.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Dynamic tests are generated at runtime from data or logic and returned through @TestFactory methods.
 
 ## 2. Execution Mechanics & Runtime Flow
 

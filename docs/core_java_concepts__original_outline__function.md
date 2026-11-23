@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Function<T,R> transforms an input of type T into an output of type R. Functions can be chained with compose and andThen to build readable transformation pipelines.
+> **Function<T,R> transforms an input of type T into an output of type R. Functions can be chained with compose and andThen to build readable transformation pipelines.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Function** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Function<T,R> transforms an input of type T into an output of type R. Functions can be chained with compose and andThen to build readable transformation pipelines.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Function<T,R> transforms an input of type T into an output of type R. Functions can be chained with compose and andThen to build readable transformation pipelines.
 
 ## 2. Execution Mechanics & Runtime Flow
 

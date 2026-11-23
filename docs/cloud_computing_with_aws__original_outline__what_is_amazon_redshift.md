@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Redshift is AWS's cloud data warehouse for business intelligence and analytics. It is designed for complex aggregations rather than high-volume transactional operations.
+> **Redshift is AWS's cloud data warehouse for business intelligence and analytics. It is designed for complex aggregations rather than high-volume transactional operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Amazon Redshift?** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Redshift is AWS's cloud data warehouse for business intelligence and analytics. It is designed for complex aggregations rather than high-volume transactional operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Redshift is AWS's cloud data warehouse for business intelligence and analytics. It is designed for complex aggregations rather than high-volume transactional operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

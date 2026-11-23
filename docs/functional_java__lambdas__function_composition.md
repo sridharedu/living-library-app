@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Function composition combines transformations into pipelines using compose and andThen. Order matters because output from one becomes input to the next.
+> **Function composition combines transformations into pipelines using compose and andThen. Order matters because output from one becomes input to the next.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Function composition** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. Function composition combines transformations into pipelines using compose and andThen. Order matters because output from one becomes input to the next.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Function composition combines transformations into pipelines using compose and andThen. Order matters because output from one becomes input to the next.
 
 ## 2. Execution Mechanics & Runtime Flow
 

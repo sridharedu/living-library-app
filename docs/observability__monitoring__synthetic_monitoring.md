@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Synthetic monitoring runs scripted checks or user journeys on a schedule to detect failures before real users report them.
+> **Synthetic monitoring runs scripted checks or user journeys on a schedule to detect failures before real users report them.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Synthetic monitoring** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Synthetic monitoring runs scripted checks or user journeys on a schedule to detect failures before real users report them.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Synthetic monitoring runs scripted checks or user journeys on a schedule to detect failures before real users report them.
 
 ## 2. Execution Mechanics & Runtime Flow
 

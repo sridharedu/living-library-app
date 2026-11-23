@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> First normal form requires each column value to be atomic and each row-column intersection to contain one value.
+> **First normal form requires each column value to be atomic and each row-column intersection to contain one value.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**First normal form** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. First normal form requires each column value to be atomic and each row-column intersection to contain one value.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+First normal form requires each column value to be atomic and each row-column intersection to contain one value.
 
 ## 2. Execution Mechanics & Runtime Flow
 

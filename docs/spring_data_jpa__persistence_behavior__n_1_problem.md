@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The N+1 problem occurs when one query loads parent rows and then one additional query runs for each parent to load related data.
+> **The N+1 problem occurs when one query loads parent rows and then one additional query runs for each parent to load related data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**N+1 problem** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. The N+1 problem occurs when one query loads parent rows and then one additional query runs for each parent to load related data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The N+1 problem occurs when one query loads parent rows and then one additional query runs for each parent to load related data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> batch.size sets the target maximum byte size of a producer batch for one partition.
+> **batch.size sets the target maximum byte size of a producer batch for one partition.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**batch.size** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. batch.size sets the target maximum byte size of a producer batch for one partition.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+batch.size sets the target maximum byte size of a producer batch for one partition.
 
 ## 2. Execution Mechanics & Runtime Flow
 

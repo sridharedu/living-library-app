@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Dependency Injection means the container creates application objects and supplies their dependencies. This removes manual construction from business code and improves substitution, testing, and lifecycle management.
+> **Spring Dependency Injection means the container creates application objects and supplies their dependencies. This removes manual construction from business code and improves substitution, testing, and lifecycle management.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dependency Injection in Spring** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Dependency Injection means the container creates application objects and supplies their dependencies. This removes manual construction from business code and improves substitution, testing, and lifecycle management.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Dependency Injection means the container creates application objects and supplies their dependencies. This removes manual construction from business code and improves substitution, testing, and lifecycle management.
 
 ## 2. Execution Mechanics & Runtime Flow
 

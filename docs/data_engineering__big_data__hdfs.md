@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> HDFS stores large files across cluster nodes in replicated blocks and is optimized for high-throughput sequential access.
+> **HDFS stores large files across cluster nodes in replicated blocks and is optimized for high-throughput sequential access.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**HDFS** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. HDFS stores large files across cluster nodes in replicated blocks and is optimized for high-throughput sequential access.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+HDFS stores large files across cluster nodes in replicated blocks and is optimized for high-throughput sequential access.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Vector clocks track causal history across nodes and can detect whether versions are ordered or concurrent.
+> **Vector clocks track causal history across nodes and can detect whether versions are ordered or concurrent.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Vector clocks** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Vector clocks track causal history across nodes and can detect whether versions are ordered or concurrent.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Vector clocks track causal history across nodes and can detect whether versions are ordered or concurrent.
 
 ## 2. Execution Mechanics & Runtime Flow
 

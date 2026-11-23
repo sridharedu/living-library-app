@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Database design should reflect business rules, data integrity, access patterns, lifecycle, scale, and security. Model first, then optimize with evidence.
+> **Database design should reflect business rules, data integrity, access patterns, lifecycle, scale, and security. Model first, then optimize with evidence.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Principles of Database Design** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. Database design should reflect business rules, data integrity, access patterns, lifecycle, scale, and security. Model first, then optimize with evidence.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Database design should reflect business rules, data integrity, access patterns, lifecycle, scale, and security. Model first, then optimize with evidence.
 
 ## 2. Execution Mechanics & Runtime Flow
 

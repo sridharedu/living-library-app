@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cross-Origin Resource Sharing controls whether browser code from one origin may access resources on another origin.
+> **Cross-Origin Resource Sharing controls whether browser code from one origin may access resources on another origin.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CORS** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Cross-Origin Resource Sharing controls whether browser code from one origin may access resources on another origin.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cross-Origin Resource Sharing controls whether browser code from one origin may access resources on another origin.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Hot methods are methods executed frequently enough for the JVM to prioritize compilation and optimization.
+> **Hot methods are methods executed frequently enough for the JVM to prioritize compilation and optimization.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hot methods** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Hot methods are methods executed frequently enough for the JVM to prioritize compilation and optimization.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Hot methods are methods executed frequently enough for the JVM to prioritize compilation and optimization.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Singleton ensures one shared instance within a defined scope. It should be used carefully because global state harms testing and modularity.
+> **Singleton ensures one shared instance within a defined scope. It should be used carefully because global state harms testing and modularity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Singleton** serves as a foundational component within *Creational Patterns* in the broader **Design Patterns** ecosystem. Singleton ensures one shared instance within a defined scope. It should be used carefully because global state harms testing and modularity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Singleton ensures one shared instance within a defined scope. It should be used carefully because global state harms testing and modularity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

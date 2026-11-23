@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CloudWatch Synthetics runs scripted canaries that test endpoints and user journeys from outside the application.
+> **CloudWatch Synthetics runs scripted canaries that test endpoints and user journeys from outside the application.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CloudWatch Synthetics** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. CloudWatch Synthetics runs scripted canaries that test endpoints and user journeys from outside the application.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CloudWatch Synthetics runs scripted canaries that test endpoints and user journeys from outside the application.
 
 ## 2. Execution Mechanics & Runtime Flow
 

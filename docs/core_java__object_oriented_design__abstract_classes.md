@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An abstract class can hold state, constructors, concrete methods, and abstract methods. It cannot be instantiated directly.
+> **An abstract class can hold state, constructors, concrete methods, and abstract methods. It cannot be instantiated directly.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Abstract classes** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. An abstract class can hold state, constructors, concrete methods, and abstract methods. It cannot be instantiated directly.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An abstract class can hold state, constructors, concrete methods, and abstract methods. It cannot be instantiated directly.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ScheduledExecutorService runs tasks after delays or at fixed rates and delays. It is preferred over Timer for concurrent scheduling.
+> **ScheduledExecutorService runs tasks after delays or at fixed rates and delays. It is preferred over Timer for concurrent scheduling.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ScheduledExecutorService** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. ScheduledExecutorService runs tasks after delays or at fixed rates and delays. It is preferred over Timer for concurrent scheduling.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ScheduledExecutorService runs tasks after delays or at fixed rates and delays. It is preferred over Timer for concurrent scheduling.
 
 ## 2. Execution Mechanics & Runtime Flow
 

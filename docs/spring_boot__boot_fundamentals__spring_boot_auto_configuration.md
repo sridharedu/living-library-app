@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Boot auto-configuration creates sensible beans based on the classpath, existing beans, properties, and application type.
+> **Spring Boot auto-configuration creates sensible beans based on the classpath, existing beans, properties, and application type.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring Boot auto-configuration** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. Spring Boot auto-configuration creates sensible beans based on the classpath, existing beans, properties, and application type.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Boot auto-configuration creates sensible beans based on the classpath, existing beans, properties, and application type.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Threads can be created directly, through Runnable or Callable, or more commonly through executors and virtual-thread APIs.
+> **Threads can be created directly, through Runnable or Callable, or more commonly through executors and virtual-thread APIs.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Creating threads** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. Threads can be created directly, through Runnable or Callable, or more commonly through executors and virtual-thread APIs.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Threads can be created directly, through Runnable or Callable, or more commonly through executors and virtual-thread APIs.
 
 ## 2. Execution Mechanics & Runtime Flow
 

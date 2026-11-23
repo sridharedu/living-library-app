@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Builder constructs complex objects step by step and is useful when many optional parameters or validation rules exist.
+> **Builder constructs complex objects step by step and is useful when many optional parameters or validation rules exist.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Builder** serves as a foundational component within *Creational Patterns* in the broader **Design Patterns** ecosystem. Builder constructs complex objects step by step and is useful when many optional parameters or validation rules exist.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Builder constructs complex objects step by step and is useful when many optional parameters or validation rules exist.
 
 ## 2. Execution Mechanics & Runtime Flow
 

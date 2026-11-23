@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Container Storage Interface standardizes how storage systems expose volumes to container orchestrators.
+> **The Container Storage Interface standardizes how storage systems expose volumes to container orchestrators.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CSI** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Container Storage Interface standardizes how storage systems expose volumes to container orchestrators.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Container Storage Interface standardizes how storage systems expose volumes to container orchestrators.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Producer batching groups records for the same partition into fewer network requests, improving throughput.
+> **Producer batching groups records for the same partition into fewer network requests, improving throughput.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Producer batching** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. Producer batching groups records for the same partition into fewer network requests, improving throughput.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Producer batching groups records for the same partition into fewer network requests, improving throughput.
 
 ## 2. Execution Mechanics & Runtime Flow
 

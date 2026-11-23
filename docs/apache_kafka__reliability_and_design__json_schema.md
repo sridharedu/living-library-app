@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JSON Schema defines the structure, types, required fields, and validation rules for JSON documents.
+> **JSON Schema defines the structure, types, required fields, and validation rules for JSON documents.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JSON schema** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. JSON Schema defines the structure, types, required fields, and validation rules for JSON documents.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JSON Schema defines the structure, types, required fields, and validation rules for JSON documents.
 
 ## 2. Execution Mechanics & Runtime Flow
 

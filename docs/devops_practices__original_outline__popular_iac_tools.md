@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Popular IaC tools include Terraform, AWS CloudFormation, Pulumi, Azure Bicep, Ansible, and Crossplane. They differ in language, state management, and target platforms.
+> **Popular IaC tools include Terraform, AWS CloudFormation, Pulumi, Azure Bicep, Ansible, and Crossplane. They differ in language, state management, and target platforms.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Popular IaC Tools** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Popular IaC tools include Terraform, AWS CloudFormation, Pulumi, Azure Bicep, Ansible, and Crossplane. They differ in language, state management, and target platforms.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Popular IaC tools include Terraform, AWS CloudFormation, Pulumi, Azure Bicep, Ansible, and Crossplane. They differ in language, state management, and target platforms.
 
 ## 2. Execution Mechanics & Runtime Flow
 

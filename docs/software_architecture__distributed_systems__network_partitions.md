@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A network partition prevents nodes from communicating while they may still be running. Systems must define availability and consistency behavior during it.
+> **A network partition prevents nodes from communicating while they may still be running. Systems must define availability and consistency behavior during it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Network partitions** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. A network partition prevents nodes from communicating while they may still be running. Systems must define availability and consistency behavior during it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A network partition prevents nodes from communicating while they may still be running. Systems must define availability and consistency behavior during it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

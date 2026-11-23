@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Important settings include sliding-window size, failure-rate threshold, minimum calls, open-state duration, half-open permitted calls, and which exceptions count as failures.
+> **Important settings include sliding-window size, failure-rate threshold, minimum calls, open-state duration, half-open permitted calls, and which exceptions count as failures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Configuring Resilience4j for Circuit Breaking** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Important settings include sliding-window size, failure-rate threshold, minimum calls, open-state duration, half-open permitted calls, and which exceptions count as failures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Important settings include sliding-window size, failure-rate threshold, minimum calls, open-state duration, half-open permitted calls, and which exceptions count as failures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> NoSQL systems may offer strong, eventual, causal, session, or tunable consistency depending on replication and read-write settings.
+> **NoSQL systems may offer strong, eventual, causal, session, or tunable consistency depending on replication and read-write settings.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**NoSQL consistency models** serves as a foundational component within *NoSQL Fundamentals* in the broader **NoSQL** ecosystem. NoSQL systems may offer strong, eventual, causal, session, or tunable consistency depending on replication and read-write settings.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+NoSQL systems may offer strong, eventual, causal, session, or tunable consistency depending on replication and read-write settings.
 
 ## 2. Execution Mechanics & Runtime Flow
 

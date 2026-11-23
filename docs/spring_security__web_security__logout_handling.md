@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Logout should clear the security context, invalidate the session, remove relevant cookies, and optionally revoke tokens.
+> **Logout should clear the security context, invalidate the session, remove relevant cookies, and optionally revoke tokens.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Logout handling** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Logout should clear the security context, invalidate the session, remove relevant cookies, and optionally revoke tokens.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Logout should clear the security context, invalidate the session, remove relevant cookies, and optionally revoke tokens.
 
 ## 2. Execution Mechanics & Runtime Flow
 

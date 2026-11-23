@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> joining concatenates character sequences, optionally using a delimiter, prefix, and suffix.
+> **joining concatenates character sequences, optionally using a delimiter, prefix, and suffix.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collectors.joining** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. joining concatenates character sequences, optionally using a delimiter, prefix, and suffix.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+joining concatenates character sequences, optionally using a delimiter, prefix, and suffix.
 
 ## 2. Execution Mechanics & Runtime Flow
 

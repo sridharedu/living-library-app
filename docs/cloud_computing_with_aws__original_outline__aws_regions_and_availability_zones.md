@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Region is a geographic area containing multiple isolated Availability Zones. Multi-AZ deployment protects against individual data-center failures within a Region.
+> **A Region is a geographic area containing multiple isolated Availability Zones. Multi-AZ deployment protects against individual data-center failures within a Region.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Regions and Availability Zones** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A Region is a geographic area containing multiple isolated Availability Zones. Multi-AZ deployment protects against individual data-center failures within a Region.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Region is a geographic area containing multiple isolated Availability Zones. Multi-AZ deployment protects against individual data-center failures within a Region.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Kafka provides templates, listener containers, serialization support, transactions, retries, error handling, and testing utilities for Kafka.
+> **Spring Kafka provides templates, listener containers, serialization support, transactions, retries, error handling, and testing utilities for Kafka.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring Kafka** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Spring Kafka provides templates, listener containers, serialization support, transactions, retries, error handling, and testing utilities for Kafka.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Kafka provides templates, listener containers, serialization support, transactions, retries, error handling, and testing utilities for Kafka.
 
 ## 2. Execution Mechanics & Runtime Flow
 

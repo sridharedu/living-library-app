@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Terraform provisions AWS resources through declarative configuration, providers, plans, and managed state.
+> **Terraform provisions AWS resources through declarative configuration, providers, plans, and managed state.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Terraform on AWS** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. Terraform provisions AWS resources through declarative configuration, providers, plans, and managed state.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Terraform provisions AWS resources through declarative configuration, providers, plans, and managed state.
 
 ## 2. Execution Mechanics & Runtime Flow
 

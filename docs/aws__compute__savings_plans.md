@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Savings Plans reduce eligible compute costs in exchange for a committed hourly spend over one or three years.
+> **Savings Plans reduce eligible compute costs in exchange for a committed hourly spend over one or three years.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Savings Plans** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. Savings Plans reduce eligible compute costs in exchange for a committed hourly spend over one or three years.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Savings Plans reduce eligible compute costs in exchange for a committed hourly spend over one or three years.
 
 ## 2. Execution Mechanics & Runtime Flow
 

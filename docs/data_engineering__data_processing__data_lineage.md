@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Data lineage records where data came from, how it changed, and where it was consumed.
+> **Data lineage records where data came from, how it changed, and where it was consumed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Data lineage** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. Data lineage records where data came from, how it changed, and where it was consumed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Data lineage records where data came from, how it changed, and where it was consumed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A distributed lock coordinates exclusive access across processes. Correct designs require leases, fencing tokens, and failure handling.
+> **A distributed lock coordinates exclusive access across processes. Correct designs require leases, fencing tokens, and failure handling.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Distributed locks** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. A distributed lock coordinates exclusive access across processes. Correct designs require leases, fencing tokens, and failure handling.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A distributed lock coordinates exclusive access across processes. Correct designs require leases, fencing tokens, and failure handling.
 
 ## 2. Execution Mechanics & Runtime Flow
 

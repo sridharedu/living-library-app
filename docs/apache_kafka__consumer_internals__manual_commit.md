@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Manual commit lets the application commit only after successful processing, giving better delivery control.
+> **Manual commit lets the application commit only after successful processing, giving better delivery control.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Manual commit** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Manual commit lets the application commit only after successful processing, giving better delivery control.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Manual commit lets the application commit only after successful processing, giving better delivery control.
 
 ## 2. Execution Mechanics & Runtime Flow
 

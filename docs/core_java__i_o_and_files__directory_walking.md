@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Files.walk and Files.walkFileTree traverse directory trees. Streams returned by Files.walk should be closed.
+> **Files.walk and Files.walkFileTree traverse directory trees. Streams returned by Files.walk should be closed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Directory walking** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. Files.walk and Files.walkFileTree traverse directory trees. Streams returned by Files.walk should be closed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Files.walk and Files.walkFileTree traverse directory trees. Streams returned by Files.walk should be closed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

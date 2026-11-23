@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Docker provides DNS-based name resolution between containers attached to the same user-defined network.
+> **Docker provides DNS-based name resolution between containers attached to the same user-defined network.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Container DNS** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Docker provides DNS-based name resolution between containers attached to the same user-defined network.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Docker provides DNS-based name resolution between containers attached to the same user-defined network.
 
 ## 2. Execution Mechanics & Runtime Flow
 

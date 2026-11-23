@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Controllers receive web requests, validate and delegate work to services, then return views or response bodies. They should remain thin and avoid owning business or persistence logic.
+> **Controllers receive web requests, validate and delegate work to services, then return views or response bodies. They should remain thin and avoid owning business or persistence logic.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Controllers** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Controllers receive web requests, validate and delegate work to services, then return views or response bodies. They should remain thin and avoid owning business or persistence logic.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Controllers receive web requests, validate and delegate work to services, then return views or response bodies. They should remain thin and avoid owning business or persistence logic.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Containers should connect through user-defined networks and service names rather than fixed IP addresses. This keeps communication stable as containers are recreated.
+> **Containers should connect through user-defined networks and service names rather than fixed IP addresses. This keeps communication stable as containers are recreated.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Connecting Containers** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Containers should connect through user-defined networks and service names rather than fixed IP addresses. This keeps communication stable as containers are recreated.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Containers should connect through user-defined networks and service names rather than fixed IP addresses. This keeps communication stable as containers are recreated.
 
 ## 2. Execution Mechanics & Runtime Flow
 

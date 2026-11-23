@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Graph databases model entities as nodes and relationships as edges. They excel at traversals such as recommendations, fraud networks, and social connections.
+> **Graph databases model entities as nodes and relationships as edges. They excel at traversals such as recommendations, fraud networks, and social connections.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Graph Databases** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Graph databases model entities as nodes and relationships as edges. They excel at traversals such as recommendations, fraud networks, and social connections.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Graph databases model entities as nodes and relationships as edges. They excel at traversals such as recommendations, fraud networks, and social connections.
 
 ## 2. Execution Mechanics & Runtime Flow
 

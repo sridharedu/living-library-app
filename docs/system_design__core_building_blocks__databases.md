@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Databases persist structured or unstructured data and provide querying, indexing, consistency, and durability guarantees.
+> **Databases persist structured or unstructured data and provide querying, indexing, consistency, and durability guarantees.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Databases** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Databases persist structured or unstructured data and provide querying, indexing, consistency, and durability guarantees.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Databases persist structured or unstructured data and provide querying, indexing, consistency, and durability guarantees.
 
 ## 2. Execution Mechanics & Runtime Flow
 

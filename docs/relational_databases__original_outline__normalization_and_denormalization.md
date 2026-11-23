@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Normalization reduces duplication and update anomalies by splitting data into related tables. Denormalization intentionally duplicates or combines data to improve read performance.
+> **Normalization reduces duplication and update anomalies by splitting data into related tables. Denormalization intentionally duplicates or combines data to improve read performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Normalization and Denormalization** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. Normalization reduces duplication and update anomalies by splitting data into related tables. Denormalization intentionally duplicates or combines data to improve read performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Normalization reduces duplication and update anomalies by splitting data into related tables. Denormalization intentionally duplicates or combines data to improve read performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

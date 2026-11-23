@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ReadWriteLock separates shared read access from exclusive write access. It helps when reads greatly outnumber writes.
+> **ReadWriteLock separates shared read access from exclusive write access. It helps when reads greatly outnumber writes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ReadWriteLock** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. ReadWriteLock separates shared read access from exclusive write access. It helps when reads greatly outnumber writes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ReadWriteLock separates shared read access from exclusive write access. It helps when reads greatly outnumber writes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

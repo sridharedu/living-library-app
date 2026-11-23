@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Quorum queues replicate messages through Raft for stronger durability and predictable failover.
+> **Quorum queues replicate messages through Raft for stronger durability and predictable failover.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Quorum queues** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. Quorum queues replicate messages through Raft for stronger durability and predictable failover.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Quorum queues replicate messages through Raft for stronger durability and predictable failover.
 
 ## 2. Execution Mechanics & Runtime Flow
 

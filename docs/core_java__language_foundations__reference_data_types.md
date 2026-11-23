@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Reference types include classes, arrays, interfaces, enums, and records. Variables store references to objects rather than the object data itself.
+> **Reference types include classes, arrays, interfaces, enums, and records. Variables store references to objects rather than the object data itself.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reference data types** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Reference types include classes, arrays, interfaces, enums, and records. Variables store references to objects rather than the object data itself.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Reference types include classes, arrays, interfaces, enums, and records. Variables store references to objects rather than the object data itself.
 
 ## 2. Execution Mechanics & Runtime Flow
 

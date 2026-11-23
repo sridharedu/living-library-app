@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Wavelength Zones place AWS infrastructure inside telecom 5G networks to reduce latency for mobile and edge applications.
+> **Wavelength Zones place AWS infrastructure inside telecom 5G networks to reduce latency for mobile and edge applications.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Wavelength Zones** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. Wavelength Zones place AWS infrastructure inside telecom 5G networks to reduce latency for mobile and edge applications.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Wavelength Zones place AWS infrastructure inside telecom 5G networks to reduce latency for mobile and edge applications.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Database statistics describe data distribution and cardinality so the optimizer can choose efficient plans. Stale statistics often lead to poor estimates.
+> **Database statistics describe data distribution and cardinality so the optimizer can choose efficient plans. Stale statistics often lead to poor estimates.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Database Statistics and Optimization** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Database statistics describe data distribution and cardinality so the optimizer can choose efficient plans. Stale statistics often lead to poor estimates.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Database statistics describe data distribution and cardinality so the optimizer can choose efficient plans. Stale statistics often lead to poor estimates.
 
 ## 2. Execution Mechanics & Runtime Flow
 

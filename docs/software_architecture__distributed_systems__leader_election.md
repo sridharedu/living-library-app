@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Leader election selects one node to coordinate work or writes while other nodes follow or stand by.
+> **Leader election selects one node to coordinate work or writes while other nodes follow or stand by.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Leader election** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Leader election selects one node to coordinate work or writes while other nodes follow or stand by.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Leader election selects one node to coordinate work or writes while other nodes follow or stand by.
 
 ## 2. Execution Mechanics & Runtime Flow
 

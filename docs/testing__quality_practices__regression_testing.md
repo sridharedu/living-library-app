@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Regression testing reruns existing checks to confirm that new changes did not break previously working behavior.
+> **Regression testing reruns existing checks to confirm that new changes did not break previously working behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Regression testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Regression testing reruns existing checks to confirm that new changes did not break previously working behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Regression testing reruns existing checks to confirm that new changes did not break previously working behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

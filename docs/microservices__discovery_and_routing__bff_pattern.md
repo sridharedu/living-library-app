@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Backend for Frontend creates a dedicated backend tailored to one client type, such as mobile or web, reducing client-specific complexity in shared services.
+> **Backend for Frontend creates a dedicated backend tailored to one client type, such as mobile or web, reducing client-specific complexity in shared services.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**BFF pattern** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Backend for Frontend creates a dedicated backend tailored to one client type, such as mobile or web, reducing client-specific complexity in shared services.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Backend for Frontend creates a dedicated backend tailored to one client type, such as mobile or web, reducing client-specific complexity in shared services.
 
 ## 2. Execution Mechanics & Runtime Flow
 

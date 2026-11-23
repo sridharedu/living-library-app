@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Tunable consistency lets clients choose read and write acknowledgement levels per operation, balancing latency and consistency.
+> **Tunable consistency lets clients choose read and write acknowledgement levels per operation, balancing latency and consistency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Tunable consistency** serves as a foundational component within *NoSQL Fundamentals* in the broader **NoSQL** ecosystem. Tunable consistency lets clients choose read and write acknowledgement levels per operation, balancing latency and consistency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Tunable consistency lets clients choose read and write acknowledgement levels per operation, balancing latency and consistency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

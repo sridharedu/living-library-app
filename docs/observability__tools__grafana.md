@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Grafana creates dashboards, visualizations, alerts, and exploratory views across many telemetry data sources.
+> **Grafana creates dashboards, visualizations, alerts, and exploratory views across many telemetry data sources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Grafana** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Grafana creates dashboards, visualizations, alerts, and exploratory views across many telemetry data sources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Grafana creates dashboards, visualizations, alerts, and exploratory views across many telemetry data sources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

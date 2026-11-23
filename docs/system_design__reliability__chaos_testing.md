@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Chaos testing injects controlled failures to verify resilience assumptions and recovery behavior.
+> **Chaos testing injects controlled failures to verify resilience assumptions and recovery behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Chaos testing** serves as a foundational component within *Reliability* in the broader **System Design** ecosystem. Chaos testing injects controlled failures to verify resilience assumptions and recovery behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Chaos testing injects controlled failures to verify resilience assumptions and recovery behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

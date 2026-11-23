@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Specifications build reusable, composable JPA predicates for dynamic queries through the Criteria API.
+> **Specifications build reusable, composable JPA predicates for dynamic queries through the Criteria API.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Specifications** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Specifications build reusable, composable JPA predicates for dynamic queries through the Criteria API.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Specifications build reusable, composable JPA predicates for dynamic queries through the Criteria API.
 
 ## 2. Execution Mechanics & Runtime Flow
 

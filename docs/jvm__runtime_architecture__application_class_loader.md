@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The application class loader loads classes from the application's classpath or module path.
+> **The application class loader loads classes from the application's classpath or module path.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Application class loader** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The application class loader loads classes from the application's classpath or module path.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The application class loader loads classes from the application's classpath or module path.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Component scanning finds annotated classes such as @Component, @Service, @Repository, and @Controller and registers them as beans.
+> **Component scanning finds annotated classes such as @Component, @Service, @Repository, and @Controller and registers them as beans.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Component scanning** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Component scanning finds annotated classes such as @Component, @Service, @Repository, and @Controller and registers them as beans.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Component scanning finds annotated classes such as @Component, @Service, @Repository, and @Controller and registers them as beans.
 
 ## 2. Execution Mechanics & Runtime Flow
 

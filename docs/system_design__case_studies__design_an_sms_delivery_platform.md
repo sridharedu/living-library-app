@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An SMS platform buffers spikes, applies provider and tenant rate limits, selects routes, retries transient failures, deduplicates messages, and tracks delivery receipts.
+> **An SMS platform buffers spikes, applies provider and tenant rate limits, selects routes, retries transient failures, deduplicates messages, and tracks delivery receipts.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design an SMS delivery platform** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. An SMS platform buffers spikes, applies provider and tenant rate limits, selects routes, retries transient failures, deduplicates messages, and tracks delivery receipts.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An SMS platform buffers spikes, applies provider and tenant rate limits, selects routes, retries transient failures, deduplicates messages, and tracks delivery receipts.
 
 ## 2. Execution Mechanics & Runtime Flow
 

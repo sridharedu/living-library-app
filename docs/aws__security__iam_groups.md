@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> IAM groups collect users so shared policies can be assigned consistently.
+> **IAM groups collect users so shared policies can be assigned consistently.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**IAM groups** serves as a foundational component within *Security* in the broader **AWS** ecosystem. IAM groups collect users so shared policies can be assigned consistently.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+IAM groups collect users so shared policies can be assigned consistently.
 
 ## 2. Execution Mechanics & Runtime Flow
 

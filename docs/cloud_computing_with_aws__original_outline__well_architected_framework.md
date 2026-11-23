@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The AWS Well-Architected Framework evaluates systems across operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability.
+> **The AWS Well-Architected Framework evaluates systems across operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Well-Architected Framework** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. The AWS Well-Architected Framework evaluates systems across operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The AWS Well-Architected Framework evaluates systems across operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Stateless stream operations process each element independently, such as filter and map. They are easy to parallelize.
+> **Stateless stream operations process each element independently, such as filter and map. They are easy to parallelize.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stateless operations** serves as a foundational component within *Stream Fundamentals* in the broader **Java Streams** ecosystem. Stateless stream operations process each element independently, such as filter and map. They are easy to parallelize.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Stateless stream operations process each element independently, such as filter and map. They are easy to parallelize.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Artifact repositories store versioned build outputs such as JARs, packages, images, and metadata for controlled reuse and promotion.
+> **Artifact repositories store versioned build outputs such as JARs, packages, images, and metadata for controlled reuse and promotion.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Artifact repositories** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Artifact repositories store versioned build outputs such as JARs, packages, images, and metadata for controlled reuse and promotion.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Artifact repositories store versioned build outputs such as JARs, packages, images, and metadata for controlled reuse and promotion.
 
 ## 2. Execution Mechanics & Runtime Flow
 

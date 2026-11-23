@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Void methods are stubbed with doNothing, doThrow, or doAnswer. This is useful for simulating failures or side effects.
+> **Void methods are stubbed with doNothing, doThrow, or doAnswer. This is useful for simulating failures or side effects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mocking Void Methods and Exceptions** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Void methods are stubbed with doNothing, doThrow, or doAnswer. This is useful for simulating failures or side effects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Void methods are stubbed with doNothing, doThrow, or doAnswer. This is useful for simulating failures or side effects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

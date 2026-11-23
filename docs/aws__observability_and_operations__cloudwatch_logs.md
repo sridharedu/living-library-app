@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CloudWatch Logs centralizes application and service logs for search, metrics, retention, alerts, and subscriptions.
+> **CloudWatch Logs centralizes application and service logs for search, metrics, retention, alerts, and subscriptions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CloudWatch logs** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. CloudWatch Logs centralizes application and service logs for search, metrics, retention, alerts, and subscriptions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CloudWatch Logs centralizes application and service logs for search, metrics, retention, alerts, and subscriptions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

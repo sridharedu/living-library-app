@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Logs are timestamped event records that provide detailed context about application and infrastructure behavior.
+> **Logs are timestamped event records that provide detailed context about application and infrastructure behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Logs** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Logs are timestamped event records that provide detailed context about application and infrastructure behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Logs are timestamped event records that provide detailed context about application and infrastructure behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

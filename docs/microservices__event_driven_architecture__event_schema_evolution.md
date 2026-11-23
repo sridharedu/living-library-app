@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Event schema evolution changes event structure without breaking old producers, consumers, or retained historical messages.
+> **Event schema evolution changes event structure without breaking old producers, consumers, or retained historical messages.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Event schema evolution** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event schema evolution changes event structure without breaking old producers, consumers, or retained historical messages.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Event schema evolution changes event structure without breaking old producers, consumers, or retained historical messages.
 
 ## 2. Execution Mechanics & Runtime Flow
 

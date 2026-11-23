@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Externalized configuration keeps environment-specific values outside application code so the same artifact can run in different environments.
+> **Externalized configuration keeps environment-specific values outside application code so the same artifact can run in different environments.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Externalized configuration** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Externalized configuration keeps environment-specific values outside application code so the same artifact can run in different environments.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Externalized configuration keeps environment-specific values outside application code so the same artifact can run in different environments.
 
 ## 2. Execution Mechanics & Runtime Flow
 

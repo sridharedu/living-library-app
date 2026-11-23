@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Serializable isolation makes concurrent transactions behave as if executed one at a time, offering the strongest isolation at higher coordination cost.
+> **Serializable isolation makes concurrent transactions behave as if executed one at a time, offering the strongest isolation at higher coordination cost.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Serializable isolation** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. Serializable isolation makes concurrent transactions behave as if executed one at a time, offering the strongest isolation at higher coordination cost.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Serializable isolation makes concurrent transactions behave as if executed one at a time, offering the strongest isolation at higher coordination cost.
 
 ## 2. Execution Mechanics & Runtime Flow
 

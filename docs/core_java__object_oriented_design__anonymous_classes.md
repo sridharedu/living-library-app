@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An anonymous class creates a one-off subclass or interface implementation inline. Lambdas are preferable for functional interfaces.
+> **An anonymous class creates a one-off subclass or interface implementation inline. Lambdas are preferable for functional interfaces.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Anonymous classes** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. An anonymous class creates a one-off subclass or interface implementation inline. Lambdas are preferable for functional interfaces.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An anonymous class creates a one-off subclass or interface implementation inline. Lambdas are preferable for functional interfaces.
 
 ## 2. Execution Mechanics & Runtime Flow
 

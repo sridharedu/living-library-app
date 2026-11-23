@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A recursive CTE repeatedly applies a recursive query to model hierarchies, graphs, or generated sequences.
+> **A recursive CTE repeatedly applies a recursive query to model hierarchies, graphs, or generated sequences.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Recursive CTE** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. A recursive CTE repeatedly applies a recursive query to model hierarchies, graphs, or generated sequences.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A recursive CTE repeatedly applies a recursive query to model hierarchies, graphs, or generated sequences.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Security contexts configure user IDs, privileges, capabilities, filesystem permissions, and other security settings for Pods and containers.
+> **Security contexts configure user IDs, privileges, capabilities, filesystem permissions, and other security settings for Pods and containers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Security contexts** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Security contexts configure user IDs, privileges, capabilities, filesystem permissions, and other security settings for Pods and containers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Security contexts configure user IDs, privileges, capabilities, filesystem permissions, and other security settings for Pods and containers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

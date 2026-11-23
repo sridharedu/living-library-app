@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A cascading failure spreads when one slow or failing component consumes shared resources and causes dependent components to fail.
+> **A cascading failure spreads when one slow or failing component consumes shared resources and causes dependent components to fail.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cascading failures** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. A cascading failure spreads when one slow or failing component consumes shared resources and causes dependent components to fail.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A cascading failure spreads when one slow or failing component consumes shared resources and causes dependent components to fail.
 
 ## 2. Execution Mechanics & Runtime Flow
 

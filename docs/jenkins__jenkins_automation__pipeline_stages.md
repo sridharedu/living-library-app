@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Pipeline stages group related delivery work such as build, test, security checks, packaging, approval, and deployment.
+> **Pipeline stages group related delivery work such as build, test, security checks, packaging, approval, and deployment.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Pipeline stages** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Pipeline stages group related delivery work such as build, test, security checks, packaging, approval, and deployment.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Pipeline stages group related delivery work such as build, test, security checks, packaging, approval, and deployment.
 
 ## 2. Execution Mechanics & Runtime Flow
 

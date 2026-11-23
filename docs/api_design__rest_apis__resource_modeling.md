@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Resource modeling represents domain concepts as stable nouns with clear identifiers, relationships, and operations.
+> **Resource modeling represents domain concepts as stable nouns with clear identifiers, relationships, and operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Resource modeling** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. Resource modeling represents domain concepts as stable nouns with clear identifiers, relationships, and operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Resource modeling represents domain concepts as stable nouns with clear identifiers, relationships, and operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

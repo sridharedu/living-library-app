@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS IAM controls identities, authentication, permissions, and access to AWS resources.
+> **AWS IAM controls identities, authentication, permissions, and access to AWS resources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS IAM** serves as a foundational component within *Security* in the broader **AWS** ecosystem. AWS IAM controls identities, authentication, permissions, and access to AWS resources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS IAM controls identities, authentication, permissions, and access to AWS resources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The staging area, or index, records the exact content that will become the next commit.
+> **The staging area, or index, records the exact content that will become the next commit.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Staging area** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. The staging area, or index, records the exact content that will become the next commit.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The staging area, or index, records the exact content that will become the next commit.
 
 ## 2. Execution Mechanics & Runtime Flow
 

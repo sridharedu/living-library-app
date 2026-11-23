@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Operators perform actions on values, such as arithmetic, comparison, assignment, logical checks, and bit manipulation. Operator precedence decides the evaluation order, so parentheses are useful when clarity matters.
+> **Operators perform actions on values, such as arithmetic, comparison, assignment, logical checks, and bit manipulation. Operator precedence decides the evaluation order, so parentheses are useful when clarity matters.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Operators** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Operators perform actions on values, such as arithmetic, comparison, assignment, logical checks, and bit manipulation. Operator precedence decides the evaluation order, so parentheses are useful when clarity matters.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Operators perform actions on values, such as arithmetic, comparison, assignment, logical checks, and bit manipulation. Operator precedence decides the evaluation order, so parentheses are useful when clarity matters.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kibana provides search, dashboards, visualization, and management for data stored in Elasticsearch.
+> **Kibana provides search, dashboards, visualization, and management for data stored in Elasticsearch.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Kibana** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Kibana provides search, dashboards, visualization, and management for data stored in Elasticsearch.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kibana provides search, dashboards, visualization, and management for data stored in Elasticsearch.
 
 ## 2. Execution Mechanics & Runtime Flow
 

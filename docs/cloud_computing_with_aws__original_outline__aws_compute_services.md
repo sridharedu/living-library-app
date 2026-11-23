@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS compute options range from virtual machines and containers to serverless functions and managed application platforms. The right choice depends on control, scaling, startup, and operational needs.
+> **AWS compute options range from virtual machines and containers to serverless functions and managed application platforms. The right choice depends on control, scaling, startup, and operational needs.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Compute Services** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS compute options range from virtual machines and containers to serverless functions and managed application platforms. The right choice depends on control, scaling, startup, and operational needs.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS compute options range from virtual machines and containers to serverless functions and managed application platforms. The right choice depends on control, scaling, startup, and operational needs.
 
 ## 2. Execution Mechanics & Runtime Flow
 

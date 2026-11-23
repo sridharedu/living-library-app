@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Container Network Interface defines how plugins configure Pod network interfaces, IP addresses, and routes.
+> **The Container Network Interface defines how plugins configure Pod network interfaces, IP addresses, and routes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CNI** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Container Network Interface defines how plugins configure Pod network interfaces, IP addresses, and routes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Container Network Interface defines how plugins configure Pod network interfaces, IP addresses, and routes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

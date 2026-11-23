@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> In Jenkins, the controller manages configuration and scheduling while agents execute build workloads.
+> **In Jenkins, the controller manages configuration and scheduling while agents execute build workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Controller and agents** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. In Jenkins, the controller manages configuration and scheduling while agents execute build workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+In Jenkins, the controller manages configuration and scheduling while agents execute build workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

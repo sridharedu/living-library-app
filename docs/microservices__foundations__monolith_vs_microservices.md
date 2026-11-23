@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A monolith deploys one application unit, while microservices split capabilities into distributed services. Microservices add operational and consistency complexity.
+> **A monolith deploys one application unit, while microservices split capabilities into distributed services. Microservices add operational and consistency complexity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Monolith vs microservices** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. A monolith deploys one application unit, while microservices split capabilities into distributed services. Microservices add operational and consistency complexity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A monolith deploys one application unit, while microservices split capabilities into distributed services. Microservices add operational and consistency complexity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

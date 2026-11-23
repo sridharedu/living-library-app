@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An image tag is a mutable human-readable label pointing to an image digest. Production deployments should prefer immutable digests.
+> **An image tag is a mutable human-readable label pointing to an image digest. Production deployments should prefer immutable digests.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Image tags** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. An image tag is a mutable human-readable label pointing to an image digest. Production deployments should prefer immutable digests.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An image tag is a mutable human-readable label pointing to an image digest. Production deployments should prefer immutable digests.
 
 ## 2. Execution Mechanics & Runtime Flow
 

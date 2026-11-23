@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Jenkins Pipeline defines delivery stages as code, usually in a Jenkinsfile. Declarative pipelines are simpler, while scripted pipelines offer more flexibility.
+> **A Jenkins Pipeline defines delivery stages as code, usually in a Jenkinsfile. Declarative pipelines are simpler, while scripted pipelines offer more flexibility.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Jenkins Pipelines** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. A Jenkins Pipeline defines delivery stages as code, usually in a Jenkinsfile. Declarative pipelines are simpler, while scripted pipelines offer more flexibility.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Jenkins Pipeline defines delivery stages as code, usually in a Jenkinsfile. Declarative pipelines are simpler, while scripted pipelines offer more flexibility.
 
 ## 2. Execution Mechanics & Runtime Flow
 

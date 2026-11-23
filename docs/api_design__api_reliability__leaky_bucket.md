@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Leaky bucket smooths traffic by processing requests at a fixed rate while excess requests queue or overflow.
+> **Leaky bucket smooths traffic by processing requests at a fixed rate while excess requests queue or overflow.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Leaky bucket** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Leaky bucket smooths traffic by processing requests at a fixed rate while excess requests queue or overflow.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Leaky bucket smooths traffic by processing requests at a fixed rate while excess requests queue or overflow.
 
 ## 2. Execution Mechanics & Runtime Flow
 

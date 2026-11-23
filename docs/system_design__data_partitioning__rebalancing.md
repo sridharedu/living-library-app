@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Rebalancing redistributes data or work when nodes, capacity, or traffic patterns change.
+> **Rebalancing redistributes data or work when nodes, capacity, or traffic patterns change.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Rebalancing** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Rebalancing redistributes data or work when nodes, capacity, or traffic patterns change.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Rebalancing redistributes data or work when nodes, capacity, or traffic patterns change.
 
 ## 2. Execution Mechanics & Runtime Flow
 

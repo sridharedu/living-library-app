@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Abstract Factory creates families of related objects without exposing concrete classes.
+> **Abstract Factory creates families of related objects without exposing concrete classes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Abstract Factory** serves as a foundational component within *Creational Patterns* in the broader **Design Patterns** ecosystem. Abstract Factory creates families of related objects without exposing concrete classes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Abstract Factory creates families of related objects without exposing concrete classes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Hash sharding applies a hash function to the shard key to distribute records evenly. It reduces hotspots but makes range queries and resharding harder.
+> **Hash sharding applies a hash function to the shard key to distribute records evenly. It reduces hotspots but makes range queries and resharding harder.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hash-Based Sharding** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Hash sharding applies a hash function to the shard key to distribute records evenly. It reduces hotspots but makes range queries and resharding harder.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Hash sharding applies a hash function to the shard key to distribute records evenly. It reduces hotspots but makes range queries and resharding harder.
 
 ## 2. Execution Mechanics & Runtime Flow
 

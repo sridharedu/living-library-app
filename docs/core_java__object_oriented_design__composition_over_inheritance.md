@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Composition builds behavior by containing collaborators, while inheritance creates an is-a relationship. Composition is usually more flexible and less coupled.
+> **Composition builds behavior by containing collaborators, while inheritance creates an is-a relationship. Composition is usually more flexible and less coupled.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Composition over inheritance** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Composition builds behavior by containing collaborators, while inheritance creates an is-a relationship. Composition is usually more flexible and less coupled.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Composition builds behavior by containing collaborators, while inheritance creates an is-a relationship. Composition is usually more flexible and less coupled.
 
 ## 2. Execution Mechanics & Runtime Flow
 

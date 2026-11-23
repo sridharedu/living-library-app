@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Docker volumes are engine-managed persistent storage that survives container replacement.
+> **Docker volumes are engine-managed persistent storage that survives container replacement.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Volumes** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Docker volumes are engine-managed persistent storage that survives container replacement.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Docker volumes are engine-managed persistent storage that survives container replacement.
 
 ## 2. Execution Mechanics & Runtime Flow
 

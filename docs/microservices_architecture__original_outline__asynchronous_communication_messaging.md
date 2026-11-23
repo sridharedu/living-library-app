@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Messaging decouples producers from consumers in time and absorbs traffic spikes. It introduces eventual consistency, duplicate delivery, ordering, and failure-handling responsibilities.
+> **Messaging decouples producers from consumers in time and absorbs traffic spikes. It introduces eventual consistency, duplicate delivery, ordering, and failure-handling responsibilities.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Asynchronous Communication (Messaging)** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Messaging decouples producers from consumers in time and absorbs traffic spikes. It introduces eventual consistency, duplicate delivery, ordering, and failure-handling responsibilities.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Messaging decouples producers from consumers in time and absorbs traffic spikes. It introduces eventual consistency, duplicate delivery, ordering, and failure-handling responsibilities.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Helm deployment renders chart templates with environment-specific values and applies the resulting resources. Safe usage requires reviewing output and managing secrets carefully.
+> **A Helm deployment renders chart templates with environment-specific values and applies the resulting resources. Safe usage requires reviewing output and managing secrets carefully.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Deploying Applications with Helm** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Helm deployment renders chart templates with environment-specific values and applies the resulting resources. Safe usage requires reviewing output and managing secrets carefully.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Helm deployment renders chart templates with environment-specific values and applies the resulting resources. Safe usage requires reviewing output and managing secrets carefully.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Pagination retrieves a limited slice of results. Offset pagination is simple, while keyset pagination scales better for deep pages.
+> **Pagination retrieves a limited slice of results. Offset pagination is simple, while keyset pagination scales better for deep pages.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Pagination** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Pagination retrieves a limited slice of results. Offset pagination is simple, while keyset pagination scales better for deep pages.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Pagination retrieves a limited slice of results. Offset pagination is simple, while keyset pagination scales better for deep pages.
 
 ## 2. Execution Mechanics & Runtime Flow
 

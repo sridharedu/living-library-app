@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mocking replaces a real dependency with a controllable test double. It lets a test simulate responses and verify interactions.
+> **Mocking replaces a real dependency with a controllable test double. It lets a test simulate responses and verify interactions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Mocking?** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Mocking replaces a real dependency with a controllable test double. It lets a test simulate responses and verify interactions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mocking replaces a real dependency with a controllable test double. It lets a test simulate responses and verify interactions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

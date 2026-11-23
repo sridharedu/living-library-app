@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Stream processing handles events continuously as they arrive, usually with low latency and stateful operators.
+> **Stream processing handles events continuously as they arrive, usually with low latency and stateful operators.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stream processing** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. Stream processing handles events continuously as they arrive, usually with low latency and stateful operators.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Stream processing handles events continuously as they arrive, usually with low latency and stateful operators.
 
 ## 2. Execution Mechanics & Runtime Flow
 

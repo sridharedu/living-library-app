@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java supports ZIP archives through ZipInputStream, ZipOutputStream, ZipFile, and the ZIP filesystem provider.
+> **Java supports ZIP archives through ZipInputStream, ZipOutputStream, ZipFile, and the ZIP filesystem provider.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ZIP file handling** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. Java supports ZIP archives through ZipInputStream, ZipOutputStream, ZipFile, and the ZIP filesystem provider.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java supports ZIP archives through ZipInputStream, ZipOutputStream, ZipFile, and the ZIP filesystem provider.
 
 ## 2. Execution Mechanics & Runtime Flow
 

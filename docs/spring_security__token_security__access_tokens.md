@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An access token is a short-lived credential presented to APIs to authorize requests within a defined scope.
+> **An access token is a short-lived credential presented to APIs to authorize requests within a defined scope.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Access tokens** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. An access token is a short-lived credential presented to APIs to authorize requests within a defined scope.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An access token is a short-lived credential presented to APIs to authorize requests within a defined scope.
 
 ## 2. Execution Mechanics & Runtime Flow
 

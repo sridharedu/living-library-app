@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Asynchronous messaging decouples producers and consumers in time, absorbs spikes, and supports retries, but introduces eventual consistency and operational complexity.
+> **Asynchronous messaging decouples producers and consumers in time, absorbs spikes, and supports retries, but introduces eventual consistency and operational complexity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Asynchronous messaging** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. Asynchronous messaging decouples producers and consumers in time, absorbs spikes, and supports retries, but introduces eventual consistency and operational complexity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Asynchronous messaging decouples producers and consumers in time, absorbs spikes, and supports retries, but introduces eventual consistency and operational complexity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

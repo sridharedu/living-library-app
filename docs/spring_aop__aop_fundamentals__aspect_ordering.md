@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> When several aspects apply, ordering controls nesting and execution sequence. Use explicit order only where behavior depends on it.
+> **When several aspects apply, ordering controls nesting and execution sequence. Use explicit order only where behavior depends on it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Aspect ordering** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. When several aspects apply, ordering controls nesting and execution sequence. Use explicit order only where behavior depends on it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+When several aspects apply, ordering controls nesting and execution sequence. Use explicit order only where behavior depends on it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

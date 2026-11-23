@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java reference strengths include strong, soft, weak, and phantom references, each with different garbage-collection behavior.
+> **Java reference strengths include strong, soft, weak, and phantom references, each with different garbage-collection behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reference types** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. Java reference strengths include strong, soft, weak, and phantom references, each with different garbage-collection behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java reference strengths include strong, soft, weak, and phantom references, each with different garbage-collection behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

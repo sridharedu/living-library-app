@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @ExceptionHandler maps specified exceptions to a controller or global handler method.
+> **@ExceptionHandler maps specified exceptions to a controller or global handler method.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ExceptionHandler** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. @ExceptionHandler maps specified exceptions to a controller or global handler method.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@ExceptionHandler maps specified exceptions to a controller or global handler method.
 
 ## 2. Execution Mechanics & Runtime Flow
 

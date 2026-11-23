@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Least privilege grants only the permissions required for a task and only for as long as needed.
+> **Least privilege grants only the permissions required for a task and only for as long as needed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Least privilege** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Least privilege grants only the permissions required for a task and only for as long as needed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Least privilege grants only the permissions required for a task and only for as long as needed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

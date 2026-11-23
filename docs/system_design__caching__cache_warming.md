@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cache warming preloads likely-needed entries before traffic arrives or before an old cache is retired.
+> **Cache warming preloads likely-needed entries before traffic arrives or before an old cache is retired.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cache warming** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. Cache warming preloads likely-needed entries before traffic arrives or before an old cache is retired.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cache warming preloads likely-needed entries before traffic arrives or before an old cache is retired.
 
 ## 2. Execution Mechanics & Runtime Flow
 

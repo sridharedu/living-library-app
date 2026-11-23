@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A one-to-many relationship stores the foreign key on the many side. It is the most common relational pattern.
+> **A one-to-many relationship stores the foreign key on the many side. It is the most common relational pattern.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**One-to-Many** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. A one-to-many relationship stores the foreign key on the many side. It is the most common relational pattern.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A one-to-many relationship stores the foreign key on the many side. It is the most common relational pattern.
 
 ## 2. Execution Mechanics & Runtime Flow
 

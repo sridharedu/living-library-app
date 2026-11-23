@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Routing policies include simple, weighted, latency, failover, geolocation, geoproximity, and multivalue routing. The policy determines how DNS answers direct clients.
+> **Routing policies include simple, weighted, latency, failover, geolocation, geoproximity, and multivalue routing. The policy determines how DNS answers direct clients.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Route 53 Routing Policies** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Routing policies include simple, weighted, latency, failover, geolocation, geoproximity, and multivalue routing. The policy determines how DNS answers direct clients.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Routing policies include simple, weighted, latency, failover, geolocation, geoproximity, and multivalue routing. The policy determines how DNS answers direct clients.
 
 ## 2. Execution Mechanics & Runtime Flow
 

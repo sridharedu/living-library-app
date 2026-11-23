@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> ISR means in-sync replicas: replicas sufficiently caught up with the partition leader to remain eligible for leadership.
+> **ISR means in-sync replicas: replicas sufficiently caught up with the partition leader to remain eligible for leadership.**
 
 ---
 

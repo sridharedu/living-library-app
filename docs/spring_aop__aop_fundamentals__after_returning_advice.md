@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> After-returning advice runs only when the target method completes successfully.
+> **After-returning advice runs only when the target method completes successfully.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**After returning advice** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. After-returning advice runs only when the target method completes successfully.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+After-returning advice runs only when the target method completes successfully.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The AWS Well-Architected Framework evaluates cloud workloads across six architectural pillars and their trade-offs.
+> **The AWS Well-Architected Framework evaluates cloud workloads across six architectural pillars and their trade-offs.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Well-Architected Framework** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. The AWS Well-Architected Framework evaluates cloud workloads across six architectural pillars and their trade-offs.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The AWS Well-Architected Framework evaluates cloud workloads across six architectural pillars and their trade-offs.
 
 ## 2. Execution Mechanics & Runtime Flow
 

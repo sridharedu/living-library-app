@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CloudWatch alarms evaluate metrics against thresholds and can notify, scale, or trigger automation. Good alarms focus on user impact and actionable conditions rather than raw noise.
+> **CloudWatch alarms evaluate metrics against thresholds and can notify, scale, or trigger automation. Good alarms focus on user impact and actionable conditions rather than raw noise.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CloudWatch Alarms** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. CloudWatch alarms evaluate metrics against thresholds and can notify, scale, or trigger automation. Good alarms focus on user impact and actionable conditions rather than raw noise.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CloudWatch alarms evaluate metrics against thresholds and can notify, scale, or trigger automation. Good alarms focus on user impact and actionable conditions rather than raw noise.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> git stash temporarily saves uncommitted working-tree and index changes so the branch can be cleaned.
+> **git stash temporarily saves uncommitted working-tree and index changes so the branch can be cleaned.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stash** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. git stash temporarily saves uncommitted working-tree and index changes so the branch can be cleaned.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+git stash temporarily saves uncommitted working-tree and index changes so the branch can be cleaned.
 
 ## 2. Execution Mechanics & Runtime Flow
 

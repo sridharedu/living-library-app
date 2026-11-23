@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Actuator metrics expose measurements through Micrometer, including JVM, HTTP, datasource, cache, and custom application metrics.
+> **Actuator metrics expose measurements through Micrometer, including JVM, HTTP, datasource, cache, and custom application metrics.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Metrics endpoints** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. Actuator metrics expose measurements through Micrometer, including JVM, HTTP, datasource, cache, and custom application metrics.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Actuator metrics expose measurements through Micrometer, including JVM, HTTP, datasource, cache, and custom application metrics.
 
 ## 2. Execution Mechanics & Runtime Flow
 

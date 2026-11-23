@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Stream.toList returns an unmodifiable list in encounter order. Do not assume a specific concrete implementation.
+> **Stream.toList returns an unmodifiable list in encounter order. Do not assume a specific concrete implementation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**toList** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. Stream.toList returns an unmodifiable list in encounter order. Do not assume a specific concrete implementation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Stream.toList returns an unmodifiable list in encounter order. Do not assume a specific concrete implementation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

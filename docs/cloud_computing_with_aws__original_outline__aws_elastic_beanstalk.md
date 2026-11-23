@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Elastic Beanstalk deploys and manages applications while AWS handles much of the environment setup, scaling, health monitoring, and platform maintenance.
+> **Elastic Beanstalk deploys and manages applications while AWS handles much of the environment setup, scaling, health monitoring, and platform maintenance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Elastic Beanstalk** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Elastic Beanstalk deploys and manages applications while AWS handles much of the environment setup, scaling, health monitoring, and platform maintenance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Elastic Beanstalk deploys and manages applications while AWS handles much of the environment setup, scaling, health monitoring, and platform maintenance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

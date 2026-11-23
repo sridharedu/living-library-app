@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> For CrashLoopBackOff, inspect container logs, previous logs, events, probes, commands, environment, permissions, and resource limits.
+> **For CrashLoopBackOff, inspect container logs, previous logs, events, probes, commands, environment, permissions, and resource limits.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Troubleshooting CrashLoopBackOff** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. For CrashLoopBackOff, inspect container logs, previous logs, events, probes, commands, environment, permissions, and resource limits.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+For CrashLoopBackOff, inspect container logs, previous logs, events, probes, commands, environment, permissions, and resource limits.
 
 ## 2. Execution Mechanics & Runtime Flow
 

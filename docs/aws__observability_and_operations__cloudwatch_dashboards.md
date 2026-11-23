@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CloudWatch dashboards combine metrics, logs, and alarms into shared operational views.
+> **CloudWatch dashboards combine metrics, logs, and alarms into shared operational views.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CloudWatch dashboards** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. CloudWatch dashboards combine metrics, logs, and alarms into shared operational views.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CloudWatch dashboards combine metrics, logs, and alarms into shared operational views.
 
 ## 2. Execution Mechanics & Runtime Flow
 

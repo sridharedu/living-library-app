@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CI/CD pipelines use containers to isolate build tools, run tests, package applications, and publish immutable images. This improves reproducibility and cleanup.
+> **CI/CD pipelines use containers to isolate build tools, run tests, package applications, and publish immutable images. This improves reproducibility and cleanup.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Docker Containers in CI/CD** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. CI/CD pipelines use containers to isolate build tools, run tests, package applications, and publish immutable images. This improves reproducibility and cleanup.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CI/CD pipelines use containers to isolate build tools, run tests, package applications, and publish immutable images. This improves reproducibility and cleanup.
 
 ## 2. Execution Mechanics & Runtime Flow
 

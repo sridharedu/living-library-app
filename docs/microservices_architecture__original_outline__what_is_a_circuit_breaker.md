@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A circuit breaker prevents repeated calls to a failing dependency. It moves through closed, open, and half-open states to protect resources and allow controlled recovery.
+> **A circuit breaker prevents repeated calls to a failing dependency. It moves through closed, open, and half-open states to protect resources and allow controlled recovery.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is a Circuit Breaker?** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. A circuit breaker prevents repeated calls to a failing dependency. It moves through closed, open, and half-open states to protect resources and allow controlled recovery.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A circuit breaker prevents repeated calls to a failing dependency. It moves through closed, open, and half-open states to protect resources and allow controlled recovery.
 
 ## 2. Execution Mechanics & Runtime Flow
 

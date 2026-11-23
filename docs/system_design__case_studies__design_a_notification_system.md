@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A notification system accepts events, applies user preferences and templates, routes across email, SMS, or push channels, retries failures, and tracks delivery status.
+> **A notification system accepts events, applies user preferences and templates, routes across email, SMS, or push channels, retries failures, and tracks delivery status.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design a notification system** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A notification system accepts events, applies user preferences and templates, routes across email, SMS, or push channels, retries failures, and tracks delivery status.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A notification system accepts events, applies user preferences and templates, routes across email, SMS, or push channels, retries failures, and tracks delivery status.
 
 ## 2. Execution Mechanics & Runtime Flow
 

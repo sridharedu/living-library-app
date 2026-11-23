@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Message TTL defines how long a message may remain before expiring or being dead-lettered.
+> **Message TTL defines how long a message may remain before expiring or being dead-lettered.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Message TTL** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Message TTL defines how long a message may remain before expiring or being dead-lettered.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Message TTL defines how long a message may remain before expiring or being dead-lettered.
 
 ## 2. Execution Mechanics & Runtime Flow
 

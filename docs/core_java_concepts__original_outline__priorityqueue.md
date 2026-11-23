@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> PriorityQueue retrieves elements according to priority rather than insertion order. Java implements it as a heap, so peek is fast while insertion and removal are logarithmic.
+> **PriorityQueue retrieves elements according to priority rather than insertion order. Java implements it as a heap, so peek is fast while insertion and removal are logarithmic.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**PriorityQueue** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. PriorityQueue retrieves elements according to priority rather than insertion order. Java implements it as a heap, so peek is fast while insertion and removal are logarithmic.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+PriorityQueue retrieves elements according to priority rather than insertion order. Java implements it as a heap, so peek is fast while insertion and removal are logarithmic.
 
 ## 2. Execution Mechanics & Runtime Flow
 

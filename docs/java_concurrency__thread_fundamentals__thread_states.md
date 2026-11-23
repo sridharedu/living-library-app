@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java thread states are NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, and TERMINATED.
+> **Java thread states are NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, and TERMINATED.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Thread states** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. Java thread states are NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, and TERMINATED.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java thread states are NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, and TERMINATED.
 
 ## 2. Execution Mechanics & Runtime Flow
 

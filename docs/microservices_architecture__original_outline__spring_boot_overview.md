@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Boot provides conventions and auto-configuration for creating standalone Spring applications quickly. It is especially useful for services that need consistent startup, configuration, and operational endpoints.
+> **Spring Boot provides conventions and auto-configuration for creating standalone Spring applications quickly. It is especially useful for services that need consistent startup, configuration, and operational endpoints.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring Boot Overview** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Spring Boot provides conventions and auto-configuration for creating standalone Spring applications quickly. It is especially useful for services that need consistent startup, configuration, and operational endpoints.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Boot provides conventions and auto-configuration for creating standalone Spring applications quickly. It is especially useful for services that need consistent startup, configuration, and operational endpoints.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Cloud Gateway is a reactive API gateway for routing, filtering, security integration, rate limiting, and cross-cutting policies.
+> **Spring Cloud Gateway is a reactive API gateway for routing, filtering, security integration, rate limiting, and cross-cutting policies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring Cloud Gateway** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Spring Cloud Gateway is a reactive API gateway for routing, filtering, security integration, rate limiting, and cross-cutting policies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Cloud Gateway is a reactive API gateway for routing, filtering, security integration, rate limiting, and cross-cutting policies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

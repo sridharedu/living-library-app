@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Cloud provides patterns and integrations for distributed systems, including configuration, discovery, routing, resilience, messaging, and service-to-service concerns.
+> **Spring Cloud provides patterns and integrations for distributed systems, including configuration, discovery, routing, resilience, messaging, and service-to-service concerns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring Cloud** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Cloud provides patterns and integrations for distributed systems, including configuration, discovery, routing, resilience, messaging, and service-to-service concerns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Cloud provides patterns and integrations for distributed systems, including configuration, discovery, routing, resilience, messaging, and service-to-service concerns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

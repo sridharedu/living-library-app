@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Query by example builds a query from a probe object and matching rules. It is convenient for simple dynamic filters.
+> **Query by example builds a query from a probe object and matching rules. It is convenient for simple dynamic filters.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Query by example** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Query by example builds a query from a probe object and matching rules. It is convenient for simple dynamic filters.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Query by example builds a query from a probe object and matching rules. It is convenient for simple dynamic filters.
 
 ## 2. Execution Mechanics & Runtime Flow
 

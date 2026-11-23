@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Test-Driven Development means writing a test before production code, then implementing only enough behavior to make the test pass.
+> **Test-Driven Development means writing a test before production code, then implementing only enough behavior to make the test pass.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is TDD?** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Test-Driven Development means writing a test before production code, then implementing only enough behavior to make the test pass.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Test-Driven Development means writing a test before production code, then implementing only enough behavior to make the test pass.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Elasticity automatically adds or removes resources as demand changes, ideally matching capacity closely to current load.
+> **Elasticity automatically adds or removes resources as demand changes, ideally matching capacity closely to current load.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Elasticity** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Elasticity automatically adds or removes resources as demand changes, ideally matching capacity closely to current load.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Elasticity automatically adds or removes resources as demand changes, ideally matching capacity closely to current load.
 
 ## 2. Execution Mechanics & Runtime Flow
 

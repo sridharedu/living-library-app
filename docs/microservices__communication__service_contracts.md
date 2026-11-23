@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A service contract defines request, response, event, error, authentication, and compatibility expectations between providers and consumers.
+> **A service contract defines request, response, event, error, authentication, and compatibility expectations between providers and consumers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Service contracts** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. A service contract defines request, response, event, error, authentication, and compatibility expectations between providers and consumers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A service contract defines request, response, event, error, authentication, and compatibility expectations between providers and consumers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

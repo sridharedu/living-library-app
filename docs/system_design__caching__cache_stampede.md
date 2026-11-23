@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A cache stampede occurs when many requests miss the same expired key and simultaneously overload the backing store.
+> **A cache stampede occurs when many requests miss the same expired key and simultaneously overload the backing store.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cache stampede** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. A cache stampede occurs when many requests miss the same expired key and simultaneously overload the backing store.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A cache stampede occurs when many requests miss the same expired key and simultaneously overload the backing store.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A headers exchange routes messages by matching header values rather than a routing key.
+> **A headers exchange routes messages by matching header values rather than a routing key.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Headers exchange** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. A headers exchange routes messages by matching header values rather than a routing key.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A headers exchange routes messages by matching header values rather than a routing key.
 
 ## 2. Execution Mechanics & Runtime Flow
 

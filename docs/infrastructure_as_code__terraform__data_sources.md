@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Terraform data sources read existing infrastructure or external information without managing its lifecycle.
+> **Terraform data sources read existing infrastructure or external information without managing its lifecycle.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Data sources** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Terraform data sources read existing infrastructure or external information without managing its lifecycle.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Terraform data sources read existing infrastructure or external information without managing its lifecycle.
 
 ## 2. Execution Mechanics & Runtime Flow
 

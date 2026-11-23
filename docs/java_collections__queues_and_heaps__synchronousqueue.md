@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SynchronousQueue has no capacity; each put waits for a matching take. It directly hands work from producer to consumer.
+> **SynchronousQueue has no capacity; each put waits for a matching take. It directly hands work from producer to consumer.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SynchronousQueue** serves as a foundational component within *Queues and Heaps* in the broader **Java Collections** ecosystem. SynchronousQueue has no capacity; each put waits for a matching take. It directly hands work from producer to consumer.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SynchronousQueue has no capacity; each put waits for a matching take. It directly hands work from producer to consumer.
 
 ## 2. Execution Mechanics & Runtime Flow
 

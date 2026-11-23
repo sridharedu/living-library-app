@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Metaspace stores class metadata in native memory and replaced PermGen starting with Java 8.
+> **Metaspace stores class metadata in native memory and replaced PermGen starting with Java 8.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Metaspace** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. Metaspace stores class metadata in native memory and replaced PermGen starting with Java 8.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Metaspace stores class metadata in native memory and replaced PermGen starting with Java 8.
 
 ## 2. Execution Mechanics & Runtime Flow
 

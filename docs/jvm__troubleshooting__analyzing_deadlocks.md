@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Analyze deadlocks by examining thread dumps for cycles where threads hold one lock while waiting for another. Fix with lock ordering or reduced lock scope.
+> **Analyze deadlocks by examining thread dumps for cycles where threads hold one lock while waiting for another. Fix with lock ordering or reduced lock scope.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Analyzing deadlocks** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. Analyze deadlocks by examining thread dumps for cycles where threads hold one lock while waiting for another. Fix with lock ordering or reduced lock scope.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Analyze deadlocks by examining thread dumps for cycles where threads hold one lock while waiting for another. Fix with lock ordering or reduced lock scope.
 
 ## 2. Execution Mechanics & Runtime Flow
 

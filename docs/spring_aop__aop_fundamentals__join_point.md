@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A join point is a point in program execution where aspect behavior could apply. In Spring AOP, it is primarily a method execution.
+> **A join point is a point in program execution where aspect behavior could apply. In Spring AOP, it is primarily a method execution.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Join point** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. A join point is a point in program execution where aspect behavior could apply. In Spring AOP, it is primarily a method execution.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A join point is a point in program execution where aspect behavior could apply. In Spring AOP, it is primarily a method execution.
 
 ## 2. Execution Mechanics & Runtime Flow
 

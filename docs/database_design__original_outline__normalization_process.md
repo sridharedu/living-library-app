@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Normalization progressively restructures tables to reduce redundancy and dependency anomalies. Common stages are first, second, and third normal form.
+> **Normalization progressively restructures tables to reduce redundancy and dependency anomalies. Common stages are first, second, and third normal form.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Normalization Process** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. Normalization progressively restructures tables to reduce redundancy and dependency anomalies. Common stages are first, second, and third normal form.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Normalization progressively restructures tables to reduce redundancy and dependency anomalies. Common stages are first, second, and third normal form.
 
 ## 2. Execution Mechanics & Runtime Flow
 

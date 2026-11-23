@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java control flow includes if, switch, loops, break, continue, and return. These determine which statements execute and in what order.
+> **Java control flow includes if, switch, loops, break, continue, and return. These determine which statements execute and in what order.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Control flow statements** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Java control flow includes if, switch, loops, break, continue, and return. These determine which statements execute and in what order.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java control flow includes if, switch, loops, break, continue, and return. These determine which statements execute and in what order.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CompletableFuture represents an asynchronous result and supports non-blocking composition, combination, callbacks, and error handling.
+> **CompletableFuture represents an asynchronous result and supports non-blocking composition, combination, callbacks, and error handling.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CompletableFuture** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. CompletableFuture represents an asynchronous result and supports non-blocking composition, combination, callbacks, and error handling.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CompletableFuture represents an asynchronous result and supports non-blocking composition, combination, callbacks, and error handling.
 
 ## 2. Execution Mechanics & Runtime Flow
 

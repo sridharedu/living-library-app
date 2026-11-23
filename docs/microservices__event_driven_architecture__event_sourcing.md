@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Event sourcing stores an entity's state as an append-only sequence of events and rebuilds current state by replaying them.
+> **Event sourcing stores an entity's state as an append-only sequence of events and rebuilds current state by replaying them.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Event sourcing** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event sourcing stores an entity's state as an append-only sequence of events and rebuilds current state by replaying them.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Event sourcing stores an entity's state as an append-only sequence of events and rebuilds current state by replaying them.
 
 ## 2. Execution Mechanics & Runtime Flow
 

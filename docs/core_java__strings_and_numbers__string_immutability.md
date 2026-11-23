@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> String objects cannot change after creation. Operations return new strings, enabling safe sharing, caching, and hash-based use.
+> **String objects cannot change after creation. Operations return new strings, enabling safe sharing, caching, and hash-based use.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**String immutability** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. String objects cannot change after creation. Operations return new strings, enabling safe sharing, caching, and hash-based use.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+String objects cannot change after creation. Operations return new strings, enabling safe sharing, caching, and hash-based use.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Terraform outputs expose selected values from a module or root configuration for users, automation, or other modules.
+> **Terraform outputs expose selected values from a module or root configuration for users, automation, or other modules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Outputs** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Terraform outputs expose selected values from a module or root configuration for users, automation, or other modules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Terraform outputs expose selected values from a module or root configuration for users, automation, or other modules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

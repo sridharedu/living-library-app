@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Read replicas copy data from a primary and serve read traffic, improving scale but introducing replication lag.
+> **Read replicas copy data from a primary and serve read traffic, improving scale but introducing replication lag.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Read replicas** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Read replicas copy data from a primary and serve read traffic, improving scale but introducing replication lag.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Read replicas copy data from a primary and serve read traffic, improving scale but introducing replication lag.
 
 ## 2. Execution Mechanics & Runtime Flow
 

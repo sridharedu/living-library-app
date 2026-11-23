@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Token rotation replaces a refresh token each time it is used and detects reuse of older tokens.
+> **Token rotation replaces a refresh token each time it is used and detects reuse of older tokens.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Token rotation** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. Token rotation replaces a refresh token each time it is used and detects reuse of older tokens.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Token rotation replaces a refresh token each time it is used and detects reuse of older tokens.
 
 ## 2. Execution Mechanics & Runtime Flow
 

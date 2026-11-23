@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> findFirst returns the first element in encounter order. Preserving order can reduce parallel performance.
+> **findFirst returns the first element in encounter order. Preserving order can reduce parallel performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**findFirst** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. findFirst returns the first element in encounter order. Preserving order can reduce parallel performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+findFirst returns the first element in encounter order. Preserving order can reduce parallel performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

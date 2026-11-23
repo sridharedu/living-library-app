@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Managed node groups automate provisioning, updates, and lifecycle of EC2 worker nodes for EKS.
+> **Managed node groups automate provisioning, updates, and lifecycle of EC2 worker nodes for EKS.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**EKS managed node groups** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. Managed node groups automate provisioning, updates, and lifecycle of EC2 worker nodes for EKS.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Managed node groups automate provisioning, updates, and lifecycle of EC2 worker nodes for EKS.
 
 ## 2. Execution Mechanics & Runtime Flow
 

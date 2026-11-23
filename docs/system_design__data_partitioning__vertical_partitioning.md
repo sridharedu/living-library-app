@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Vertical partitioning separates columns or functional groups into different tables, services, or stores.
+> **Vertical partitioning separates columns or functional groups into different tables, services, or stores.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Vertical partitioning** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Vertical partitioning separates columns or functional groups into different tables, services, or stores.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Vertical partitioning separates columns or functional groups into different tables, services, or stores.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A correlation ID follows one logical request across services, logs, traces, and messages to simplify distributed debugging.
+> **A correlation ID follows one logical request across services, logs, traces, and messages to simplify distributed debugging.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Correlation IDs** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. A correlation ID follows one logical request across services, logs, traces, and messages to simplify distributed debugging.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A correlation ID follows one logical request across services, logs, traces, and messages to simplify distributed debugging.
 
 ## 2. Execution Mechanics & Runtime Flow
 

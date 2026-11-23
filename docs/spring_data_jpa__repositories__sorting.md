@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Sorting defines result order by one or more properties and directions. Stable pagination requires a deterministic final sort key.
+> **Sorting defines result order by one or more properties and directions. Stable pagination requires a deterministic final sort key.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Sorting** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Sorting defines result order by one or more properties and directions. Stable pagination requires a deterministic final sort key.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Sorting defines result order by one or more properties and directions. Stable pagination requires a deterministic final sort key.
 
 ## 2. Execution Mechanics & Runtime Flow
 

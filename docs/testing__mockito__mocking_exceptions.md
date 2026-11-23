@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mockito can configure methods to throw exceptions so tests can verify failure paths and recovery behavior.
+> **Mockito can configure methods to throw exceptions so tests can verify failure paths and recovery behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mocking exceptions** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Mockito can configure methods to throw exceptions so tests can verify failure paths and recovery behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mockito can configure methods to throw exceptions so tests can verify failure paths and recovery behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

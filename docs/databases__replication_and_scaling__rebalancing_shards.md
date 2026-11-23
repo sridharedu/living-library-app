@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Shard rebalancing moves data and traffic when capacity or distribution changes. It must minimize downtime, duplication, and inconsistency.
+> **Shard rebalancing moves data and traffic when capacity or distribution changes. It must minimize downtime, duplication, and inconsistency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Rebalancing shards** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Shard rebalancing moves data and traffic when capacity or distribution changes. It must minimize downtime, duplication, and inconsistency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Shard rebalancing moves data and traffic when capacity or distribution changes. It must minimize downtime, duplication, and inconsistency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

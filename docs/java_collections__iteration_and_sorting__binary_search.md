@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Binary search repeatedly halves a sorted search range, giving O(log n) lookup. The data must be sorted with the same ordering used by the search.
+> **Binary search repeatedly halves a sorted search range, giving O(log n) lookup. The data must be sorted with the same ordering used by the search.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Binary search** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. Binary search repeatedly halves a sorted search range, giving O(log n) lookup. The data must be sorted with the same ordering used by the search.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Binary search repeatedly halves a sorted search range, giving O(log n) lookup. The data must be sorted with the same ordering used by the search.
 
 ## 2. Execution Mechanics & Runtime Flow
 

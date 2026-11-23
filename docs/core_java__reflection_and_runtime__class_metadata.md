@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Class objects expose runtime metadata such as name, modifiers, superclass, interfaces, annotations, fields, methods, and constructors.
+> **Class objects expose runtime metadata such as name, modifiers, superclass, interfaces, annotations, fields, methods, and constructors.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Class metadata** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. Class objects expose runtime metadata such as name, modifiers, superclass, interfaces, annotations, fields, methods, and constructors.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Class objects expose runtime metadata such as name, modifiers, superclass, interfaces, annotations, fields, methods, and constructors.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kubelet runs on each worker node, watches assigned Pod specifications, and ensures their containers are created and healthy.
+> **Kubelet runs on each worker node, watches assigned Pod specifications, and ensures their containers are created and healthy.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Kubelet** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. Kubelet runs on each worker node, watches assigned Pod specifications, and ensures their containers are created and healthy.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kubelet runs on each worker node, watches assigned Pod specifications, and ensures their containers are created and healthy.
 
 ## 2. Execution Mechanics & Runtime Flow
 

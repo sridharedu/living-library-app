@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Setup involves installing Ansible on a control node, defining inventory, configuring secure connectivity, and validating access before running playbooks.
+> **Setup involves installing Ansible on a control node, defining inventory, configuring secure connectivity, and validating access before running playbooks.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Setting Up Ansible** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Setup involves installing Ansible on a control node, defining inventory, configuring secure connectivity, and validating access before running playbooks.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Setup involves installing Ansible on a control node, defining inventory, configuring secure connectivity, and validating access before running playbooks.
 
 ## 2. Execution Mechanics & Runtime Flow
 

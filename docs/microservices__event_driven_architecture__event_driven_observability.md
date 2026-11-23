@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Event-driven observability traces an event from producer to consumer using correlation IDs, broker metrics, consumer lag, retries, failures, and processing latency.
+> **Event-driven observability traces an event from producer to consumer using correlation IDs, broker metrics, consumer lag, retries, failures, and processing latency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Event-driven observability** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event-driven observability traces an event from producer to consumer using correlation IDs, broker metrics, consumer lag, retries, failures, and processing latency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Event-driven observability traces an event from producer to consumer using correlation IDs, broker metrics, consumer lag, retries, failures, and processing latency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

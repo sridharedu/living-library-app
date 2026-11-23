@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Constructors initialize new objects and have the same name as the class with no return type. They can be overloaded.
+> **Constructors initialize new objects and have the same name as the class with no return type. They can be overloaded.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Constructors** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Constructors initialize new objects and have the same name as the class with no return type. They can be overloaded.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Constructors initialize new objects and have the same name as the class with no return type. They can be overloaded.
 
 ## 2. Execution Mechanics & Runtime Flow
 

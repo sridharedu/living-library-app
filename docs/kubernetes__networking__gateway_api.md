@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Gateway API provides expressive, role-oriented traffic-routing resources that improve on many limitations of Ingress.
+> **Gateway API provides expressive, role-oriented traffic-routing resources that improve on many limitations of Ingress.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Gateway API** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. Gateway API provides expressive, role-oriented traffic-routing resources that improve on many limitations of Ingress.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Gateway API provides expressive, role-oriented traffic-routing resources that improve on many limitations of Ingress.
 
 ## 2. Execution Mechanics & Runtime Flow
 

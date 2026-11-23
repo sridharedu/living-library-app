@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Observer notifies subscribed listeners when a subject changes, supporting one-to-many event propagation.
+> **Observer notifies subscribed listeners when a subject changes, supporting one-to-many event propagation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Observer** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Observer notifies subscribed listeners when a subject changes, supporting one-to-many event propagation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Observer notifies subscribed listeners when a subject changes, supporting one-to-many event propagation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

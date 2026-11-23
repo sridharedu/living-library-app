@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A CloudFormation stack is one managed deployment of a template and its resources.
+> **A CloudFormation stack is one managed deployment of a template and its resources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stacks** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. A CloudFormation stack is one managed deployment of a template and its resources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A CloudFormation stack is one managed deployment of a template and its resources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

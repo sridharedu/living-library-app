@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A lambda has no standalone type; its type comes from the target functional interface in the surrounding assignment or method call.
+> **A lambda has no standalone type; its type comes from the target functional interface in the surrounding assignment or method call.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lambda target typing** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. A lambda has no standalone type; its type comes from the target functional interface in the surrounding assignment or method call.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A lambda has no standalone type; its type comes from the target functional interface in the surrounding assignment or method call.
 
 ## 2. Execution Mechanics & Runtime Flow
 

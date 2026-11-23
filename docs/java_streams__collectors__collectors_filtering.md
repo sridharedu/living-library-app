@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> filtering applies a predicate before forwarding elements to a downstream collector, useful inside grouping operations.
+> **filtering applies a predicate before forwarding elements to a downstream collector, useful inside grouping operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collectors.filtering** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. filtering applies a predicate before forwarding elements to a downstream collector, useful inside grouping operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+filtering applies a predicate before forwarding elements to a downstream collector, useful inside grouping operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

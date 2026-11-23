@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SQS FIFO queues preserve message order within a message group and support deduplication for exactly-once processing behavior.
+> **SQS FIFO queues preserve message order within a message group and support deduplication for exactly-once processing behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**FIFO queues** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. SQS FIFO queues preserve message order within a message group and support deduplication for exactly-once processing behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SQS FIFO queues preserve message order within a message group and support deduplication for exactly-once processing behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

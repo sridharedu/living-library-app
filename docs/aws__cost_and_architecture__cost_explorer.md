@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Cost Explorer visualizes historical and forecasted spend and usage across services, accounts, tags, and dimensions.
+> **AWS Cost Explorer visualizes historical and forecasted spend and usage across services, accounts, tags, and dimensions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cost Explorer** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. AWS Cost Explorer visualizes historical and forecasted spend and usage across services, accounts, tags, and dimensions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Cost Explorer visualizes historical and forecasted spend and usage across services, accounts, tags, and dimensions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

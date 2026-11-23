@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java Streams provide a declarative pipeline for transforming and aggregating data. A stream does not store data; it processes elements from a source using lazy intermediate operations and a terminal operation.
+> **Java Streams provide a declarative pipeline for transforming and aggregating data. A stream does not store data; it processes elements from a source using lazy intermediate operations and a terminal operation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Java Streams** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Java Streams provide a declarative pipeline for transforming and aggregating data. A stream does not store data; it processes elements from a source using lazy intermediate operations and a terminal operation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java Streams provide a declarative pipeline for transforming and aggregating data. A stream does not store data; it processes elements from a source using lazy intermediate operations and a terminal operation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

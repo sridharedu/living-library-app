@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> delivery.timeout.ms limits the total time a producer may spend batching, sending, and retrying a record before failing it.
+> **delivery.timeout.ms limits the total time a producer may spend batching, sending, and retrying a record before failing it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Delivery timeout** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. delivery.timeout.ms limits the total time a producer may spend batching, sending, and retrying a record before failing it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+delivery.timeout.ms limits the total time a producer may spend batching, sending, and retrying a record before failing it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ReentrantLock provides explicit locking with tryLock, interruptible acquisition, fairness options, and multiple Conditions.
+> **ReentrantLock provides explicit locking with tryLock, interruptible acquisition, fairness options, and multiple Conditions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ReentrantLock** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. ReentrantLock provides explicit locking with tryLock, interruptible acquisition, fairness options, and multiple Conditions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ReentrantLock provides explicit locking with tryLock, interruptible acquisition, fairness options, and multiple Conditions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Replication may be primary-replica, multi-primary, peer-to-peer, synchronous, asynchronous, logical, or physical.
+> **Replication may be primary-replica, multi-primary, peer-to-peer, synchronous, asynchronous, logical, or physical.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Types of Database Replication** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Replication may be primary-replica, multi-primary, peer-to-peer, synchronous, asynchronous, logical, or physical.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Replication may be primary-replica, multi-primary, peer-to-peer, synchronous, asynchronous, logical, or physical.
 
 ## 2. Execution Mechanics & Runtime Flow
 

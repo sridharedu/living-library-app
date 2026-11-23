@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Parallel stages run independent work at the same time, such as tests across modules or platforms, reducing pipeline duration.
+> **Parallel stages run independent work at the same time, such as tests across modules or platforms, reducing pipeline duration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Parallel stages** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Parallel stages run independent work at the same time, such as tests across modules or platforms, reducing pipeline duration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Parallel stages run independent work at the same time, such as tests across modules or platforms, reducing pipeline duration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

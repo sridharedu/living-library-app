@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS KMS creates and controls encryption keys used by AWS services and applications. It integrates with IAM, records key usage, and performs cryptographic operations without exposing key material.
+> **AWS KMS creates and controls encryption keys used by AWS services and applications. It integrates with IAM, records key usage, and performs cryptographic operations without exposing key material.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS KMS (Key Management Service)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS KMS creates and controls encryption keys used by AWS services and applications. It integrates with IAM, records key usage, and performs cryptographic operations without exposing key material.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS KMS creates and controls encryption keys used by AWS services and applications. It integrates with IAM, records key usage, and performs cryptographic operations without exposing key material.
 
 ## 2. Execution Mechanics & Runtime Flow
 

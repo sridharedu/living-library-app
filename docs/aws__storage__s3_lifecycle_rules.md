@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> S3 lifecycle rules transition objects between storage classes or expire current and previous versions automatically.
+> **S3 lifecycle rules transition objects between storage classes or expire current and previous versions automatically.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**S3 lifecycle rules** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. S3 lifecycle rules transition objects between storage classes or expire current and previous versions automatically.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+S3 lifecycle rules transition objects between storage classes or expire current and previous versions automatically.
 
 ## 2. Execution Mechanics & Runtime Flow
 

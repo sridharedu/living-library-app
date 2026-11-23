@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Symmetric encryption uses the same secret key for encryption and decryption and is efficient for bulk data.
+> **Symmetric encryption uses the same secret key for encryption and decryption and is efficient for bulk data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Symmetric encryption** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Symmetric encryption uses the same secret key for encryption and decryption and is efficient for bulk data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Symmetric encryption uses the same secret key for encryption and decryption and is efficient for bulk data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

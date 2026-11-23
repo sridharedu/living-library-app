@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Exception translation converts a low-level exception into a domain-appropriate one while preserving the original cause. It keeps implementation details from leaking across layers.
+> **Exception translation converts a low-level exception into a domain-appropriate one while preserving the original cause. It keeps implementation details from leaking across layers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Exception translation** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Exception translation converts a low-level exception into a domain-appropriate one while preserving the original cause. It keeps implementation details from leaking across layers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Exception translation converts a low-level exception into a domain-appropriate one while preserving the original cause. It keeps implementation details from leaking across layers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

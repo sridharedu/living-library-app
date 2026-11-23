@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Compressed ordinary object pointers reduce reference size on suitable heaps, lowering memory usage and improving cache efficiency.
+> **Compressed ordinary object pointers reduce reference size on suitable heaps, lowering memory usage and improving cache efficiency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Compressed ordinary object pointers** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. Compressed ordinary object pointers reduce reference size on suitable heaps, lowering memory usage and improving cache efficiency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Compressed ordinary object pointers reduce reference size on suitable heaps, lowering memory usage and improving cache efficiency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

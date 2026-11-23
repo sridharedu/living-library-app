@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spark Structured Streaming processes continuous data with DataFrame-style APIs, checkpoints, event-time windows, and configurable output modes.
+> **Spark Structured Streaming processes continuous data with DataFrame-style APIs, checkpoints, event-time windows, and configurable output modes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spark streaming** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. Spark Structured Streaming processes continuous data with DataFrame-style APIs, checkpoints, event-time windows, and configurable output modes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spark Structured Streaming processes continuous data with DataFrame-style APIs, checkpoints, event-time windows, and configurable output modes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

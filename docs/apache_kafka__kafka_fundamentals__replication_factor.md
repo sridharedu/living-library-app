@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> Replication factor defines how many broker copies each partition has, improving durability and availability.
+> **Replication factor defines how many broker copies each partition has, improving durability and availability.**
 
 ---
 

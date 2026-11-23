@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Helm tests run annotated Kubernetes resources to verify an installed release.
+> **Helm tests run annotated Kubernetes resources to verify an installed release.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helm testing** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. Helm tests run annotated Kubernetes resources to verify an installed release.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Helm tests run annotated Kubernetes resources to verify an installed release.
 
 ## 2. Execution Mechanics & Runtime Flow
 

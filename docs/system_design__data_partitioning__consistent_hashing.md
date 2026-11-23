@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Consistent hashing maps keys and nodes onto a ring so adding or removing nodes moves only a limited portion of keys.
+> **Consistent hashing maps keys and nodes onto a ring so adding or removing nodes moves only a limited portion of keys.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Consistent hashing** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Consistent hashing maps keys and nodes onto a ring so adding or removing nodes moves only a limited portion of keys.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Consistent hashing maps keys and nodes onto a ring so adding or removing nodes moves only a limited portion of keys.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Zipkin is a distributed tracing system that records timing data and visualizes request paths across services.
+> **Zipkin is a distributed tracing system that records timing data and visualizes request paths across services.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Zipkin** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Zipkin is a distributed tracing system that records timing data and visualizes request paths across services.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Zipkin is a distributed tracing system that records timing data and visualizes request paths across services.
 
 ## 2. Execution Mechanics & Runtime Flow
 

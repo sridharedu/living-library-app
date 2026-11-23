@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kafka preserves record order only within one partition, not across an entire topic.
+> **Kafka preserves record order only within one partition, not across an entire topic.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Ordering guarantees** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Kafka preserves record order only within one partition, not across an entire topic.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kafka preserves record order only within one partition, not across an entire topic.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Gateway filters modify requests or responses and implement concerns such as authentication, logging, retries, header changes, and circuit breaking.
+> **Gateway filters modify requests or responses and implement concerns such as authentication, logging, retries, header changes, and circuit breaking.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Gateway filters** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Gateway filters modify requests or responses and implement concerns such as authentication, logging, retries, header changes, and circuit breaking.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Gateway filters modify requests or responses and implement concerns such as authentication, logging, retries, header changes, and circuit breaking.
 
 ## 2. Execution Mechanics & Runtime Flow
 

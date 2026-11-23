@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CAP states that during a network partition, a distributed system must choose between consistent responses and always-available responses.
+> **CAP states that during a network partition, a distributed system must choose between consistent responses and always-available responses.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CAP theorem** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. CAP states that during a network partition, a distributed system must choose between consistent responses and always-available responses.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CAP states that during a network partition, a distributed system must choose between consistent responses and always-available responses.
 
 ## 2. Execution Mechanics & Runtime Flow
 

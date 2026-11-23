@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Control-plane components include the API server, scheduler, controller manager, and etcd. Node components include kubelet, kube-proxy, and the container runtime.
+> **Control-plane components include the API server, scheduler, controller manager, and etcd. Node components include kubelet, kube-proxy, and the container runtime.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Kubernetes Master and Node Components** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Control-plane components include the API server, scheduler, controller manager, and etcd. Node components include kubelet, kube-proxy, and the container runtime.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Control-plane components include the API server, scheduler, controller manager, and etcd. Node components include kubelet, kube-proxy, and the container runtime.
 
 ## 2. Execution Mechanics & Runtime Flow
 

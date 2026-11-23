@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Incident response covers detection, triage, containment, communication, mitigation, recovery, and follow-up.
+> **Incident response covers detection, triage, containment, communication, mitigation, recovery, and follow-up.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Incident response** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. Incident response covers detection, triage, containment, communication, mitigation, recovery, and follow-up.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Incident response covers detection, triage, containment, communication, mitigation, recovery, and follow-up.
 
 ## 2. Execution Mechanics & Runtime Flow
 

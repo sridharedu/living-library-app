@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ADD is similar to COPY but also supports local archive extraction and remote URLs. COPY is preferred for simple file transfer.
+> **ADD is similar to COPY but also supports local archive extraction and remote URLs. COPY is preferred for simple file transfer.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ADD** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. ADD is similar to COPY but also supports local archive extraction and remote URLs. COPY is preferred for simple file transfer.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ADD is similar to COPY but also supports local archive extraction and remote URLs. COPY is preferred for simple file transfer.
 
 ## 2. Execution Mechanics & Runtime Flow
 

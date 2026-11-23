@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Visitor adds operations to a stable object structure without modifying the element classes, at the cost of harder model evolution.
+> **Visitor adds operations to a stable object structure without modifying the element classes, at the cost of harder model evolution.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Visitor** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Visitor adds operations to a stable object structure without modifying the element classes, at the cost of harder model evolution.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Visitor adds operations to a stable object structure without modifying the element classes, at the cost of harder model evolution.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Eureka server hosts the registry, while clients register their metadata and periodically renew leases. Clients use the registry to resolve logical service names into reachable instances.
+> **A Eureka server hosts the registry, while clients register their metadata and periodically renew leases. Clients use the registry to resolve logical service names into reachable instances.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Configuring Eureka Server and Clients** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. A Eureka server hosts the registry, while clients register their metadata and periodically renew leases. Clients use the registry to resolve logical service names into reachable instances.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Eureka server hosts the registry, while clients register their metadata and periodically renew leases. Clients use the registry to resolve logical service names into reachable instances.
 
 ## 2. Execution Mechanics & Runtime Flow
 

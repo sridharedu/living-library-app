@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A PersistentVolumeClaim is a workload's request for storage with a required size, access mode, and optional class.
+> **A PersistentVolumeClaim is a workload's request for storage with a required size, access mode, and optional class.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**PersistentVolumeClaims** serves as a foundational component within *Configuration and Storage* in the broader **Kubernetes** ecosystem. A PersistentVolumeClaim is a workload's request for storage with a required size, access mode, and optional class.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A PersistentVolumeClaim is a workload's request for storage with a required size, access mode, and optional class.
 
 ## 2. Execution Mechanics & Runtime Flow
 

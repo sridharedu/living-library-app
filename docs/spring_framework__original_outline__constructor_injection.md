@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Constructor injection supplies all required dependencies when an object is created. It supports immutability, exposes mandatory collaborators clearly, and makes unit testing straightforward.
+> **Constructor injection supplies all required dependencies when an object is created. It supports immutability, exposes mandatory collaborators clearly, and makes unit testing straightforward.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Constructor Injection** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Constructor injection supplies all required dependencies when an object is created. It supports immutability, exposes mandatory collaborators clearly, and makes unit testing straightforward.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Constructor injection supplies all required dependencies when an object is created. It supports immutability, exposes mandatory collaborators clearly, and makes unit testing straightforward.
 
 ## 2. Execution Mechanics & Runtime Flow
 

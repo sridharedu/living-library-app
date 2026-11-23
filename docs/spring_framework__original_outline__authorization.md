@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Authorization decides whether an authenticated identity may perform an action. Spring can enforce access at URL, controller, service method, or domain-policy level.
+> **Authorization decides whether an authenticated identity may perform an action. Spring can enforce access at URL, controller, service method, or domain-policy level.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Authorization** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Authorization decides whether an authenticated identity may perform an action. Spring can enforce access at URL, controller, service method, or domain-policy level.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Authorization decides whether an authenticated identity may perform an action. Spring can enforce access at URL, controller, service method, or domain-policy level.
 
 ## 2. Execution Mechanics & Runtime Flow
 

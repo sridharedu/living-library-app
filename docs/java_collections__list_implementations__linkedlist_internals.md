@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> LinkedList uses doubly linked nodes. End operations are cheap, but indexed access is slow and memory overhead is higher.
+> **LinkedList uses doubly linked nodes. End operations are cheap, but indexed access is slow and memory overhead is higher.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**LinkedList internals** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. LinkedList uses doubly linked nodes. End operations are cheap, but indexed access is slow and memory overhead is higher.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+LinkedList uses doubly linked nodes. End operations are cheap, but indexed access is slow and memory overhead is higher.
 
 ## 2. Execution Mechanics & Runtime Flow
 

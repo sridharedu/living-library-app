@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Reliability means a workload can perform its function consistently and recover from failures. It relies on redundancy, tested recovery, scaling, and change management.
+> **Reliability means a workload can perform its function consistently and recover from failures. It relies on redundancy, tested recovery, scaling, and change management.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reliability** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Reliability means a workload can perform its function consistently and recover from failures. It relies on redundancy, tested recovery, scaling, and change management.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Reliability means a workload can perform its function consistently and recover from failures. It relies on redundancy, tested recovery, scaling, and change management.
 
 ## 2. Execution Mechanics & Runtime Flow
 

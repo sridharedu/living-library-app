@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Git tags are stable references commonly used to mark releases. Annotated tags include metadata and can be signed.
+> **Git tags are stable references commonly used to mark releases. Annotated tags include metadata and can be signed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Tags** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Git tags are stable references commonly used to mark releases. Annotated tags include metadata and can be signed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Git tags are stable references commonly used to mark releases. Annotated tags include metadata and can be signed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

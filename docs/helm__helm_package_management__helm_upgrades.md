@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> helm upgrade renders a new chart version or values and updates the existing release.
+> **helm upgrade renders a new chart version or values and updates the existing release.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helm upgrades** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. helm upgrade renders a new chart version or values and updates the existing release.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+helm upgrade renders a new chart version or values and updates the existing release.
 
 ## 2. Execution Mechanics & Runtime Flow
 

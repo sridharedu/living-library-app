@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Nested classes are declared inside another class. They include static nested classes and non-static inner classes.
+> **Nested classes are declared inside another class. They include static nested classes and non-static inner classes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Nested classes** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Nested classes are declared inside another class. They include static nested classes and non-static inner classes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Nested classes are declared inside another class. They include static nested classes and non-static inner classes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

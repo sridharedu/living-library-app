@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A rebalance redistributes partitions among consumer-group members when membership or subscribed partitions change.
+> **A rebalance redistributes partitions among consumer-group members when membership or subscribed partitions change.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Consumer rebalance** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. A rebalance redistributes partitions among consumer-group members when membership or subscribed partitions change.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A rebalance redistributes partitions among consumer-group members when membership or subscribed partitions change.
 
 ## 2. Execution Mechanics & Runtime Flow
 

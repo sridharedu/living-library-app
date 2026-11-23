@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Secrets Manager stores, retrieves, and rotates sensitive values such as database passwords and API keys.
+> **AWS Secrets Manager stores, retrieves, and rotates sensitive values such as database passwords and API keys.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Secrets Manager** serves as a foundational component within *Security* in the broader **AWS** ecosystem. AWS Secrets Manager stores, retrieves, and rotates sensitive values such as database passwords and API keys.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Secrets Manager stores, retrieves, and rotates sensitive values such as database passwords and API keys.
 
 ## 2. Execution Mechanics & Runtime Flow
 

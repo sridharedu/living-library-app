@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Placement groups influence EC2 placement for low latency, distributed fault isolation, or partitioned large-scale workloads.
+> **Placement groups influence EC2 placement for low latency, distributed fault isolation, or partitioned large-scale workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Placement groups** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. Placement groups influence EC2 placement for low latency, distributed fault isolation, or partitioned large-scale workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Placement groups influence EC2 placement for low latency, distributed fault isolation, or partitioned large-scale workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

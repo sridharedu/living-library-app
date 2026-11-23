@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Custom queries handle cases that derived method names cannot express clearly. Spring Data supports JPQL, native SQL, named queries, specifications, Query by Example, and custom repository implementations.
+> **Custom queries handle cases that derived method names cannot express clearly. Spring Data supports JPQL, native SQL, named queries, specifications, Query by Example, and custom repository implementations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Custom Queries** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Custom queries handle cases that derived method names cannot express clearly. Spring Data supports JPQL, native SQL, named queries, specifications, Query by Example, and custom repository implementations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Custom queries handle cases that derived method names cannot express clearly. Spring Data supports JPQL, native SQL, named queries, specifications, Query by Example, and custom repository implementations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A cold start occurs when Lambda creates and initializes a new execution environment before running the handler.
+> **A cold start occurs when Lambda creates and initializes a new execution environment before running the handler.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lambda cold starts** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. A cold start occurs when Lambda creates and initializes a new execution environment before running the handler.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A cold start occurs when Lambda creates and initializes a new execution environment before running the handler.
 
 ## 2. Execution Mechanics & Runtime Flow
 

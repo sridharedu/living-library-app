@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kubernetes is a container orchestration platform that manages workloads across a cluster of machines. It provides scheduling, service discovery, rollout, scaling, and self-healing.
+> **Kubernetes is a container orchestration platform that manages workloads across a cluster of machines. It provides scheduling, service discovery, rollout, scaling, and self-healing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Kubernetes?** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Kubernetes is a container orchestration platform that manages workloads across a cluster of machines. It provides scheduling, service discovery, rollout, scaling, and self-healing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kubernetes is a container orchestration platform that manages workloads across a cluster of machines. It provides scheduling, service discovery, rollout, scaling, and self-healing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

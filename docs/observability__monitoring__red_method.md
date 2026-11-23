@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The RED method monitors request Rate, Errors, and Duration for request-driven services.
+> **The RED method monitors request Rate, Errors, and Duration for request-driven services.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RED method** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. The RED method monitors request Rate, Errors, and Duration for request-driven services.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The RED method monitors request Rate, Errors, and Duration for request-driven services.
 
 ## 2. Execution Mechanics & Runtime Flow
 

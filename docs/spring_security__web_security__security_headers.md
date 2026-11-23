@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Security headers reduce browser attacks through controls such as Content-Security-Policy, HSTS, X-Content-Type-Options, and frame restrictions.
+> **Security headers reduce browser attacks through controls such as Content-Security-Policy, HSTS, X-Content-Type-Options, and frame restrictions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Security headers** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Security headers reduce browser attacks through controls such as Content-Security-Policy, HSTS, X-Content-Type-Options, and frame restrictions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Security headers reduce browser attacks through controls such as Content-Security-Policy, HSTS, X-Content-Type-Options, and frame restrictions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

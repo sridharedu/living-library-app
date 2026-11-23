@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Shenandoah is a low-pause collector that performs concurrent evacuation and compaction to reduce pause times.
+> **Shenandoah is a low-pause collector that performs concurrent evacuation and compaction to reduce pause times.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Shenandoah GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Shenandoah is a low-pause collector that performs concurrent evacuation and compaction to reduce pause times.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Shenandoah is a low-pause collector that performs concurrent evacuation and compaction to reduce pause times.
 
 ## 2. Execution Mechanics & Runtime Flow
 

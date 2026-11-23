@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The JIT may remove benchmarked work when its result is unused. JMH Blackhole or observable results prevent misleadingly fast measurements.
+> **The JIT may remove benchmarked work when its result is unused. JMH Blackhole or observable results prevent misleadingly fast measurements.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dead code elimination in benchmarks** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. The JIT may remove benchmarked work when its result is unused. JMH Blackhole or observable results prevent misleadingly fast measurements.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The JIT may remove benchmarked work when its result is unused. JMH Blackhole or observable results prevent misleadingly fast measurements.
 
 ## 2. Execution Mechanics & Runtime Flow
 

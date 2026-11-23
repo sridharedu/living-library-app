@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Blocking IO inside parallel streams ties up common-pool workers and can starve unrelated tasks. Dedicated executors are usually safer.
+> **Blocking IO inside parallel streams ties up common-pool workers and can starve unrelated tasks. Dedicated executors are usually safer.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Blocking operations in parallel streams** serves as a foundational component within *Parallelism* in the broader **Java Streams** ecosystem. Blocking IO inside parallel streams ties up common-pool workers and can starve unrelated tasks. Dedicated executors are usually safer.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Blocking IO inside parallel streams ties up common-pool workers and can starve unrelated tasks. Dedicated executors are usually safer.
 
 ## 2. Execution Mechanics & Runtime Flow
 

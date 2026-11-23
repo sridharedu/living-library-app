@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Optimistic concurrency control allows concurrent work and detects conflicts at update time, commonly through version columns or compare-and-set conditions.
+> **Optimistic concurrency control allows concurrent work and detects conflicts at update time, commonly through version columns or compare-and-set conditions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Optimistic concurrency control** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. Optimistic concurrency control allows concurrent work and detects conflicts at update time, commonly through version columns or compare-and-set conditions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Optimistic concurrency control allows concurrent work and detects conflicts at update time, commonly through version columns or compare-and-set conditions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Canary deployment sends a small percentage of traffic to a new version before gradually expanding exposure.
+> **Canary deployment sends a small percentage of traffic to a new version before gradually expanding exposure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Canary deployment** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Canary deployment sends a small percentage of traffic to a new version before gradually expanding exposure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Canary deployment sends a small percentage of traffic to a new version before gradually expanding exposure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Core Java is the foundational Java language and standard library used to build general-purpose applications. It includes syntax, OOP, collections, exceptions, streams, concurrency, I/O, and JVM fundamentals.
+> **Core Java is the foundational Java language and standard library used to build general-purpose applications. It includes syntax, OOP, collections, exceptions, streams, concurrency, I/O, and JVM fundamentals.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Core Java?** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Core Java is the foundational Java language and standard library used to build general-purpose applications. It includes syntax, OOP, collections, exceptions, streams, concurrency, I/O, and JVM fundamentals.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Core Java is the foundational Java language and standard library used to build general-purpose applications. It includes syntax, OOP, collections, exceptions, streams, concurrency, I/O, and JVM fundamentals.
 
 ## 2. Execution Mechanics & Runtime Flow
 

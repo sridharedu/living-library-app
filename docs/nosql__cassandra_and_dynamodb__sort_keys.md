@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A DynamoDB sort key orders items sharing the same partition key and enables range queries within that group.
+> **A DynamoDB sort key orders items sharing the same partition key and enables range queries within that group.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Sort keys** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. A DynamoDB sort key orders items sharing the same partition key and enables range queries within that group.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A DynamoDB sort key orders items sharing the same partition key and enables range queries within that group.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A stack is one deployed instance of a CloudFormation template. StackSets deploy the same stack across multiple AWS accounts and Regions from a central definition.
+> **A stack is one deployed instance of a CloudFormation template. StackSets deploy the same stack across multiple AWS accounts and Regions from a central definition.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stack and StackSets** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A stack is one deployed instance of a CloudFormation template. StackSets deploy the same stack across multiple AWS accounts and Regions from a central definition.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A stack is one deployed instance of a CloudFormation template. StackSets deploy the same stack across multiple AWS accounts and Regions from a central definition.
 
 ## 2. Execution Mechanics & Runtime Flow
 

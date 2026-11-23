@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A compensating transaction semantically reverses or offsets a completed business step when a later saga step fails.
+> **A compensating transaction semantically reverses or offsets a completed business step when a later saga step fails.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Compensating transactions** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. A compensating transaction semantically reverses or offsets a completed business step when a later saga step fails.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A compensating transaction semantically reverses or offsets a completed business step when a later saga step fails.
 
 ## 2. Execution Mechanics & Runtime Flow
 

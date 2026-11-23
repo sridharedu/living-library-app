@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Lambda offers automatic scaling, no server administration, fine-grained billing, and direct integration with AWS events. Constraints include cold starts, execution limits, and stateless design.
+> **Lambda offers automatic scaling, no server administration, fine-grained billing, and direct integration with AWS events. Constraints include cold starts, execution limits, and stateless design.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Benefits of AWS Lambda** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Lambda offers automatic scaling, no server administration, fine-grained billing, and direct integration with AWS events. Constraints include cold starts, execution limits, and stateless design.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Lambda offers automatic scaling, no server administration, fine-grained billing, and direct integration with AWS events. Constraints include cold starts, execution limits, and stateless design.
 
 ## 2. Execution Mechanics & Runtime Flow
 

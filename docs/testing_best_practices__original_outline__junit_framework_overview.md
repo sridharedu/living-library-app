@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JUnit provides test discovery, lifecycle hooks, assertions, parameterized tests, extensions, and reporting. JUnit 5 separates platform, engine, and API.
+> **JUnit provides test discovery, lifecycle hooks, assertions, parameterized tests, extensions, and reporting. JUnit 5 separates platform, engine, and API.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JUnit Framework Overview** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. JUnit provides test discovery, lifecycle hooks, assertions, parameterized tests, extensions, and reporting. JUnit 5 separates platform, engine, and API.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JUnit provides test discovery, lifecycle hooks, assertions, parameterized tests, extensions, and reporting. JUnit 5 separates platform, engine, and API.
 
 ## 2. Execution Mechanics & Runtime Flow
 

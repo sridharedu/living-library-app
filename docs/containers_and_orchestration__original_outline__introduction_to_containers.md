@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Containers package an application with its runtime dependencies into a portable isolated unit. They make execution more consistent across development, testing, and production.
+> **Containers package an application with its runtime dependencies into a portable isolated unit. They make execution more consistent across development, testing, and production.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Introduction to Containers** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Containers package an application with its runtime dependencies into a portable isolated unit. They make execution more consistent across development, testing, and production.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Containers package an application with its runtime dependencies into a portable isolated unit. They make execution more consistent across development, testing, and production.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> UNION combines results and removes duplicates, while UNION ALL preserves duplicates and is usually faster.
+> **UNION combines results and removes duplicates, while UNION ALL preserves duplicates and is usually faster.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**UNION vs UNION ALL** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. UNION combines results and removes duplicates, while UNION ALL preserves duplicates and is usually faster.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+UNION combines results and removes duplicates, while UNION ALL preserves duplicates and is usually faster.
 
 ## 2. Execution Mechanics & Runtime Flow
 

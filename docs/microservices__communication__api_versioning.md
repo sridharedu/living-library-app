@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> API versioning allows incompatible contract changes while older consumers continue working. Prefer backward-compatible evolution before introducing a new version.
+> **API versioning allows incompatible contract changes while older consumers continue working. Prefer backward-compatible evolution before introducing a new version.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**API versioning** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. API versioning allows incompatible contract changes while older consumers continue working. Prefer backward-compatible evolution before introducing a new version.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+API versioning allows incompatible contract changes while older consumers continue working. Prefer backward-compatible evolution before introducing a new version.
 
 ## 2. Execution Mechanics & Runtime Flow
 

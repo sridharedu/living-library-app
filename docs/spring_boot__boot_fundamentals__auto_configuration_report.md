@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The auto-configuration report explains which configurations matched or did not match and why. It is useful for diagnosing Boot behavior.
+> **The auto-configuration report explains which configurations matched or did not match and why. It is useful for diagnosing Boot behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Auto-configuration report** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. The auto-configuration report explains which configurations matched or did not match and why. It is useful for diagnosing Boot behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The auto-configuration report explains which configurations matched or did not match and why. It is useful for diagnosing Boot behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

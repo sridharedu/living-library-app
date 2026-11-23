@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ConcurrentLinkedDeque is a lock-free double-ended queue supporting concurrent insertion and removal at both ends.
+> **ConcurrentLinkedDeque is a lock-free double-ended queue supporting concurrent insertion and removal at both ends.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ConcurrentLinkedDeque** serves as a foundational component within *Concurrent Collections* in the broader **Java Concurrency** ecosystem. ConcurrentLinkedDeque is a lock-free double-ended queue supporting concurrent insertion and removal at both ends.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ConcurrentLinkedDeque is a lock-free double-ended queue supporting concurrent insertion and removal at both ends.
 
 ## 2. Execution Mechanics & Runtime Flow
 

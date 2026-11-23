@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Request-response sends a request and expects a corresponding result. It may be synchronous or asynchronous but retains a direct interaction relationship.
+> **Request-response sends a request and expects a corresponding result. It may be synchronous or asynchronous but retains a direct interaction relationship.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Request-response** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. Request-response sends a request and expects a corresponding result. It may be synchronous or asynchronous but retains a direct interaction relationship.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Request-response sends a request and expects a corresponding result. It may be synchronous or asynchronous but retains a direct interaction relationship.
 
 ## 2. Execution Mechanics & Runtime Flow
 

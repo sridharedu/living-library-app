@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ExceptionTranslationFilter converts authentication and authorization exceptions into login entry points or access-denied responses.
+> **ExceptionTranslationFilter converts authentication and authorization exceptions into login entry points or access-denied responses.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ExceptionTranslationFilter** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. ExceptionTranslationFilter converts authentication and authorization exceptions into login entry points or access-denied responses.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ExceptionTranslationFilter converts authentication and authorization exceptions into login entry points or access-denied responses.
 
 ## 2. Execution Mechanics & Runtime Flow
 

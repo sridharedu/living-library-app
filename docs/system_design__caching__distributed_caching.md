@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> A distributed cache shares cached data across multiple application instances and usually requires network access, partitioning, replication, and consistency choices.
+> **A distributed cache shares cached data across multiple application instances and usually requires network access, partitioning, replication, and consistency choices.**
 
 ---
 

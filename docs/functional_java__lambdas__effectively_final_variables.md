@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A local variable is effectively final when assigned once and never reassigned. Lambdas may capture it even without the final keyword.
+> **A local variable is effectively final when assigned once and never reassigned. Lambdas may capture it even without the final keyword.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Effectively final variables** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. A local variable is effectively final when assigned once and never reassigned. Lambdas may capture it even without the final keyword.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A local variable is effectively final when assigned once and never reassigned. Lambdas may capture it even without the final keyword.
 
 ## 2. Execution Mechanics & Runtime Flow
 

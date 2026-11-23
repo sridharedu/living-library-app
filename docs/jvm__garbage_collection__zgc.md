@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ZGC is a low-latency collector that performs most work concurrently and supports very large heaps with short pauses.
+> **ZGC is a low-latency collector that performs most work concurrently and supports very large heaps with short pauses.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ZGC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. ZGC is a low-latency collector that performs most work concurrently and supports very large heaps with short pauses.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ZGC is a low-latency collector that performs most work concurrently and supports very large heaps with short pauses.
 
 ## 2. Execution Mechanics & Runtime Flow
 

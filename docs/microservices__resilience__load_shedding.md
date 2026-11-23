@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Load shedding rejects low-priority or excess work before resources are exhausted, preserving service for critical traffic.
+> **Load shedding rejects low-priority or excess work before resources are exhausted, preserving service for critical traffic.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Load shedding** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. Load shedding rejects low-priority or excess work before resources are exhausted, preserving service for critical traffic.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Load shedding rejects low-priority or excess work before resources are exhausted, preserving service for critical traffic.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> EFS is a managed elastic NFS file system that can be mounted by multiple Linux instances. It scales automatically and is useful when applications need shared files.
+> **EFS is a managed elastic NFS file system that can be mounted by multiple Linux instances. It scales automatically and is useful when applications need shared files.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Amazon EFS (Elastic File System)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. EFS is a managed elastic NFS file system that can be mounted by multiple Linux instances. It scales automatically and is useful when applications need shared files.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+EFS is a managed elastic NFS file system that can be mounted by multiple Linux instances. It scales automatically and is useful when applications need shared files.
 
 ## 2. Execution Mechanics & Runtime Flow
 

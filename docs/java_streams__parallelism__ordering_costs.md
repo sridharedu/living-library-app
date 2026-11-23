@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Preserving encounter order in parallel streams can require coordination and buffering. Unordered processing may improve scalability when order is irrelevant.
+> **Preserving encounter order in parallel streams can require coordination and buffering. Unordered processing may improve scalability when order is irrelevant.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Ordering costs** serves as a foundational component within *Parallelism* in the broader **Java Streams** ecosystem. Preserving encounter order in parallel streams can require coordination and buffering. Unordered processing may improve scalability when order is irrelevant.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Preserving encounter order in parallel streams can require coordination and buffering. Unordered processing may improve scalability when order is irrelevant.
 
 ## 2. Execution Mechanics & Runtime Flow
 

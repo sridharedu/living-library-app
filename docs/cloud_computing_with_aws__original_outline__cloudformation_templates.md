@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A CloudFormation template defines resources, parameters, outputs, mappings, and conditions in YAML or JSON. Templates make infrastructure repeatable, reviewable, and version-controlled.
+> **A CloudFormation template defines resources, parameters, outputs, mappings, and conditions in YAML or JSON. Templates make infrastructure repeatable, reviewable, and version-controlled.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CloudFormation Templates** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A CloudFormation template defines resources, parameters, outputs, mappings, and conditions in YAML or JSON. Templates make infrastructure repeatable, reviewable, and version-controlled.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A CloudFormation template defines resources, parameters, outputs, mappings, and conditions in YAML or JSON. Templates make infrastructure repeatable, reviewable, and version-controlled.
 
 ## 2. Execution Mechanics & Runtime Flow
 

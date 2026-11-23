@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A JSON Web Token carries signed claims between parties. It must be validated for signature, issuer, audience, expiry, and intended use.
+> **A JSON Web Token carries signed claims between parties. It must be validated for signature, issuer, audience, expiry, and intended use.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JWT** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. A JSON Web Token carries signed claims between parties. It must be validated for signature, issuer, audience, expiry, and intended use.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A JSON Web Token carries signed claims between parties. It must be validated for signature, issuer, audience, expiry, and intended use.
 
 ## 2. Execution Mechanics & Runtime Flow
 

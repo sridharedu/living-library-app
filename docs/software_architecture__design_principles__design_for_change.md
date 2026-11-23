@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Design for change isolates volatile decisions, keeps contracts explicit, and avoids premature abstractions that make evolution harder.
+> **Design for change isolates volatile decisions, keeps contracts explicit, and avoids premature abstractions that make evolution harder.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design for change** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Design for change isolates volatile decisions, keeps contracts explicit, and avoids premature abstractions that make evolution harder.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Design for change isolates volatile decisions, keeps contracts explicit, and avoids premature abstractions that make evolution harder.
 
 ## 2. Execution Mechanics & Runtime Flow
 

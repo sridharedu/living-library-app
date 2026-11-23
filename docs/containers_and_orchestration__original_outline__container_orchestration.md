@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Container orchestration coordinates container placement, scaling, networking, recovery, configuration, and rollout across multiple machines.
+> **Container orchestration coordinates container placement, scaling, networking, recovery, configuration, and rollout across multiple machines.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Container Orchestration** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Container orchestration coordinates container placement, scaling, networking, recovery, configuration, and rollout across multiple machines.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Container orchestration coordinates container placement, scaling, networking, recovery, configuration, and rollout across multiple machines.
 
 ## 2. Execution Mechanics & Runtime Flow
 

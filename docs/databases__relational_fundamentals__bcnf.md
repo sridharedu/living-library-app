@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Boyce-Codd Normal Form requires every determinant to be a candidate key, strengthening third normal form.
+> **Boyce-Codd Normal Form requires every determinant to be a candidate key, strengthening third normal form.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**BCNF** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Boyce-Codd Normal Form requires every determinant to be a candidate key, strengthening third normal form.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Boyce-Codd Normal Form requires every determinant to be a candidate key, strengthening third normal form.
 
 ## 2. Execution Mechanics & Runtime Flow
 

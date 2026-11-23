@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Avoid hot DynamoDB partitions by choosing high-cardinality keys, spreading traffic, and sharding bursty write patterns.
+> **Avoid hot DynamoDB partitions by choosing high-cardinality keys, spreading traffic, and sharding bursty write patterns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hot partition avoidance** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Avoid hot DynamoDB partitions by choosing high-cardinality keys, spreading traffic, and sharding bursty write patterns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Avoid hot DynamoDB partitions by choosing high-cardinality keys, spreading traffic, and sharding bursty write patterns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

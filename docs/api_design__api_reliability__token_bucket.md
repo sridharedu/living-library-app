@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Token bucket adds tokens at a steady rate and allows bursts up to the bucket capacity.
+> **Token bucket adds tokens at a steady rate and allows bursts up to the bucket capacity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Token bucket** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Token bucket adds tokens at a steady rate and allows bursts up to the bucket capacity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Token bucket adds tokens at a steady rate and allows bursts up to the bucket capacity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

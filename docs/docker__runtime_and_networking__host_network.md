@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Host networking lets a container share the host's network namespace, removing port isolation.
+> **Host networking lets a container share the host's network namespace, removing port isolation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Host network** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Host networking lets a container share the host's network namespace, removing port isolation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Host networking lets a container share the host's network namespace, removing port isolation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

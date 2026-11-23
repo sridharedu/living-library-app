@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A parallel stream can run inside a custom ForkJoinPool by submitting the whole pipeline to that pool, but pool usage should be explicit and measured.
+> **A parallel stream can run inside a custom ForkJoinPool by submitting the whole pipeline to that pool, but pool usage should be explicit and measured.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Custom pool for parallel streams** serves as a foundational component within *Parallelism* in the broader **Java Streams** ecosystem. A parallel stream can run inside a custom ForkJoinPool by submitting the whole pipeline to that pool, but pool usage should be explicit and measured.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A parallel stream can run inside a custom ForkJoinPool by submitting the whole pipeline to that pool, but pool usage should be explicit and measured.
 
 ## 2. Execution Mechanics & Runtime Flow
 

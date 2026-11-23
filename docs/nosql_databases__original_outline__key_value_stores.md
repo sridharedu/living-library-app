@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Key-value stores retrieve values using unique keys. They are simple, fast, and useful for caching, sessions, counters, and lookup-heavy workloads.
+> **Key-value stores retrieve values using unique keys. They are simple, fast, and useful for caching, sessions, counters, and lookup-heavy workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Key-Value Stores** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Key-value stores retrieve values using unique keys. They are simple, fast, and useful for caching, sessions, counters, and lookup-heavy workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Key-value stores retrieve values using unique keys. They are simple, fast, and useful for caching, sessions, counters, and lookup-heavy workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

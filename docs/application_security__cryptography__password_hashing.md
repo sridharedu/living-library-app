@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Password hashing should use adaptive algorithms such as Argon2, scrypt, BCrypt, or PBKDF2 with unique salts.
+> **Password hashing should use adaptive algorithms such as Argon2, scrypt, BCrypt, or PBKDF2 with unique salts.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Password hashing** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Password hashing should use adaptive algorithms such as Argon2, scrypt, BCrypt, or PBKDF2 with unique salts.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Password hashing should use adaptive algorithms such as Argon2, scrypt, BCrypt, or PBKDF2 with unique salts.
 
 ## 2. Execution Mechanics & Runtime Flow
 

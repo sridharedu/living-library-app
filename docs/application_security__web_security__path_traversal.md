@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Path traversal uses sequences such as ../ to access files outside an intended directory. Normalize and constrain resolved paths.
+> **Path traversal uses sequences such as ../ to access files outside an intended directory. Normalize and constrain resolved paths.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Path traversal** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Path traversal uses sequences such as ../ to access files outside an intended directory. Normalize and constrain resolved paths.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Path traversal uses sequences such as ../ to access files outside an intended directory. Normalize and constrain resolved paths.
 
 ## 2. Execution Mechanics & Runtime Flow
 

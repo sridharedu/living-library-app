@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Consumer<T> accepts a value and returns nothing. It is suited to side-effecting work such as logging, sending, storing, or updating an external target.
+> **Consumer<T> accepts a value and returns nothing. It is suited to side-effecting work such as logging, sending, storing, or updating an external target.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Consumer** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Consumer<T> accepts a value and returns nothing. It is suited to side-effecting work such as logging, sending, storing, or updating an external target.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Consumer<T> accepts a value and returns nothing. It is suited to side-effecting work such as logging, sending, storing, or updating an external target.
 
 ## 2. Execution Mechanics & Runtime Flow
 

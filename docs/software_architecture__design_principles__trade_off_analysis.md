@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Trade-off analysis compares architecture options against competing qualities such as latency, cost, consistency, complexity, and operability.
+> **Trade-off analysis compares architecture options against competing qualities such as latency, cost, consistency, complexity, and operability.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Trade-off analysis** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Trade-off analysis compares architecture options against competing qualities such as latency, cost, consistency, complexity, and operability.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Trade-off analysis compares architecture options against competing qualities such as latency, cost, consistency, complexity, and operability.
 
 ## 2. Execution Mechanics & Runtime Flow
 

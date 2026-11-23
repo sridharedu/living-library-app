@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Infrastructure as Code manages infrastructure through versioned definitions instead of manual console changes. It makes environments repeatable, reviewable, testable, and automatable.
+> **Infrastructure as Code manages infrastructure through versioned definitions instead of manual console changes. It makes environments repeatable, reviewable, testable, and automatable.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Infrastructure as Code (IaC)** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Infrastructure as Code manages infrastructure through versioned definitions instead of manual console changes. It makes environments repeatable, reviewable, testable, and automatable.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Infrastructure as Code manages infrastructure through versioned definitions instead of manual console changes. It makes environments repeatable, reviewable, testable, and automatable.
 
 ## 2. Execution Mechanics & Runtime Flow
 

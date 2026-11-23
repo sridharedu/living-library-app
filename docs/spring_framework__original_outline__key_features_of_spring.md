@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring's major strengths include IoC, dependency injection, AOP, transaction management, MVC, data integration, security, testing support, and a large modular ecosystem.
+> **Spring's major strengths include IoC, dependency injection, AOP, transaction management, MVC, data integration, security, testing support, and a large modular ecosystem.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Key Features of Spring** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring's major strengths include IoC, dependency injection, AOP, transaction management, MVC, data integration, security, testing support, and a large modular ecosystem.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring's major strengths include IoC, dependency injection, AOP, transaction management, MVC, data integration, security, testing support, and a large modular ecosystem.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cell-based architecture divides a system into isolated, repeatable units containing compute, data, and dependencies, limiting failure blast radius.
+> **Cell-based architecture divides a system into isolated, repeatable units containing compute, data, and dependencies, limiting failure blast radius.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cell-based architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Cell-based architecture divides a system into isolated, repeatable units containing compute, data, and dependencies, limiting failure blast radius.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cell-based architecture divides a system into isolated, repeatable units containing compute, data, and dependencies, limiting failure blast radius.
 
 ## 2. Execution Mechanics & Runtime Flow
 

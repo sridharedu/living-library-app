@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CopyOnWriteArrayList creates a new internal array for each modification. It is ideal for many reads and very few writes.
+> **CopyOnWriteArrayList creates a new internal array for each modification. It is ideal for many reads and very few writes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CopyOnWriteArrayList** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. CopyOnWriteArrayList creates a new internal array for each modification. It is ideal for many reads and very few writes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CopyOnWriteArrayList creates a new internal array for each modification. It is ideal for many reads and very few writes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

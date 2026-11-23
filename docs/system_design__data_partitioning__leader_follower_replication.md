@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Leader-follower replication sends writes to one leader and copies changes to follower replicas.
+> **Leader-follower replication sends writes to one leader and copies changes to follower replicas.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Leader-follower replication** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Leader-follower replication sends writes to one leader and copies changes to follower replicas.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Leader-follower replication sends writes to one leader and copies changes to follower replicas.
 
 ## 2. Execution Mechanics & Runtime Flow
 

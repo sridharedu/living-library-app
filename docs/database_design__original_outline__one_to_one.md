@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A one-to-one relationship means one row corresponds to at most one row in another table. It is often enforced with a unique foreign key.
+> **A one-to-one relationship means one row corresponds to at most one row in another table. It is often enforced with a unique foreign key.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**One-to-One** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. A one-to-one relationship means one row corresponds to at most one row in another table. It is often enforced with a unique foreign key.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A one-to-one relationship means one row corresponds to at most one row in another table. It is often enforced with a unique foreign key.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mediator centralizes communication between collaborating objects so they do not depend directly on each other.
+> **Mediator centralizes communication between collaborating objects so they do not depend directly on each other.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mediator** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Mediator centralizes communication between collaborating objects so they do not depend directly on each other.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mediator centralizes communication between collaborating objects so they do not depend directly on each other.
 
 ## 2. Execution Mechanics & Runtime Flow
 

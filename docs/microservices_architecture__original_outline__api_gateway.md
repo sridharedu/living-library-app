@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An API gateway is the controlled entry point to backend services. It handles routing and shared edge concerns such as authentication, rate limiting, headers, logging, and protocol adaptation.
+> **An API gateway is the controlled entry point to backend services. It handles routing and shared edge concerns such as authentication, rate limiting, headers, logging, and protocol adaptation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**API Gateway** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. An API gateway is the controlled entry point to backend services. It handles routing and shared edge concerns such as authentication, rate limiting, headers, logging, and protocol adaptation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An API gateway is the controlled entry point to backend services. It handles routing and shared edge concerns such as authentication, rate limiting, headers, logging, and protocol adaptation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

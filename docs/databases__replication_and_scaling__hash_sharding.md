@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Hash sharding distributes rows using a hash of the shard key, usually improving balance but complicating range access.
+> **Hash sharding distributes rows using a hash of the shard key, usually improving balance but complicating range access.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hash sharding** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Hash sharding distributes rows using a hash of the shard key, usually improving balance but complicating range access.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Hash sharding distributes rows using a hash of the shard key, usually improving balance but complicating range access.
 
 ## 2. Execution Mechanics & Runtime Flow
 

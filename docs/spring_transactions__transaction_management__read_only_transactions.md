@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A read-only transaction communicates intent and may enable persistence or database optimizations, but it is not a universal enforcement mechanism.
+> **A read-only transaction communicates intent and may enable persistence or database optimizations, but it is not a universal enforcement mechanism.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Read-only transactions** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. A read-only transaction communicates intent and may enable persistence or database optimizations, but it is not a universal enforcement mechanism.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A read-only transaction communicates intent and may enable persistence or database optimizations, but it is not a universal enforcement mechanism.
 
 ## 2. Execution Mechanics & Runtime Flow
 

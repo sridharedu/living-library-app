@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Consensus lets distributed nodes agree on one value or ordered log despite failures, using algorithms such as Raft or Paxos.
+> **Consensus lets distributed nodes agree on one value or ordered log despite failures, using algorithms such as Raft or Paxos.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Consensus** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Consensus lets distributed nodes agree on one value or ordered log despite failures, using algorithms such as Raft or Paxos.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Consensus lets distributed nodes agree on one value or ordered log despite failures, using algorithms such as Raft or Paxos.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A circular dependency occurs when beans depend on each other. Constructor cycles fail immediately and usually indicate poor separation of responsibilities.
+> **A circular dependency occurs when beans depend on each other. Constructor cycles fail immediately and usually indicate poor separation of responsibilities.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Circular dependencies** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. A circular dependency occurs when beans depend on each other. Constructor cycles fail immediately and usually indicate poor separation of responsibilities.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A circular dependency occurs when beans depend on each other. Constructor cycles fail immediately and usually indicate poor separation of responsibilities.
 
 ## 2. Execution Mechanics & Runtime Flow
 

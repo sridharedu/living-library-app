@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Lambda execution environment contains the runtime, function code, extensions, and temporary storage and may be reused across invocations.
+> **A Lambda execution environment contains the runtime, function code, extensions, and temporary storage and may be reused across invocations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lambda execution environment** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. A Lambda execution environment contains the runtime, function code, extensions, and temporary storage and may be reused across invocations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Lambda execution environment contains the runtime, function code, extensions, and temporary storage and may be reused across invocations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

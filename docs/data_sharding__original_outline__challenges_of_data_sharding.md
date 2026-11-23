@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Sharding complicates joins, transactions, rebalancing, global indexes, backups, and operational troubleshooting. Poor shard keys can create severe hotspots.
+> **Sharding complicates joins, transactions, rebalancing, global indexes, backups, and operational troubleshooting. Poor shard keys can create severe hotspots.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Challenges of Data Sharding** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Sharding complicates joins, transactions, rebalancing, global indexes, backups, and operational troubleshooting. Poor shard keys can create severe hotspots.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Sharding complicates joins, transactions, rebalancing, global indexes, backups, and operational troubleshooting. Poor shard keys can create severe hotspots.
 
 ## 2. Execution Mechanics & Runtime Flow
 

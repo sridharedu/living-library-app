@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Contract testing verifies that service providers and consumers agree on request, response, event, and compatibility expectations.
+> **Contract testing verifies that service providers and consumers agree on request, response, event, and compatibility expectations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Contract testing** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. Contract testing verifies that service providers and consumers agree on request, response, event, and compatibility expectations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Contract testing verifies that service providers and consumers agree on request, response, event, and compatibility expectations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

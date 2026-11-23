@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> WebMvcConfigurer customizes Spring MVC behavior such as formatters, CORS, interceptors, resource handling, and message converters.
+> **WebMvcConfigurer customizes Spring MVC behavior such as formatters, CORS, interceptors, resource handling, and message converters.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**WebMvcConfigurer** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. WebMvcConfigurer customizes Spring MVC behavior such as formatters, CORS, interceptors, resource handling, and message converters.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+WebMvcConfigurer customizes Spring MVC behavior such as formatters, CORS, interceptors, resource handling, and message converters.
 
 ## 2. Execution Mechanics & Runtime Flow
 

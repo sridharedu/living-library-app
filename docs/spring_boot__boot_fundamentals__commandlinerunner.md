@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CommandLineRunner receives raw command-line arguments as a String array and runs after startup.
+> **CommandLineRunner receives raw command-line arguments as a String array and runs after startup.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CommandLineRunner** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. CommandLineRunner receives raw command-line arguments as a String array and runs after startup.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CommandLineRunner receives raw command-line arguments as a String array and runs after startup.
 
 ## 2. Execution Mechanics & Runtime Flow
 

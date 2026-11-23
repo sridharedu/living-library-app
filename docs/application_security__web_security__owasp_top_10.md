@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The OWASP Top 10 summarizes common web-application security risks such as broken access control, injection, insecure design, and misconfiguration.
+> **The OWASP Top 10 summarizes common web-application security risks such as broken access control, injection, insecure design, and misconfiguration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**OWASP Top 10** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. The OWASP Top 10 summarizes common web-application security risks such as broken access control, injection, insecure design, and misconfiguration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The OWASP Top 10 summarizes common web-application security risks such as broken access control, injection, insecure design, and misconfiguration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

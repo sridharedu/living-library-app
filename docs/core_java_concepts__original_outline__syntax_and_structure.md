@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Lambda syntax is parameters, an arrow, and either an expression or block body. Parentheses, parameter types, and return statements may be omitted when Java can infer them safely.
+> **Lambda syntax is parameters, an arrow, and either an expression or block body. Parentheses, parameter types, and return statements may be omitted when Java can infer them safely.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Syntax and Structure** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Lambda syntax is parameters, an arrow, and either an expression or block body. Parentheses, parameter types, and return statements may be omitted when Java can infer them safely.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Lambda syntax is parameters, an arrow, and either an expression or block body. Parentheses, parameter types, and return statements may be omitted when Java can infer them safely.
 
 ## 2. Execution Mechanics & Runtime Flow
 

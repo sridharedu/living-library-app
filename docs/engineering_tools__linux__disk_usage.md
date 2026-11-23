@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Use df for filesystem capacity and du for directory or file consumption, then inspect large paths and inode usage.
+> **Use df for filesystem capacity and du for directory or file consumption, then inspect large paths and inode usage.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Disk usage** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Use df for filesystem capacity and du for directory or file consumption, then inspect large paths and inode usage.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Use df for filesystem capacity and du for directory or file consumption, then inspect large paths and inode usage.
 
 ## 2. Execution Mechanics & Runtime Flow
 

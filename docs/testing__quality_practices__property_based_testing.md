@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Property-based testing generates many inputs and verifies general rules or invariants instead of checking only hand-picked examples.
+> **Property-based testing generates many inputs and verifies general rules or invariants instead of checking only hand-picked examples.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Property-based testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Property-based testing generates many inputs and verifies general rules or invariants instead of checking only hand-picked examples.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Property-based testing generates many inputs and verifies general rules or invariants instead of checking only hand-picked examples.
 
 ## 2. Execution Mechanics & Runtime Flow
 

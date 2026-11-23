@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JVM runtime areas include the heap, Java stacks, metaspace, program counters, native stacks, and shared code structures.
+> **JVM runtime areas include the heap, Java stacks, metaspace, program counters, native stacks, and shared code structures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Runtime data areas** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. JVM runtime areas include the heap, Java stacks, metaspace, program counters, native stacks, and shared code structures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JVM runtime areas include the heap, Java stacks, metaspace, program counters, native stacks, and shared code structures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

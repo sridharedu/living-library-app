@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Multi-region design deploys across geographic Regions for disaster recovery, global latency, or regulatory needs and requires explicit data-consistency choices.
+> **Multi-region design deploys across geographic Regions for disaster recovery, global latency, or regulatory needs and requires explicit data-consistency choices.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Multi-region design** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. Multi-region design deploys across geographic Regions for disaster recovery, global latency, or regulatory needs and requires explicit data-consistency choices.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Multi-region design deploys across geographic Regions for disaster recovery, global latency, or regulatory needs and requires explicit data-consistency choices.
 
 ## 2. Execution Mechanics & Runtime Flow
 

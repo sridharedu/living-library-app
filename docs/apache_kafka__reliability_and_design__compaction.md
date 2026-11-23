@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kafka log compaction retains the latest value for each key while preserving tombstones long enough to represent deletion.
+> **Kafka log compaction retains the latest value for each key while preserving tombstones long enough to represent deletion.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Compaction** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Kafka log compaction retains the latest value for each key while preserving tombstones long enough to represent deletion.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kafka log compaction retains the latest value for each key while preserving tombstones long enough to represent deletion.
 
 ## 2. Execution Mechanics & Runtime Flow
 

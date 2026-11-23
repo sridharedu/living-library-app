@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Redundancy duplicates critical components or data so one failure does not stop the service.
+> **Redundancy duplicates critical components or data so one failure does not stop the service.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Redundancy** serves as a foundational component within *Reliability* in the broader **System Design** ecosystem. Redundancy duplicates critical components or data so one failure does not stop the service.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Redundancy duplicates critical components or data so one failure does not stop the service.
 
 ## 2. Execution Mechanics & Runtime Flow
 

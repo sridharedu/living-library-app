@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> OpenID Connect adds authentication and identity claims on top of OAuth 2.0, commonly through an ID token and user-info endpoint.
+> **OpenID Connect adds authentication and identity claims on top of OAuth 2.0, commonly through an ID token and user-info endpoint.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**OpenID Connect** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. OpenID Connect adds authentication and identity claims on top of OAuth 2.0, commonly through an ID token and user-info endpoint.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+OpenID Connect adds authentication and identity claims on top of OAuth 2.0, commonly through an ID token and user-info endpoint.
 
 ## 2. Execution Mechanics & Runtime Flow
 

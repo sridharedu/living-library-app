@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Relationships are modeled using keys and junction tables. The design should reflect one-to-one, one-to-many, or many-to-many cardinality accurately.
+> **Relationships are modeled using keys and junction tables. The design should reflect one-to-one, one-to-many, or many-to-many cardinality accurately.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Handling Relationships in Databases** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. Relationships are modeled using keys and junction tables. The design should reflect one-to-one, one-to-many, or many-to-many cardinality accurately.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Relationships are modeled using keys and junction tables. The design should reflect one-to-one, one-to-many, or many-to-many cardinality accurately.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Bitmap indexes represent values with bit arrays and work well for low-cardinality analytical columns. They are less suitable for heavy concurrent updates.
+> **Bitmap indexes represent values with bit arrays and work well for low-cardinality analytical columns. They are less suitable for heavy concurrent updates.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Bitmap Indexes** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Bitmap indexes represent values with bit arrays and work well for low-cardinality analytical columns. They are less suitable for heavy concurrent updates.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Bitmap indexes represent values with bit arrays and work well for low-cardinality analytical columns. They are less suitable for heavy concurrent updates.
 
 ## 2. Execution Mechanics & Runtime Flow
 

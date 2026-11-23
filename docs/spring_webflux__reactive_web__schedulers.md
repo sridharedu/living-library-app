@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Reactor Schedulers control where reactive work executes. Choosing the wrong scheduler can cause blocking, starvation, or unnecessary context switching.
+> **Reactor Schedulers control where reactive work executes. Choosing the wrong scheduler can cause blocking, starvation, or unnecessary context switching.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Schedulers** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Reactor Schedulers control where reactive work executes. Choosing the wrong scheduler can cause blocking, starvation, or unnecessary context switching.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Reactor Schedulers control where reactive work executes. Choosing the wrong scheduler can cause blocking, starvation, or unnecessary context switching.
 
 ## 2. Execution Mechanics & Runtime Flow
 

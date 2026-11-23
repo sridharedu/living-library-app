@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Jenkins automates software delivery tasks through jobs, pipelines, plugins, and distributed agents. It is flexible and mature, but requires active maintenance, security hardening, and plugin governance.
+> **Jenkins automates software delivery tasks through jobs, pipelines, plugins, and distributed agents. It is flexible and mature, but requires active maintenance, security hardening, and plugin governance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Jenkins for Automation** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Jenkins automates software delivery tasks through jobs, pipelines, plugins, and distributed agents. It is flexible and mature, but requires active maintenance, security hardening, and plugin governance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Jenkins automates software delivery tasks through jobs, pipelines, plugins, and distributed agents. It is flexible and mature, but requires active maintenance, security hardening, and plugin governance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

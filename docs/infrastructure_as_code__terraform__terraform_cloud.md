@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Terraform Cloud provides remote runs, state, locking, policy checks, variables, collaboration, and private module registries.
+> **Terraform Cloud provides remote runs, state, locking, policy checks, variables, collaboration, and private module registries.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Terraform Cloud** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Terraform Cloud provides remote runs, state, locking, policy checks, variables, collaboration, and private module registries.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Terraform Cloud provides remote runs, state, locking, policy checks, variables, collaboration, and private module registries.
 
 ## 2. Execution Mechanics & Runtime Flow
 

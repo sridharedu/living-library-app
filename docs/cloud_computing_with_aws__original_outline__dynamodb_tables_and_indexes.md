@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A DynamoDB table uses a partition key and optional sort key. Global and local secondary indexes support additional access patterns but add storage and write cost.
+> **A DynamoDB table uses a partition key and optional sort key. Global and local secondary indexes support additional access patterns but add storage and write cost.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**DynamoDB Tables and Indexes** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A DynamoDB table uses a partition key and optional sort key. Global and local secondary indexes support additional access patterns but add storage and write cost.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A DynamoDB table uses a partition key and optional sort key. Global and local secondary indexes support additional access patterns but add storage and write cost.
 
 ## 2. Execution Mechanics & Runtime Flow
 

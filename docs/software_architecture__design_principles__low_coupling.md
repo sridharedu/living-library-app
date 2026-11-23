@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Low coupling means modules depend on each other through small, stable contracts rather than internal details.
+> **Low coupling means modules depend on each other through small, stable contracts rather than internal details.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Low coupling** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Low coupling means modules depend on each other through small, stable contracts rather than internal details.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Low coupling means modules depend on each other through small, stable contracts rather than internal details.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ECS Service Connect provides service discovery and standardized service-to-service connectivity for ECS applications.
+> **ECS Service Connect provides service discovery and standardized service-to-service connectivity for ECS applications.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Service Connect** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. ECS Service Connect provides service discovery and standardized service-to-service connectivity for ECS applications.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ECS Service Connect provides service discovery and standardized service-to-service connectivity for ECS applications.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kubernetes upgrades require version-skew planning, control-plane and node sequencing, API deprecation checks, and workload validation.
+> **Kubernetes upgrades require version-skew planning, control-plane and node sequencing, API deprecation checks, and workload validation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Kubernetes upgrades** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Kubernetes upgrades require version-skew planning, control-plane and node sequencing, API deprecation checks, and workload validation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kubernetes upgrades require version-skew planning, control-plane and node sequencing, API deprecation checks, and workload validation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The visibility timeout temporarily hides a received SQS message so another consumer does not process it before completion.
+> **The visibility timeout temporarily hides a received SQS message so another consumer does not process it before completion.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Visibility timeout** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. The visibility timeout temporarily hides a received SQS message so another consumer does not process it before completion.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The visibility timeout temporarily hides a received SQS message so another consumer does not process it before completion.
 
 ## 2. Execution Mechanics & Runtime Flow
 

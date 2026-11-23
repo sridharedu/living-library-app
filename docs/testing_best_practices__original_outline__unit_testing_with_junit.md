@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JUnit is the standard Java framework for unit tests. It runs isolated checks, reports failures, and integrates with build tools and IDEs.
+> **JUnit is the standard Java framework for unit tests. It runs isolated checks, reports failures, and integrates with build tools and IDEs.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Unit Testing with JUnit** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. JUnit is the standard Java framework for unit tests. It runs isolated checks, reports failures, and integrates with build tools and IDEs.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JUnit is the standard Java framework for unit tests. It runs isolated checks, reports failures, and integrates with build tools and IDEs.
 
 ## 2. Execution Mechanics & Runtime Flow
 

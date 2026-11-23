@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Just-In-Time compiler converts frequently executed bytecode into optimized native machine code while the application runs.
+> **The Just-In-Time compiler converts frequently executed bytecode into optimized native machine code while the application runs.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JIT compilation** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. The Just-In-Time compiler converts frequently executed bytecode into optimized native machine code while the application runs.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Just-In-Time compiler converts frequently executed bytecode into optimized native machine code while the application runs.
 
 ## 2. Execution Mechanics & Runtime Flow
 

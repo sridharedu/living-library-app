@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An execution plan shows how the database intends to run a query, including scans, joins, sorts, and estimated costs. It is the primary tool for diagnosing SQL performance.
+> **An execution plan shows how the database intends to run a query, including scans, joins, sorts, and estimated costs. It is the primary tool for diagnosing SQL performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Query Execution Plan** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. An execution plan shows how the database intends to run a query, including scans, joins, sorts, and estimated costs. It is the primary tool for diagnosing SQL performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An execution plan shows how the database intends to run a query, including scans, joins, sorts, and estimated costs. It is the primary tool for diagnosing SQL performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

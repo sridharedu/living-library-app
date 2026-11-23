@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Provisioned concurrency keeps Lambda execution environments initialized and ready, reducing cold-start latency for predictable workloads.
+> **Provisioned concurrency keeps Lambda execution environments initialized and ready, reducing cold-start latency for predictable workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Provisioned concurrency** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. Provisioned concurrency keeps Lambda execution environments initialized and ready, reducing cold-start latency for predictable workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Provisioned concurrency keeps Lambda execution environments initialized and ready, reducing cold-start latency for predictable workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Property sources provide configuration values from files, environment variables, system properties, command-line arguments, and custom sources.
+> **Property sources provide configuration values from files, environment variables, system properties, command-line arguments, and custom sources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Property sources** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Property sources provide configuration values from files, environment variables, system properties, command-line arguments, and custom sources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Property sources provide configuration values from files, environment variables, system properties, command-line arguments, and custom sources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ConfigurationProperties classes can use Jakarta Bean Validation so invalid or missing configuration fails fast during startup.
+> **ConfigurationProperties classes can use Jakarta Bean Validation so invalid or missing configuration fails fast during startup.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ConfigurationProperties validation** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. ConfigurationProperties classes can use Jakarta Bean Validation so invalid or missing configuration fails fast during startup.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ConfigurationProperties classes can use Jakarta Bean Validation so invalid or missing configuration fails fast during startup.
 
 ## 2. Execution Mechanics & Runtime Flow
 

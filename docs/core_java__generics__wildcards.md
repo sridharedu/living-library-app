@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A wildcard represents an unknown generic type using ?. It is useful when code should accept a family of parameterized types without naming the exact type.
+> **A wildcard represents an unknown generic type using ?. It is useful when code should accept a family of parameterized types without naming the exact type.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Wildcards** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. A wildcard represents an unknown generic type using ?. It is useful when code should accept a family of parameterized types without naming the exact type.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A wildcard represents an unknown generic type using ?. It is useful when code should accept a family of parameterized types without naming the exact type.
 
 ## 2. Execution Mechanics & Runtime Flow
 

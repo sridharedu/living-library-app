@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Monitoring tracks system health through metrics and alerts, while logging records detailed events and context. Together they support detection, diagnosis, and operational learning.
+> **Monitoring tracks system health through metrics and alerts, while logging records detailed events and context. Together they support detection, diagnosis, and operational learning.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Monitoring and Logging** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Monitoring tracks system health through metrics and alerts, while logging records detailed events and context. Together they support detection, diagnosis, and operational learning.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Monitoring tracks system health through metrics and alerts, while logging records detailed events and context. Together they support detection, diagnosis, and operational learning.
 
 ## 2. Execution Mechanics & Runtime Flow
 

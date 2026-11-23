@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Boot can package web applications with embedded servers such as Tomcat, Jetty, or Undertow, removing the need for external deployment.
+> **Spring Boot can package web applications with embedded servers such as Tomcat, Jetty, or Undertow, removing the need for external deployment.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Embedded servers** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. Spring Boot can package web applications with embedded servers such as Tomcat, Jetty, or Undertow, removing the need for external deployment.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Boot can package web applications with embedded servers such as Tomcat, Jetty, or Undertow, removing the need for external deployment.
 
 ## 2. Execution Mechanics & Runtime Flow
 

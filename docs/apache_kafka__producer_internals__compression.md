@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kafka compression reduces network and storage usage by compressing record batches with codecs such as gzip, snappy, lz4, or zstd.
+> **Kafka compression reduces network and storage usage by compressing record batches with codecs such as gzip, snappy, lz4, or zstd.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Compression** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. Kafka compression reduces network and storage usage by compressing record batches with codecs such as gzip, snappy, lz4, or zstd.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kafka compression reduces network and storage usage by compressing record batches with codecs such as gzip, snappy, lz4, or zstd.
 
 ## 2. Execution Mechanics & Runtime Flow
 

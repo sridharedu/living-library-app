@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Parallel processing can reduce execution time with minimal code changes, but adds coordination cost, ordering overhead, shared-pool contention, and harder debugging. Measure with realistic benchmarks before adopting it.
+> **Parallel processing can reduce execution time with minimal code changes, but adds coordination cost, ordering overhead, shared-pool contention, and harder debugging. Measure with realistic benchmarks before adopting it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Benefits and Drawbacks** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Parallel processing can reduce execution time with minimal code changes, but adds coordination cost, ordering overhead, shared-pool contention, and harder debugging. Measure with realistic benchmarks before adopting it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Parallel processing can reduce execution time with minimal code changes, but adds coordination cost, ordering overhead, shared-pool contention, and harder debugging. Measure with realistic benchmarks before adopting it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

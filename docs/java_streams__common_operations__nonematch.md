@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> noneMatch returns true when no element satisfies the predicate. It also returns true for an empty stream.
+> **noneMatch returns true when no element satisfies the predicate. It also returns true for an empty stream.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**noneMatch** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. noneMatch returns true when no element satisfies the predicate. It also returns true for an empty stream.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+noneMatch returns true when no element satisfies the predicate. It also returns true for an empty stream.
 
 ## 2. Execution Mechanics & Runtime Flow
 

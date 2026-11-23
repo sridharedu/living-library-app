@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Graceful shutdown stops accepting new work, lets in-flight requests finish within a timeout, closes resources, and then terminates cleanly.
+> **Graceful shutdown stops accepting new work, lets in-flight requests finish within a timeout, closes resources, and then terminates cleanly.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Graceful shutdown** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. Graceful shutdown stops accepting new work, lets in-flight requests finish within a timeout, closes resources, and then terminates cleanly.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Graceful shutdown stops accepting new work, lets in-flight requests finish within a timeout, closes resources, and then terminates cleanly.
 
 ## 2. Execution Mechanics & Runtime Flow
 

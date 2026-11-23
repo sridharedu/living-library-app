@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Kubernetes cluster contains a control plane and worker nodes. The control plane stores desired state and makes decisions, while nodes run application workloads.
+> **A Kubernetes cluster contains a control plane and worker nodes. The control plane stores desired state and makes decisions, while nodes run application workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Kubernetes Architecture** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Kubernetes cluster contains a control plane and worker nodes. The control plane stores desired state and makes decisions, while nodes run application workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Kubernetes cluster contains a control plane and worker nodes. The control plane stores desired state and makes decisions, while nodes run application workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

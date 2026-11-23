@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Remember-me authentication restores a user identity from a persistent token after the normal session expires. Tokens must be protected and revocable.
+> **Remember-me authentication restores a user identity from a persistent token after the normal session expires. Tokens must be protected and revocable.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Remember-me authentication** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Remember-me authentication restores a user identity from a persistent token after the normal session expires. Tokens must be protected and revocable.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Remember-me authentication restores a user identity from a persistent token after the normal session expires. Tokens must be protected and revocable.
 
 ## 2. Execution Mechanics & Runtime Flow
 

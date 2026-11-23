@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon Route 53 provides DNS registration, authoritative DNS, health checks, and routing policies.
+> **Amazon Route 53 provides DNS registration, authoritative DNS, health checks, and routing policies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Route 53** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. Amazon Route 53 provides DNS registration, authoritative DNS, health checks, and routing policies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon Route 53 provides DNS registration, authoritative DNS, health checks, and routing policies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The controller manager runs reconciliation loops that continuously move actual cluster state toward the desired state.
+> **The controller manager runs reconciliation loops that continuously move actual cluster state toward the desired state.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Controller manager** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The controller manager runs reconciliation loops that continuously move actual cluster state toward the desired state.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The controller manager runs reconciliation loops that continuously move actual cluster state toward the desired state.
 
 ## 2. Execution Mechanics & Runtime Flow
 

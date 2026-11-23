@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Node affinity expresses preferred or required rules for placing Pods on nodes with matching labels.
+> **Node affinity expresses preferred or required rules for placing Pods on nodes with matching labels.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Node affinity** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Node affinity expresses preferred or required rules for placing Pods on nodes with matching labels.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Node affinity expresses preferred or required rules for placing Pods on nodes with matching labels.
 
 ## 2. Execution Mechanics & Runtime Flow
 

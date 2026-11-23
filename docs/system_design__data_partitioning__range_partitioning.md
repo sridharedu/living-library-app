@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Range partitioning assigns contiguous key ranges to partitions and supports efficient range scans but may create hotspots.
+> **Range partitioning assigns contiguous key ranges to partitions and supports efficient range scans but may create hotspots.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Range partitioning** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Range partitioning assigns contiguous key ranges to partitions and supports efficient range scans but may create hotspots.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Range partitioning assigns contiguous key ranges to partitions and supports efficient range scans but may create hotspots.
 
 ## 2. Execution Mechanics & Runtime Flow
 

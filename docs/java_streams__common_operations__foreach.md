@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> forEach performs an action for each element. In parallel streams, execution order is not guaranteed.
+> **forEach performs an action for each element. In parallel streams, execution order is not guaranteed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**forEach** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. forEach performs an action for each element. In parallel streams, execution order is not guaranteed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+forEach performs an action for each element. In parallel streams, execution order is not guaranteed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

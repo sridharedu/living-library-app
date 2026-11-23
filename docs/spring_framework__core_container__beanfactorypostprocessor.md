@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> BeanFactoryPostProcessor modifies bean definitions before bean instances are created.
+> **BeanFactoryPostProcessor modifies bean definitions before bean instances are created.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**BeanFactoryPostProcessor** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. BeanFactoryPostProcessor modifies bean definitions before bean instances are created.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+BeanFactoryPostProcessor modifies bean definitions before bean instances are created.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cluster Autoscaler adds nodes for unschedulable Pods and removes underused nodes when workloads can move safely.
+> **Cluster Autoscaler adds nodes for unschedulable Pods and removes underused nodes when workloads can move safely.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cluster Autoscaler** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Cluster Autoscaler adds nodes for unschedulable Pods and removes underused nodes when workloads can move safely.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cluster Autoscaler adds nodes for unschedulable Pods and removes underused nodes when workloads can move safely.
 
 ## 2. Execution Mechanics & Runtime Flow
 

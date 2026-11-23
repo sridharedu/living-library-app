@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Graceful degradation keeps essential functionality available while disabling or simplifying noncritical features during failure.
+> **Graceful degradation keeps essential functionality available while disabling or simplifying noncritical features during failure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Graceful degradation** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. Graceful degradation keeps essential functionality available while disabling or simplifying noncritical features during failure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Graceful degradation keeps essential functionality available while disabling or simplifying noncritical features during failure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

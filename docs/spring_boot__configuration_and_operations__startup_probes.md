@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A startup probe checks whether an application has completed initialization. Until it succeeds, liveness failures should not restart a slow-starting service.
+> **A startup probe checks whether an application has completed initialization. Until it succeeds, liveness failures should not restart a slow-starting service.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Startup probes** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. A startup probe checks whether an application has completed initialization. Until it succeeds, liveness failures should not restart a slow-starting service.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A startup probe checks whether an application has completed initialization. Until it succeeds, liveness failures should not restart a slow-starting service.
 
 ## 2. Execution Mechanics & Runtime Flow
 

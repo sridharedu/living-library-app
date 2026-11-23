@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mockito annotations such as @Mock, @Spy, @InjectMocks, and @Captor reduce test setup boilerplate.
+> **Mockito annotations such as @Mock, @Spy, @InjectMocks, and @Captor reduce test setup boilerplate.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mock annotations** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Mockito annotations such as @Mock, @Spy, @InjectMocks, and @Captor reduce test setup boilerplate.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mockito annotations such as @Mock, @Spy, @InjectMocks, and @Captor reduce test setup boilerplate.
 
 ## 2. Execution Mechanics & Runtime Flow
 

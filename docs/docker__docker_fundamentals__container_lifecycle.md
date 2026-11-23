@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A container moves through create, start, run, pause, stop, restart, and remove states.
+> **A container moves through create, start, run, pause, stop, restart, and remove states.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Container lifecycle** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. A container moves through create, start, run, pause, stop, restart, and remove states.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A container moves through create, start, run, pause, stop, restart, and remove states.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Docker reuses unchanged build layers from cache. Stable instruction ordering and small contexts improve cache effectiveness.
+> **Docker reuses unchanged build layers from cache. Stable instruction ordering and small contexts improve cache effectiveness.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Build cache** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. Docker reuses unchanged build layers from cache. Stable instruction ordering and small contexts improve cache effectiveness.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Docker reuses unchanged build layers from cache. Stable instruction ordering and small contexts improve cache effectiveness.
 
 ## 2. Execution Mechanics & Runtime Flow
 

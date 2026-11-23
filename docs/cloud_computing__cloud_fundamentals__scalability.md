@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Scalability is a system's ability to handle growth by increasing resources vertically or horizontally.
+> **Scalability is a system's ability to handle growth by increasing resources vertically or horizontally.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Scalability** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Scalability is a system's ability to handle growth by increasing resources vertically or horizontally.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Scalability is a system's ability to handle growth by increasing resources vertically or horizontally.
 
 ## 2. Execution Mechanics & Runtime Flow
 

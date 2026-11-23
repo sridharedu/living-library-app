@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Repository provides a collection-like abstraction over domain object persistence and query operations.
+> **Repository provides a collection-like abstraction over domain object persistence and query operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Repository pattern** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. Repository provides a collection-like abstraction over domain object persistence and query operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Repository provides a collection-like abstraction over domain object persistence and query operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

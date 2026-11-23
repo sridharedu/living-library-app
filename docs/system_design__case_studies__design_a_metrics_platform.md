@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A metrics platform ingests labeled time-series data, aggregates and stores it efficiently, evaluates alerts, and supports dashboards and queries.
+> **A metrics platform ingests labeled time-series data, aggregates and stores it efficiently, evaluates alerts, and supports dashboards and queries.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design a metrics platform** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A metrics platform ingests labeled time-series data, aggregates and stores it efficiently, evaluates alerts, and supports dashboards and queries.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A metrics platform ingests labeled time-series data, aggregates and stores it efficiently, evaluates alerts, and supports dashboards and queries.
 
 ## 2. Execution Mechanics & Runtime Flow
 

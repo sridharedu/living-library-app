@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kubernetes backup should cover cluster resources, persistent data, and etcd where applicable, with regular restore testing.
+> **Kubernetes backup should cover cluster resources, persistent data, and etcd where applicable, with regular restore testing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Backup and restore** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Kubernetes backup should cover cluster resources, persistent data, and etcd where applicable, with regular restore testing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kubernetes backup should cover cluster resources, persistent data, and etcd where applicable, with regular restore testing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Modern Mockito can mock final classes and methods when its inline mock maker is available.
+> **Modern Mockito can mock final classes and methods when its inline mock maker is available.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mocking final classes** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Modern Mockito can mock final classes and methods when its inline mock maker is available.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Modern Mockito can mock final classes and methods when its inline mock maker is available.
 
 ## 2. Execution Mechanics & Runtime Flow
 

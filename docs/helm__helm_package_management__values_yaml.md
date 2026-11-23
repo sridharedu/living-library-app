@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> values.yaml provides default configuration values consumed by Helm templates.
+> **values.yaml provides default configuration values consumed by Helm templates.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**values.yaml** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. values.yaml provides default configuration values consumed by Helm templates.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+values.yaml provides default configuration values consumed by Helm templates.
 
 ## 2. Execution Mechanics & Runtime Flow
 

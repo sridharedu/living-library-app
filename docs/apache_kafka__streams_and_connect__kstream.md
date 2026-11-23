@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A KStream represents an unbounded stream of independent records where multiple records may share the same key.
+> **A KStream represents an unbounded stream of independent records where multiple records may share the same key.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**KStream** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. A KStream represents an unbounded stream of independent records where multiple records may share the same key.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A KStream represents an unbounded stream of independent records where multiple records may share the same key.
 
 ## 2. Execution Mechanics & Runtime Flow
 

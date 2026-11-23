@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Docker Hub is a public and private container registry with official images, repositories, and automated integrations.
+> **Docker Hub is a public and private container registry with official images, repositories, and automated integrations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Docker Hub** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. Docker Hub is a public and private container registry with official images, repositories, and automated integrations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Docker Hub is a public and private container registry with official images, repositories, and automated integrations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Synchronous commit waits for broker confirmation and is reliable but slower; asynchronous commit avoids blocking but requires careful failure handling.
+> **Synchronous commit waits for broker confirmation and is reliable but slower; asynchronous commit avoids blocking but requires careful failure handling.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Commit sync vs async** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Synchronous commit waits for broker confirmation and is reliable but slower; asynchronous commit avoids blocking but requires careful failure handling.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Synchronous commit waits for broker confirmation and is reliable but slower; asynchronous commit avoids blocking but requires careful failure handling.
 
 ## 2. Execution Mechanics & Runtime Flow
 

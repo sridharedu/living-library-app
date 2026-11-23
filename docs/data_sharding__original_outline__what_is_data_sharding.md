@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Sharding splits rows across independent database nodes using a shard key. Each shard owns only part of the total dataset.
+> **Sharding splits rows across independent database nodes using a shard key. Each shard owns only part of the total dataset.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Data Sharding?** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Sharding splits rows across independent database nodes using a shard key. Each shard owns only part of the total dataset.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Sharding splits rows across independent database nodes using a shard key. Each shard owns only part of the total dataset.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A digital signature uses a private key to prove integrity and origin, and a public key to verify it.
+> **A digital signature uses a private key to prove integrity and origin, and a public key to verify it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Digital signatures** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. A digital signature uses a private key to prove integrity and origin, and a public key to verify it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A digital signature uses a private key to prove integrity and origin, and a public key to verify it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> HEALTHCHECK defines a command Docker runs periodically to determine whether the container is healthy.
+> **HEALTHCHECK defines a command Docker runs periodically to determine whether the container is healthy.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**HEALTHCHECK** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. HEALTHCHECK defines a command Docker runs periodically to determine whether the container is healthy.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+HEALTHCHECK defines a command Docker runs periodically to determine whether the container is healthy.
 
 ## 2. Execution Mechanics & Runtime Flow
 

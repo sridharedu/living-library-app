@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Chaos engineering runs controlled failure experiments to test assumptions and improve resilience before real incidents occur.
+> **Chaos engineering runs controlled failure experiments to test assumptions and improve resilience before real incidents occur.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Chaos engineering** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. Chaos engineering runs controlled failure experiments to test assumptions and improve resilience before real incidents occur.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Chaos engineering runs controlled failure experiments to test assumptions and improve resilience before real incidents occur.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Docker is a platform for packaging and running applications as containers. It includes an image format, command-line tools, an engine, and registry integration.
+> **Docker is a platform for packaging and running applications as containers. It includes an image format, command-line tools, an engine, and registry integration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Docker?** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Docker is a platform for packaging and running applications as containers. It includes an image format, command-line tools, an engine, and registry integration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Docker is a platform for packaging and running applications as containers. It includes an image format, command-line tools, an engine, and registry integration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

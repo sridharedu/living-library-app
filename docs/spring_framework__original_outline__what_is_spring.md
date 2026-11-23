@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring is an ecosystem for building Java applications with managed objects, web frameworks, data access, transactions, security, messaging, and cloud integrations. Its container creates and connects application components.
+> **Spring is an ecosystem for building Java applications with managed objects, web frameworks, data access, transactions, security, messaging, and cloud integrations. Its container creates and connects application components.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Spring?** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring is an ecosystem for building Java applications with managed objects, web frameworks, data access, transactions, security, messaging, and cloud integrations. Its container creates and connects application components.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring is an ecosystem for building Java applications with managed objects, web frameworks, data access, transactions, security, messaging, and cloud integrations. Its container creates and connects application components.
 
 ## 2. Execution Mechanics & Runtime Flow
 

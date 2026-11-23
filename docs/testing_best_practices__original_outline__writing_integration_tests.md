@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Integration tests should exercise realistic boundaries, manage test data carefully, isolate runs, and clean up resources afterward.
+> **Integration tests should exercise realistic boundaries, manage test data carefully, isolate runs, and clean up resources afterward.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Writing Integration Tests** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Integration tests should exercise realistic boundaries, manage test data carefully, isolate runs, and clean up resources afterward.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Integration tests should exercise realistic boundaries, manage test data carefully, isolate runs, and clean up resources afterward.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> etcd is Kubernetes' strongly consistent key-value store for cluster state, configuration, and coordination. Protecting and backing it up is critical.
+> **etcd is Kubernetes' strongly consistent key-value store for cluster state, configuration, and coordination. Protecting and backing it up is critical.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**etcd** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. etcd is Kubernetes' strongly consistent key-value store for cluster state, configuration, and coordination. Protecting and backing it up is critical.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+etcd is Kubernetes' strongly consistent key-value store for cluster state, configuration, and coordination. Protecting and backing it up is critical.
 
 ## 2. Execution Mechanics & Runtime Flow
 

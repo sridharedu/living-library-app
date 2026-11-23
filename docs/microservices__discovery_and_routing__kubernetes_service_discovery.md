@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kubernetes provides service discovery through stable Service names and cluster DNS while Pods can be created and replaced dynamically.
+> **Kubernetes provides service discovery through stable Service names and cluster DNS while Pods can be created and replaced dynamically.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Kubernetes service discovery** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Kubernetes provides service discovery through stable Service names and cluster DNS while Pods can be created and replaced dynamically.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kubernetes provides service discovery through stable Service names and cluster DNS while Pods can be created and replaced dynamically.
 
 ## 2. Execution Mechanics & Runtime Flow
 

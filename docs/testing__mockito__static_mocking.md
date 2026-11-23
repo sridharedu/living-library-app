@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mockito can temporarily mock static methods within a scoped block, but dependency injection is usually easier to maintain.
+> **Mockito can temporarily mock static methods within a scoped block, but dependency injection is usually easier to maintain.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Static mocking** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Mockito can temporarily mock static methods within a scoped block, but dependency injection is usually easier to maintain.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mockito can temporarily mock static methods within a scoped block, but dependency injection is usually easier to maintain.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ExternalName maps a Kubernetes Service name to an external DNS name without creating a proxy or endpoint.
+> **ExternalName maps a Kubernetes Service name to an external DNS name without creating a proxy or endpoint.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ExternalName service** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. ExternalName maps a Kubernetes Service name to an external DNS name without creating a proxy or endpoint.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ExternalName maps a Kubernetes Service name to an external DNS name without creating a proxy or endpoint.
 
 ## 2. Execution Mechanics & Runtime Flow
 

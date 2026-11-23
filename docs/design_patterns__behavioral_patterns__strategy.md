@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Strategy encapsulates interchangeable algorithms behind one interface and selects one at runtime.
+> **Strategy encapsulates interchangeable algorithms behind one interface and selects one at runtime.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Strategy** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Strategy encapsulates interchangeable algorithms behind one interface and selects one at runtime.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Strategy encapsulates interchangeable algorithms behind one interface and selects one at runtime.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A class is a blueprint that defines fields and methods, while an object is a runtime instance of that class. Multiple objects can share the same structure but hold different state.
+> **A class is a blueprint that defines fields and methods, while an object is a runtime instance of that class. Multiple objects can share the same structure but hold different state.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Classes and Objects** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. A class is a blueprint that defines fields and methods, while an object is a runtime instance of that class. Multiple objects can share the same structure but hold different state.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A class is a blueprint that defines fields and methods, while an object is a runtime instance of that class. Multiple objects can share the same structure but hold different state.
 
 ## 2. Execution Mechanics & Runtime Flow
 

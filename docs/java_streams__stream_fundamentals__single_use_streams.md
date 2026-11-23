@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A stream can be consumed only once. After a terminal operation, create a new stream from the source for another traversal.
+> **A stream can be consumed only once. After a terminal operation, create a new stream from the source for another traversal.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Single-use streams** serves as a foundational component within *Stream Fundamentals* in the broader **Java Streams** ecosystem. A stream can be consumed only once. After a terminal operation, create a new stream from the source for another traversal.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A stream can be consumed only once. After a terminal operation, create a new stream from the source for another traversal.
 
 ## 2. Execution Mechanics & Runtime Flow
 

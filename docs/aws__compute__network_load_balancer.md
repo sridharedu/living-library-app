@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Network Load Balancer operates at Layer 4 for very high-performance TCP, UDP, and TLS traffic with static IP support.
+> **A Network Load Balancer operates at Layer 4 for very high-performance TCP, UDP, and TLS traffic with static IP support.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Network Load Balancer** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. A Network Load Balancer operates at Layer 4 for very high-performance TCP, UDP, and TLS traffic with static IP support.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Network Load Balancer operates at Layer 4 for very high-performance TCP, UDP, and TLS traffic with static IP support.
 
 ## 2. Execution Mechanics & Runtime Flow
 

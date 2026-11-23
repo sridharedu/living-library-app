@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Pod Security Standards define Privileged, Baseline, and Restricted security profiles for Pod configuration.
+> **Pod Security Standards define Privileged, Baseline, and Restricted security profiles for Pod configuration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Pod Security Standards** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Pod Security Standards define Privileged, Baseline, and Restricted security profiles for Pod configuration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Pod Security Standards define Privileged, Baseline, and Restricted security profiles for Pod configuration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> At-most-once delivery may lose records but avoids duplicate processing, usually by committing before processing.
+> **At-most-once delivery may lose records but avoids duplicate processing, usually by committing before processing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**At-most-once delivery** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. At-most-once delivery may lose records but avoids duplicate processing, usually by committing before processing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+At-most-once delivery may lose records but avoids duplicate processing, usually by committing before processing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

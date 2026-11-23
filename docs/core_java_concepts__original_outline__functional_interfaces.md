@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A functional interface has exactly one abstract method and can be implemented with a lambda or method reference. Default and static methods do not affect its functional status.
+> **A functional interface has exactly one abstract method and can be implemented with a lambda or method reference. Default and static methods do not affect its functional status.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Functional Interfaces** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. A functional interface has exactly one abstract method and can be implemented with a lambda or method reference. Default and static methods do not affect its functional status.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A functional interface has exactly one abstract method and can be implemented with a lambda or method reference. Default and static methods do not affect its functional status.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring MVC annotations declare controllers, routes, parameters, request bodies, response bodies, validation, status codes, and exception handling. They replace most XML-based request mapping configuration.
+> **Spring MVC annotations declare controllers, routes, parameters, request bodies, response bodies, validation, status codes, and exception handling. They replace most XML-based request mapping configuration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring MVC Annotations** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring MVC annotations declare controllers, routes, parameters, request bodies, response bodies, validation, status codes, and exception handling. They replace most XML-based request mapping configuration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring MVC annotations declare controllers, routes, parameters, request bodies, response bodies, validation, status codes, and exception handling. They replace most XML-based request mapping configuration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

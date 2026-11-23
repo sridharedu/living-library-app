@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Health Dashboard reports AWS events and account-specific service issues that may affect resources.
+> **AWS Health Dashboard reports AWS events and account-specific service issues that may affect resources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Health Dashboard** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. AWS Health Dashboard reports AWS events and account-specific service issues that may affect resources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Health Dashboard reports AWS events and account-specific service issues that may affect resources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

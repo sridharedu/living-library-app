@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Bridge separates an abstraction from its implementation so both can evolve independently.
+> **Bridge separates an abstraction from its implementation so both can evolve independently.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Bridge** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Bridge separates an abstraction from its implementation so both can evolve independently.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Bridge separates an abstraction from its implementation so both can evolve independently.
 
 ## 2. Execution Mechanics & Runtime Flow
 

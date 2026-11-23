@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Load balancers distribute traffic across healthy service instances and may perform health checks, TLS termination, and routing.
+> **Load balancers distribute traffic across healthy service instances and may perform health checks, TLS termination, and routing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Load balancers** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Load balancers distribute traffic across healthy service instances and may perform health checks, TLS termination, and routing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Load balancers distribute traffic across healthy service instances and may perform health checks, TLS termination, and routing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

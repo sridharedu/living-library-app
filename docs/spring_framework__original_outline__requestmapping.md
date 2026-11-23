@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @RequestMapping maps requests by path, HTTP method, headers, parameters, content type, or accepted response type. It can define a common route at class level and narrower routes on methods.
+> **@RequestMapping maps requests by path, HTTP method, headers, parameters, content type, or accepted response type. It can define a common route at class level and narrower routes on methods.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**@RequestMapping** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. @RequestMapping maps requests by path, HTTP method, headers, parameters, content type, or accepted response type. It can define a common route at class level and narrower routes on methods.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@RequestMapping maps requests by path, HTTP method, headers, parameters, content type, or accepted response type. It can define a common route at class level and narrower routes on methods.
 
 ## 2. Execution Mechanics & Runtime Flow
 

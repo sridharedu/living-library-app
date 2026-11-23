@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> HashMap uses an array of buckets with linked nodes or balanced trees. Capacity, load factor, hashing, and resizing determine performance.
+> **HashMap uses an array of buckets with linked nodes or balanced trees. Capacity, load factor, hashing, and resizing determine performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**HashMap internals** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. HashMap uses an array of buckets with linked nodes or balanced trees. Capacity, load factor, hashing, and resizing determine performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+HashMap uses an array of buckets with linked nodes or balanced trees. Capacity, load factor, hashing, and resizing determine performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

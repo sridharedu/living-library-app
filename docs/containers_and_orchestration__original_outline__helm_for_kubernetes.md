@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Helm packages Kubernetes manifests into reusable, configurable charts. It simplifies installation, upgrades, rollback, and versioned application releases.
+> **Helm packages Kubernetes manifests into reusable, configurable charts. It simplifies installation, upgrades, rollback, and versioned application releases.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helm for Kubernetes** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Helm packages Kubernetes manifests into reusable, configurable charts. It simplifies installation, upgrades, rollback, and versioned application releases.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Helm packages Kubernetes manifests into reusable, configurable charts. It simplifies installation, upgrades, rollback, and versioned application releases.
 
 ## 2. Execution Mechanics & Runtime Flow
 

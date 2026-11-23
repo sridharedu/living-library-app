@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A multi-container application separates responsibilities such as API, database, cache, and message broker into services connected by declared networks and volumes.
+> **A multi-container application separates responsibilities such as API, database, cache, and message broker into services connected by declared networks and volumes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Defining Multi-Container Applications** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A multi-container application separates responsibilities such as API, database, cache, and message broker into services connected by declared networks and volumes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A multi-container application separates responsibilities such as API, database, cache, and message broker into services connected by declared networks and volumes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

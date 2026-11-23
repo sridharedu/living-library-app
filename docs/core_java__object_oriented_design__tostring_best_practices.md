@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> toString should provide concise diagnostic information without exposing secrets or producing unstable, excessively large output.
+> **toString should provide concise diagnostic information without exposing secrets or producing unstable, excessively large output.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**toString best practices** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. toString should provide concise diagnostic information without exposing secrets or producing unstable, excessively large output.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+toString should provide concise diagnostic information without exposing secrets or producing unstable, excessively large output.
 
 ## 2. Execution Mechanics & Runtime Flow
 

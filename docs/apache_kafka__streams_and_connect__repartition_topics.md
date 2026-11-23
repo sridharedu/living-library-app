@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Repartition topics redistribute records by a new key so downstream grouped or joined operations receive matching keys together.
+> **Repartition topics redistribute records by a new key so downstream grouped or joined operations receive matching keys together.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Repartition topics** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. Repartition topics redistribute records by a new key so downstream grouped or joined operations receive matching keys together.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Repartition topics redistribute records by a new key so downstream grouped or joined operations receive matching keys together.
 
 ## 2. Execution Mechanics & Runtime Flow
 

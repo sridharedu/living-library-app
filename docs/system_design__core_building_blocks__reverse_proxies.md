@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A reverse proxy accepts client traffic and forwards it to backend services while hiding internal topology.
+> **A reverse proxy accepts client traffic and forwards it to backend services while hiding internal topology.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reverse proxies** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. A reverse proxy accepts client traffic and forwards it to backend services while hiding internal topology.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A reverse proxy accepts client traffic and forwards it to backend services while hiding internal topology.
 
 ## 2. Execution Mechanics & Runtime Flow
 

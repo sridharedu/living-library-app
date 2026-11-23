@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mono represents an asynchronous sequence containing zero or one element, followed by completion or error.
+> **Mono represents an asynchronous sequence containing zero or one element, followed by completion or error.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mono** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Mono represents an asynchronous sequence containing zero or one element, followed by completion or error.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mono represents an asynchronous sequence containing zero or one element, followed by completion or error.
 
 ## 2. Execution Mechanics & Runtime Flow
 

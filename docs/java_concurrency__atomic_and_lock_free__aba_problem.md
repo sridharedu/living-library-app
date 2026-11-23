@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The ABA problem occurs when a value changes from A to B and back to A, making CAS incorrectly assume nothing changed.
+> **The ABA problem occurs when a value changes from A to B and back to A, making CAS incorrectly assume nothing changed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ABA problem** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. The ABA problem occurs when a value changes from A to B and back to A, making CAS incorrectly assume nothing changed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The ABA problem occurs when a value changes from A to B and back to A, making CAS incorrectly assume nothing changed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

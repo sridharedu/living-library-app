@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> GraphQL federation composes multiple domain-owned GraphQL subgraphs into one unified schema and query entry point.
+> **GraphQL federation composes multiple domain-owned GraphQL subgraphs into one unified schema and query entry point.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**GraphQL federation** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. GraphQL federation composes multiple domain-owned GraphQL subgraphs into one unified schema and query entry point.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+GraphQL federation composes multiple domain-owned GraphQL subgraphs into one unified schema and query entry point.
 
 ## 2. Execution Mechanics & Runtime Flow
 

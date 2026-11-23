@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Route 53 provides authoritative DNS, domain registration, and health-aware routing. Its name refers to TCP and UDP port 53 used by DNS.
+> **Route 53 provides authoritative DNS, domain registration, and health-aware routing. Its name refers to TCP and UDP port 53 used by DNS.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Route 53?** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Route 53 provides authoritative DNS, domain registration, and health-aware routing. Its name refers to TCP and UDP port 53 used by DNS.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Route 53 provides authoritative DNS, domain registration, and health-aware routing. Its name refers to TCP and UDP port 53 used by DNS.
 
 ## 2. Execution Mechanics & Runtime Flow
 

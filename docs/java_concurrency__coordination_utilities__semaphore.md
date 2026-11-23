@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Semaphore controls access to a limited number of permits. It is useful for throttling concurrent access to scarce resources.
+> **Semaphore controls access to a limited number of permits. It is useful for throttling concurrent access to scarce resources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Semaphore** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. Semaphore controls access to a limited number of permits. It is useful for throttling concurrent access to scarce resources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Semaphore controls access to a limited number of permits. It is useful for throttling concurrent access to scarce resources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

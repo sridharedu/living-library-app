@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Services communicate synchronously through APIs or asynchronously through messaging. The choice affects latency, coupling, consistency, resilience, and operational complexity.
+> **Services communicate synchronously through APIs or asynchronously through messaging. The choice affects latency, coupling, consistency, resilience, and operational complexity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Inter-Service Communication** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Services communicate synchronously through APIs or asynchronously through messaging. The choice affects latency, coupling, consistency, resilience, and operational complexity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Services communicate synchronously through APIs or asynchronously through messaging. The choice affects latency, coupling, consistency, resilience, and operational complexity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

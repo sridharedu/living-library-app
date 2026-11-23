@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A stub returns predetermined responses so the test can control a dependency's behavior.
+> **A stub returns predetermined responses so the test can control a dependency's behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stubs** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. A stub returns predetermined responses so the test can control a dependency's behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A stub returns predetermined responses so the test can control a dependency's behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

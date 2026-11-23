@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An unchecked exception propagates up the call stack until a matching handler is found. Checked exceptions must be caught or declared.
+> **An unchecked exception propagates up the call stack until a matching handler is found. Checked exceptions must be caught or declared.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Exception propagation** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. An unchecked exception propagates up the call stack until a matching handler is found. Checked exceptions must be caught or declared.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An unchecked exception propagates up the call stack until a matching handler is found. Checked exceptions must be caught or declared.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> dependencyManagement centralizes dependency versions and defaults without automatically adding those dependencies.
+> **dependencyManagement centralizes dependency versions and defaults without automatically adding those dependencies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dependency management** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. dependencyManagement centralizes dependency versions and defaults without automatically adding those dependencies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+dependencyManagement centralizes dependency versions and defaults without automatically adding those dependencies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

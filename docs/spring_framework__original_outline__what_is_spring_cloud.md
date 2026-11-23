@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Cloud is a collection of projects that extends Spring Boot for cloud-native and microservice architectures. It integrates with registries, config stores, gateways, circuit breakers, and messaging platforms.
+> **Spring Cloud is a collection of projects that extends Spring Boot for cloud-native and microservice architectures. It integrates with registries, config stores, gateways, circuit breakers, and messaging platforms.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Spring Cloud?** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Cloud is a collection of projects that extends Spring Boot for cloud-native and microservice architectures. It integrates with registries, config stores, gateways, circuit breakers, and messaging platforms.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Cloud is a collection of projects that extends Spring Boot for cloud-native and microservice architectures. It integrates with registries, config stores, gateways, circuit breakers, and messaging platforms.
 
 ## 2. Execution Mechanics & Runtime Flow
 

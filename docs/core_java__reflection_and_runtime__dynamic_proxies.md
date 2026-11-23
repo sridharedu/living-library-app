@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JDK dynamic proxies create runtime implementations of interfaces and route calls through an InvocationHandler. Spring AOP commonly uses them.
+> **JDK dynamic proxies create runtime implementations of interfaces and route calls through an InvocationHandler. Spring AOP commonly uses them.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dynamic proxies** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. JDK dynamic proxies create runtime implementations of interfaces and route calls through an InvocationHandler. Spring AOP commonly uses them.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JDK dynamic proxies create runtime implementations of interfaces and route calls through an InvocationHandler. Spring AOP commonly uses them.
 
 ## 2. Execution Mechanics & Runtime Flow
 

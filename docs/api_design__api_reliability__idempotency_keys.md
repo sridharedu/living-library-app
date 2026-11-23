@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An idempotency key identifies repeated requests so the server can return the original result instead of repeating side effects.
+> **An idempotency key identifies repeated requests so the server can return the original result instead of repeating side effects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Idempotency keys** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. An idempotency key identifies repeated requests so the server can return the original result instead of repeating side effects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An idempotency key identifies repeated requests so the server can return the original result instead of repeating side effects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> RDS supports engines including PostgreSQL, MySQL, MariaDB, Oracle, SQL Server, and Amazon Aurora. Features and licensing differ by engine.
+> **RDS supports engines including PostgreSQL, MySQL, MariaDB, Oracle, SQL Server, and Amazon Aurora. Features and licensing differ by engine.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Supported Databases** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. RDS supports engines including PostgreSQL, MySQL, MariaDB, Oracle, SQL Server, and Amazon Aurora. Features and licensing differ by engine.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+RDS supports engines including PostgreSQL, MySQL, MariaDB, Oracle, SQL Server, and Amazon Aurora. Features and licensing differ by engine.
 
 ## 2. Execution Mechanics & Runtime Flow
 

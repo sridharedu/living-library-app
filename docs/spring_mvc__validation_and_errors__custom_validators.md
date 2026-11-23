@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A custom validator combines a constraint annotation with a ConstraintValidator implementation for domain-specific validation rules.
+> **A custom validator combines a constraint annotation with a ConstraintValidator implementation for domain-specific validation rules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Custom validators** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. A custom validator combines a constraint annotation with a ConstraintValidator implementation for domain-specific validation rules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A custom validator combines a constraint annotation with a ConstraintValidator implementation for domain-specific validation rules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

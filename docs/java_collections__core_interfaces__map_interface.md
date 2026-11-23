@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Map stores key-value associations with unique keys. It is not a subtype of Collection.
+> **Map stores key-value associations with unique keys. It is not a subtype of Collection.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Map interface** serves as a foundational component within *Core Interfaces* in the broader **Java Collections** ecosystem. Map stores key-value associations with unique keys. It is not a subtype of Collection.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Map stores key-value associations with unique keys. It is not a subtype of Collection.
 
 ## 2. Execution Mechanics & Runtime Flow
 

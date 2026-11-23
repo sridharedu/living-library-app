@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> BlockingQueue supports producer-consumer coordination by waiting when the queue is empty or full.
+> **BlockingQueue supports producer-consumer coordination by waiting when the queue is empty or full.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**BlockingQueue** serves as a foundational component within *Queues and Heaps* in the broader **Java Collections** ecosystem. BlockingQueue supports producer-consumer coordination by waiting when the queue is empty or full.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+BlockingQueue supports producer-consumer coordination by waiting when the queue is empty or full.
 
 ## 2. Execution Mechanics & Runtime Flow
 

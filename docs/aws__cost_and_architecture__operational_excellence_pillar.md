@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Operational Excellence focuses on automation, observability, small changes, incident learning, and continuous improvement.
+> **Operational Excellence focuses on automation, observability, small changes, incident learning, and continuous improvement.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Operational Excellence pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. Operational Excellence focuses on automation, observability, small changes, incident learning, and continuous improvement.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Operational Excellence focuses on automation, observability, small changes, incident learning, and continuous improvement.
 
 ## 2. Execution Mechanics & Runtime Flow
 

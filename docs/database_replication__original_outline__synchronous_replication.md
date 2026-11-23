@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Synchronous replication confirms a write only after replicas acknowledge it. It improves durability and consistency but increases latency and sensitivity to replica failures.
+> **Synchronous replication confirms a write only after replicas acknowledge it. It improves durability and consistency but increases latency and sensitivity to replica failures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Synchronous Replication** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Synchronous replication confirms a write only after replicas acknowledge it. It improves durability and consistency but increases latency and sensitivity to replica failures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Synchronous replication confirms a write only after replicas acknowledge it. It improves durability and consistency but increases latency and sensitivity to replica failures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

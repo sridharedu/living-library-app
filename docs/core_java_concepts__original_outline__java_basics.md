@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java basics cover how a program is written and executed: classes, the main method, variables, data types, operators, conditions, loops, and methods. These are the building blocks for every larger Java application.
+> **Java basics cover how a program is written and executed: classes, the main method, variables, data types, operators, conditions, loops, and methods. These are the building blocks for every larger Java application.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Java Basics** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Java basics cover how a program is written and executed: classes, the main method, variables, data types, operators, conditions, loops, and methods. These are the building blocks for every larger Java application.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java basics cover how a program is written and executed: classes, the main method, variables, data types, operators, conditions, loops, and methods. These are the building blocks for every larger Java application.
 
 ## 2. Execution Mechanics & Runtime Flow
 

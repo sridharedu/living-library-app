@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> FROM selects the base image for a Docker build stage.
+> **FROM selects the base image for a Docker build stage.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**FROM** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. FROM selects the base image for a Docker build stage.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+FROM selects the base image for a Docker build stage.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Dynamic inventory discovers hosts from cloud APIs, CMDBs, or other live sources instead of using a static file.
+> **Dynamic inventory discovers hosts from cloud APIs, CMDBs, or other live sources instead of using a static file.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dynamic inventory** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Dynamic inventory discovers hosts from cloud APIs, CMDBs, or other live sources instead of using a static file.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Dynamic inventory discovers hosts from cloud APIs, CMDBs, or other live sources instead of using a static file.
 
 ## 2. Execution Mechanics & Runtime Flow
 

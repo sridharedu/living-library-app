@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Tiered compilation combines interpretation, C1, and C2 so applications warm up quickly while still reaching highly optimized execution.
+> **Tiered compilation combines interpretation, C1, and C2 so applications warm up quickly while still reaching highly optimized execution.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Tiered compilation** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Tiered compilation combines interpretation, C1, and C2 so applications warm up quickly while still reaching highly optimized execution.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Tiered compilation combines interpretation, C1, and C2 so applications warm up quickly while still reaching highly optimized execution.
 
 ## 2. Execution Mechanics & Runtime Flow
 

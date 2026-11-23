@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Service discovery is the mechanism by which a client or router finds healthy instances of a named service. Discovery may be client-side, server-side, or built into the platform.
+> **Service discovery is the mechanism by which a client or router finds healthy instances of a named service. Discovery may be client-side, server-side, or built into the platform.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Service Discovery?** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Service discovery is the mechanism by which a client or router finds healthy instances of a named service. Discovery may be client-side, server-side, or built into the platform.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Service discovery is the mechanism by which a client or router finds healthy instances of a named service. Discovery may be client-side, server-side, or built into the platform.
 
 ## 2. Execution Mechanics & Runtime Flow
 

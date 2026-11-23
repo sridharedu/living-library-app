@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Software as a Service delivers a complete application managed by the provider and accessed through a browser, API, or client.
+> **Software as a Service delivers a complete application managed by the provider and accessed through a browser, API, or client.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SaaS** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Software as a Service delivers a complete application managed by the provider and accessed through a browser, API, or client.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Software as a Service delivers a complete application managed by the provider and accessed through a browser, API, or client.
 
 ## 2. Execution Mechanics & Runtime Flow
 

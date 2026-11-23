@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Flux represents an asynchronous sequence containing zero to many elements, followed by completion or error.
+> **Flux represents an asynchronous sequence containing zero to many elements, followed by completion or error.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Flux** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Flux represents an asynchronous sequence containing zero to many elements, followed by completion or error.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Flux represents an asynchronous sequence containing zero to many elements, followed by completion or error.
 
 ## 2. Execution Mechanics & Runtime Flow
 

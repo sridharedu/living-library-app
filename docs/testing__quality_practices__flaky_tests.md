@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Flaky tests pass and fail without relevant code changes, often because of timing, shared state, environment dependence, or nondeterministic data.
+> **Flaky tests pass and fail without relevant code changes, often because of timing, shared state, environment dependence, or nondeterministic data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Flaky tests** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Flaky tests pass and fail without relevant code changes, often because of timing, shared state, environment dependence, or nondeterministic data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Flaky tests pass and fail without relevant code changes, often because of timing, shared state, environment dependence, or nondeterministic data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

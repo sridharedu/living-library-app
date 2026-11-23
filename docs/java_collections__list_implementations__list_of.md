@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> List.of creates a compact immutable list that rejects null values and modification operations.
+> **List.of creates a compact immutable list that rejects null values and modification operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**List.of** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. List.of creates a compact immutable list that rejects null values and modification operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+List.of creates a compact immutable list that rejects null values and modification operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

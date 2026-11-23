@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Collection views such as keySet, values, entrySet, subList, and subMap are backed by the original collection. Changes can be reflected both ways.
+> **Collection views such as keySet, values, entrySet, subList, and subMap are backed by the original collection. Changes can be reflected both ways.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collection views** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. Collection views such as keySet, values, entrySet, subList, and subMap are backed by the original collection. Changes can be reflected both ways.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Collection views such as keySet, values, entrySet, subList, and subMap are backed by the original collection. Changes can be reflected both ways.
 
 ## 2. Execution Mechanics & Runtime Flow
 

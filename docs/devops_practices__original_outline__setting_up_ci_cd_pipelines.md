@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A CI/CD pipeline should define clear stages for checkout, build, test, security checks, packaging, and deployment. Keep it version-controlled, repeatable, fast, and fail early on meaningful errors.
+> **A CI/CD pipeline should define clear stages for checkout, build, test, security checks, packaging, and deployment. Keep it version-controlled, repeatable, fast, and fail early on meaningful errors.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Setting Up CI/CD Pipelines** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. A CI/CD pipeline should define clear stages for checkout, build, test, security checks, packaging, and deployment. Keep it version-controlled, repeatable, fast, and fail early on meaningful errors.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A CI/CD pipeline should define clear stages for checkout, build, test, security checks, packaging, and deployment. Keep it version-controlled, repeatable, fast, and fail early on meaningful errors.
 
 ## 2. Execution Mechanics & Runtime Flow
 

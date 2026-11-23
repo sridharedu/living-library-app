@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Safe publication makes a fully constructed object visible to other threads through synchronization, volatile fields, static initialization, or concurrent collections.
+> **Safe publication makes a fully constructed object visible to other threads through synchronization, volatile fields, static initialization, or concurrent collections.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Safe publication** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Safe publication makes a fully constructed object visible to other threads through synchronization, volatile fields, static initialization, or concurrent collections.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Safe publication makes a fully constructed object visible to other threads through synchronization, volatile fields, static initialization, or concurrent collections.
 
 ## 2. Execution Mechanics & Runtime Flow
 

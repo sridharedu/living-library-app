@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CPU, memory, process, and IO limits prevent one container from consuming excessive host resources.
+> **CPU, memory, process, and IO limits prevent one container from consuming excessive host resources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Container resource limits** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. CPU, memory, process, and IO limits prevent one container from consuming excessive host resources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CPU, memory, process, and IO limits prevent one container from consuming excessive host resources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Transit Gateway acts as a central router connecting many VPCs, VPNs, and Direct Connect networks.
+> **AWS Transit Gateway acts as a central router connecting many VPCs, VPNs, and Direct Connect networks.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Transit Gateway** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. AWS Transit Gateway acts as a central router connecting many VPCs, VPNs, and Direct Connect networks.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Transit Gateway acts as a central router connecting many VPCs, VPNs, and Direct Connect networks.
 
 ## 2. Execution Mechanics & Runtime Flow
 

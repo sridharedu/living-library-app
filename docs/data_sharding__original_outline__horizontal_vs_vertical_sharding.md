@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Horizontal sharding splits rows across databases, while vertical sharding separates columns or functional areas. Horizontal sharding scales data volume; vertical sharding isolates responsibilities.
+> **Horizontal sharding splits rows across databases, while vertical sharding separates columns or functional areas. Horizontal sharding scales data volume; vertical sharding isolates responsibilities.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Horizontal vs Vertical Sharding** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Horizontal sharding splits rows across databases, while vertical sharding separates columns or functional areas. Horizontal sharding scales data volume; vertical sharding isolates responsibilities.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Horizontal sharding splits rows across databases, while vertical sharding separates columns or functional areas. Horizontal sharding scales data volume; vertical sharding isolates responsibilities.
 
 ## 2. Execution Mechanics & Runtime Flow
 

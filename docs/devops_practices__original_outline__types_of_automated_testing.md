@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Common automated tests include unit, integration, component, contract, API, UI, performance, security, and end-to-end tests. Each covers a different risk boundary.
+> **Common automated tests include unit, integration, component, contract, API, UI, performance, security, and end-to-end tests. Each covers a different risk boundary.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Types of Automated Testing** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Common automated tests include unit, integration, component, contract, API, UI, performance, security, and end-to-end tests. Each covers a different risk boundary.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Common automated tests include unit, integration, component, contract, API, UI, performance, security, and end-to-end tests. Each covers a different risk boundary.
 
 ## 2. Execution Mechanics & Runtime Flow
 

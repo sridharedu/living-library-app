@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> Horizontal partitioning splits rows across partitions based on a key or range.
+> **Horizontal partitioning splits rows across partitions based on a key or range.**
 
 ---
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Event deduplication detects repeated event IDs or business keys and prevents duplicate side effects within a defined retention window.
+> **Event deduplication detects repeated event IDs or business keys and prevents duplicate side effects within a defined retention window.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Event deduplication** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event deduplication detects repeated event IDs or business keys and prevents duplicate side effects within a defined retention window.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Event deduplication detects repeated event IDs or business keys and prevents duplicate side effects within a defined retention window.
 
 ## 2. Execution Mechanics & Runtime Flow
 

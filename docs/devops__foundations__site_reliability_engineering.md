@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Site reliability engineering applies software engineering to operations using service levels, automation, error budgets, and reliability practices.
+> **Site reliability engineering applies software engineering to operations using service levels, automation, error budgets, and reliability practices.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Site reliability engineering** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Site reliability engineering applies software engineering to operations using service levels, automation, error budgets, and reliability practices.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Site reliability engineering applies software engineering to operations using service levels, automation, error budgets, and reliability practices.
 
 ## 2. Execution Mechanics & Runtime Flow
 

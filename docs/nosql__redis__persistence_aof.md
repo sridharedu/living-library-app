@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AOF persistence logs write commands and can provide stronger durability at the cost of larger files and more IO.
+> **AOF persistence logs write commands and can provide stronger durability at the cost of larger files and more IO.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Persistence AOF** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. AOF persistence logs write commands and can provide stronger durability at the cost of larger files and more IO.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AOF persistence logs write commands and can provide stronger durability at the cost of larger files and more IO.
 
 ## 2. Execution Mechanics & Runtime Flow
 

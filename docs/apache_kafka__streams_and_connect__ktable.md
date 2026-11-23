@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A KTable represents the latest value for each key as a continuously updated changelog-backed table.
+> **A KTable represents the latest value for each key as a continuously updated changelog-backed table.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**KTable** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. A KTable represents the latest value for each key as a continuously updated changelog-backed table.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A KTable represents the latest value for each key as a continuously updated changelog-backed table.
 
 ## 2. Execution Mechanics & Runtime Flow
 

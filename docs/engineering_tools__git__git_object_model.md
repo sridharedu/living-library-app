@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Git stores immutable blobs, trees, commits, and annotated tags addressed by content hashes.
+> **Git stores immutable blobs, trees, commits, and annotated tags addressed by content hashes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Git object model** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Git stores immutable blobs, trees, commits, and annotated tags addressed by content hashes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Git stores immutable blobs, trees, commits, and annotated tags addressed by content hashes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

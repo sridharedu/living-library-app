@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> In choreography, each service reacts to events and emits the next event without a central coordinator.
+> **In choreography, each service reacts to events and emits the next event without a central coordinator.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Choreography saga** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. In choreography, each service reacts to events and emits the next event without a central coordinator.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+In choreography, each service reacts to events and emits the next event without a central coordinator.
 
 ## 2. Execution Mechanics & Runtime Flow
 

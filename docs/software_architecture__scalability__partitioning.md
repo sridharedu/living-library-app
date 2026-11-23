@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Partitioning divides data or workload into smaller independent segments to improve scale, locality, and manageability.
+> **Partitioning divides data or workload into smaller independent segments to improve scale, locality, and manageability.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Partitioning** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Partitioning divides data or workload into smaller independent segments to improve scale, locality, and manageability.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Partitioning divides data or workload into smaller independent segments to improve scale, locality, and manageability.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @Import adds configuration classes, selectors, or registrars to an application context.
+> **@Import adds configuration classes, selectors, or registrars to an application context.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Import annotation** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. @Import adds configuration classes, selectors, or registrars to an application context.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@Import adds configuration classes, selectors, or registrars to an application context.
 
 ## 2. Execution Mechanics & Runtime Flow
 

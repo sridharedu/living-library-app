@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The transactional outbox stores business changes and an event record in the same database transaction, then publishes the event asynchronously.
+> **The transactional outbox stores business changes and an event record in the same database transaction, then publishes the event asynchronously.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Transactional outbox** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. The transactional outbox stores business changes and an event record in the same database transaction, then publishes the event asynchronously.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The transactional outbox stores business changes and an event record in the same database transaction, then publishes the event asynchronously.
 
 ## 2. Execution Mechanics & Runtime Flow
 

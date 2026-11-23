@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Helm tracks each installed release and its revisions. Commands support listing, upgrading, rolling back, testing, and uninstalling releases.
+> **Helm tracks each installed release and its revisions. Commands support listing, upgrading, rolling back, testing, and uninstalling releases.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Helm Release Management** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Helm tracks each installed release and its revisions. Commands support listing, upgrading, rolling back, testing, and uninstalling releases.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Helm tracks each installed release and its revisions. Commands support listing, upgrading, rolling back, testing, and uninstalling releases.
 
 ## 2. Execution Mechanics & Runtime Flow
 

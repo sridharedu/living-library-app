@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The java.time API provides immutable, thread-safe types for dates, times, durations, zones, and formatting.
+> **The java.time API provides immutable, thread-safe types for dates, times, durations, zones, and formatting.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Date and time API** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. The java.time API provides immutable, thread-safe types for dates, times, durations, zones, and formatting.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The java.time API provides immutable, thread-safe types for dates, times, durations, zones, and formatting.
 
 ## 2. Execution Mechanics & Runtime Flow
 

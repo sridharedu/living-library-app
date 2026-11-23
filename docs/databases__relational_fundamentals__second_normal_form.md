@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Second normal form requires first normal form and removes partial dependency of non-key attributes on part of a composite key.
+> **Second normal form requires first normal form and removes partial dependency of non-key attributes on part of a composite key.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Second normal form** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Second normal form requires first normal form and removes partial dependency of non-key attributes on part of a composite key.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Second normal form requires first normal form and removes partial dependency of non-key attributes on part of a composite key.
 
 ## 2. Execution Mechanics & Runtime Flow
 

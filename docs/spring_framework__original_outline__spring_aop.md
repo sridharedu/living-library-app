@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring AOP applies cross-cutting behavior such as logging, security, metrics, and transactions around Spring-managed method calls. It is proxy-based, so only calls that pass through the proxy are intercepted.
+> **Spring AOP applies cross-cutting behavior such as logging, security, metrics, and transactions around Spring-managed method calls. It is proxy-based, so only calls that pass through the proxy are intercepted.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring AOP** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring AOP applies cross-cutting behavior such as logging, security, metrics, and transactions around Spring-managed method calls. It is proxy-based, so only calls that pass through the proxy are intercepted.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring AOP applies cross-cutting behavior such as logging, security, metrics, and transactions around Spring-managed method calls. It is proxy-based, so only calls that pass through the proxy are intercepted.
 
 ## 2. Execution Mechanics & Runtime Flow
 

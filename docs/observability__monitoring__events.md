@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Events represent discrete state changes or occurrences, such as a deployment, failure, login, or scaling action.
+> **Events represent discrete state changes or occurrences, such as a deployment, failure, login, or scaling action.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Events** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Events represent discrete state changes or occurrences, such as a deployment, failure, login, or scaling action.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Events represent discrete state changes or occurrences, such as a deployment, failure, login, or scaling action.
 
 ## 2. Execution Mechanics & Runtime Flow
 

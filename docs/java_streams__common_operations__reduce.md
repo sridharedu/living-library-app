@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> reduce combines stream elements into one result using an associative accumulator. Parallel reductions also require a compatible identity and combiner.
+> **reduce combines stream elements into one result using an associative accumulator. Parallel reductions also require a compatible identity and combiner.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**reduce** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. reduce combines stream elements into one result using an associative accumulator. Parallel reductions also require a compatible identity and combiner.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+reduce combines stream elements into one result using an associative accumulator. Parallel reductions also require a compatible identity and combiner.
 
 ## 2. Execution Mechanics & Runtime Flow
 

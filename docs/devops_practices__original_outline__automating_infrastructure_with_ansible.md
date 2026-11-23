@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Ansible can install packages, configure services, deploy files, manage users, and orchestrate infrastructure changes. Repeatability depends on idempotent tasks and controlled variables.
+> **Ansible can install packages, configure services, deploy files, manage users, and orchestrate infrastructure changes. Repeatability depends on idempotent tasks and controlled variables.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Automating Infrastructure with Ansible** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Ansible can install packages, configure services, deploy files, manage users, and orchestrate infrastructure changes. Repeatability depends on idempotent tasks and controlled variables.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Ansible can install packages, configure services, deploy files, manage users, and orchestrate infrastructure changes. Repeatability depends on idempotent tasks and controlled variables.
 
 ## 2. Execution Mechanics & Runtime Flow
 

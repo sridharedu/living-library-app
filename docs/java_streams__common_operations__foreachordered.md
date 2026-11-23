@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> forEachOrdered preserves encounter order even in parallel streams, usually at some performance cost.
+> **forEachOrdered preserves encounter order even in parallel streams, usually at some performance cost.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**forEachOrdered** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. forEachOrdered preserves encounter order even in parallel streams, usually at some performance cost.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+forEachOrdered preserves encounter order even in parallel streams, usually at some performance cost.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cross-shard consistency may require distributed transactions, sagas, idempotency, or eventual consistency. Keeping operations within one shard is usually simpler and faster.
+> **Cross-shard consistency may require distributed transactions, sagas, idempotency, or eventual consistency. Keeping operations within one shard is usually simpler and faster.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Handling Data Consistency in Sharded Databases** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Cross-shard consistency may require distributed transactions, sagas, idempotency, or eventual consistency. Keeping operations within one shard is usually simpler and faster.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cross-shard consistency may require distributed transactions, sagas, idempotency, or eventual consistency. Keeping operations within one shard is usually simpler and faster.
 
 ## 2. Execution Mechanics & Runtime Flow
 

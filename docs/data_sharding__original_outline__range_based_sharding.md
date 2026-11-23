@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Range sharding assigns contiguous key ranges to different shards. It supports range queries well but can create hotspots when new data grows in one range.
+> **Range sharding assigns contiguous key ranges to different shards. It supports range queries well but can create hotspots when new data grows in one range.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Range-Based Sharding** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Range sharding assigns contiguous key ranges to different shards. It supports range queries well but can create hotspots when new data grows in one range.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Range sharding assigns contiguous key ranges to different shards. It supports range queries well but can create hotspots when new data grows in one range.
 
 ## 2. Execution Mechanics & Runtime Flow
 

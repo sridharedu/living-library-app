@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Data derives queries from method names such as findByStatusAndCreatedAtAfter. Keep names readable and use explicit queries when logic becomes complex.
+> **Spring Data derives queries from method names such as findByStatusAndCreatedAtAfter. Keep names readable and use explicit queries when logic becomes complex.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Derived query methods** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Spring Data derives queries from method names such as findByStatusAndCreatedAtAfter. Keep names readable and use explicit queries when logic becomes complex.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Data derives queries from method names such as findByStatusAndCreatedAtAfter. Keep names readable and use explicit queries when logic becomes complex.
 
 ## 2. Execution Mechanics & Runtime Flow
 

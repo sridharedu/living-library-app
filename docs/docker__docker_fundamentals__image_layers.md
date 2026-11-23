@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Docker image is built from immutable filesystem layers that can be cached and shared between images.
+> **A Docker image is built from immutable filesystem layers that can be cached and shared between images.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Image layers** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. A Docker image is built from immutable filesystem layers that can be cached and shared between images.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Docker image is built from immutable filesystem layers that can be cached and shared between images.
 
 ## 2. Execution Mechanics & Runtime Flow
 

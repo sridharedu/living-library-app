@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> NodePort exposes a Service on a static port on every node and forwards traffic to the Service.
+> **NodePort exposes a Service on a static port on every node and forwards traffic to the Service.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**NodePort** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. NodePort exposes a Service on a static port on every node and forwards traffic to the Service.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+NodePort exposes a Service on a static port on every node and forwards traffic to the Service.
 
 ## 2. Execution Mechanics & Runtime Flow
 

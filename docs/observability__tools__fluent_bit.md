@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Fluent Bit is a lightweight log and telemetry processor used to collect, parse, enrich, and forward data.
+> **Fluent Bit is a lightweight log and telemetry processor used to collect, parse, enrich, and forward data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Fluent Bit** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Fluent Bit is a lightweight log and telemetry processor used to collect, parse, enrich, and forward data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Fluent Bit is a lightweight log and telemetry processor used to collect, parse, enrich, and forward data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Decorator adds behavior by wrapping an object without changing its class.
+> **Decorator adds behavior by wrapping an object without changing its class.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Decorator** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Decorator adds behavior by wrapping an object without changing its class.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Decorator adds behavior by wrapping an object without changing its class.
 
 ## 2. Execution Mechanics & Runtime Flow
 

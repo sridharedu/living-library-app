@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Labels attach searchable metadata to resources, while selectors identify matching resources for Services, controllers, and policies.
+> **Labels attach searchable metadata to resources, while selectors identify matching resources for Services, controllers, and policies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Labels and selectors** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Labels attach searchable metadata to resources, while selectors identify matching resources for Services, controllers, and policies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Labels attach searchable metadata to resources, while selectors identify matching resources for Services, controllers, and policies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

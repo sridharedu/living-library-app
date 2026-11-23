@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An index scan traverses an index to locate matching rows, sometimes followed by lookups into the base table.
+> **An index scan traverses an index to locate matching rows, sometimes followed by lookups into the base table.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Index scans** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. An index scan traverses an index to locate matching rows, sometimes followed by lookups into the base table.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An index scan traverses an index to locate matching rows, sometimes followed by lookups into the base table.
 
 ## 2. Execution Mechanics & Runtime Flow
 

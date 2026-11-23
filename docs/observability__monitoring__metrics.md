@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Metrics are numeric time-series measurements such as latency, error rate, throughput, CPU, or queue depth.
+> **Metrics are numeric time-series measurements such as latency, error rate, throughput, CPU, or queue depth.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Metrics** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Metrics are numeric time-series measurements such as latency, error rate, throughput, CPU, or queue depth.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Metrics are numeric time-series measurements such as latency, error rate, throughput, CPU, or queue depth.
 
 ## 2. Execution Mechanics & Runtime Flow
 

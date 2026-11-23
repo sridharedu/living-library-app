@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Dynamic provisioning creates a PersistentVolume automatically when a compatible claim is made.
+> **Dynamic provisioning creates a PersistentVolume automatically when a compatible claim is made.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dynamic provisioning** serves as a foundational component within *Configuration and Storage* in the broader **Kubernetes** ecosystem. Dynamic provisioning creates a PersistentVolume automatically when a compatible claim is made.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Dynamic provisioning creates a PersistentVolume automatically when a compatible claim is made.
 
 ## 2. Execution Mechanics & Runtime Flow
 

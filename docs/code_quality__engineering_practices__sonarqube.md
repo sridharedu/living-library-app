@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SonarQube analyzes code quality, security hotspots, duplication, coverage, and maintainability against configurable quality gates.
+> **SonarQube analyzes code quality, security hotspots, duplication, coverage, and maintainability against configurable quality gates.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SonarQube** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. SonarQube analyzes code quality, security hotspots, duplication, coverage, and maintainability against configurable quality gates.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SonarQube analyzes code quality, security hotspots, duplication, coverage, and maintainability against configurable quality gates.
 
 ## 2. Execution Mechanics & Runtime Flow
 

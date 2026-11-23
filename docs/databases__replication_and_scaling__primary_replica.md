@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Primary-replica replication directs writes to one primary and copies changes to replicas that can serve reads or fail over.
+> **Primary-replica replication directs writes to one primary and copies changes to replicas that can serve reads or fail over.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Primary-replica** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Primary-replica replication directs writes to one primary and copies changes to replicas that can serve reads or fail over.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Primary-replica replication directs writes to one primary and copies changes to replicas that can serve reads or fail over.
 
 ## 2. Execution Mechanics & Runtime Flow
 

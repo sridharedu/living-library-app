@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Major NoSQL categories are document, key-value, column-family, and graph databases. Each optimizes a different style of data access.
+> **Major NoSQL categories are document, key-value, column-family, and graph databases. Each optimizes a different style of data access.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Types of NoSQL Databases** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Major NoSQL categories are document, key-value, column-family, and graph databases. Each optimizes a different style of data access.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Major NoSQL categories are document, key-value, column-family, and graph databases. Each optimizes a different style of data access.
 
 ## 2. Execution Mechanics & Runtime Flow
 

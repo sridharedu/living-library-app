@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Database per service gives each service exclusive ownership of its data. Other services access that data through APIs or events rather than direct queries.
+> **Database per service gives each service exclusive ownership of its data. Other services access that data through APIs or events rather than direct queries.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Database per service** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Database per service gives each service exclusive ownership of its data. Other services access that data through APIs or events rather than direct queries.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Database per service gives each service exclusive ownership of its data. Other services access that data through APIs or events rather than direct queries.
 
 ## 2. Execution Mechanics & Runtime Flow
 

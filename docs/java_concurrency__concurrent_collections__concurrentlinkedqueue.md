@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ConcurrentLinkedQueue is an unbounded lock-free FIFO queue suited to high-concurrency non-blocking access.
+> **ConcurrentLinkedQueue is an unbounded lock-free FIFO queue suited to high-concurrency non-blocking access.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ConcurrentLinkedQueue** serves as a foundational component within *Concurrent Collections* in the broader **Java Concurrency** ecosystem. ConcurrentLinkedQueue is an unbounded lock-free FIFO queue suited to high-concurrency non-blocking access.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ConcurrentLinkedQueue is an unbounded lock-free FIFO queue suited to high-concurrency non-blocking access.
 
 ## 2. Execution Mechanics & Runtime Flow
 

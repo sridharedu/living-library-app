@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java NIO introduces buffers, channels, selectors, and non-blocking IO. It is useful for scalable networking and efficient file operations.
+> **Java NIO introduces buffers, channels, selectors, and non-blocking IO. It is useful for scalable networking and efficient file operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**NIO** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. Java NIO introduces buffers, channels, selectors, and non-blocking IO. It is useful for scalable networking and efficient file operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java NIO introduces buffers, channels, selectors, and non-blocking IO. It is useful for scalable networking and efficient file operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

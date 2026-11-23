@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Reliability pillar focuses on recovery, redundancy, capacity management, and handling change or failure.
+> **The Reliability pillar focuses on recovery, redundancy, capacity management, and handling change or failure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Reliability pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. The Reliability pillar focuses on recovery, redundancy, capacity management, and handling change or failure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Reliability pillar focuses on recovery, redundancy, capacity management, and handling change or failure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

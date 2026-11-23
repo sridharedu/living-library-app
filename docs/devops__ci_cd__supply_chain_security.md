@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Software supply-chain security verifies source, dependencies, builds, artifacts, provenance, signatures, and deployment integrity.
+> **Software supply-chain security verifies source, dependencies, builds, artifacts, provenance, signatures, and deployment integrity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Supply chain security** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Software supply-chain security verifies source, dependencies, builds, artifacts, provenance, signatures, and deployment integrity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Software supply-chain security verifies source, dependencies, builds, artifacts, provenance, signatures, and deployment integrity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

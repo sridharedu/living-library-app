@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Content Security Policy limits which scripts, styles, frames, and other resources a browser may load, reducing XSS impact.
+> **Content Security Policy limits which scripts, styles, frames, and other resources a browser may load, reducing XSS impact.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Content Security Policy** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Content Security Policy limits which scripts, styles, frames, and other resources a browser may load, reducing XSS impact.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Content Security Policy limits which scripts, styles, frames, and other resources a browser may load, reducing XSS impact.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> count returns the number of elements in the stream as a long.
+> **count returns the number of elements in the stream as a long.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**count** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. count returns the number of elements in the stream as a long.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+count returns the number of elements in the stream as a long.
 
 ## 2. Execution Mechanics & Runtime Flow
 

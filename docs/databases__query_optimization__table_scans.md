@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A table scan reads most or all table pages. It can be efficient for small tables or queries returning a large percentage of rows.
+> **A table scan reads most or all table pages. It can be efficient for small tables or queries returning a large percentage of rows.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Table scans** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. A table scan reads most or all table pages. It can be efficient for small tables or queries returning a large percentage of rows.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A table scan reads most or all table pages. It can be efficient for small tables or queries returning a large percentage of rows.
 
 ## 2. Execution Mechanics & Runtime Flow
 

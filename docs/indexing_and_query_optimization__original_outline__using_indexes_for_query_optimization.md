@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Indexes help when they match filtering, joining, or ordering columns. Poorly chosen indexes may be ignored or make writes slower.
+> **Indexes help when they match filtering, joining, or ordering columns. Poorly chosen indexes may be ignored or make writes slower.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Using Indexes for Query Optimization** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Indexes help when they match filtering, joining, or ordering columns. Poorly chosen indexes may be ignored or make writes slower.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Indexes help when they match filtering, joining, or ordering columns. Poorly chosen indexes may be ignored or make writes slower.
 
 ## 2. Execution Mechanics & Runtime Flow
 

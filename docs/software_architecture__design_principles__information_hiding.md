@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Information hiding keeps implementation decisions private behind an interface so callers depend only on stable behavior.
+> **Information hiding keeps implementation decisions private behind an interface so callers depend only on stable behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Information hiding** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Information hiding keeps implementation decisions private behind an interface so callers depend only on stable behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Information hiding keeps implementation decisions private behind an interface so callers depend only on stable behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

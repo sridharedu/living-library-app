@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Avro is a compact binary serialization format with writer and reader schemas, making it well suited for schema evolution.
+> **Avro is a compact binary serialization format with writer and reader schemas, making it well suited for schema evolution.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Avro** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Avro is a compact binary serialization format with writer and reader schemas, making it well suited for schema evolution.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Avro is a compact binary serialization format with writer and reader schemas, making it well suited for schema evolution.
 
 ## 2. Execution Mechanics & Runtime Flow
 

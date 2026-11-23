@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Replication copies data to multiple nodes for availability, durability, read scaling, or geographic locality.
+> **Replication copies data to multiple nodes for availability, durability, read scaling, or geographic locality.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Replication** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Replication copies data to multiple nodes for availability, durability, read scaling, or geographic locality.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Replication copies data to multiple nodes for availability, durability, read scaling, or geographic locality.
 
 ## 2. Execution Mechanics & Runtime Flow
 

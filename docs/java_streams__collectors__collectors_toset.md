@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Collectors.toSet accumulates unique elements into a Set without guaranteeing ordering or implementation type.
+> **Collectors.toSet accumulates unique elements into a Set without guaranteeing ordering or implementation type.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collectors.toSet** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. Collectors.toSet accumulates unique elements into a Set without guaranteeing ordering or implementation type.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Collectors.toSet accumulates unique elements into a Set without guaranteeing ordering or implementation type.
 
 ## 2. Execution Mechanics & Runtime Flow
 

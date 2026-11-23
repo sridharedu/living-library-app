@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> GC tuning balances throughput, latency, heap size, and CPU usage. Start with measurements, choose a suitable collector, size the heap sensibly, and change one setting at a time.
+> **GC tuning balances throughput, latency, heap size, and CPU usage. Start with measurements, choose a suitable collector, size the heap sensibly, and change one setting at a time.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**GC tuning** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. GC tuning balances throughput, latency, heap size, and CPU usage. Start with measurements, choose a suitable collector, size the heap sensibly, and change one setting at a time.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+GC tuning balances throughput, latency, heap size, and CPU usage. Start with measurements, choose a suitable collector, size the heap sensibly, and change one setting at a time.
 
 ## 2. Execution Mechanics & Runtime Flow
 

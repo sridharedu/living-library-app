@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Linux filesystem organizes files under one root directory with standard locations such as /etc, /var, /home, /proc, and /tmp.
+> **The Linux filesystem organizes files under one root directory with standard locations such as /etc, /var, /home, /proc, and /tmp.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Linux filesystem** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. The Linux filesystem organizes files under one root directory with standard locations such as /etc, /var, /home, /proc, and /tmp.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Linux filesystem organizes files under one root directory with standard locations such as /etc, /var, /home, /proc, and /tmp.
 
 ## 2. Execution Mechanics & Runtime Flow
 

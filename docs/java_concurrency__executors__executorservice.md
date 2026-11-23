@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ExecutorService executes Runnable and Callable tasks, returns Futures, and provides shutdown methods for controlled lifecycle management.
+> **ExecutorService executes Runnable and Callable tasks, returns Futures, and provides shutdown methods for controlled lifecycle management.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ExecutorService** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. ExecutorService executes Runnable and Callable tasks, returns Futures, and provides shutdown methods for controlled lifecycle management.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ExecutorService executes Runnable and Callable tasks, returns Futures, and provides shutdown methods for controlled lifecycle management.
 
 ## 2. Execution Mechanics & Runtime Flow
 

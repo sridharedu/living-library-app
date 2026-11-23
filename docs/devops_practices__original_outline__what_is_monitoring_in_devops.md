@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Monitoring continuously observes applications and infrastructure using metrics, health checks, traces, and alerts. Its purpose is to detect user-impacting problems early.
+> **Monitoring continuously observes applications and infrastructure using metrics, health checks, traces, and alerts. Its purpose is to detect user-impacting problems early.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Monitoring in DevOps?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Monitoring continuously observes applications and infrastructure using metrics, health checks, traces, and alerts. Its purpose is to detect user-impacting problems early.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Monitoring continuously observes applications and infrastructure using metrics, health checks, traces, and alerts. Its purpose is to detect user-impacting problems early.
 
 ## 2. Execution Mechanics & Runtime Flow
 

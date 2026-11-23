@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> DI reduces coupling, centralizes object creation, improves testability, supports alternate implementations, and clarifies component boundaries. It also lets the framework manage lifecycle and cross-cutting infrastructure.
+> **DI reduces coupling, centralizes object creation, improves testability, supports alternate implementations, and clarifies component boundaries. It also lets the framework manage lifecycle and cross-cutting infrastructure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Benefits of Dependency Injection** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. DI reduces coupling, centralizes object creation, improves testability, supports alternate implementations, and clarifies component boundaries. It also lets the framework manage lifecycle and cross-cutting infrastructure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+DI reduces coupling, centralizes object creation, improves testability, supports alternate implementations, and clarifies component boundaries. It also lets the framework manage lifecycle and cross-cutting infrastructure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

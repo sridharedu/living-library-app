@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A class moves through loading, verification, preparation, resolution, initialization, use, and eventual unloading.
+> **A class moves through loading, verification, preparation, resolution, initialization, use, and eventual unloading.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Class loading lifecycle** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. A class moves through loading, verification, preparation, resolution, initialization, use, and eventual unloading.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A class moves through loading, verification, preparation, resolution, initialization, use, and eventual unloading.
 
 ## 2. Execution Mechanics & Runtime Flow
 

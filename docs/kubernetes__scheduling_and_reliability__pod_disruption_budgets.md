@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A PodDisruptionBudget limits how many replicas may be unavailable during voluntary disruptions.
+> **A PodDisruptionBudget limits how many replicas may be unavailable during voluntary disruptions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Pod disruption budgets** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. A PodDisruptionBudget limits how many replicas may be unavailable during voluntary disruptions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A PodDisruptionBudget limits how many replicas may be unavailable during voluntary disruptions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

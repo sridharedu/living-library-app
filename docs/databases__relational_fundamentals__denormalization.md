@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Denormalization intentionally duplicates or combines data to reduce joins and improve read performance.
+> **Denormalization intentionally duplicates or combines data to reduce joins and improve read performance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Denormalization** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Denormalization intentionally duplicates or combines data to reduce joins and improve read performance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Denormalization intentionally duplicates or combines data to reduce joins and improve read performance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

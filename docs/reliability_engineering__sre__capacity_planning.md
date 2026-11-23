@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Capacity planning forecasts resource needs from demand, growth, redundancy, performance targets, and failure scenarios.
+> **Capacity planning forecasts resource needs from demand, growth, redundancy, performance targets, and failure scenarios.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Capacity planning** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. Capacity planning forecasts resource needs from demand, growth, redundancy, performance targets, and failure scenarios.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Capacity planning forecasts resource needs from demand, growth, redundancy, performance targets, and failure scenarios.
 
 ## 2. Execution Mechanics & Runtime Flow
 

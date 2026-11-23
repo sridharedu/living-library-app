@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Dirty checking detects changes to managed entities and generates updates during flush without an explicit update call.
+> **Dirty checking detects changes to managed entities and generates updates during flush without an explicit update call.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dirty checking** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. Dirty checking detects changes to managed entities and generates updates during flush without an explicit update call.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Dirty checking detects changes to managed entities and generates updates during flush without an explicit update call.
 
 ## 2. Execution Mechanics & Runtime Flow
 

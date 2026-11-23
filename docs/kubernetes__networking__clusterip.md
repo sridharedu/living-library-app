@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ClusterIP exposes a Service only inside the cluster through a stable internal address.
+> **ClusterIP exposes a Service only inside the cluster through a stable internal address.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ClusterIP** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. ClusterIP exposes a Service only inside the cluster through a stable internal address.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ClusterIP exposes a Service only inside the cluster through a stable internal address.
 
 ## 2. Execution Mechanics & Runtime Flow
 

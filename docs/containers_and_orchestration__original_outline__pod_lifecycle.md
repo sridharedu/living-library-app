@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Pod moves through phases such as Pending, Running, Succeeded, Failed, or Unknown. Readiness, liveness, and startup probes describe container health separately.
+> **A Pod moves through phases such as Pending, Running, Succeeded, Failed, or Unknown. Readiness, liveness, and startup probes describe container health separately.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Pod Lifecycle** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Pod moves through phases such as Pending, Running, Succeeded, Failed, or Unknown. Readiness, liveness, and startup probes describe container health separately.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Pod moves through phases such as Pending, Running, Succeeded, Failed, or Unknown. Readiness, liveness, and startup probes describe container health separately.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Security is a customizable security framework for web applications, APIs, and method calls. It supports sessions, JWT, OAuth 2.0, OpenID Connect, password encoding, and policy enforcement.
+> **Spring Security is a customizable security framework for web applications, APIs, and method calls. It supports sessions, JWT, OAuth 2.0, OpenID Connect, password encoding, and policy enforcement.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Spring Security?** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Security is a customizable security framework for web applications, APIs, and method calls. It supports sessions, JWT, OAuth 2.0, OpenID Connect, password encoding, and policy enforcement.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Security is a customizable security framework for web applications, APIs, and method calls. It supports sessions, JWT, OAuth 2.0, OpenID Connect, password encoding, and policy enforcement.
 
 ## 2. Execution Mechanics & Runtime Flow
 

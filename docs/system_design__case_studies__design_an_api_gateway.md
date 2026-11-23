@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An API gateway centralizes routing, authentication, rate limiting, transformation, observability, and resilience while avoiding a single bottleneck.
+> **An API gateway centralizes routing, authentication, rate limiting, transformation, observability, and resilience while avoiding a single bottleneck.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design an API gateway** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. An API gateway centralizes routing, authentication, rate limiting, transformation, observability, and resilience while avoiding a single bottleneck.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An API gateway centralizes routing, authentication, rate limiting, transformation, observability, and resilience while avoiding a single bottleneck.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Timeouts bound how long a service waits for a dependency. Every remote call should have explicit connection and response deadlines.
+> **Timeouts bound how long a service waits for a dependency. Every remote call should have explicit connection and response deadlines.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Timeouts** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. Timeouts bound how long a service waits for a dependency. Every remote call should have explicit connection and response deadlines.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Timeouts bound how long a service waits for a dependency. Every remote call should have explicit connection and response deadlines.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Rebase rewrites commits onto a new base to create a linear history. Avoid rebasing shared public history.
+> **Rebase rewrites commits onto a new base to create a linear history. Avoid rebasing shared public history.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Rebase** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Rebase rewrites commits onto a new base to create a linear history. Avoid rebasing shared public history.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Rebase rewrites commits onto a new base to create a linear history. Avoid rebasing shared public history.
 
 ## 2. Execution Mechanics & Runtime Flow
 

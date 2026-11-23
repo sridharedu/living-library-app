@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The binding model connects application inputs and outputs to external messaging destinations through configurable binders.
+> **The binding model connects application inputs and outputs to external messaging destinations through configurable binders.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Binding model** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. The binding model connects application inputs and outputs to external messaging destinations through configurable binders.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The binding model connects application inputs and outputs to external messaging destinations through configurable binders.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The TDD cycle is Red, Green, Refactor: write a failing test, make it pass, then improve the design without changing behavior.
+> **The TDD cycle is Red, Green, Refactor: write a failing test, make it pass, then improve the design without changing behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**TDD Cycle** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. The TDD cycle is Red, Green, Refactor: write a failing test, make it pass, then improve the design without changing behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The TDD cycle is Red, Green, Refactor: write a failing test, make it pass, then improve the design without changing behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon Redshift is a managed columnar data warehouse optimized for analytical SQL over large datasets. It uses distributed processing and compression for scan-heavy workloads.
+> **Amazon Redshift is a managed columnar data warehouse optimized for analytical SQL over large datasets. It uses distributed processing and compression for scan-heavy workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Amazon Redshift** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Amazon Redshift is a managed columnar data warehouse optimized for analytical SQL over large datasets. It uses distributed processing and compression for scan-heavy workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon Redshift is a managed columnar data warehouse optimized for analytical SQL over large datasets. It uses distributed processing and compression for scan-heavy workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

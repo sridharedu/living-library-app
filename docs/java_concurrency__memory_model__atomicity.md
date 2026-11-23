@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Atomicity means an operation appears indivisible to other threads. Simple reads and writes may be atomic, but compound actions usually need synchronization or atomics.
+> **Atomicity means an operation appears indivisible to other threads. Simple reads and writes may be atomic, but compound actions usually need synchronization or atomics.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Atomicity** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Atomicity means an operation appears indivisible to other threads. Simple reads and writes may be atomic, but compound actions usually need synchronization or atomics.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Atomicity means an operation appears indivisible to other threads. Simple reads and writes may be atomic, but compound actions usually need synchronization or atomics.
 
 ## 2. Execution Mechanics & Runtime Flow
 

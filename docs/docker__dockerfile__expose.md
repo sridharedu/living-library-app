@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> EXPOSE documents which port an image intends to listen on but does not publish the port to the host.
+> **EXPOSE documents which port an image intends to listen on but does not publish the port to the host.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**EXPOSE** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. EXPOSE documents which port an image intends to listen on but does not publish the port to the host.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+EXPOSE documents which port an image intends to listen on but does not publish the port to the host.
 
 ## 2. Execution Mechanics & Runtime Flow
 

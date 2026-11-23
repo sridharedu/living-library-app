@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SUPPORTS joins a transaction when one exists but executes without a transaction otherwise.
+> **SUPPORTS joins a transaction when one exists but executes without a transaction otherwise.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Propagation SUPPORTS** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. SUPPORTS joins a transaction when one exists but executes without a transaction otherwise.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SUPPORTS joins a transaction when one exists but executes without a transaction otherwise.
 
 ## 2. Execution Mechanics & Runtime Flow
 

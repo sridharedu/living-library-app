@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Build automation compiles, tests, packages, and verifies software consistently without manual steps.
+> **Build automation compiles, tests, packages, and verifies software consistently without manual steps.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Build automation** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Build automation compiles, tests, packages, and verifies software consistently without manual steps.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Build automation compiles, tests, packages, and verifies software consistently without manual steps.
 
 ## 2. Execution Mechanics & Runtime Flow
 

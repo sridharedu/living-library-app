@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> Maven dependency scopes define where a dependency is visible and how long it participates in the Maven build lifecycle.
+> **Maven dependency scopes define where a dependency is visible and how long it participates in the Maven build lifecycle.**
 
 ---
 

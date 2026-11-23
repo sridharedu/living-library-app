@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Ansible roles organize reusable tasks, handlers, defaults, variables, templates, files, and metadata into a standard structure.
+> **Ansible roles organize reusable tasks, handlers, defaults, variables, templates, files, and metadata into a standard structure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Roles** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Ansible roles organize reusable tasks, handlers, defaults, variables, templates, files, and metadata into a standard structure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Ansible roles organize reusable tasks, handlers, defaults, variables, templates, files, and metadata into a standard structure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Around advice controls whether and when the target method executes and can modify arguments, results, timing, or exceptions.
+> **Around advice controls whether and when the target method executes and can modify arguments, results, timing, or exceptions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Around advice** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. Around advice controls whether and when the target method executes and can modify arguments, results, timing, or exceptions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Around advice controls whether and when the target method executes and can modify arguments, results, timing, or exceptions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

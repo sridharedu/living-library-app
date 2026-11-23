@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A production Jenkins setup needs secure installation, authentication, role-based access, agents, credential management, backup, plugin control, and pipeline-as-code.
+> **A production Jenkins setup needs secure installation, authentication, role-based access, agents, credential management, backup, plugin control, and pipeline-as-code.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Setting Up Jenkins** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. A production Jenkins setup needs secure installation, authentication, role-based access, agents, credential management, backup, plugin control, and pipeline-as-code.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A production Jenkins setup needs secure installation, authentication, role-based access, agents, credential management, backup, plugin control, and pipeline-as-code.
 
 ## 2. Execution Mechanics & Runtime Flow
 

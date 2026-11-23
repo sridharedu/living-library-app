@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Hedged requests send a duplicate request after a delay and use the first successful response, reducing tail latency at the cost of extra load.
+> **Hedged requests send a duplicate request after a delay and use the first successful response, reducing tail latency at the cost of extra load.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hedged requests** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. Hedged requests send a duplicate request after a delay and use the first successful response, reducing tail latency at the cost of extra load.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Hedged requests send a duplicate request after a delay and use the first successful response, reducing tail latency at the cost of extra load.
 
 ## 2. Execution Mechanics & Runtime Flow
 

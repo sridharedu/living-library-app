@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mutation testing deliberately changes production code and checks whether tests fail, revealing weak assertions and untested behavior.
+> **Mutation testing deliberately changes production code and checks whether tests fail, revealing weak assertions and untested behavior.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mutation testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Mutation testing deliberately changes production code and checks whether tests fail, revealing weak assertions and untested behavior.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mutation testing deliberately changes production code and checks whether tests fail, revealing weak assertions and untested behavior.
 
 ## 2. Execution Mechanics & Runtime Flow
 

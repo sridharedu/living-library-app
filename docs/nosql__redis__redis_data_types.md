@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Redis supports strings, hashes, lists, sets, sorted sets, streams, bitmaps, HyperLogLogs, and geospatial values.
+> **Redis supports strings, hashes, lists, sets, sorted sets, streams, bitmaps, HyperLogLogs, and geospatial values.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Redis data types** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis supports strings, hashes, lists, sets, sorted sets, streams, bitmaps, HyperLogLogs, and geospatial values.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Redis supports strings, hashes, lists, sets, sorted sets, streams, bitmaps, HyperLogLogs, and geospatial values.
 
 ## 2. Execution Mechanics & Runtime Flow
 

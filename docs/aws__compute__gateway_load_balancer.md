@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Gateway Load Balancer deploys and scales virtual network appliances such as firewalls and inspection systems transparently.
+> **Gateway Load Balancer deploys and scales virtual network appliances such as firewalls and inspection systems transparently.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Gateway Load Balancer** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. Gateway Load Balancer deploys and scales virtual network appliances such as firewalls and inspection systems transparently.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Gateway Load Balancer deploys and scales virtual network appliances such as firewalls and inspection systems transparently.
 
 ## 2. Execution Mechanics & Runtime Flow
 

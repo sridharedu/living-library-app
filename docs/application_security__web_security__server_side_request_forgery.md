@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SSRF tricks a server into making unintended requests to internal or external destinations. Restrict outbound targets and validate URLs carefully.
+> **SSRF tricks a server into making unintended requests to internal or external destinations. Restrict outbound targets and validate URLs carefully.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Server-side request forgery** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. SSRF tricks a server into making unintended requests to internal or external destinations. Restrict outbound targets and validate URLs carefully.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SSRF tricks a server into making unintended requests to internal or external destinations. Restrict outbound targets and validate URLs carefully.
 
 ## 2. Execution Mechanics & Runtime Flow
 

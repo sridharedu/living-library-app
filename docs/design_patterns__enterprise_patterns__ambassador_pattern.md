@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The ambassador pattern places a local proxy beside an application to manage outbound communication, retries, security, or discovery.
+> **The ambassador pattern places a local proxy beside an application to manage outbound communication, retries, security, or discovery.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Ambassador pattern** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. The ambassador pattern places a local proxy beside an application to manage outbound communication, retries, security, or discovery.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The ambassador pattern places a local proxy beside an application to manage outbound communication, retries, security, or discovery.
 
 ## 2. Execution Mechanics & Runtime Flow
 

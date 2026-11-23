@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Terraform state maps declared resources to real infrastructure and stores attributes needed for planning and dependency tracking.
+> **Terraform state maps declared resources to real infrastructure and stores attributes needed for planning and dependency tracking.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Terraform state** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Terraform state maps declared resources to real infrastructure and stores attributes needed for planning and dependency tracking.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Terraform state maps declared resources to real infrastructure and stores attributes needed for planning and dependency tracking.
 
 ## 2. Execution Mechanics & Runtime Flow
 

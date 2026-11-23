@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The native method stack supports calls into native code through mechanisms such as JNI.
+> **The native method stack supports calls into native code through mechanisms such as JNI.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Native method stack** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The native method stack supports calls into native code through mechanisms such as JNI.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The native method stack supports calls into native code through mechanisms such as JNI.
 
 ## 2. Execution Mechanics & Runtime Flow
 

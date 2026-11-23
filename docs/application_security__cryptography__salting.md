@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Salting adds a unique random value before password hashing so identical passwords do not produce identical hashes.
+> **Salting adds a unique random value before password hashing so identical passwords do not produce identical hashes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Salting** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Salting adds a unique random value before password hashing so identical passwords do not produce identical hashes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Salting adds a unique random value before password hashing so identical passwords do not produce identical hashes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

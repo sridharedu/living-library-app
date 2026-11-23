@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A dead-letter exchange receives messages rejected, expired, or discarded from a queue.
+> **A dead-letter exchange receives messages rejected, expired, or discarded from a queue.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dead-letter exchanges** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. A dead-letter exchange receives messages rejected, expired, or discarded from a queue.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A dead-letter exchange receives messages rejected, expired, or discarded from a queue.
 
 ## 2. Execution Mechanics & Runtime Flow
 

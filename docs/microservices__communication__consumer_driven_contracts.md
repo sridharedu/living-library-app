@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Consumer-driven contract testing captures consumer expectations and verifies that providers continue satisfying them.
+> **Consumer-driven contract testing captures consumer expectations and verifies that providers continue satisfying them.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Consumer-driven contracts** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. Consumer-driven contract testing captures consumer expectations and verifies that providers continue satisfying them.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Consumer-driven contract testing captures consumer expectations and verifies that providers continue satisfying them.
 
 ## 2. Execution Mechanics & Runtime Flow
 

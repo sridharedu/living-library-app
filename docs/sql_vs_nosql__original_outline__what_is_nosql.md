@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> NoSQL describes non-relational databases optimized for flexible schemas, horizontal scaling, or specialized access patterns such as key-value, document, graph, or column-family.
+> **NoSQL describes non-relational databases optimized for flexible schemas, horizontal scaling, or specialized access patterns such as key-value, document, graph, or column-family.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is NoSQL?** serves as a foundational component within *Original outline* in the broader **SQL vs NoSQL** ecosystem. NoSQL describes non-relational databases optimized for flexible schemas, horizontal scaling, or specialized access patterns such as key-value, document, graph, or column-family.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+NoSQL describes non-relational databases optimized for flexible schemas, horizontal scaling, or specialized access patterns such as key-value, document, graph, or column-family.
 
 ## 2. Execution Mechanics & Runtime Flow
 

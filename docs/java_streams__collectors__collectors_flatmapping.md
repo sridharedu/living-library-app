@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> flatMapping maps each input to a stream and flattens the results into a downstream collector.
+> **flatMapping maps each input to a stream and flattens the results into a downstream collector.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collectors.flatMapping** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. flatMapping maps each input to a stream and flattens the results into a downstream collector.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+flatMapping maps each input to a stream and flattens the results into a downstream collector.
 
 ## 2. Execution Mechanics & Runtime Flow
 

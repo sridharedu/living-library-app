@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The relational model represents data as relations, commonly implemented as tables with rows, columns, keys, and constraints.
+> **The relational model represents data as relations, commonly implemented as tables with rows, columns, keys, and constraints.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Relational model** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. The relational model represents data as relations, commonly implemented as tables with rows, columns, keys, and constraints.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The relational model represents data as relations, commonly implemented as tables with rows, columns, keys, and constraints.
 
 ## 2. Execution Mechanics & Runtime Flow
 

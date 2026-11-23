@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Checked exceptions must be declared or handled, while unchecked exceptions extend RuntimeException and usually represent programming or validation failures.
+> **Checked exceptions must be declared or handled, while unchecked exceptions extend RuntimeException and usually represent programming or validation failures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Checked vs unchecked exceptions** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Checked exceptions must be declared or handled, while unchecked exceptions extend RuntimeException and usually represent programming or validation failures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Checked exceptions must be declared or handled, while unchecked exceptions extend RuntimeException and usually represent programming or validation failures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

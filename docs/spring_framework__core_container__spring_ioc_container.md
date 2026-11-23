@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Spring IoC container creates, configures, wires, and manages application objects called beans.
+> **The Spring IoC container creates, configures, wires, and manages application objects called beans.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring IoC container** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. The Spring IoC container creates, configures, wires, and manages application objects called beans.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Spring IoC container creates, configures, wires, and manages application objects called beans.
 
 ## 2. Execution Mechanics & Runtime Flow
 

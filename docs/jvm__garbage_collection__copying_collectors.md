@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Copying collectors move live objects from one region to another, compacting memory and making allocation fast.
+> **Copying collectors move live objects from one region to another, compacting memory and making allocation fast.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Copying collectors** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Copying collectors move live objects from one region to another, compacting memory and making allocation fast.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Copying collectors move live objects from one region to another, compacting memory and making allocation fast.
 
 ## 2. Execution Mechanics & Runtime Flow
 

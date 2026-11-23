@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon S3 is highly durable object storage organized into buckets and objects, with versioning, lifecycle, replication, and access controls.
+> **Amazon S3 is highly durable object storage organized into buckets and objects, with versioning, lifecycle, replication, and access controls.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Amazon S3** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. Amazon S3 is highly durable object storage organized into buckets and objects, with versioning, lifecycle, replication, and access controls.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon S3 is highly durable object storage organized into buckets and objects, with versioning, lifecycle, replication, and access controls.
 
 ## 2. Execution Mechanics & Runtime Flow
 

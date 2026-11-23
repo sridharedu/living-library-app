@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Index selectivity measures how narrowly an indexed value identifies rows. Highly selective indexes are generally more useful.
+> **Index selectivity measures how narrowly an indexed value identifies rows. Highly selective indexes are generally more useful.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Index selectivity** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. Index selectivity measures how narrowly an indexed value identifies rows. Highly selective indexes are generally more useful.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Index selectivity measures how narrowly an indexed value identifies rows. Highly selective indexes are generally more useful.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A stable sort preserves the original relative order of elements that compare as equal. This matters when sorting by multiple keys in stages.
+> **A stable sort preserves the original relative order of elements that compare as equal. This matters when sorting by multiple keys in stages.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stable sorting** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. A stable sort preserves the original relative order of elements that compare as equal. This matters when sorting by multiple keys in stages.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A stable sort preserves the original relative order of elements that compare as equal. This matters when sorting by multiple keys in stages.
 
 ## 2. Execution Mechanics & Runtime Flow
 

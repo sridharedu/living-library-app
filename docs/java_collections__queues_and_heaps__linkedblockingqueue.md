@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> LinkedBlockingQueue is optionally bounded and node-based. It often offers higher throughput but uses more memory.
+> **LinkedBlockingQueue is optionally bounded and node-based. It often offers higher throughput but uses more memory.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**LinkedBlockingQueue** serves as a foundational component within *Queues and Heaps* in the broader **Java Collections** ecosystem. LinkedBlockingQueue is optionally bounded and node-based. It often offers higher throughput but uses more memory.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+LinkedBlockingQueue is optionally bounded and node-based. It often offers higher throughput but uses more memory.
 
 ## 2. Execution Mechanics & Runtime Flow
 

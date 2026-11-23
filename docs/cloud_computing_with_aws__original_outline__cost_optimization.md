@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cost optimization delivers business value at the lowest practical cost. It requires visibility, right-sizing, eliminating waste, commitment planning, and ownership.
+> **Cost optimization delivers business value at the lowest practical cost. It requires visibility, right-sizing, eliminating waste, commitment planning, and ownership.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cost Optimization** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Cost optimization delivers business value at the lowest practical cost. It requires visibility, right-sizing, eliminating waste, commitment planning, and ownership.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cost optimization delivers business value at the lowest practical cost. It requires visibility, right-sizing, eliminating waste, commitment planning, and ownership.
 
 ## 2. Execution Mechanics & Runtime Flow
 

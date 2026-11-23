@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The string pool stores canonical string literals and interned strings so identical values can share one object.
+> **The string pool stores canonical string literals and interned strings so identical values can share one object.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**String pool** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. The string pool stores canonical string literals and interned strings so identical values can share one object.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The string pool stores canonical string literals and interned strings so identical values can share one object.
 
 ## 2. Execution Mechanics & Runtime Flow
 

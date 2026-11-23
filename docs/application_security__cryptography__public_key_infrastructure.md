@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> PKI manages certificates, certificate authorities, trust chains, revocation, issuance, and key ownership.
+> **PKI manages certificates, certificate authorities, trust chains, revocation, issuance, and key ownership.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Public key infrastructure** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. PKI manages certificates, certificate authorities, trust chains, revocation, issuance, and key ownership.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+PKI manages certificates, certificate authorities, trust chains, revocation, issuance, and key ownership.
 
 ## 2. Execution Mechanics & Runtime Flow
 

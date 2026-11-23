@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JPA entity states are transient, managed, detached, and removed. Operations behave differently depending on the current state.
+> **JPA entity states are transient, managed, detached, and removed. Operations behave differently depending on the current state.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Entity states** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. JPA entity states are transient, managed, detached, and removed. Operations behave differently depending on the current state.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JPA entity states are transient, managed, detached, and removed. Operations behave differently depending on the current state.
 
 ## 2. Execution Mechanics & Runtime Flow
 

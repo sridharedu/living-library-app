@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> Data binding maps request values into Java object properties. It should be constrained carefully to avoid unintended field updates.
+> **Data binding maps request values into Java object properties. It should be constrained carefully to avoid unintended field updates.**
 
 ---
 

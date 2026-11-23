@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A replication strategy defines topology, timing, conflict policy, failover, and read routing. It should match recovery and consistency requirements.
+> **A replication strategy defines topology, timing, conflict policy, failover, and read routing. It should match recovery and consistency requirements.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Replication Strategies** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. A replication strategy defines topology, timing, conflict policy, failover, and read routing. It should match recovery and consistency requirements.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A replication strategy defines topology, timing, conflict policy, failover, and read routing. It should match recovery and consistency requirements.
 
 ## 2. Execution Mechanics & Runtime Flow
 

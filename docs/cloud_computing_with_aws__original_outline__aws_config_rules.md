@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Config Rules evaluate resource configurations against desired standards. Rules may be AWS-managed or custom and can trigger remediation for noncompliant resources.
+> **Config Rules evaluate resource configurations against desired standards. Rules may be AWS-managed or custom and can trigger remediation for noncompliant resources.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Config Rules** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Config Rules evaluate resource configurations against desired standards. Rules may be AWS-managed or custom and can trigger remediation for noncompliant resources.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Config Rules evaluate resource configurations against desired standards. Rules may be AWS-managed or custom and can trigger remediation for noncompliant resources.
 
 ## 2. Execution Mechanics & Runtime Flow
 

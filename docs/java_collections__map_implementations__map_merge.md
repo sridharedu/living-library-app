@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> merge inserts a value for a missing key or combines it with the existing value through a remapping function.
+> **merge inserts a value for a missing key or combines it with the existing value through a remapping function.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Map.merge** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. merge inserts a value for a missing key or combines it with the existing value through a remapping function.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+merge inserts a value for a missing key or combines it with the existing value through a remapping function.
 
 ## 2. Execution Mechanics & Runtime Flow
 

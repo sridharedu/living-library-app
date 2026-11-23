@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Java source file may contain a package declaration, imports, and type definitions. At most one public top-level type must match the filename.
+> **A Java source file may contain a package declaration, imports, and type definitions. At most one public top-level type must match the filename.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Java source file structure** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. A Java source file may contain a package declaration, imports, and type definitions. At most one public top-level type must match the filename.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Java source file may contain a package declaration, imports, and type definitions. At most one public top-level type must match the filename.
 
 ## 2. Execution Mechanics & Runtime Flow
 

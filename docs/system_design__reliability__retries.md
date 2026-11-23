@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Retries repeat transiently failed operations with limits, backoff, jitter, and idempotency.
+> **Retries repeat transiently failed operations with limits, backoff, jitter, and idempotency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Retries** serves as a foundational component within *Reliability* in the broader **System Design** ecosystem. Retries repeat transiently failed operations with limits, backoff, jitter, and idempotency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Retries repeat transiently failed operations with limits, backoff, jitter, and idempotency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

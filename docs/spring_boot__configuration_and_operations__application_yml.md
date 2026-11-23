@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> application.yml stores hierarchical configuration in YAML. It is compact but sensitive to indentation.
+> **application.yml stores hierarchical configuration in YAML. It is compact but sensitive to indentation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**application.yml** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. application.yml stores hierarchical configuration in YAML. It is compact but sensitive to indentation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+application.yml stores hierarchical configuration in YAML. It is compact but sensitive to indentation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

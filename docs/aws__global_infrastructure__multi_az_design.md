@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Multi-AZ design distributes workloads across independent Availability Zones to survive data-center or zone-level failure.
+> **Multi-AZ design distributes workloads across independent Availability Zones to survive data-center or zone-level failure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Multi-AZ design** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. Multi-AZ design distributes workloads across independent Availability Zones to survive data-center or zone-level failure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Multi-AZ design distributes workloads across independent Availability Zones to survive data-center or zone-level failure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

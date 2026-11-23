@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> skip discards the first n elements. Like limit, it may add ordering cost in parallel pipelines.
+> **skip discards the first n elements. Like limit, it may add ordering cost in parallel pipelines.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**skip** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. skip discards the first n elements. Like limit, it may add ordering cost in parallel pipelines.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+skip discards the first n elements. Like limit, it may add ordering cost in parallel pipelines.
 
 ## 2. Execution Mechanics & Runtime Flow
 

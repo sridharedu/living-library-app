@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ACID means Atomicity, Consistency, Isolation, and Durability, the core guarantees of reliable transactions.
+> **ACID means Atomicity, Consistency, Isolation, and Durability, the core guarantees of reliable transactions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ACID** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. ACID means Atomicity, Consistency, Isolation, and Durability, the core guarantees of reliable transactions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ACID means Atomicity, Consistency, Isolation, and Durability, the core guarantees of reliable transactions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

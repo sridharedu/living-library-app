@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Select only needed columns, filter early, index carefully, avoid N+1 access, review plans, paginate large results, and measure with realistic data.
+> **Select only needed columns, filter early, index carefully, avoid N+1 access, review plans, paginate large results, and measure with realistic data.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Best Practices for Query Performance** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Select only needed columns, filter early, index carefully, avoid N+1 access, review plans, paginate large results, and measure with realistic data.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Select only needed columns, filter early, index carefully, avoid N+1 access, review plans, paginate large results, and measure with realistic data.
 
 ## 2. Execution Mechanics & Runtime Flow
 

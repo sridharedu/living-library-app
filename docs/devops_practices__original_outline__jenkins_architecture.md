@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Jenkins uses a controller to manage jobs, configuration, and scheduling, while agents execute build workloads. Separating execution from the controller improves scalability and isolation.
+> **Jenkins uses a controller to manage jobs, configuration, and scheduling, while agents execute build workloads. Separating execution from the controller improves scalability and isolation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Jenkins Architecture** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Jenkins uses a controller to manage jobs, configuration, and scheduling, while agents execute build workloads. Separating execution from the controller improves scalability and isolation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Jenkins uses a controller to manage jobs, configuration, and scheduling, while agents execute build workloads. Separating execution from the controller improves scalability and isolation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

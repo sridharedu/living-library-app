@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Jenkins scripted pipelines use Groovy code for flexible control flow and dynamic behavior. They are powerful but easier to make complex than declarative pipelines.
+> **Jenkins scripted pipelines use Groovy code for flexible control flow and dynamic behavior. They are powerful but easier to make complex than declarative pipelines.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Scripted pipelines** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Jenkins scripted pipelines use Groovy code for flexible control flow and dynamic behavior. They are powerful but easier to make complex than declarative pipelines.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Jenkins scripted pipelines use Groovy code for flexible control flow and dynamic behavior. They are powerful but easier to make complex than declarative pipelines.
 
 ## 2. Execution Mechanics & Runtime Flow
 

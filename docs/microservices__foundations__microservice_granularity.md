@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Service granularity should balance autonomy and cohesion against network cost, operational overhead, and distributed transactions.
+> **Service granularity should balance autonomy and cohesion against network cost, operational overhead, and distributed transactions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Microservice granularity** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Service granularity should balance autonomy and cohesion against network cost, operational overhead, and distributed transactions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Service granularity should balance autonomy and cohesion against network cost, operational overhead, and distributed transactions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

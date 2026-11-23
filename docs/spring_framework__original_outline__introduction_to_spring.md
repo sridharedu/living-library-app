@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring is a Java application framework centered on dependency injection, modular infrastructure, and declarative programming. It reduces boilerplate while keeping business code loosely coupled and testable.
+> **Spring is a Java application framework centered on dependency injection, modular infrastructure, and declarative programming. It reduces boilerplate while keeping business code loosely coupled and testable.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Introduction to Spring** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring is a Java application framework centered on dependency injection, modular infrastructure, and declarative programming. It reduces boilerplate while keeping business code loosely coupled and testable.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring is a Java application framework centered on dependency injection, modular infrastructure, and declarative programming. It reduces boilerplate while keeping business code loosely coupled and testable.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Sliding-window limiting measures activity over a moving time interval for smoother and more accurate enforcement.
+> **Sliding-window limiting measures activity over a moving time interval for smoother and more accurate enforcement.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Sliding window** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Sliding-window limiting measures activity over a moving time interval for smoother and more accurate enforcement.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Sliding-window limiting measures activity over a moving time interval for smoother and more accurate enforcement.
 
 ## 2. Execution Mechanics & Runtime Flow
 

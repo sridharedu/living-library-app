@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Service Layer defines application use cases and coordinates domain objects, transactions, and external systems.
+> **Service Layer defines application use cases and coordinates domain objects, transactions, and external systems.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Service Layer** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. Service Layer defines application use cases and coordinates domain objects, transactions, and external systems.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Service Layer defines application use cases and coordinates domain objects, transactions, and external systems.
 
 ## 2. Execution Mechanics & Runtime Flow
 

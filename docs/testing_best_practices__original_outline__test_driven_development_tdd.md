@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> TDD develops software through a repeating cycle of failing test, minimal implementation, and refactoring. Tests drive design decisions incrementally.
+> **TDD develops software through a repeating cycle of failing test, minimal implementation, and refactoring. Tests drive design decisions incrementally.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Test-Driven Development (TDD)** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. TDD develops software through a repeating cycle of failing test, minimal implementation, and refactoring. Tests drive design decisions incrementally.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+TDD develops software through a repeating cycle of failing test, minimal implementation, and refactoring. Tests drive design decisions incrementally.
 
 ## 2. Execution Mechanics & Runtime Flow
 

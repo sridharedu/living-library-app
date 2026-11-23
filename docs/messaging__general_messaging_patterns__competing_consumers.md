@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Competing consumers read from the same queue and share work, improving throughput and resilience.
+> **Competing consumers read from the same queue and share work, improving throughput and resilience.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Competing consumers** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Competing consumers read from the same queue and share work, improving throughput and resilience.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Competing consumers read from the same queue and share work, improving throughput and resilience.
 
 ## 2. Execution Mechanics & Runtime Flow
 

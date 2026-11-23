@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A routing key is message metadata used by direct and topic exchanges to decide which bindings match.
+> **A routing key is message metadata used by direct and topic exchanges to decide which bindings match.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Routing keys** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. A routing key is message metadata used by direct and topic exchanges to decide which bindings match.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A routing key is message metadata used by direct and topic exchanges to decide which bindings match.
 
 ## 2. Execution Mechanics & Runtime Flow
 

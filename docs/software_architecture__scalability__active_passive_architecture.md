@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Active-passive architecture uses one active site and one standby site that takes over during failure.
+> **Active-passive architecture uses one active site and one standby site that takes over during failure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Active-passive architecture** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Active-passive architecture uses one active site and one standby site that takes over during failure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Active-passive architecture uses one active site and one standby site that takes over during failure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

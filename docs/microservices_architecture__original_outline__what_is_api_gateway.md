@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An API gateway receives client requests and forwards them to the correct service while applying common policies. It hides internal topology and simplifies client integration.
+> **An API gateway receives client requests and forwards them to the correct service while applying common policies. It hides internal topology and simplifies client integration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is API Gateway?** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. An API gateway receives client requests and forwards them to the correct service while applying common policies. It hides internal topology and simplifies client integration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An API gateway receives client requests and forwards them to the correct service while applying common policies. It hides internal topology and simplifies client integration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

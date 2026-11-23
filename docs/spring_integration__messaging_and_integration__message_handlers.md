@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Message handlers consume messages and perform work such as transformation, routing, filtering, persistence, or outbound communication.
+> **Message handlers consume messages and perform work such as transformation, routing, filtering, persistence, or outbound communication.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Message handlers** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Message handlers consume messages and perform work such as transformation, routing, filtering, persistence, or outbound communication.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Message handlers consume messages and perform work such as transformation, routing, filtering, persistence, or outbound communication.
 
 ## 2. Execution Mechanics & Runtime Flow
 

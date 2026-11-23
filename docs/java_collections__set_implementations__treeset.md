@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> TreeSet stores unique elements in sorted order using a balanced tree. Operations are typically O(log n).
+> **TreeSet stores unique elements in sorted order using a balanced tree. Operations are typically O(log n).**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**TreeSet** serves as a foundational component within *Set Implementations* in the broader **Java Collections** ecosystem. TreeSet stores unique elements in sorted order using a balanced tree. Operations are typically O(log n).
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+TreeSet stores unique elements in sorted order using a balanced tree. Operations are typically O(log n).
 
 ## 2. Execution Mechanics & Runtime Flow
 

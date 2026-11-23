@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Repeated concatenation in loops can create many temporary objects. Use StringBuilder for incremental construction.
+> **Repeated concatenation in loops can create many temporary objects. Use StringBuilder for incremental construction.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**String concatenation performance** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. Repeated concatenation in loops can create many temporary objects. Use StringBuilder for incremental construction.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Repeated concatenation in loops can create many temporary objects. Use StringBuilder for incremental construction.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> JUnit 5 combines the JUnit Platform, Jupiter programming model, and extension system for modern Java testing.
+> **JUnit 5 combines the JUnit Platform, Jupiter programming model, and extension system for modern Java testing.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JUnit 5** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. JUnit 5 combines the JUnit Platform, Jupiter programming model, and extension system for modern Java testing.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+JUnit 5 combines the JUnit Platform, Jupiter programming model, and extension system for modern Java testing.
 
 ## 2. Execution Mechanics & Runtime Flow
 

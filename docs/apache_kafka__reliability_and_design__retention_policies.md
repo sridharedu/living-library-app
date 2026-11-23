@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kafka retention removes old segments based on time, size, or compaction rules independently of consumer progress.
+> **Kafka retention removes old segments based on time, size, or compaction rules independently of consumer progress.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Retention policies** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Kafka retention removes old segments based on time, size, or compaction rules independently of consumer progress.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kafka retention removes old segments based on time, size, or compaction rules independently of consumer progress.
 
 ## 2. Execution Mechanics & Runtime Flow
 

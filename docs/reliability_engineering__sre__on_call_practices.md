@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Healthy on-call practices use clear ownership, useful alerts, escalation paths, runbooks, manageable rotations, and recovery time.
+> **Healthy on-call practices use clear ownership, useful alerts, escalation paths, runbooks, manageable rotations, and recovery time.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**On-call practices** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. Healthy on-call practices use clear ownership, useful alerts, escalation paths, runbooks, manageable rotations, and recovery time.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Healthy on-call practices use clear ownership, useful alerts, escalation paths, runbooks, manageable rotations, and recovery time.
 
 ## 2. Execution Mechanics & Runtime Flow
 

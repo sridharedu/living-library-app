@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The JVM contains class loading, runtime memory areas, execution engines, garbage collection, native interfaces, and supporting runtime services.
+> **The JVM contains class loading, runtime memory areas, execution engines, garbage collection, native interfaces, and supporting runtime services.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JVM architecture** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The JVM contains class loading, runtime memory areas, execution engines, garbage collection, native interfaces, and supporting runtime services.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The JVM contains class loading, runtime memory areas, execution engines, garbage collection, native interfaces, and supporting runtime services.
 
 ## 2. Execution Mechanics & Runtime Flow
 

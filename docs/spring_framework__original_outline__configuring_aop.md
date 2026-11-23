@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AOP can be enabled through annotations or XML, then applied using aspect classes and pointcut expressions. Proxy behavior and self-invocation limitations must be understood.
+> **AOP can be enabled through annotations or XML, then applied using aspect classes and pointcut expressions. Proxy behavior and self-invocation limitations must be understood.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Configuring AOP** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. AOP can be enabled through annotations or XML, then applied using aspect classes and pointcut expressions. Proxy behavior and self-invocation limitations must be understood.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AOP can be enabled through annotations or XML, then applied using aspect classes and pointcut expressions. Proxy behavior and self-invocation limitations must be understood.
 
 ## 2. Execution Mechanics & Runtime Flow
 

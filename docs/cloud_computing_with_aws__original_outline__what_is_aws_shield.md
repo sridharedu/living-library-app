@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Shield is a managed DDoS protection service for AWS resources such as CloudFront, Route 53, and load balancers. It helps absorb and mitigate malicious traffic floods.
+> **AWS Shield is a managed DDoS protection service for AWS resources such as CloudFront, Route 53, and load balancers. It helps absorb and mitigate malicious traffic floods.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is AWS Shield?** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS Shield is a managed DDoS protection service for AWS resources such as CloudFront, Route 53, and load balancers. It helps absorb and mitigate malicious traffic floods.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Shield is a managed DDoS protection service for AWS resources such as CloudFront, Route 53, and load balancers. It helps absorb and mitigate malicious traffic floods.
 
 ## 2. Execution Mechanics & Runtime Flow
 

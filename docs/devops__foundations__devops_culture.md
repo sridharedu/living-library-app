@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> DevOps culture emphasizes shared ownership, collaboration, automation, feedback, learning, and reliable delivery.
+> **DevOps culture emphasizes shared ownership, collaboration, automation, feedback, learning, and reliable delivery.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**DevOps culture** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. DevOps culture emphasizes shared ownership, collaboration, automation, feedback, learning, and reliable delivery.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+DevOps culture emphasizes shared ownership, collaboration, automation, feedback, learning, and reliable delivery.
 
 ## 2. Execution Mechanics & Runtime Flow
 

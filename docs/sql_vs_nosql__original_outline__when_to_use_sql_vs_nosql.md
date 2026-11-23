@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Use SQL for strong relationships, transactions, and complex queries. Use NoSQL when access patterns are simple, scale is extreme, or flexible data models are central.
+> **Use SQL for strong relationships, transactions, and complex queries. Use NoSQL when access patterns are simple, scale is extreme, or flexible data models are central.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**When to Use SQL vs NoSQL** serves as a foundational component within *Original outline* in the broader **SQL vs NoSQL** ecosystem. Use SQL for strong relationships, transactions, and complex queries. Use NoSQL when access patterns are simple, scale is extreme, or flexible data models are central.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Use SQL for strong relationships, transactions, and complex queries. Use NoSQL when access patterns are simple, scale is extreme, or flexible data models are central.
 
 ## 2. Execution Mechanics & Runtime Flow
 

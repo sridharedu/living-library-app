@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Key features include tables, schemas, constraints, joins, indexes, transactions, and declarative SQL. These support integrity and complex queries.
+> **Key features include tables, schemas, constraints, joins, indexes, transactions, and declarative SQL. These support integrity and complex queries.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Key Features of Relational Databases** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. Key features include tables, schemas, constraints, joins, indexes, transactions, and declarative SQL. These support integrity and complex queries.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Key features include tables, schemas, constraints, joins, indexes, transactions, and declarative SQL. These support integrity and complex queries.
 
 ## 2. Execution Mechanics & Runtime Flow
 

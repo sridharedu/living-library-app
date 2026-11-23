@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Distributed tracing follows a request across process and service boundaries using trace IDs, spans, timing, and parent-child relationships.
+> **Distributed tracing follows a request across process and service boundaries using trace IDs, spans, timing, and parent-child relationships.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Distributed tracing** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Distributed tracing follows a request across process and service boundaries using trace IDs, spans, timing, and parent-child relationships.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Distributed tracing follows a request across process and service boundaries using trace IDs, spans, timing, and parent-child relationships.
 
 ## 2. Execution Mechanics & Runtime Flow
 

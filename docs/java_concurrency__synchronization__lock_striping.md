@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Lock striping divides data into segments, each guarded by a different lock. It reduces contention without requiring one lock per item.
+> **Lock striping divides data into segments, each guarded by a different lock. It reduces contention without requiring one lock per item.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lock striping** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. Lock striping divides data into segments, each guarded by a different lock. It reduces contention without requiring one lock per item.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Lock striping divides data into segments, each guarded by a different lock. It reduces contention without requiring one lock per item.
 
 ## 2. Execution Mechanics & Runtime Flow
 

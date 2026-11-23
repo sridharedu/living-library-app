@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ResourceQuota limits aggregate resource consumption and object counts within a namespace.
+> **ResourceQuota limits aggregate resource consumption and object counts within a namespace.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Resource quotas** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. ResourceQuota limits aggregate resource consumption and object counts within a namespace.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ResourceQuota limits aggregate resource consumption and object counts within a namespace.
 
 ## 2. Execution Mechanics & Runtime Flow
 

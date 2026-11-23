@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Jenkins security requires authentication, authorization, credential isolation, plugin governance, controller hardening, and restricted agent trust.
+> **Jenkins security requires authentication, authorization, credential isolation, plugin governance, controller hardening, and restricted agent trust.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Jenkins security** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Jenkins security requires authentication, authorization, credential isolation, plugin governance, controller hardening, and restricted agent trust.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Jenkins security requires authentication, authorization, credential isolation, plugin governance, controller hardening, and restricted agent trust.
 
 ## 2. Execution Mechanics & Runtime Flow
 

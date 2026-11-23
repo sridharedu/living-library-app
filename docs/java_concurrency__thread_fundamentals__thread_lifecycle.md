@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A thread is created, started, becomes runnable, may block or wait, and eventually terminates. Java exposes these phases through Thread.State.
+> **A thread is created, started, becomes runnable, may block or wait, and eventually terminates. Java exposes these phases through Thread.State.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Thread lifecycle** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. A thread is created, started, becomes runnable, may block or wait, and eventually terminates. Java exposes these phases through Thread.State.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A thread is created, started, becomes runnable, may block or wait, and eventually terminates. Java exposes these phases through Thread.State.
 
 ## 2. Execution Mechanics & Runtime Flow
 

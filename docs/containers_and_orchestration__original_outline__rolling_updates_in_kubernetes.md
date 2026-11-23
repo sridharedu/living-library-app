@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A rolling update gradually replaces old Pods with new ones while preserving availability. Strategy settings control surge capacity and unavailable replicas.
+> **A rolling update gradually replaces old Pods with new ones while preserving availability. Strategy settings control surge capacity and unavailable replicas.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Rolling Updates in Kubernetes** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A rolling update gradually replaces old Pods with new ones while preserving availability. Strategy settings control surge capacity and unavailable replicas.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A rolling update gradually replaces old Pods with new ones while preserving availability. Strategy settings control surge capacity and unavailable replicas.
 
 ## 2. Execution Mechanics & Runtime Flow
 

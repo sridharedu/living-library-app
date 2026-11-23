@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java serialization converts an object graph into bytes using Serializable. It is fragile for long-term storage and unsafe with untrusted input.
+> **Java serialization converts an object graph into bytes using Serializable. It is fragile for long-term storage and unsafe with untrusted input.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Serialization** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. Java serialization converts an object graph into bytes using Serializable. It is fragile for long-term storage and unsafe with untrusted input.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java serialization converts an object graph into bytes using Serializable. It is fragile for long-term storage and unsafe with untrusted input.
 
 ## 2. Execution Mechanics & Runtime Flow
 

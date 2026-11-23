@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> The Kafka controller manages partition leadership, broker changes, and cluster metadata coordination.
+> **The Kafka controller manages partition leadership, broker changes, and cluster metadata coordination.**
 
 ---
 

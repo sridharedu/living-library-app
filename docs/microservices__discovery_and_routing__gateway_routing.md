@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Gateway routing matches incoming requests by path, host, headers, method, or custom predicates and forwards them to downstream services.
+> **Gateway routing matches incoming requests by path, host, headers, method, or custom predicates and forwards them to downstream services.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Gateway routing** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Gateway routing matches incoming requests by path, host, headers, method, or custom predicates and forwards them to downstream services.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Gateway routing matches incoming requests by path, host, headers, method, or custom predicates and forwards them to downstream services.
 
 ## 2. Execution Mechanics & Runtime Flow
 

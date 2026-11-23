@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Overlay networks connect containers across multiple Docker hosts, commonly in orchestrated environments.
+> **Overlay networks connect containers across multiple Docker hosts, commonly in orchestrated environments.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Overlay network** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Overlay networks connect containers across multiple Docker hosts, commonly in orchestrated environments.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Overlay networks connect containers across multiple Docker hosts, commonly in orchestrated environments.
 
 ## 2. Execution Mechanics & Runtime Flow
 

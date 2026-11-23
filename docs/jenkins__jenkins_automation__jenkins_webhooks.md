@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Webhooks trigger Jenkins when source-control events occur, enabling immediate builds without continuous polling.
+> **Webhooks trigger Jenkins when source-control events occur, enabling immediate builds without continuous polling.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Jenkins webhooks** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Webhooks trigger Jenkins when source-control events occur, enabling immediate builds without continuous polling.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Webhooks trigger Jenkins when source-control events occur, enabling immediate builds without continuous polling.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> RabbitMQ clustering shares metadata across nodes, while queue replication strategy determines message availability during node failure.
+> **RabbitMQ clustering shares metadata across nodes, while queue replication strategy determines message availability during node failure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RabbitMQ clustering** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. RabbitMQ clustering shares metadata across nodes, while queue replication strategy determines message availability during node failure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+RabbitMQ clustering shares metadata across nodes, while queue replication strategy determines message availability during node failure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

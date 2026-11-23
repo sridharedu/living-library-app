@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A news feed ranks and delivers personalized content using fanout-on-write, fanout-on-read, caching, pagination, and freshness or relevance signals.
+> **A news feed ranks and delivers personalized content using fanout-on-write, fanout-on-read, caching, pagination, and freshness or relevance signals.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design a news feed** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A news feed ranks and delivers personalized content using fanout-on-write, fanout-on-read, caching, pagination, and freshness or relevance signals.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A news feed ranks and delivers personalized content using fanout-on-write, fanout-on-read, caching, pagination, and freshness or relevance signals.
 
 ## 2. Execution Mechanics & Runtime Flow
 

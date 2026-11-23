@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A correlated subquery references columns from the outer query and may execute logically once per outer row.
+> **A correlated subquery references columns from the outer query and may execute logically once per outer row.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Correlated subqueries** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. A correlated subquery references columns from the outer query and may execute logically once per outer row.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A correlated subquery references columns from the outer query and may execute logically once per outer row.
 
 ## 2. Execution Mechanics & Runtime Flow
 

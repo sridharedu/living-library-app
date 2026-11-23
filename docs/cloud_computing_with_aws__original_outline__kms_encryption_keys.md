@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> KMS keys are logical key resources used to encrypt data keys, sign data, or perform direct cryptographic operations. Access depends on both key policies and IAM permissions.
+> **KMS keys are logical key resources used to encrypt data keys, sign data, or perform direct cryptographic operations. Access depends on both key policies and IAM permissions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**KMS Encryption Keys** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. KMS keys are logical key resources used to encrypt data keys, sign data, or perform direct cryptographic operations. Access depends on both key policies and IAM permissions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+KMS keys are logical key resources used to encrypt data keys, sign data, or perform direct cryptographic operations. Access depends on both key policies and IAM permissions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

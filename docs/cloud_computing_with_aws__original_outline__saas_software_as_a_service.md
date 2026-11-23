@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> SaaS delivers a complete application managed by the provider and accessed through a browser or API. Customers configure and use it rather than operate the underlying stack.
+> **SaaS delivers a complete application managed by the provider and accessed through a browser or API. Customers configure and use it rather than operate the underlying stack.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**SaaS (Software as a Service)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. SaaS delivers a complete application managed by the provider and accessed through a browser or API. Customers configure and use it rather than operate the underlying stack.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+SaaS delivers a complete application managed by the provider and accessed through a browser or API. Customers configure and use it rather than operate the underlying stack.
 
 ## 2. Execution Mechanics & Runtime Flow
 

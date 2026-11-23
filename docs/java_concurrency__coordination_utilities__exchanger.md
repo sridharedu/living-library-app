@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Exchanger lets two threads meet and swap objects at a synchronization point.
+> **Exchanger lets two threads meet and swap objects at a synchronization point.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Exchanger** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. Exchanger lets two threads meet and swap objects at a synchronization point.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Exchanger lets two threads meet and swap objects at a synchronization point.
 
 ## 2. Execution Mechanics & Runtime Flow
 

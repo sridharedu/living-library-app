@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Java configuration uses @Configuration classes and @Bean methods to define application components explicitly. It is type-safe, refactor-friendly, and the preferred modern alternative to XML.
+> **Java configuration uses @Configuration classes and @Bean methods to define application components explicitly. It is type-safe, refactor-friendly, and the preferred modern alternative to XML.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Java-based Configuration** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Java configuration uses @Configuration classes and @Bean methods to define application components explicitly. It is type-safe, refactor-friendly, and the preferred modern alternative to XML.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Java configuration uses @Configuration classes and @Bean methods to define application components explicitly. It is type-safe, refactor-friendly, and the preferred modern alternative to XML.
 
 ## 2. Execution Mechanics & Runtime Flow
 

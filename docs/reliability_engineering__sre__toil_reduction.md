@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Toil reduction automates repetitive, manual, reactive work that scales with service growth and provides little lasting value.
+> **Toil reduction automates repetitive, manual, reactive work that scales with service growth and provides little lasting value.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Toil reduction** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. Toil reduction automates repetitive, manual, reactive work that scales with service growth and provides little lasting value.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Toil reduction automates repetitive, manual, reactive work that scales with service growth and provides little lasting value.
 
 ## 2. Execution Mechanics & Runtime Flow
 

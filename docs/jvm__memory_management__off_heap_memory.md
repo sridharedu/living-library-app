@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Off-heap memory lives outside the Java heap and can reduce GC pressure, but lifecycle and safety must be managed explicitly.
+> **Off-heap memory lives outside the Java heap and can reduce GC pressure, but lifecycle and safety must be managed explicitly.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Off-heap memory** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. Off-heap memory lives outside the Java heap and can reduce GC pressure, but lifecycle and safety must be managed explicitly.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Off-heap memory lives outside the Java heap and can reduce GC pressure, but lifecycle and safety must be managed explicitly.
 
 ## 2. Execution Mechanics & Runtime Flow
 

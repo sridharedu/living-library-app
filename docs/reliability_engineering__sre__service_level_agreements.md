@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A service level agreement is a formal commitment to customers and may include consequences when targets are missed.
+> **A service level agreement is a formal commitment to customers and may include consequences when targets are missed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Service level agreements** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. A service level agreement is a formal commitment to customers and may include consequences when targets are missed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A service level agreement is a formal commitment to customers and may include consequences when targets are missed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> peek observes elements as they pass through a stream, mainly for debugging. Do not rely on it for essential side effects.
+> **peek observes elements as they pass through a stream, mainly for debugging. Do not rely on it for essential side effects.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**peek** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. peek observes elements as they pass through a stream, mainly for debugging. Do not rely on it for essential side effects.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+peek observes elements as they pass through a stream, mainly for debugging. Do not rely on it for essential side effects.
 
 ## 2. Execution Mechanics & Runtime Flow
 

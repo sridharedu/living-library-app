@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Kubernetes scheduler assigns unscheduled Pods to suitable nodes based on resources, constraints, affinity, taints, topology, and policies.
+> **The Kubernetes scheduler assigns unscheduled Pods to suitable nodes based on resources, constraints, affinity, taints, topology, and policies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Scheduler** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Kubernetes scheduler assigns unscheduled Pods to suitable nodes based on resources, constraints, affinity, taints, topology, and policies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Kubernetes scheduler assigns unscheduled Pods to suitable nodes based on resources, constraints, affinity, taints, topology, and policies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A phantom read occurs when repeating a range query returns new or missing rows because another transaction inserted or deleted matching records.
+> **A phantom read occurs when repeating a range query returns new or missing rows because another transaction inserted or deleted matching records.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Phantom reads** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. A phantom read occurs when repeating a range query returns new or missing rows because another transaction inserted or deleted matching records.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A phantom read occurs when repeating a range query returns new or missing rows because another transaction inserted or deleted matching records.
 
 ## 2. Execution Mechanics & Runtime Flow
 

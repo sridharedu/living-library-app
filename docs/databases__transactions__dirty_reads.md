@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A dirty read occurs when a transaction reads uncommitted data that may later be rolled back.
+> **A dirty read occurs when a transaction reads uncommitted data that may later be rolled back.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dirty reads** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. A dirty read occurs when a transaction reads uncommitted data that may later be rolled back.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A dirty read occurs when a transaction reads uncommitted data that may later be rolled back.
 
 ## 2. Execution Mechanics & Runtime Flow
 

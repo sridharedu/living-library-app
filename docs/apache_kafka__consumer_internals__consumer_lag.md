@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Consumer lag is the distance between the latest partition offset and the consumer's committed or processed offset.
+> **Consumer lag is the distance between the latest partition offset and the consumer's committed or processed offset.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Consumer lag** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Consumer lag is the distance between the latest partition offset and the consumer's committed or processed offset.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Consumer lag is the distance between the latest partition offset and the consumer's committed or processed offset.
 
 ## 2. Execution Mechanics & Runtime Flow
 

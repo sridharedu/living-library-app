@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Quorum reads and writes require responses from a subset of replicas. Choosing read and write quorum sizes can improve consistency.
+> **Quorum reads and writes require responses from a subset of replicas. Choosing read and write quorum sizes can improve consistency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Quorum reads and writes** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Quorum reads and writes require responses from a subset of replicas. Choosing read and write quorum sizes can improve consistency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Quorum reads and writes require responses from a subset of replicas. Choosing read and write quorum sizes can improve consistency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

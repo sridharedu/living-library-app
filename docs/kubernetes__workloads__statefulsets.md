@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A StatefulSet manages stateful Pods with stable names, ordered lifecycle, and persistent-volume identity.
+> **A StatefulSet manages stateful Pods with stable names, ordered lifecycle, and persistent-volume identity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**StatefulSets** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A StatefulSet manages stateful Pods with stable names, ordered lifecycle, and persistent-volume identity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A StatefulSet manages stateful Pods with stable names, ordered lifecycle, and persistent-volume identity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

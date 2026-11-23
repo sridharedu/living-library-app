@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Checkstyle enforces Java formatting and coding conventions through automated rules.
+> **Checkstyle enforces Java formatting and coding conventions through automated rules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Checkstyle** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Checkstyle enforces Java formatting and coding conventions through automated rules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Checkstyle enforces Java formatting and coding conventions through automated rules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

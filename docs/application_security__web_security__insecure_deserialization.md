@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Insecure deserialization lets untrusted data create dangerous object graphs or trigger code paths. Use safe formats and strict type control.
+> **Insecure deserialization lets untrusted data create dangerous object graphs or trigger code paths. Use safe formats and strict type control.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Insecure deserialization** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Insecure deserialization lets untrusted data create dangerous object graphs or trigger code paths. Use safe formats and strict type control.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Insecure deserialization lets untrusted data create dangerous object graphs or trigger code paths. Use safe formats and strict type control.
 
 ## 2. Execution Mechanics & Runtime Flow
 

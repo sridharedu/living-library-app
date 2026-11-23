@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> DevSecOps integrates security responsibilities, controls, and automation throughout planning, development, delivery, and operations.
+> **DevSecOps integrates security responsibilities, controls, and automation throughout planning, development, delivery, and operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**DevSecOps** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. DevSecOps integrates security responsibilities, controls, and automation throughout planning, development, delivery, and operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+DevSecOps integrates security responsibilities, controls, and automation throughout planning, development, delivery, and operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

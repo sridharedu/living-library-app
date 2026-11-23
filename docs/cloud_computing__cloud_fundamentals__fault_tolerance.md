@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Fault tolerance lets a system continue operating correctly even when components fail, often through replication and automatic recovery.
+> **Fault tolerance lets a system continue operating correctly even when components fail, often through replication and automatic recovery.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Fault tolerance** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Fault tolerance lets a system continue operating correctly even when components fail, often through replication and automatic recovery.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Fault tolerance lets a system continue operating correctly even when components fail, often through replication and automatic recovery.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A file storage service separates metadata from object data and needs multipart upload, durability, access control, versioning, checksums, replication, and content delivery.
+> **A file storage service separates metadata from object data and needs multipart upload, durability, access control, versioning, checksums, replication, and content delivery.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Design a file storage service** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A file storage service separates metadata from object data and needs multipart upload, durability, access control, versioning, checksums, replication, and content delivery.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A file storage service separates metadata from object data and needs multipart upload, durability, access control, versioning, checksums, replication, and content delivery.
 
 ## 2. Execution Mechanics & Runtime Flow
 

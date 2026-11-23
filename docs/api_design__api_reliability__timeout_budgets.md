@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A timeout budget divides an end-to-end deadline among downstream calls so one dependency cannot consume all available time.
+> **A timeout budget divides an end-to-end deadline among downstream calls so one dependency cannot consume all available time.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Timeout budgets** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. A timeout budget divides an end-to-end deadline among downstream calls so one dependency cannot consume all available time.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A timeout budget divides an end-to-end deadline among downstream calls so one dependency cannot consume all available time.
 
 ## 2. Execution Mechanics & Runtime Flow
 

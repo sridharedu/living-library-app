@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Service discovery lets applications locate available service instances dynamically instead of using fixed addresses. It supports scaling, instance replacement, and changing network locations.
+> **Service discovery lets applications locate available service instances dynamically instead of using fixed addresses. It supports scaling, instance replacement, and changing network locations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Service Discovery** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Service discovery lets applications locate available service instances dynamically instead of using fixed addresses. It supports scaling, instance replacement, and changing network locations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Service discovery lets applications locate available service instances dynamically instead of using fixed addresses. It supports scaling, instance replacement, and changing network locations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

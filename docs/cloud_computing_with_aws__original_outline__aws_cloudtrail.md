@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CloudTrail records AWS API activity, including who made a request, what action occurred, from where, and when. It is essential for auditing, investigation, and compliance.
+> **CloudTrail records AWS API activity, including who made a request, what action occurred, from where, and when. It is essential for auditing, investigation, and compliance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS CloudTrail** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. CloudTrail records AWS API activity, including who made a request, what action occurred, from where, and when. It is essential for auditing, investigation, and compliance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CloudTrail records AWS API activity, including who made a request, what action occurred, from where, and when. It is essential for auditing, investigation, and compliance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

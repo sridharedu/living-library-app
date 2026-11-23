@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Event-driven architecture lets components publish and react to events asynchronously, improving decoupling and scalability while introducing eventual consistency.
+> **Event-driven architecture lets components publish and react to events asynchronously, improving decoupling and scalability while introducing eventual consistency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Event-driven architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Event-driven architecture lets components publish and react to events asynchronously, improving decoupling and scalability while introducing eventual consistency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Event-driven architecture lets components publish and react to events asynchronously, improving decoupling and scalability while introducing eventual consistency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

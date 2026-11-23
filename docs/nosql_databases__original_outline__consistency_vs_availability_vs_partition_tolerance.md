@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Consistency returns the same latest value to clients, availability returns a response, and partition tolerance continues despite network splits. Trade-offs appear most clearly during partitions.
+> **Consistency returns the same latest value to clients, availability returns a response, and partition tolerance continues despite network splits. Trade-offs appear most clearly during partitions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Consistency vs Availability vs Partition Tolerance** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Consistency returns the same latest value to clients, availability returns a response, and partition tolerance continues despite network splits. Trade-offs appear most clearly during partitions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Consistency returns the same latest value to clients, availability returns a response, and partition tolerance continues despite network splits. Trade-offs appear most clearly during partitions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

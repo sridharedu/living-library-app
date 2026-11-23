@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Gradle tasks are units of work connected in a dependency graph and executed only when required.
+> **Gradle tasks are units of work connected in a dependency graph and executed only when required.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Gradle tasks** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. Gradle tasks are units of work connected in a dependency graph and executed only when required.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Gradle tasks are units of work connected in a dependency graph and executed only when required.
 
 ## 2. Execution Mechanics & Runtime Flow
 

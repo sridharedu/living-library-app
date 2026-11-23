@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> TDD can improve design feedback, regression safety, confidence, and refactorability. It is most effective when tests focus on behavior rather than internals.
+> **TDD can improve design feedback, regression safety, confidence, and refactorability. It is most effective when tests focus on behavior rather than internals.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Benefits of TDD** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. TDD can improve design feedback, regression safety, confidence, and refactorability. It is most effective when tests focus on behavior rather than internals.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+TDD can improve design feedback, regression safety, confidence, and refactorability. It is most effective when tests focus on behavior rather than internals.
 
 ## 2. Execution Mechanics & Runtime Flow
 

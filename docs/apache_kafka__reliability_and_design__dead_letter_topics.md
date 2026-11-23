@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A dead-letter topic stores records that cannot be processed after retry policy is exhausted.
+> **A dead-letter topic stores records that cannot be processed after retry policy is exhausted.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dead-letter topics** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. A dead-letter topic stores records that cannot be processed after retry policy is exhausted.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A dead-letter topic stores records that cannot be processed after retry policy is exhausted.
 
 ## 2. Execution Mechanics & Runtime Flow
 

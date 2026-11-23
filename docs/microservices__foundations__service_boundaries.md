@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Service boundaries define what a service owns, exposes, and changes independently. Good boundaries follow business capabilities rather than technical layers.
+> **Service boundaries define what a service owns, exposes, and changes independently. Good boundaries follow business capabilities rather than technical layers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Service boundaries** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Service boundaries define what a service owns, exposes, and changes independently. Good boundaries follow business capabilities rather than technical layers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Service boundaries define what a service owns, exposes, and changes independently. Good boundaries follow business capabilities rather than technical layers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

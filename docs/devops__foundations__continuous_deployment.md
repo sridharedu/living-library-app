@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Continuous deployment automatically releases every change that passes the required pipeline checks.
+> **Continuous deployment automatically releases every change that passes the required pipeline checks.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Continuous deployment** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Continuous deployment automatically releases every change that passes the required pipeline checks.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Continuous deployment automatically releases every change that passes the required pipeline checks.
 
 ## 2. Execution Mechanics & Runtime Flow
 

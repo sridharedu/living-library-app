@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @DataJpaTest loads a focused JPA test slice with repositories, entity mappings, and an embedded or configured database, usually rolling transactions back after each test.
+> **@DataJpaTest loads a focused JPA test slice with repositories, entity mappings, and an embedded or configured database, usually rolling transactions back after each test.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**DataJpaTest** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. @DataJpaTest loads a focused JPA test slice with repositories, entity mappings, and an embedded or configured database, usually rolling transactions back after each test.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@DataJpaTest loads a focused JPA test slice with repositories, entity mappings, and an embedded or configured database, usually rolling transactions back after each test.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CI/CD pipelines automate the journey from source change to tested and deployable software. They enforce repeatable checks and reduce manual release risk.
+> **CI/CD pipelines automate the journey from source change to tested and deployable software. They enforce repeatable checks and reduce manual release risk.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CI/CD Pipelines** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. CI/CD pipelines automate the journey from source change to tested and deployable software. They enforce repeatable checks and reduce manual release risk.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CI/CD pipelines automate the journey from source change to tested and deployable software. They enforce repeatable checks and reduce manual release risk.
 
 ## 2. Execution Mechanics & Runtime Flow
 

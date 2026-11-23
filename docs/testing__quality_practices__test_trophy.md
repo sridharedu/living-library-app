@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The test trophy emphasizes integration tests as the highest-value layer, supported by unit, end-to-end, and static checks.
+> **The test trophy emphasizes integration tests as the highest-value layer, supported by unit, end-to-end, and static checks.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Test trophy** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. The test trophy emphasizes integration tests as the highest-value layer, supported by unit, end-to-end, and static checks.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The test trophy emphasizes integration tests as the highest-value layer, supported by unit, end-to-end, and static checks.
 
 ## 2. Execution Mechanics & Runtime Flow
 

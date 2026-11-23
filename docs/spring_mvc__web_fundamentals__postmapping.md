@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> @PostMapping is a specialized shortcut for handling HTTP POST requests.
+> **@PostMapping is a specialized shortcut for handling HTTP POST requests.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**PostMapping** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @PostMapping is a specialized shortcut for handling HTTP POST requests.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+@PostMapping is a specialized shortcut for handling HTTP POST requests.
 
 ## 2. Execution Mechanics & Runtime Flow
 

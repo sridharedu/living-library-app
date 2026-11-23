@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Health checks determine whether an instance is alive, ready, or dependent on failing resources and should influence routing or recovery.
+> **Health checks determine whether an instance is alive, ready, or dependent on failing resources and should influence routing or recovery.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Health checks** serves as a foundational component within *Reliability* in the broader **System Design** ecosystem. Health checks determine whether an instance is alive, ready, or dependent on failing resources and should influence routing or recovery.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Health checks determine whether an instance is alive, ready, or dependent on failing resources and should influence routing or recovery.
 
 ## 2. Execution Mechanics & Runtime Flow
 

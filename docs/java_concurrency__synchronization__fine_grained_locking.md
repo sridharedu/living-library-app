@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Fine-grained locking protects smaller independent pieces of state with separate locks. It improves concurrency but increases design complexity.
+> **Fine-grained locking protects smaller independent pieces of state with separate locks. It improves concurrency but increases design complexity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Fine-grained locking** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. Fine-grained locking protects smaller independent pieces of state with separate locks. It improves concurrency but increases design complexity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Fine-grained locking protects smaller independent pieces of state with separate locks. It improves concurrency but increases design complexity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

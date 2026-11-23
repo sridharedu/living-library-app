@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Transaction isolation levels control how much one transaction can observe concurrent changes made by others.
+> **Transaction isolation levels control how much one transaction can observe concurrent changes made by others.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Transaction isolation levels** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. Transaction isolation levels control how much one transaction can observe concurrent changes made by others.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Transaction isolation levels control how much one transaction can observe concurrent changes made by others.
 
 ## 2. Execution Mechanics & Runtime Flow
 

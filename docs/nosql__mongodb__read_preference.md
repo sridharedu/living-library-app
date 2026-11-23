@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Read preference controls which replica-set members may serve reads, such as primary, secondary, nearest, or preferred variants.
+> **Read preference controls which replica-set members may serve reads, such as primary, secondary, nearest, or preferred variants.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Read preference** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. Read preference controls which replica-set members may serve reads, such as primary, secondary, nearest, or preferred variants.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Read preference controls which replica-set members may serve reads, such as primary, secondary, nearest, or preferred variants.
 
 ## 2. Execution Mechanics & Runtime Flow
 

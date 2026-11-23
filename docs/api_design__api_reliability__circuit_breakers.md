@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Circuit breakers stop calls to an unhealthy dependency, fail fast, and later probe whether recovery has occurred.
+> **Circuit breakers stop calls to an unhealthy dependency, fail fast, and later probe whether recovery has occurred.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Circuit breakers** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Circuit breakers stop calls to an unhealthy dependency, fail fast, and later probe whether recovery has occurred.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Circuit breakers stop calls to an unhealthy dependency, fail fast, and later probe whether recovery has occurred.
 
 ## 2. Execution Mechanics & Runtime Flow
 

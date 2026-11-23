@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The DevOps lifecycle includes planning, coding, building, testing, releasing, deploying, operating, monitoring, and feeding production learning back into development.
+> **The DevOps lifecycle includes planning, coding, building, testing, releasing, deploying, operating, monitoring, and feeding production learning back into development.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**DevOps Lifecycle** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. The DevOps lifecycle includes planning, coding, building, testing, releasing, deploying, operating, monitoring, and feeding production learning back into development.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The DevOps lifecycle includes planning, coding, building, testing, releasing, deploying, operating, monitoring, and feeding production learning back into development.
 
 ## 2. Execution Mechanics & Runtime Flow
 

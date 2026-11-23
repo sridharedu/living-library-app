@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Linking verifies bytecode, allocates static storage, and resolves references. Initialization executes static field initializers and static blocks.
+> **Linking verifies bytecode, allocates static storage, and resolves references. Initialization executes static field initializers and static blocks.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Linking and initialization** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. Linking verifies bytecode, allocates static storage, and resolves references. Initialization executes static field initializers and static blocks.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Linking verifies bytecode, allocates static storage, and resolves references. Initialization executes static field initializers and static blocks.
 
 ## 2. Execution Mechanics & Runtime Flow
 

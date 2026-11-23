@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Signals asynchronously notify processes about events such as termination, interruption, stop, continue, or user-defined conditions.
+> **Signals asynchronously notify processes about events such as termination, interruption, stop, continue, or user-defined conditions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Signals** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Signals asynchronously notify processes about events such as termination, interruption, stop, continue, or user-defined conditions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Signals asynchronously notify processes about events such as termination, interruption, stop, continue, or user-defined conditions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

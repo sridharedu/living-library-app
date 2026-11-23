@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> REST calls provide an immediate request-response interaction and are easy to understand. They also create temporal coupling, so timeouts, retries, circuit breakers, and idempotency are essential.
+> **REST calls provide an immediate request-response interaction and are easy to understand. They also create temporal coupling, so timeouts, retries, circuit breakers, and idempotency are essential.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Synchronous Communication (REST)** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. REST calls provide an immediate request-response interaction and are easy to understand. They also create temporal coupling, so timeouts, retries, circuit breakers, and idempotency are essential.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+REST calls provide an immediate request-response interaction and are easy to understand. They also create temporal coupling, so timeouts, retries, circuit breakers, and idempotency are essential.
 
 ## 2. Execution Mechanics & Runtime Flow
 

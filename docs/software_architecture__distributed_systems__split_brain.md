@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Split-brain occurs when multiple partitions believe they are authoritative, risking conflicting writes and divergent state.
+> **Split-brain occurs when multiple partitions believe they are authoritative, risking conflicting writes and divergent state.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Split-brain** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Split-brain occurs when multiple partitions believe they are authoritative, risking conflicting writes and divergent state.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Split-brain occurs when multiple partitions believe they are authoritative, risking conflicting writes and divergent state.
 
 ## 2. Execution Mechanics & Runtime Flow
 

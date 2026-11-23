@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Writing the test first forces the developer to define expected behavior and API shape before implementation details take over.
+> **Writing the test first forces the developer to define expected behavior and API shape before implementation details take over.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Writing Tests Before Code** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Writing the test first forces the developer to define expected behavior and API shape before implementation details take over.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Writing the test first forces the developer to define expected behavior and API shape before implementation details take over.
 
 ## 2. Execution Mechanics & Runtime Flow
 

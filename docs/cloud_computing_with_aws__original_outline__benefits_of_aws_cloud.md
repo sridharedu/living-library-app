@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS provides elastic capacity, global reach, managed services, automation, security controls, and multiple pricing models. Benefits depend on disciplined architecture and cost governance.
+> **AWS provides elastic capacity, global reach, managed services, automation, security controls, and multiple pricing models. Benefits depend on disciplined architecture and cost governance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Benefits of AWS Cloud** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS provides elastic capacity, global reach, managed services, automation, security controls, and multiple pricing models. Benefits depend on disciplined architecture and cost governance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS provides elastic capacity, global reach, managed services, automation, security controls, and multiple pricing models. Benefits depend on disciplined architecture and cost governance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

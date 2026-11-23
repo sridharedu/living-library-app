@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A local secondary index shares the base table's partition key but uses a different sort key and must be created with the table.
+> **A local secondary index shares the base table's partition key but uses a different sort key and must be created with the table.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Local secondary indexes** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. A local secondary index shares the base table's partition key but uses a different sort key and must be created with the table.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A local secondary index shares the base table's partition key but uses a different sort key and must be created with the table.
 
 ## 2. Execution Mechanics & Runtime Flow
 

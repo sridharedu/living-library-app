@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> NoSQL can scale horizontally and model data flexibly, but may sacrifice joins, strong consistency, standard querying, or operational simplicity.
+> **NoSQL can scale horizontally and model data flexibly, but may sacrifice joins, strong consistency, standard querying, or operational simplicity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Advantages and Disadvantages of NoSQL** serves as a foundational component within *Original outline* in the broader **SQL vs NoSQL** ecosystem. NoSQL can scale horizontally and model data flexibly, but may sacrifice joins, strong consistency, standard querying, or operational simplicity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+NoSQL can scale horizontally and model data flexibly, but may sacrifice joins, strong consistency, standard querying, or operational simplicity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

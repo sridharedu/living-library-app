@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS KMS manages encryption keys and cryptographic operations with policy control and audit integration.
+> **AWS KMS manages encryption keys and cryptographic operations with policy control and audit integration.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**KMS** serves as a foundational component within *Security* in the broader **AWS** ecosystem. AWS KMS manages encryption keys and cryptographic operations with policy control and audit integration.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS KMS manages encryption keys and cryptographic operations with policy control and audit integration.
 
 ## 2. Execution Mechanics & Runtime Flow
 

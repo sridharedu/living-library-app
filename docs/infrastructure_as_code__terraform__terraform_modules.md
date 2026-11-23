@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Terraform module groups reusable resources, variables, outputs, and internal logic behind a stable interface.
+> **A Terraform module groups reusable resources, variables, outputs, and internal logic behind a stable interface.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Terraform modules** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. A Terraform module groups reusable resources, variables, outputs, and internal logic behind a stable interface.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Terraform module groups reusable resources, variables, outputs, and internal logic behind a stable interface.
 
 ## 2. Execution Mechanics & Runtime Flow
 

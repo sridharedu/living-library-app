@@ -1,5 +1,4 @@
-> **Core Definition:**  
-> A consumer group shares topic partitions among members so each partition is processed by only one member at a time.
+> **A consumer group shares topic partitions among members so each partition is processed by only one member at a time.**
 
 ---
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An LRU cache can use LinkedHashMap in access-order mode and override removeEldestEntry to evict the least recently used item.
+> **An LRU cache can use LinkedHashMap in access-order mode and override removeEldestEntry to evict the least recently used item.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**LRU cache with LinkedHashMap** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. An LRU cache can use LinkedHashMap in access-order mode and override removeEldestEntry to evict the least recently used item.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An LRU cache can use LinkedHashMap in access-order mode and override removeEldestEntry to evict the least recently used item.
 
 ## 2. Execution Mechanics & Runtime Flow
 

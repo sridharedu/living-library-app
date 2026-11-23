@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> API gateways provide a managed entry point for routing, authentication, rate limiting, transformation, and observability.
+> **API gateways provide a managed entry point for routing, authentication, rate limiting, transformation, and observability.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**API gateways** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. API gateways provide a managed entry point for routing, authentication, rate limiting, transformation, and observability.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+API gateways provide a managed entry point for routing, authentication, rate limiting, transformation, and observability.
 
 ## 2. Execution Mechanics & Runtime Flow
 

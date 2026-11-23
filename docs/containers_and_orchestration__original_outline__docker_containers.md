@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Docker container is an isolated process launched from an image with a small writable layer. Its lifecycle is independent from the image used to create it.
+> **A Docker container is an isolated process launched from an image with a small writable layer. Its lifecycle is independent from the image used to create it.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Docker Containers** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Docker container is an isolated process launched from an image with a small writable layer. Its lifecycle is independent from the image used to create it.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Docker container is an isolated process launched from an image with a small writable layer. Its lifecycle is independent from the image used to create it.
 
 ## 2. Execution Mechanics & Runtime Flow
 

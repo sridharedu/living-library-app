@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Assertions compare actual outcomes with expectations. Common examples include assertEquals, assertTrue, assertThrows, and assertAll.
+> **Assertions compare actual outcomes with expectations. Common examples include assertEquals, assertTrue, assertThrows, and assertAll.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Assertions in JUnit** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Assertions compare actual outcomes with expectations. Common examples include assertEquals, assertTrue, assertThrows, and assertAll.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Assertions compare actual outcomes with expectations. Common examples include assertEquals, assertTrue, assertThrows, and assertAll.
 
 ## 2. Execution Mechanics & Runtime Flow
 

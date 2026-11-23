@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> WebTestClient is a fluent HTTP test client for WebFlux and can also test live servers or selected Spring MVC applications.
+> **WebTestClient is a fluent HTTP test client for WebFlux and can also test live servers or selected Spring MVC applications.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**WebTestClient** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. WebTestClient is a fluent HTTP test client for WebFlux and can also test live servers or selected Spring MVC applications.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+WebTestClient is a fluent HTTP test client for WebFlux and can also test live servers or selected Spring MVC applications.
 
 ## 2. Execution Mechanics & Runtime Flow
 

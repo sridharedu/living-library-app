@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Secure HTTP headers such as HSTS, CSP, X-Content-Type-Options, and frame restrictions reduce browser-based attack surfaces.
+> **Secure HTTP headers such as HSTS, CSP, X-Content-Type-Options, and frame restrictions reduce browser-based attack surfaces.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Secure headers** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Secure HTTP headers such as HSTS, CSP, X-Content-Type-Options, and frame restrictions reduce browser-based attack surfaces.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Secure HTTP headers such as HSTS, CSP, X-Content-Type-Options, and frame restrictions reduce browser-based attack surfaces.
 
 ## 2. Execution Mechanics & Runtime Flow
 

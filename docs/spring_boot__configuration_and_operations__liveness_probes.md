@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A liveness probe answers whether the process is still functioning. Failure should trigger restart, so it must not depend on optional external systems.
+> **A liveness probe answers whether the process is still functioning. Failure should trigger restart, so it must not depend on optional external systems.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Liveness probes** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. A liveness probe answers whether the process is still functioning. Failure should trigger restart, so it must not depend on optional external systems.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A liveness probe answers whether the process is still functioning. Failure should trigger restart, so it must not depend on optional external systems.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Most objects are allocated quickly by moving a pointer in a thread-local or shared heap region, followed by initialization.
+> **Most objects are allocated quickly by moving a pointer in a thread-local or shared heap region, followed by initialization.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Object allocation** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. Most objects are allocated quickly by moving a pointer in a thread-local or shared heap region, followed by initialization.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Most objects are allocated quickly by moving a pointer in a thread-local or shared heap region, followed by initialization.
 
 ## 2. Execution Mechanics & Runtime Flow
 

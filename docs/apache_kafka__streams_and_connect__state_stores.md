@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kafka Streams state stores hold local materialized state for aggregations, joins, and lookups and are backed by changelog topics.
+> **Kafka Streams state stores hold local materialized state for aggregations, joins, and lookups and are backed by changelog topics.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**State stores** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. Kafka Streams state stores hold local materialized state for aggregations, joins, and lookups and are backed by changelog topics.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kafka Streams state stores hold local materialized state for aggregations, joins, and lookups and are backed by changelog topics.
 
 ## 2. Execution Mechanics & Runtime Flow
 

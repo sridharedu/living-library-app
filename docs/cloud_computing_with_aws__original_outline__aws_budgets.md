@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Budgets monitors cost, usage, reservation coverage, or Savings Plans utilization against thresholds. It can send alerts and trigger selected actions.
+> **AWS Budgets monitors cost, usage, reservation coverage, or Savings Plans utilization against thresholds. It can send alerts and trigger selected actions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Budgets** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS Budgets monitors cost, usage, reservation coverage, or Savings Plans utilization against thresholds. It can send alerts and trigger selected actions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Budgets monitors cost, usage, reservation coverage, or Savings Plans utilization against thresholds. It can send alerts and trigger selected actions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

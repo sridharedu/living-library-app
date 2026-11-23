@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Java Platform Module System uses module-info.java to declare requires, exports, opens, uses, and provides relationships.
+> **The Java Platform Module System uses module-info.java to declare requires, exports, opens, uses, and provides relationships.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**JPMS** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. The Java Platform Module System uses module-info.java to declare requires, exports, opens, uses, and provides relationships.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Java Platform Module System uses module-info.java to declare requires, exports, opens, uses, and provides relationships.
 
 ## 2. Execution Mechanics & Runtime Flow
 

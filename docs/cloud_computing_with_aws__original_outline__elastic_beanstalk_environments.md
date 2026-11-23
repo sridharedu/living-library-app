@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An Elastic Beanstalk environment is a running application version with provisioned infrastructure. Common types are web server environments and worker environments.
+> **An Elastic Beanstalk environment is a running application version with provisioned infrastructure. Common types are web server environments and worker environments.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Elastic Beanstalk Environments** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. An Elastic Beanstalk environment is a running application version with provisioned infrastructure. Common types are web server environments and worker environments.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An Elastic Beanstalk environment is a running application version with provisioned infrastructure. Common types are web server environments and worker environments.
 
 ## 2. Execution Mechanics & Runtime Flow
 

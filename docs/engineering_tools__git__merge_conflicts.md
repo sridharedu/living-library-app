@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A merge conflict occurs when Git cannot automatically reconcile overlapping changes and requires human resolution.
+> **A merge conflict occurs when Git cannot automatically reconcile overlapping changes and requires human resolution.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Merge conflicts** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. A merge conflict occurs when Git cannot automatically reconcile overlapping changes and requires human resolution.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A merge conflict occurs when Git cannot automatically reconcile overlapping changes and requires human resolution.
 
 ## 2. Execution Mechanics & Runtime Flow
 

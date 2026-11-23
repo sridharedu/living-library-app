@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The test lifecycle controls setup and cleanup before or after each test or test class.
+> **The test lifecycle controls setup and cleanup before or after each test or test class.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Test lifecycle** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. The test lifecycle controls setup and cleanup before or after each test or test class.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The test lifecycle controls setup and cleanup before or after each test or test class.
 
 ## 2. Execution Mechanics & Runtime Flow
 

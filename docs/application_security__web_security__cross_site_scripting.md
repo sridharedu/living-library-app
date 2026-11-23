@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cross-site scripting executes attacker-controlled script in a user's browser. Prevent it with contextual output encoding, safe templates, and CSP.
+> **Cross-site scripting executes attacker-controlled script in a user's browser. Prevent it with contextual output encoding, safe templates, and CSP.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cross-site scripting** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Cross-site scripting executes attacker-controlled script in a user's browser. Prevent it with contextual output encoding, safe templates, and CSP.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cross-site scripting executes attacker-controlled script in a user's browser. Prevent it with contextual output encoding, safe templates, and CSP.
 
 ## 2. Execution Mechanics & Runtime Flow
 

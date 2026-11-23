@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> API filtering lets clients restrict results using explicit query parameters with validated fields and operators.
+> **API filtering lets clients restrict results using explicit query parameters with validated fields and operators.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Filtering** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. API filtering lets clients restrict results using explicit query parameters with validated fields and operators.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+API filtering lets clients restrict results using explicit query parameters with validated fields and operators.
 
 ## 2. Execution Mechanics & Runtime Flow
 

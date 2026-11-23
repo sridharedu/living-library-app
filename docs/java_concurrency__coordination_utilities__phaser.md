@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Phaser coordinates reusable multi-phase work with dynamically registering and deregistering parties.
+> **Phaser coordinates reusable multi-phase work with dynamically registering and deregistering parties.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Phaser** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. Phaser coordinates reusable multi-phase work with dynamically registering and deregistering parties.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Phaser coordinates reusable multi-phase work with dynamically registering and deregistering parties.
 
 ## 2. Execution Mechanics & Runtime Flow
 

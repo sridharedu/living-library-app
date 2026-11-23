@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Command injection occurs when untrusted input becomes part of an operating-system command. Avoid shell execution or use fixed arguments and strict validation.
+> **Command injection occurs when untrusted input becomes part of an operating-system command. Avoid shell execution or use fixed arguments and strict validation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Command injection** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Command injection occurs when untrusted input becomes part of an operating-system command. Avoid shell execution or use fixed arguments and strict validation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Command injection occurs when untrusted input becomes part of an operating-system command. Avoid shell execution or use fixed arguments and strict validation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

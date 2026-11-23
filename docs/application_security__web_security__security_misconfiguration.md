@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Security misconfiguration includes unsafe defaults, open services, verbose errors, missing headers, weak permissions, and outdated settings.
+> **Security misconfiguration includes unsafe defaults, open services, verbose errors, missing headers, weak permissions, and outdated settings.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Security misconfiguration** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Security misconfiguration includes unsafe defaults, open services, verbose errors, missing headers, weak permissions, and outdated settings.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Security misconfiguration includes unsafe defaults, open services, verbose errors, missing headers, weak permissions, and outdated settings.
 
 ## 2. Execution Mechanics & Runtime Flow
 

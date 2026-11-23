@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Boot resolves configuration from ordered property sources, with higher-precedence sources overriding lower ones.
+> **Spring Boot resolves configuration from ordered property sources, with higher-precedence sources overriding lower ones.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Spring Boot configuration precedence** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. Spring Boot resolves configuration from ordered property sources, with higher-precedence sources overriding lower ones.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Boot resolves configuration from ordered property sources, with higher-precedence sources overriding lower ones.
 
 ## 2. Execution Mechanics & Runtime Flow
 

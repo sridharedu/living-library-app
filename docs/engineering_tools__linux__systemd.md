@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> systemd manages Linux services, startup dependencies, timers, logs, and unit lifecycle.
+> **systemd manages Linux services, startup dependencies, timers, logs, and unit lifecycle.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**systemd** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. systemd manages Linux services, startup dependencies, timers, logs, and unit lifecycle.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+systemd manages Linux services, startup dependencies, timers, logs, and unit lifecycle.
 
 ## 2. Execution Mechanics & Runtime Flow
 

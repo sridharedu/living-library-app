@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A merge join walks two inputs sorted by the join key. It is efficient when both sides are already ordered.
+> **A merge join walks two inputs sorted by the join key. It is efficient when both sides are already ordered.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Merge join** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. A merge join walks two inputs sorted by the join key. It is efficient when both sides are already ordered.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A merge join walks two inputs sorted by the join key. It is efficient when both sides are already ordered.
 
 ## 2. Execution Mechanics & Runtime Flow
 

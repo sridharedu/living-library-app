@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Common logging tools include Elasticsearch, Logstash, Kibana, Fluent Bit, Fluentd, Loki, Splunk, and cloud-native log services.
+> **Common logging tools include Elasticsearch, Logstash, Kibana, Fluent Bit, Fluentd, Loki, Splunk, and cloud-native log services.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Logging Tools** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Common logging tools include Elasticsearch, Logstash, Kibana, Fluent Bit, Fluentd, Loki, Splunk, and cloud-native log services.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Common logging tools include Elasticsearch, Logstash, Kibana, Fluent Bit, Fluentd, Loki, Splunk, and cloud-native log services.
 
 ## 2. Execution Mechanics & Runtime Flow
 

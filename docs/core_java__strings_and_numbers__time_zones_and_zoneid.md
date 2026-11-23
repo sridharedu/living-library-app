@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ZoneId identifies a region-based time zone with daylight-saving rules. ZonedDateTime combines local date-time with that zone.
+> **ZoneId identifies a region-based time zone with daylight-saving rules. ZonedDateTime combines local date-time with that zone.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Time zones and ZoneId** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. ZoneId identifies a region-based time zone with daylight-saving rules. ZonedDateTime combines local date-time with that zone.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ZoneId identifies a region-based time zone with daylight-saving rules. ZonedDateTime combines local date-time with that zone.
 
 ## 2. Execution Mechanics & Runtime Flow
 

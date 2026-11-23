@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Asynchronous replication acknowledges writes before replicas catch up. It reduces latency but allows replication lag and possible data loss during failover.
+> **Asynchronous replication acknowledges writes before replicas catch up. It reduces latency but allows replication lag and possible data loss during failover.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Asynchronous Replication** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Asynchronous replication acknowledges writes before replicas catch up. It reduces latency but allows replication lag and possible data loss during failover.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Asynchronous replication acknowledges writes before replicas catch up. It reduces latency but allows replication lag and possible data loss during failover.
 
 ## 2. Execution Mechanics & Runtime Flow
 

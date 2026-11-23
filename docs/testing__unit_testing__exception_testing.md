@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Exception tests verify that a specific operation throws the expected type and, where useful, expected details.
+> **Exception tests verify that a specific operation throws the expected type and, where useful, expected details.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Exception testing** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Exception tests verify that a specific operation throws the expected type and, where useful, expected details.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Exception tests verify that a specific operation throws the expected type and, where useful, expected details.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Properly constructed objects give special visibility guarantees for final fields. Other threads can safely observe their initialized values after safe publication.
+> **Properly constructed objects give special visibility guarantees for final fields. Other threads can safely observe their initialized values after safe publication.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Final field semantics** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Properly constructed objects give special visibility guarantees for final fields. Other threads can safely observe their initialized values after safe publication.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Properly constructed objects give special visibility guarantees for final fields. Other threads can safely observe their initialized values after safe publication.
 
 ## 2. Execution Mechanics & Runtime Flow
 

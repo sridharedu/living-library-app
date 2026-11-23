@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Redis Sentinel monitors primary and replica nodes, performs failover, and helps clients discover the current primary.
+> **Redis Sentinel monitors primary and replica nodes, performs failover, and helps clients discover the current primary.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Redis Sentinel** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis Sentinel monitors primary and replica nodes, performs failover, and helps clients discover the current primary.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Redis Sentinel monitors primary and replica nodes, performs failover, and helps clients discover the current primary.
 
 ## 2. Execution Mechanics & Runtime Flow
 

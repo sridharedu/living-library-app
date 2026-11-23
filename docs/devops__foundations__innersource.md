@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> InnerSource applies open-source collaboration practices within an organization, including discoverable repositories, contribution rules, and shared ownership.
+> **InnerSource applies open-source collaboration practices within an organization, including discoverable repositories, contribution rules, and shared ownership.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**InnerSource** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. InnerSource applies open-source collaboration practices within an organization, including discoverable repositories, contribution rules, and shared ownership.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+InnerSource applies open-source collaboration practices within an organization, including discoverable repositories, contribution rules, and shared ownership.
 
 ## 2. Execution Mechanics & Runtime Flow
 

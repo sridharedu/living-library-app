@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> jcmd sends diagnostic commands to a running JVM for thread dumps, heap dumps, GC information, Flight Recorder, and native-memory tracking.
+> **jcmd sends diagnostic commands to a running JVM for thread dumps, heap dumps, GC information, Flight Recorder, and native-memory tracking.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**jcmd** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. jcmd sends diagnostic commands to a running JVM for thread dumps, heap dumps, GC information, Flight Recorder, and native-memory tracking.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+jcmd sends diagnostic commands to a running JVM for thread dumps, heap dumps, GC information, Flight Recorder, and native-memory tracking.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ThreadPoolExecutor is the configurable core implementation behind many executors. It controls pool size, queueing, thread creation, and rejection.
+> **ThreadPoolExecutor is the configurable core implementation behind many executors. It controls pool size, queueing, thread creation, and rejection.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ThreadPoolExecutor** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. ThreadPoolExecutor is the configurable core implementation behind many executors. It controls pool size, queueing, thread creation, and rejection.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ThreadPoolExecutor is the configurable core implementation behind many executors. It controls pool size, queueing, thread creation, and rejection.
 
 ## 2. Execution Mechanics & Runtime Flow
 

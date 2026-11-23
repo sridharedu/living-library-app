@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Heap-dump analysis identifies dominant object types, retained size, reference chains, duplicate data, and GC-root paths that keep unwanted objects alive.
+> **Heap-dump analysis identifies dominant object types, retained size, reference chains, duplicate data, and GC-root paths that keep unwanted objects alive.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Heap dump analysis** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Heap-dump analysis identifies dominant object types, retained size, reference chains, duplicate data, and GC-root paths that keep unwanted objects alive.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Heap-dump analysis identifies dominant object types, retained size, reference chains, duplicate data, and GC-root paths that keep unwanted objects alive.
 
 ## 2. Execution Mechanics & Runtime Flow
 

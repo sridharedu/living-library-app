@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Async request processing releases the servlet thread while work continues and resumes response handling when the result becomes available.
+> **Async request processing releases the servlet thread while work continues and resumes response handling when the result becomes available.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Async request processing** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Async request processing releases the servlet thread while work continues and resumes response handling when the result becomes available.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Async request processing releases the servlet thread while work continues and resumes response handling when the result becomes available.
 
 ## 2. Execution Mechanics & Runtime Flow
 

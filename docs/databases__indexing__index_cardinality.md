@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Index cardinality is the number of distinct indexed values. Higher cardinality often improves filtering efficiency.
+> **Index cardinality is the number of distinct indexed values. Higher cardinality often improves filtering efficiency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Index cardinality** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. Index cardinality is the number of distinct indexed values. Higher cardinality often improves filtering efficiency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Index cardinality is the number of distinct indexed values. Higher cardinality often improves filtering efficiency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

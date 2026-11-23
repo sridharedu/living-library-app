@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Shift-left testing moves quality and security feedback earlier in development so defects are cheaper to fix.
+> **Shift-left testing moves quality and security feedback earlier in development so defects are cheaper to fix.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Shift-left testing** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Shift-left testing moves quality and security feedback earlier in development so defects are cheaper to fix.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Shift-left testing moves quality and security feedback earlier in development so defects are cheaper to fix.
 
 ## 2. Execution Mechanics & Runtime Flow
 

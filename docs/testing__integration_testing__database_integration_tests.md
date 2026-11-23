@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Database integration tests verify mappings, SQL, constraints, transactions, migrations, and query behavior against a real database engine.
+> **Database integration tests verify mappings, SQL, constraints, transactions, migrations, and query behavior against a real database engine.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Database integration tests** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. Database integration tests verify mappings, SQL, constraints, transactions, migrations, and query behavior against a real database engine.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Database integration tests verify mappings, SQL, constraints, transactions, migrations, and query behavior against a real database engine.
 
 ## 2. Execution Mechanics & Runtime Flow
 

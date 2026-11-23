@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Serverless architecture uses managed functions and services that scale on demand, reducing infrastructure work but increasing platform coupling and cold-start concerns.
+> **Serverless architecture uses managed functions and services that scale on demand, reducing infrastructure work but increasing platform coupling and cold-start concerns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Serverless architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Serverless architecture uses managed functions and services that scale on demand, reducing infrastructure work but increasing platform coupling and cold-start concerns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Serverless architecture uses managed functions and services that scale on demand, reducing infrastructure work but increasing platform coupling and cold-start concerns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

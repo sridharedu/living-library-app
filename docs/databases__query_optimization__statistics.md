@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Database statistics describe row counts, distinct values, distributions, and correlations used by the optimizer.
+> **Database statistics describe row counts, distinct values, distributions, and correlations used by the optimizer.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Statistics** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Database statistics describe row counts, distinct values, distributions, and correlations used by the optimizer.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Database statistics describe row counts, distinct values, distributions, and correlations used by the optimizer.
 
 ## 2. Execution Mechanics & Runtime Flow
 

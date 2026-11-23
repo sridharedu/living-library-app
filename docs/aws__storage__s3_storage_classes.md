@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> S3 storage classes trade access cost, retrieval time, resilience, and minimum duration for different usage patterns.
+> **S3 storage classes trade access cost, retrieval time, resilience, and minimum duration for different usage patterns.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**S3 storage classes** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. S3 storage classes trade access cost, retrieval time, resilience, and minimum duration for different usage patterns.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+S3 storage classes trade access cost, retrieval time, resilience, and minimum duration for different usage patterns.
 
 ## 2. Execution Mechanics & Runtime Flow
 

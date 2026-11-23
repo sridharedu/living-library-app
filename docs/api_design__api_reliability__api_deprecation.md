@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> API deprecation communicates that a contract will be retired and provides timelines, migration guidance, and usage monitoring.
+> **API deprecation communicates that a contract will be retired and provides timelines, migration guidance, and usage monitoring.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**API deprecation** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. API deprecation communicates that a contract will be retired and provides timelines, migration guidance, and usage monitoring.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+API deprecation communicates that a contract will be retired and provides timelines, migration guidance, and usage monitoring.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Redis strings store binary-safe values and support counters, ranges, expiration, and atomic updates.
+> **Redis strings store binary-safe values and support counters, ranges, expiration, and atomic updates.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Strings** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis strings store binary-safe values and support counters, ranges, expiration, and atomic updates.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Redis strings store binary-safe values and support counters, ranges, expiration, and atomic updates.
 
 ## 2. Execution Mechanics & Runtime Flow
 

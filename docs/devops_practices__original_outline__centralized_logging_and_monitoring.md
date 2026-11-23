@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Centralization brings logs and metrics from many services into shared systems. It enables cross-service search, dashboards, alerting, and faster incident investigation.
+> **Centralization brings logs and metrics from many services into shared systems. It enables cross-service search, dashboards, alerting, and faster incident investigation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Centralized Logging and Monitoring** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Centralization brings logs and metrics from many services into shared systems. It enables cross-service search, dashboards, alerting, and faster incident investigation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Centralization brings logs and metrics from many services into shared systems. It enables cross-service search, dashboards, alerting, and faster incident investigation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

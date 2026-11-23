@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A dead-letter queue stores messages that could not be processed after configured retries, allowing investigation and controlled replay.
+> **A dead-letter queue stores messages that could not be processed after configured retries, allowing investigation and controlled replay.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Dead-letter queues** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. A dead-letter queue stores messages that could not be processed after configured retries, allowing investigation and controlled replay.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A dead-letter queue stores messages that could not be processed after configured retries, allowing investigation and controlled replay.
 
 ## 2. Execution Mechanics & Runtime Flow
 

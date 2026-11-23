@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kubernetes RBAC grants permissions through Roles, ClusterRoles, RoleBindings, and ClusterRoleBindings.
+> **Kubernetes RBAC grants permissions through Roles, ClusterRoles, RoleBindings, and ClusterRoleBindings.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RBAC** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Kubernetes RBAC grants permissions through Roles, ClusterRoles, RoleBindings, and ClusterRoleBindings.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kubernetes RBAC grants permissions through Roles, ClusterRoles, RoleBindings, and ClusterRoleBindings.
 
 ## 2. Execution Mechanics & Runtime Flow
 

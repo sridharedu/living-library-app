@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Config records resource configurations and how they change over time. It helps answer what changed, when it changed, and whether resources comply with expected rules.
+> **AWS Config records resource configurations and how they change over time. It helps answer what changed, when it changed, and whether resources comply with expected rules.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**AWS Config** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS Config records resource configurations and how they change over time. It helps answer what changed, when it changed, and whether resources comply with expected rules.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Config records resource configurations and how they change over time. It helps answer what changed, when it changed, and whether resources comply with expected rules.
 
 ## 2. Execution Mechanics & Runtime Flow
 

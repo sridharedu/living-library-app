@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CrudRepository provides basic create, read, update, delete, count, and existence operations.
+> **CrudRepository provides basic create, read, update, delete, count, and existence operations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CrudRepository** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. CrudRepository provides basic create, read, update, delete, count, and existence operations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CrudRepository provides basic create, read, update, delete, count, and existence operations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

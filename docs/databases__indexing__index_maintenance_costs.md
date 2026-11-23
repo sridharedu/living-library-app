@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Indexes consume storage and add work to inserts, updates, deletes, vacuuming, and statistics maintenance.
+> **Indexes consume storage and add work to inserts, updates, deletes, vacuuming, and statistics maintenance.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Index maintenance costs** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. Indexes consume storage and add work to inserts, updates, deletes, vacuuming, and statistics maintenance.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Indexes consume storage and add work to inserts, updates, deletes, vacuuming, and statistics maintenance.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A data contract defines schema, semantics, ownership, quality, compatibility, and delivery expectations between producers and consumers.
+> **A data contract defines schema, semantics, ownership, quality, compatibility, and delivery expectations between producers and consumers.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Data contracts** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. A data contract defines schema, semantics, ownership, quality, compatibility, and delivery expectations between producers and consumers.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A data contract defines schema, semantics, ownership, quality, compatibility, and delivery expectations between producers and consumers.
 
 ## 2. Execution Mechanics & Runtime Flow
 

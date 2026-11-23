@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> application.properties stores flat key-value configuration using dotted names.
+> **application.properties stores flat key-value configuration using dotted names.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**application.properties** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. application.properties stores flat key-value configuration using dotted names.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+application.properties stores flat key-value configuration using dotted names.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Handlers are tasks triggered by notifications and usually run once at the end of a play, commonly to restart changed services.
+> **Handlers are tasks triggered by notifications and usually run once at the end of a play, commonly to restart changed services.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Handlers** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Handlers are tasks triggered by notifications and usually run once at the end of a play, commonly to restart changed services.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Handlers are tasks triggered by notifications and usually run once at the end of a play, commonly to restart changed services.
 
 ## 2. Execution Mechanics & Runtime Flow
 

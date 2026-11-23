@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A Thread-Local Allocation Buffer gives each thread a private heap region for fast lock-free object allocation.
+> **A Thread-Local Allocation Buffer gives each thread a private heap region for fast lock-free object allocation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**TLAB** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. A Thread-Local Allocation Buffer gives each thread a private heap region for fast lock-free object allocation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A Thread-Local Allocation Buffer gives each thread a private heap region for fast lock-free object allocation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

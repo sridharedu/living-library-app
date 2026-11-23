@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> With cache-aside, the application reads the cache first, loads missing data from the database, and then populates the cache.
+> **With cache-aside, the application reads the cache first, loads missing data from the database, and then populates the cache.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cache-aside** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. With cache-aside, the application reads the cache first, loads missing data from the database, and then populates the cache.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+With cache-aside, the application reads the cache first, loads missing data from the database, and then populates the cache.
 
 ## 2. Execution Mechanics & Runtime Flow
 

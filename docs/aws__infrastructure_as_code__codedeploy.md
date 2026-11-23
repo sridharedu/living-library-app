@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS CodeDeploy automates application deployment to EC2, on-premises servers, Lambda, and ECS.
+> **AWS CodeDeploy automates application deployment to EC2, on-premises servers, Lambda, and ECS.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CodeDeploy** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. AWS CodeDeploy automates application deployment to EC2, on-premises servers, Lambda, and ECS.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS CodeDeploy automates application deployment to EC2, on-premises servers, Lambda, and ECS.
 
 ## 2. Execution Mechanics & Runtime Flow
 

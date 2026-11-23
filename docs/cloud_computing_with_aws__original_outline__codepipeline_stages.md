@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A pipeline stage groups one or more actions, such as fetching source, running a build, or deploying. Artifacts move between stages and failures stop downstream execution.
+> **A pipeline stage groups one or more actions, such as fetching source, running a build, or deploying. Artifacts move between stages and failures stop downstream execution.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CodePipeline Stages** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A pipeline stage groups one or more actions, such as fetching source, running a build, or deploying. Artifacts move between stages and failures stop downstream execution.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A pipeline stage groups one or more actions, such as fetching source, running a build, or deploying. Artifacts move between stages and failures stop downstream execution.
 
 ## 2. Execution Mechanics & Runtime Flow
 

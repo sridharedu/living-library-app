@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> HTTP methods express intent: GET reads, POST creates or processes, PUT replaces, PATCH partially updates, and DELETE removes.
+> **HTTP methods express intent: GET reads, POST creates or processes, PUT replaces, PATCH partially updates, and DELETE removes.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**HTTP methods** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. HTTP methods express intent: GET reads, POST creates or processes, PUT replaces, PATCH partially updates, and DELETE removes.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+HTTP methods express intent: GET reads, POST creates or processes, PUT replaces, PATCH partially updates, and DELETE removes.
 
 ## 2. Execution Mechanics & Runtime Flow
 

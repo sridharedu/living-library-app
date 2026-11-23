@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> High availability keeps a service accessible despite expected component failures through redundancy, health checks, and failover.
+> **High availability keeps a service accessible despite expected component failures through redundancy, health checks, and failover.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**High availability** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. High availability keeps a service accessible despite expected component failures through redundancy, health checks, and failover.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+High availability keeps a service accessible despite expected component failures through redundancy, health checks, and failover.
 
 ## 2. Execution Mechanics & Runtime Flow
 

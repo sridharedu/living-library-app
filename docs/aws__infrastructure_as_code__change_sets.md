@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A CloudFormation change set previews resource additions, modifications, and removals before an update is executed.
+> **A CloudFormation change set previews resource additions, modifications, and removals before an update is executed.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Change sets** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. A CloudFormation change set previews resource additions, modifications, and removals before an update is executed.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A CloudFormation change set previews resource additions, modifications, and removals before an update is executed.
 
 ## 2. Execution Mechanics & Runtime Flow
 

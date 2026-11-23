@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Lambda layers package shared libraries, runtimes, or utilities separately from function code.
+> **Lambda layers package shared libraries, runtimes, or utilities separately from function code.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Lambda layers** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. Lambda layers package shared libraries, runtimes, or utilities separately from function code.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Lambda layers package shared libraries, runtimes, or utilities separately from function code.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Popular relational databases include PostgreSQL, MySQL, Oracle Database, SQL Server, MariaDB, and cloud-native engines such as Aurora.
+> **Popular relational databases include PostgreSQL, MySQL, Oracle Database, SQL Server, MariaDB, and cloud-native engines such as Aurora.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Popular Relational Databases** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. Popular relational databases include PostgreSQL, MySQL, Oracle Database, SQL Server, MariaDB, and cloud-native engines such as Aurora.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Popular relational databases include PostgreSQL, MySQL, Oracle Database, SQL Server, MariaDB, and cloud-native engines such as Aurora.
 
 ## 2. Execution Mechanics & Runtime Flow
 

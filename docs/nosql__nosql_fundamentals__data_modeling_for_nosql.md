@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> NoSQL models should be designed around access patterns, duplication, partition distribution, and expected consistency rather than normalization alone.
+> **NoSQL models should be designed around access patterns, duplication, partition distribution, and expected consistency rather than normalization alone.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Data modeling for NoSQL** serves as a foundational component within *NoSQL Fundamentals* in the broader **NoSQL** ecosystem. NoSQL models should be designed around access patterns, duplication, partition distribution, and expected consistency rather than normalization alone.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+NoSQL models should be designed around access patterns, duplication, partition distribution, and expected consistency rather than normalization alone.
 
 ## 2. Execution Mechanics & Runtime Flow
 

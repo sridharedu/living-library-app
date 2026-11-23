@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Kubernetes expects each Pod to receive its own routable IP and communicate with other Pods without NAT inside the cluster.
+> **Kubernetes expects each Pod to receive its own routable IP and communicate with other Pods without NAT inside the cluster.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Pod networking** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. Kubernetes expects each Pod to receive its own routable IP and communicate with other Pods without NAT inside the cluster.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Kubernetes expects each Pod to receive its own routable IP and communicate with other Pods without NAT inside the cluster.
 
 ## 2. Execution Mechanics & Runtime Flow
 

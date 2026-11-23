@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Change data capture streams database changes from logs or tables into downstream systems without modifying the original write path.
+> **Change data capture streams database changes from logs or tables into downstream systems without modifying the original write path.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Change data capture** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. Change data capture streams database changes from logs or tables into downstream systems without modifying the original write path.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Change data capture streams database changes from logs or tables into downstream systems without modifying the original write path.
 
 ## 2. Execution Mechanics & Runtime Flow
 

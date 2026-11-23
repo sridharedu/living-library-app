@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Key management covers generation, storage, access control, rotation, backup, revocation, and destruction of cryptographic keys.
+> **Key management covers generation, storage, access control, rotation, backup, revocation, and destruction of cryptographic keys.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Key management** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Key management covers generation, storage, access control, rotation, backup, revocation, and destruction of cryptographic keys.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Key management covers generation, storage, access control, rotation, backup, revocation, and destruction of cryptographic keys.
 
 ## 2. Execution Mechanics & Runtime Flow
 

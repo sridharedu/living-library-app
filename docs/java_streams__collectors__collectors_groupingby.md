@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> groupingBy classifies elements into a Map of groups and can apply a downstream collector to each group.
+> **groupingBy classifies elements into a Map of groups and can apply a downstream collector to each group.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Collectors.groupingBy** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. groupingBy classifies elements into a Map of groups and can apply a downstream collector to each group.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+groupingBy classifies elements into a Map of groups and can apply a downstream collector to each group.
 
 ## 2. Execution Mechanics & Runtime Flow
 

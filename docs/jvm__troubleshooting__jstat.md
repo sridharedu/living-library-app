@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> jstat samples JVM statistics such as heap usage, class loading, and garbage-collection activity over time.
+> **jstat samples JVM statistics such as heap usage, class loading, and garbage-collection activity over time.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**jstat** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. jstat samples JVM statistics such as heap usage, class loading, and garbage-collection activity over time.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+jstat samples JVM statistics such as heap usage, class loading, and garbage-collection activity over time.
 
 ## 2. Execution Mechanics & Runtime Flow
 

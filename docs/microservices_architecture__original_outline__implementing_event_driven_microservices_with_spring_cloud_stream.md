@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Cloud Stream connects business functions to messaging middleware through bindings. It simplifies producer and consumer setup while still requiring deliberate event design and delivery handling.
+> **Spring Cloud Stream connects business functions to messaging middleware through bindings. It simplifies producer and consumer setup while still requiring deliberate event design and delivery handling.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Implementing Event-Driven Microservices with Spring Cloud Stream** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Spring Cloud Stream connects business functions to messaging middleware through bindings. It simplifies producer and consumer setup while still requiring deliberate event design and delivery handling.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Cloud Stream connects business functions to messaging middleware through bindings. It simplifies producer and consumer setup while still requiring deliberate event design and delivery handling.
 
 ## 2. Execution Mechanics & Runtime Flow
 

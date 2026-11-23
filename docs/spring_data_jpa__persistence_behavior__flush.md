@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Flush synchronizes pending persistence-context changes with the database while the transaction may still remain uncommitted.
+> **Flush synchronizes pending persistence-context changes with the database while the transaction may still remain uncommitted.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Flush** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. Flush synchronizes pending persistence-context changes with the database while the transaction may still remain uncommitted.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Flush synchronizes pending persistence-context changes with the database while the transaction may still remain uncommitted.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> RDS Multi-AZ maintains a synchronous standby or deployment across Availability Zones for automatic failover.
+> **RDS Multi-AZ maintains a synchronous standby or deployment across Availability Zones for automatic failover.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RDS Multi-AZ** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. RDS Multi-AZ maintains a synchronous standby or deployment across Availability Zones for automatic failover.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+RDS Multi-AZ maintains a synchronous standby or deployment across Availability Zones for automatic failover.
 
 ## 2. Execution Mechanics & Runtime Flow
 

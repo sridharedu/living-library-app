@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Use assertThrows to verify both the exception type and relevant message or state. Avoid broad try-catch blocks that can hide failures.
+> **Use assertThrows to verify both the exception type and relevant message or state. Avoid broad try-catch blocks that can hide failures.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Handling Exceptions in Unit Tests** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Use assertThrows to verify both the exception type and relevant message or state. Avoid broad try-catch blocks that can hide failures.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Use assertThrows to verify both the exception type and relevant message or state. Avoid broad try-catch blocks that can hide failures.
 
 ## 2. Execution Mechanics & Runtime Flow
 

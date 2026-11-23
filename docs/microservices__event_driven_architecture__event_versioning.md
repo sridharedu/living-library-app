@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Event versioning identifies incompatible event shapes or semantics and provides migration or compatibility strategies.
+> **Event versioning identifies incompatible event shapes or semantics and provides migration or compatibility strategies.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Event versioning** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event versioning identifies incompatible event shapes or semantics and provides migration or compatibility strategies.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Event versioning identifies incompatible event shapes or semantics and provides migration or compatibility strategies.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Hash indexes map keys to locations and are efficient for exact equality lookups. They generally do not support range searches or ordering.
+> **Hash indexes map keys to locations and are efficient for exact equality lookups. They generally do not support range searches or ordering.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hash Indexes** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Hash indexes map keys to locations and are efficient for exact equality lookups. They generally do not support range searches or ordering.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Hash indexes map keys to locations and are efficient for exact equality lookups. They generally do not support range searches or ordering.
 
 ## 2. Execution Mechanics & Runtime Flow
 

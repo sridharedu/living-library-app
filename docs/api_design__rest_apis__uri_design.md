@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Good URIs are predictable, noun-based, hierarchical where useful, and free from implementation details.
+> **Good URIs are predictable, noun-based, hierarchical where useful, and free from implementation details.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**URI design** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. Good URIs are predictable, noun-based, hierarchical where useful, and free from implementation details.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Good URIs are predictable, noun-based, hierarchical where useful, and free from implementation details.
 
 ## 2. Execution Mechanics & Runtime Flow
 

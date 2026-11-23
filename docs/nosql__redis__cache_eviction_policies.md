@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Redis eviction policies decide which keys to remove when memory is full, such as LRU, LFU, TTL-based, random, or no eviction.
+> **Redis eviction policies decide which keys to remove when memory is full, such as LRU, LFU, TTL-based, random, or no eviction.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cache eviction policies** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis eviction policies decide which keys to remove when memory is full, such as LRU, LFU, TTL-based, random, or no eviction.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Redis eviction policies decide which keys to remove when memory is full, such as LRU, LFU, TTL-based, random, or no eviction.
 
 ## 2. Execution Mechanics & Runtime Flow
 

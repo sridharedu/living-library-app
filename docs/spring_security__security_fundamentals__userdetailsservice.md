@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> UserDetailsService loads user identity, password hash, status, and authorities for username-based authentication.
+> **UserDetailsService loads user identity, password hash, status, and authorities for username-based authentication.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**UserDetailsService** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. UserDetailsService loads user identity, password hash, status, and authorities for username-based authentication.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+UserDetailsService loads user identity, password hash, status, and authorities for username-based authentication.
 
 ## 2. Execution Mechanics & Runtime Flow
 

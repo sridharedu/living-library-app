@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Mockito creates mocks, stubs responses, captures arguments, and verifies interactions. Use it mainly for external collaborators, not every object.
+> **Mockito creates mocks, stubs responses, captures arguments, and verifies interactions. Use it mainly for external collaborators, not every object.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Mocking with Mockito** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Mockito creates mocks, stubs responses, captures arguments, and verifies interactions. Use it mainly for external collaborators, not every object.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Mockito creates mocks, stubs responses, captures arguments, and verifies interactions. Use it mainly for external collaborators, not every object.
 
 ## 2. Execution Mechanics & Runtime Flow
 

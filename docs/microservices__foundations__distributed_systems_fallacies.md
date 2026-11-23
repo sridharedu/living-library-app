@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The distributed systems fallacies are false assumptions such as reliable networks, zero latency, infinite bandwidth, and stable topology.
+> **The distributed systems fallacies are false assumptions such as reliable networks, zero latency, infinite bandwidth, and stable topology.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Distributed systems fallacies** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. The distributed systems fallacies are false assumptions such as reliable networks, zero latency, infinite bandwidth, and stable topology.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The distributed systems fallacies are false assumptions such as reliable networks, zero latency, infinite bandwidth, and stable topology.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Ansible facts are discovered host details such as operating system, addresses, memory, and hardware that playbooks can use.
+> **Ansible facts are discovered host details such as operating system, addresses, memory, and hardware that playbooks can use.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Facts** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Ansible facts are discovered host details such as operating system, addresses, memory, and hardware that playbooks can use.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Ansible facts are discovered host details such as operating system, addresses, memory, and hardware that playbooks can use.
 
 ## 2. Execution Mechanics & Runtime Flow
 

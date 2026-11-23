@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> orTimeout completes exceptionally after a deadline, while completeOnTimeout supplies a fallback value when time expires.
+> **orTimeout completes exceptionally after a deadline, while completeOnTimeout supplies a fallback value when time expires.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CompletableFuture timeouts** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. orTimeout completes exceptionally after a deadline, while completeOnTimeout supplies a fallback value when time expires.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+orTimeout completes exceptionally after a deadline, while completeOnTimeout supplies a fallback value when time expires.
 
 ## 2. Execution Mechanics & Runtime Flow
 

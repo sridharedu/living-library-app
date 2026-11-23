@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Deployment models describe where cloud resources run and who controls them. Public, private, hybrid, and multi-cloud approaches trade convenience, control, portability, and cost.
+> **Deployment models describe where cloud resources run and who controls them. Public, private, hybrid, and multi-cloud approaches trade convenience, control, portability, and cost.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cloud Computing Deployment Models** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Deployment models describe where cloud resources run and who controls them. Public, private, hybrid, and multi-cloud approaches trade convenience, control, portability, and cost.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Deployment models describe where cloud resources run and who controls them. Public, private, hybrid, and multi-cloud approaches trade convenience, control, portability, and cost.
 
 ## 2. Execution Mechanics & Runtime Flow
 

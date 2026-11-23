@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> AWS Security Hub aggregates security findings and evaluates accounts against security standards and controls.
+> **AWS Security Hub aggregates security findings and evaluates accounts against security standards and controls.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Security Hub** serves as a foundational component within *Security* in the broader **AWS** ecosystem. AWS Security Hub aggregates security findings and evaluates accounts against security standards and controls.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+AWS Security Hub aggregates security findings and evaluates accounts against security standards and controls.
 
 ## 2. Execution Mechanics & Runtime Flow
 

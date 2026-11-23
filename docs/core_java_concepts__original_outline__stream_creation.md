@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Streams can be created from collections, arrays, values, files, generators, or builders. Choose a finite source unless the pipeline includes a limiting operation.
+> **Streams can be created from collections, arrays, values, files, generators, or builders. Choose a finite source unless the pipeline includes a limiting operation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Stream Creation** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Streams can be created from collections, arrays, values, files, generators, or builders. Choose a finite source unless the pipeline includes a limiting operation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Streams can be created from collections, arrays, values, files, generators, or builders. Choose a finite source unless the pipeline includes a limiting operation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

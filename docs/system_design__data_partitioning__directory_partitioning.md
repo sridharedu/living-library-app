@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Directory partitioning uses a lookup table or routing service that maps each key or tenant to its partition.
+> **Directory partitioning uses a lookup table or routing service that maps each key or tenant to its partition.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Directory partitioning** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Directory partitioning uses a lookup table or routing service that maps each key or tenant to its partition.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Directory partitioning uses a lookup table or routing service that maps each key or tenant to its partition.
 
 ## 2. Execution Mechanics & Runtime Flow
 

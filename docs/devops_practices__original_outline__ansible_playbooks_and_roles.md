@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Playbooks describe ordered tasks for hosts, while roles organize reusable tasks, variables, templates, and handlers into a standard structure.
+> **Playbooks describe ordered tasks for hosts, while roles organize reusable tasks, variables, templates, and handlers into a standard structure.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Ansible Playbooks and Roles** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Playbooks describe ordered tasks for hosts, while roles organize reusable tasks, variables, templates, and handlers into a standard structure.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Playbooks describe ordered tasks for hosts, while roles organize reusable tasks, variables, templates, and handlers into a standard structure.
 
 ## 2. Execution Mechanics & Runtime Flow
 

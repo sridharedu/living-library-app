@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A synchronized instance method locks this; a synchronized static method locks the Class object. Only one thread can hold that monitor at a time.
+> **A synchronized instance method locks this; a synchronized static method locks the Class object. Only one thread can hold that monitor at a time.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**synchronized methods** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. A synchronized instance method locks this; a synchronized static method locks the Class object. Only one thread can hold that monitor at a time.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A synchronized instance method locks this; a synchronized static method locks the Class object. Only one thread can hold that monitor at a time.
 
 ## 2. Execution Mechanics & Runtime Flow
 

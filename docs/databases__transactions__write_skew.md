@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Write skew occurs when concurrent transactions read the same condition, update different rows, and together violate a business rule.
+> **Write skew occurs when concurrent transactions read the same condition, update different rows, and together violate a business rule.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Write skew** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. Write skew occurs when concurrent transactions read the same condition, update different rows, and together violate a business rule.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Write skew occurs when concurrent transactions read the same condition, update different rows, and together violate a business rule.
 
 ## 2. Execution Mechanics & Runtime Flow
 

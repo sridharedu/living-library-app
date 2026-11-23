@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Microservices is an architecture where a system is split into independently deployable services aligned to business capabilities. Each service owns its logic, runtime, and usually its data boundary.
+> **Microservices is an architecture where a system is split into independently deployable services aligned to business capabilities. Each service owns its logic, runtime, and usually its data boundary.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**What is Microservices?** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Microservices is an architecture where a system is split into independently deployable services aligned to business capabilities. Each service owns its logic, runtime, and usually its data boundary.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Microservices is an architecture where a system is split into independently deployable services aligned to business capabilities. Each service owns its logic, runtime, and usually its data boundary.
 
 ## 2. Execution Mechanics & Runtime Flow
 

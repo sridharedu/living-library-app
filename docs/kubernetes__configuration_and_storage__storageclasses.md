@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> A StorageClass defines a storage provisioner and policies used for dynamic volume creation.
+> **A StorageClass defines a storage provisioner and policies used for dynamic volume creation.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**StorageClasses** serves as a foundational component within *Configuration and Storage* in the broader **Kubernetes** ecosystem. A StorageClass defines a storage provisioner and policies used for dynamic volume creation.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+A StorageClass defines a storage provisioner and policies used for dynamic volume creation.
 
 ## 2. Execution Mechanics & Runtime Flow
 

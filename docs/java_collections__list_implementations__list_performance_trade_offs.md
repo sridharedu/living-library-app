@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ArrayList favors indexed reads and append operations; LinkedList favors end insertion but has poor cache locality and usually performs worse in practice.
+> **ArrayList favors indexed reads and append operations; LinkedList favors end insertion but has poor cache locality and usually performs worse in practice.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**List performance trade-offs** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. ArrayList favors indexed reads and append operations; LinkedList favors end insertion but has poor cache locality and usually performs worse in practice.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+ArrayList favors indexed reads and append operations; LinkedList favors end insertion but has poor cache locality and usually performs worse in practice.
 
 ## 2. Execution Mechanics & Runtime Flow
 

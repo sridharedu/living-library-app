@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> EC2 instance families are optimized for general purpose, compute, memory, storage, accelerated computing, or burstable workloads. Selection should follow measured resource usage.
+> **EC2 instance families are optimized for general purpose, compute, memory, storage, accelerated computing, or burstable workloads. Selection should follow measured resource usage.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**EC2 Instance Types** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. EC2 instance families are optimized for general purpose, compute, memory, storage, accelerated computing, or burstable workloads. Selection should follow measured resource usage.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+EC2 instance families are optimized for general purpose, compute, memory, storage, accelerated computing, or burstable workloads. Selection should follow measured resource usage.
 
 ## 2. Execution Mechanics & Runtime Flow
 

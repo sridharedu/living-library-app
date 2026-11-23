@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon DocumentDB is a managed document database service compatible with many MongoDB APIs and designed for JSON-like workloads.
+> **Amazon DocumentDB is a managed document database service compatible with many MongoDB APIs and designed for JSON-like workloads.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Amazon DocumentDB** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. Amazon DocumentDB is a managed document database service compatible with many MongoDB APIs and designed for JSON-like workloads.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon DocumentDB is a managed document database service compatible with many MongoDB APIs and designed for JSON-like workloads.
 
 ## 2. Execution Mechanics & Runtime Flow
 

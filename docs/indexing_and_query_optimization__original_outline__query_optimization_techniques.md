@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Query optimization includes selecting proper indexes, reducing scanned data, avoiding unnecessary joins, using selective predicates, and examining execution plans.
+> **Query optimization includes selecting proper indexes, reducing scanned data, avoiding unnecessary joins, using selective predicates, and examining execution plans.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Query Optimization Techniques** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Query optimization includes selecting proper indexes, reducing scanned data, avoiding unnecessary joins, using selective predicates, and examining execution plans.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Query optimization includes selecting proper indexes, reducing scanned data, avoiding unnecessary joins, using selective predicates, and examining execution plans.
 
 ## 2. Execution Mechanics & Runtime Flow
 

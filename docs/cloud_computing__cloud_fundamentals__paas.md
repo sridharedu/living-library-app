@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Platform as a Service manages more of the runtime, scaling, and deployment platform so developers focus mainly on application code.
+> **Platform as a Service manages more of the runtime, scaling, and deployment platform so developers focus mainly on application code.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**PaaS** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Platform as a Service manages more of the runtime, scaling, and deployment platform so developers focus mainly on application code.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Platform as a Service manages more of the runtime, scaling, and deployment platform so developers focus mainly on application code.
 
 ## 2. Execution Mechanics & Runtime Flow
 

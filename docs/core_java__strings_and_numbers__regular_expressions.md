@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Regular expressions describe text patterns for matching, validation, splitting, and replacement. Java provides Pattern and Matcher.
+> **Regular expressions describe text patterns for matching, validation, splitting, and replacement. Java provides Pattern and Matcher.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Regular expressions** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. Regular expressions describe text patterns for matching, validation, splitting, and replacement. Java provides Pattern and Matcher.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Regular expressions describe text patterns for matching, validation, splitting, and replacement. Java provides Pattern and Matcher.
 
 ## 2. Execution Mechanics & Runtime Flow
 

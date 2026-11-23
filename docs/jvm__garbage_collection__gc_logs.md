@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> GC logs record collection events, pause times, heap occupancy, promotion, and collector phases. They are essential for diagnosing allocation pressure and long pauses.
+> **GC logs record collection events, pause times, heap occupancy, promotion, and collector phases. They are essential for diagnosing allocation pressure and long pauses.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**GC logs** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. GC logs record collection events, pause times, heap occupancy, promotion, and collector phases. They are essential for diagnosing allocation pressure and long pauses.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+GC logs record collection events, pause times, heap occupancy, promotion, and collector phases. They are essential for diagnosing allocation pressure and long pauses.
 
 ## 2. Execution Mechanics & Runtime Flow
 

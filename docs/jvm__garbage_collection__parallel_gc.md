@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Parallel GC uses multiple threads for stop-the-world collection and prioritizes throughput over pause time.
+> **Parallel GC uses multiple threads for stop-the-world collection and prioritizes throughput over pause time.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Parallel GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Parallel GC uses multiple threads for stop-the-world collection and prioritizes throughput over pause time.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Parallel GC uses multiple threads for stop-the-world collection and prioritizes throughput over pause time.
 
 ## 2. Execution Mechanics & Runtime Flow
 

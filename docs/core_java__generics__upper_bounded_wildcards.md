@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> ? extends T accepts T or its subtypes and is best for reading values as T. Adding non-null values is generally unsafe.
+> **? extends T accepts T or its subtypes and is best for reading values as T. Adding non-null values is generally unsafe.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Upper bounded wildcards** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. ? extends T accepts T or its subtypes and is best for reading values as T. Adding non-null values is generally unsafe.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+? extends T accepts T or its subtypes and is best for reading values as T. Adding non-null values is generally unsafe.
 
 ## 2. Execution Mechanics & Runtime Flow
 

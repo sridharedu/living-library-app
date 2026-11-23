@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Performance efficiency uses computing resources effectively as demand and technology change. It emphasizes measurement, suitable service choices, and continuous optimization.
+> **Performance efficiency uses computing resources effectively as demand and technology change. It emphasizes measurement, suitable service choices, and continuous optimization.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Performance Efficiency** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Performance efficiency uses computing resources effectively as demand and technology change. It emphasizes measurement, suitable service choices, and continuous optimization.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Performance efficiency uses computing resources effectively as demand and technology change. It emphasizes measurement, suitable service choices, and continuous optimization.
 
 ## 2. Execution Mechanics & Runtime Flow
 

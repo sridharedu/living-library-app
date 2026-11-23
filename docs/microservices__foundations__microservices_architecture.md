@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Microservices architecture structures a system as independently deployable services aligned to business capabilities and owned by autonomous teams.
+> **Microservices architecture structures a system as independently deployable services aligned to business capabilities and owned by autonomous teams.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Microservices architecture** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Microservices architecture structures a system as independently deployable services aligned to business capabilities and owned by autonomous teams.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Microservices architecture structures a system as independently deployable services aligned to business capabilities and owned by autonomous teams.
 
 ## 2. Execution Mechanics & Runtime Flow
 

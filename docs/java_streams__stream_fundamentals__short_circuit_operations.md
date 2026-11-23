@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Short-circuit operations can finish without processing every element, such as findFirst, anyMatch, limit, and takeWhile.
+> **Short-circuit operations can finish without processing every element, such as findFirst, anyMatch, limit, and takeWhile.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Short-circuit operations** serves as a foundational component within *Stream Fundamentals* in the broader **Java Streams** ecosystem. Short-circuit operations can finish without processing every element, such as findFirst, anyMatch, limit, and takeWhile.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Short-circuit operations can finish without processing every element, such as findFirst, anyMatch, limit, and takeWhile.
 
 ## 2. Execution Mechanics & Runtime Flow
 

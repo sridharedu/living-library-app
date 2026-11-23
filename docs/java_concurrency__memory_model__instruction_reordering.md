@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Compilers and processors may reorder instructions for performance as long as single-thread behavior is preserved. Synchronization constrains harmful reorderings.
+> **Compilers and processors may reorder instructions for performance as long as single-thread behavior is preserved. Synchronization constrains harmful reorderings.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Instruction reordering** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Compilers and processors may reorder instructions for performance as long as single-thread behavior is preserved. Synchronization constrains harmful reorderings.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Compilers and processors may reorder instructions for performance as long as single-thread behavior is preserved. Synchronization constrains harmful reorderings.
 
 ## 2. Execution Mechanics & Runtime Flow
 

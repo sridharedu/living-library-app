@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Cost allocation tags associate AWS spending with teams, projects, products, or environments.
+> **Cost allocation tags associate AWS spending with teams, projects, products, or environments.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Cost allocation tags** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. Cost allocation tags associate AWS spending with teams, projects, products, or environments.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Cost allocation tags associate AWS spending with teams, projects, products, or environments.
 
 ## 2. Execution Mechanics & Runtime Flow
 

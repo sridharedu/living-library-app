@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> RESTful APIs model resources using HTTP methods, status codes, headers, and representations. Good APIs are predictable, idempotent where appropriate, and backward compatible.
+> **RESTful APIs model resources using HTTP methods, status codes, headers, and representations. Good APIs are predictable, idempotent where appropriate, and backward compatible.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**RESTful APIs and HTTP Communication** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. RESTful APIs model resources using HTTP methods, status codes, headers, and representations. Good APIs are predictable, idempotent where appropriate, and backward compatible.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+RESTful APIs model resources using HTTP methods, status codes, headers, and representations. Good APIs are predictable, idempotent where appropriate, and backward compatible.
 
 ## 2. Execution Mechanics & Runtime Flow
 

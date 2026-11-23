@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> The Java Memory Model defines how threads interact through memory, including visibility, ordering, atomicity, and happens-before guarantees.
+> **The Java Memory Model defines how threads interact through memory, including visibility, ordering, atomicity, and happens-before guarantees.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Java Memory Model** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. The Java Memory Model defines how threads interact through memory, including visibility, ordering, atomicity, and happens-before guarantees.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+The Java Memory Model defines how threads interact through memory, including visibility, ordering, atomicity, and happens-before guarantees.
 
 ## 2. Execution Mechanics & Runtime Flow
 

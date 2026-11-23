@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> An ETag is a response validator representing a resource version and supports caching and optimistic concurrency.
+> **An ETag is a response validator representing a resource version and supports caching and optimistic concurrency.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**ETags** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. An ETag is a response validator representing a resource version and supports caching and optimistic concurrency.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+An ETag is a response validator representing a resource version and supports caching and optimistic concurrency.
 
 ## 2. Execution Mechanics & Runtime Flow
 

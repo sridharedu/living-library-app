@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Hybrid cloud connects private infrastructure with public cloud services. It supports gradual migration and regulatory needs but adds networking, identity, governance, and operational complexity.
+> **Hybrid cloud connects private infrastructure with public cloud services. It supports gradual migration and regulatory needs but adds networking, identity, governance, and operational complexity.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Hybrid Cloud** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Hybrid cloud connects private infrastructure with public cloud services. It supports gradual migration and regulatory needs but adds networking, identity, governance, and operational complexity.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Hybrid cloud connects private infrastructure with public cloud services. It supports gradual migration and regulatory needs but adds networking, identity, governance, and operational complexity.
 
 ## 2. Execution Mechanics & Runtime Flow
 

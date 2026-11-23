@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Reactive context propagation carries request-scoped metadata such as correlation IDs across asynchronous boundaries without ThreadLocal assumptions.
+> **Reactive context propagation carries request-scoped metadata such as correlation IDs across asynchronous boundaries without ThreadLocal assumptions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Context propagation** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Reactive context propagation carries request-scoped metadata such as correlation IDs across asynchronous boundaries without ThreadLocal assumptions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Reactive context propagation carries request-scoped metadata such as correlation IDs across asynchronous boundaries without ThreadLocal assumptions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

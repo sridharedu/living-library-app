@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Vector is a legacy synchronized resizable array. ArrayList with explicit synchronization or concurrent collections is usually preferred.
+> **Vector is a legacy synchronized resizable array. ArrayList with explicit synchronization or concurrent collections is usually preferred.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Vector** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. Vector is a legacy synchronized resizable array. ArrayList with explicit synchronization or concurrent collections is usually preferred.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Vector is a legacy synchronized resizable array. ArrayList with explicit synchronization or concurrent collections is usually preferred.
 
 ## 2. Execution Mechanics & Runtime Flow
 

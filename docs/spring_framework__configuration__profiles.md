@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring profiles group environment-specific configuration and beans. Keep profile usage simple to avoid hidden combinations.
+> **Spring profiles group environment-specific configuration and beans. Keep profile usage simple to avoid hidden combinations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Profiles** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Spring profiles group environment-specific configuration and beans. Keep profile usage simple to avoid hidden combinations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring profiles group environment-specific configuration and beans. Keep profile usage simple to avoid hidden combinations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Amazon CloudFront is a global content-delivery network that caches and serves content from edge locations.
+> **Amazon CloudFront is a global content-delivery network that caches and serves content from edge locations.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**CloudFront** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. Amazon CloudFront is a global content-delivery network that caches and serves content from edge locations.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Amazon CloudFront is a global content-delivery network that caches and serves content from edge locations.
 
 ## 2. Execution Mechanics & Runtime Flow
 

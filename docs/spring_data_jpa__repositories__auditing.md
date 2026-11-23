@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Spring Data auditing automatically records created-by, created-date, last-modified-by, and last-modified-date values.
+> **Spring Data auditing automatically records created-by, created-date, last-modified-by, and last-modified-date values.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Auditing** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Spring Data auditing automatically records created-by, created-date, last-modified-by, and last-modified-date values.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Spring Data auditing automatically records created-by, created-date, last-modified-by, and last-modified-date values.
 
 ## 2. Execution Mechanics & Runtime Flow
 

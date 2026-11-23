@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Inheritance lets one class reuse and extend the behavior of another class through an is-a relationship. It can reduce duplication, but composition is often safer when the relationship is not truly hierarchical.
+> **Inheritance lets one class reuse and extend the behavior of another class through an is-a relationship. It can reduce duplication, but composition is often safer when the relationship is not truly hierarchical.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Inheritance** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Inheritance lets one class reuse and extend the behavior of another class through an is-a relationship. It can reduce duplication, but composition is often safer when the relationship is not truly hierarchical.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Inheritance lets one class reuse and extend the behavior of another class through an is-a relationship. It can reduce duplication, but composition is often safer when the relationship is not truly hierarchical.
 
 ## 2. Execution Mechanics & Runtime Flow
 

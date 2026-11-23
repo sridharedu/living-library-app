@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> CloudWatch collects metrics, logs, and events from AWS resources and applications. It supports dashboards, alarms, log analysis, and automated responses to operational conditions.
+> **CloudWatch collects metrics, logs, and events from AWS resources and applications. It supports dashboards, alarms, log analysis, and automated responses to operational conditions.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Amazon CloudWatch** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. CloudWatch collects metrics, logs, and events from AWS resources and applications. It supports dashboards, alarms, log analysis, and automated responses to operational conditions.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+CloudWatch collects metrics, logs, and events from AWS resources and applications. It supports dashboards, alarms, log analysis, and automated responses to operational conditions.
 
 ## 2. Execution Mechanics & Runtime Flow
 

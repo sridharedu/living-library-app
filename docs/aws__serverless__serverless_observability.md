@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Serverless observability combines logs, metrics, traces, structured events, cold-start visibility, and per-function or workflow diagnostics.
+> **Serverless observability combines logs, metrics, traces, structured events, cold-start visibility, and per-function or workflow diagnostics.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Serverless observability** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. Serverless observability combines logs, metrics, traces, structured events, cold-start visibility, and per-function or workflow diagnostics.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Serverless observability combines logs, metrics, traces, structured events, cold-start visibility, and per-function or workflow diagnostics.
 
 ## 2. Execution Mechanics & Runtime Flow
 

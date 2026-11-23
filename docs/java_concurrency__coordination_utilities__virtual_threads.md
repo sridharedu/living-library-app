@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Virtual threads are lightweight JVM-managed threads designed for large numbers of blocking tasks. They simplify synchronous code without removing resource limits.
+> **Virtual threads are lightweight JVM-managed threads designed for large numbers of blocking tasks. They simplify synchronous code without removing resource limits.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Virtual threads** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. Virtual threads are lightweight JVM-managed threads designed for large numbers of blocking tasks. They simplify synchronous code without removing resource limits.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Virtual threads are lightweight JVM-managed threads designed for large numbers of blocking tasks. They simplify synchronous code without removing resource limits.
 
 ## 2. Execution Mechanics & Runtime Flow
 

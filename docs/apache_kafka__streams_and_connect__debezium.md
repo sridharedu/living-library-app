@@ -1,13 +1,10 @@
-> **Core Definition:**  
-> Debezium captures database changes from transaction logs and publishes ordered change events to Kafka.
+> **Debezium captures database changes from transaction logs and publishes ordered change events to Kafka.**
 
 ---
 
 ## 1. Architectural Overview & Mental Model
 
-**Debezium** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. Debezium captures database changes from transaction logs and publishes ordered change events to Kafka.
-
-At an architectural level, it abstracts underlying complexity to provide deterministic behavior, clear separation of concerns, and stable runtime contracts across distributed or multi-threaded environments.
+Debezium captures database changes from transaction logs and publishes ordered change events to Kafka.
 
 ## 2. Execution Mechanics & Runtime Flow
 
