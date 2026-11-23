@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Continuous Delivery keeps software in a releasable state through automated validation and deployment preparation. Production release may still require a deliberate approval.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Continuous Delivery (CD)** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Continuous Delivery keeps software in a releasable state through automated validation and deployment preparation. Production release may still require a deliberate approval.
 

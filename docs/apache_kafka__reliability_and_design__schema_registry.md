@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Schema Registry stores and validates message schemas and compatibility rules for producers and consumers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Schema Registry** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. A Schema Registry stores and validates message schemas and compatibility rules for producers and consumers.
 

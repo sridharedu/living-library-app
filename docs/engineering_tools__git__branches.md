@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Git branch is a movable reference to a commit and advances as new commits are created.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Branches** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. A Git branch is a movable reference to a commit and advances as new commits are created.
 

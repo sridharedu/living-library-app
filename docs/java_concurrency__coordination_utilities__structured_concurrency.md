@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Structured concurrency treats related concurrent tasks as one scoped operation, improving cancellation, error propagation, and lifecycle clarity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Structured concurrency** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. Structured concurrency treats related concurrent tasks as one scoped operation, improving cancellation, error propagation, and lifecycle clarity.
 

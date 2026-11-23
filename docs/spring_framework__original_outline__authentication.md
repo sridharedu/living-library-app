@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Authentication establishes who the caller is by validating credentials or tokens. On success, Spring stores an Authentication object containing identity and granted authorities in the SecurityContext.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Authentication** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Authentication establishes who the caller is by validating credentials or tokens. On success, Spring stores an Authentication object containing identity and granted authorities in the SecurityContext.
 

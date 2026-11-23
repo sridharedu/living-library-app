@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lambda concurrency is the number of simultaneous function invocations. Account, reserved, and provisioned concurrency settings control capacity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lambda concurrency** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. Lambda concurrency is the number of simultaneous function invocations. Account, reserved, and provisioned concurrency settings control capacity.
 

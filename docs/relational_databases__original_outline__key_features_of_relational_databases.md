@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Key features include tables, schemas, constraints, joins, indexes, transactions, and declarative SQL. These support integrity and complex queries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Key Features of Relational Databases** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. Key features include tables, schemas, constraints, joins, indexes, transactions, and declarative SQL. These support integrity and complex queries.
 

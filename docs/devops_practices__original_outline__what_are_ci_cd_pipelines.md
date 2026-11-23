@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A CI/CD pipeline is a sequence of automated stages that build, test, validate, package, and deploy software. Failures stop promotion until corrected.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What are CI/CD Pipelines?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. A CI/CD pipeline is a sequence of automated stages that build, test, validate, package, and deploy software. Failures stop promotion until corrected.
 

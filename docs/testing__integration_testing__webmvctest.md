@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @WebMvcTest loads Spring MVC infrastructure and selected controllers while mocking or supplying their collaborators.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **WebMvcTest** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. @WebMvcTest loads Spring MVC infrastructure and selected controllers while mocking or supplying their collaborators.
 

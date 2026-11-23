@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> NIO.2 provides Path and Files for modern filesystem operations such as copying, moving, walking directories, permissions, and symbolic links.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **NIO.2 Path and Files** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. NIO.2 provides Path and Files for modern filesystem operations such as copying, moving, walking directories, permissions, and symbolic links.
 

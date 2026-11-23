@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Normalization reduces duplication and update anomalies by splitting data into related tables. Denormalization intentionally duplicates or combines data to improve read performance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Normalization and Denormalization** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. Normalization reduces duplication and update anomalies by splitting data into related tables. Denormalization intentionally duplicates or combines data to improve read performance.
 

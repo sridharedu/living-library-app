@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Docker is a platform for packaging and running applications as containers. It includes an image format, command-line tools, an engine, and registry integration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Docker?** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Docker is a platform for packaging and running applications as containers. It includes an image format, command-line tools, an engine, and registry integration.
 

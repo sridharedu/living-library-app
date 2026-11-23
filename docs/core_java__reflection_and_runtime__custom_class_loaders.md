@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A custom class loader controls how classes are located and defined. It is used in plugin systems, containers, isolation, and hot deployment.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Custom class loaders** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. A custom class loader controls how classes are located and defined. It is used in plugin systems, containers, isolation, and hot deployment.
 

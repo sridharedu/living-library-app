@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Consumer<T> accepts a value and returns nothing. It is suited to side-effecting work such as logging, sending, storing, or updating an external target.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Consumer** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Consumer<T> accepts a value and returns nothing. It is suited to side-effecting work such as logging, sending, storing, or updating an external target.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Build parameters let users or upstream jobs supply values such as environment, version, feature flags, or deployment targets.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Build parameters** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Build parameters let users or upstream jobs supply values such as environment, version, feature flags, or deployment targets.
 

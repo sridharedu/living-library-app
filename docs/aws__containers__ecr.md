@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon ECR is a managed container-image registry with IAM access, scanning, lifecycle policies, and replication.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ECR** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. Amazon ECR is a managed container-image registry with IAM access, scanning, lifecycle policies, and replication.
 

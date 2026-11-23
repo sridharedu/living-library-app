@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An Ingress controller watches Ingress resources and configures a real proxy or load balancer to enforce them.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Ingress controllers** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. An Ingress controller watches Ingress resources and configures a real proxy or load balancer to enforce them.
 

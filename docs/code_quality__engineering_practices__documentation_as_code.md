@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Documentation as code stores docs in version control and applies review, automation, testing, and release practices similar to software.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Documentation as code** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Documentation as code stores docs in version control and applies review, automation, testing, and release practices similar to software.
 

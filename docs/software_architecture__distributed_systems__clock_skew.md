@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Clock skew is the difference between machine clocks. Distributed systems should avoid assuming perfectly synchronized wall-clock time.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Clock skew** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Clock skew is the difference between machine clocks. Distributed systems should avoid assuming perfectly synchronized wall-clock time.
 

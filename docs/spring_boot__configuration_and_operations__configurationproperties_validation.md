@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ConfigurationProperties classes can use Jakarta Bean Validation so invalid or missing configuration fails fast during startup.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ConfigurationProperties validation** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. ConfigurationProperties classes can use Jakarta Bean Validation so invalid or missing configuration fails fast during startup.
 

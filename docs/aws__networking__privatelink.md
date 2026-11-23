@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS PrivateLink exposes services privately through interface endpoints without public internet routing or full network peering.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PrivateLink** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. AWS PrivateLink exposes services privately through interface endpoints without public internet routing or full network peering.
 

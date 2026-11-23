@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @Validated is Spring's variant that supports validation groups and method-level validation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Validated annotation** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. @Validated is Spring's variant that supports validation groups and method-level validation.
 

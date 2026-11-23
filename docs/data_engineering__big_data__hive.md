@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Apache Hive provides SQL-style querying over large datasets stored in distributed files and commonly uses a metastore for table definitions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hive** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. Apache Hive provides SQL-style querying over large datasets stored in distributed files and commonly uses a metastore for table definitions.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IAM groups collect users so shared policies can be assigned consistently.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **IAM groups** serves as a foundational component within *Security* in the broader **AWS** ecosystem. IAM groups collect users so shared policies can be assigned consistently.
 

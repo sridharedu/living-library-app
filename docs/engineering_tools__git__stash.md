@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> git stash temporarily saves uncommitted working-tree and index changes so the branch can be cleaned.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Stash** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. git stash temporarily saves uncommitted working-tree and index changes so the branch can be cleaned.
 

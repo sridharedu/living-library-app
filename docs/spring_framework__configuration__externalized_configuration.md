@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Externalized configuration keeps environment-specific values outside application code so the same artifact can run in different environments.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Externalized configuration** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Externalized configuration keeps environment-specific values outside application code so the same artifact can run in different environments.
 

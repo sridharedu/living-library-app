@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> Replication factor defines how many broker copies each partition has, improving durability and availability.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p style="color:#5B3A42; font-family:Georgia, 'Times New Roman', serif; font-weight:700; letter-spacing:0.01em;">
     Replication factor defines how many broker copies each partition has, improving durability and availability.
   </p>

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Data Mapper transfers data between domain objects and storage without making domain objects responsible for persistence.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Data Mapper** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. Data Mapper transfers data between domain objects and storage without making domain objects responsible for persistence.
 

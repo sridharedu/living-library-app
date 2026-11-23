@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> LinkedHashMap maintains insertion or access order using a linked list across entries. It is useful for predictable iteration and LRU caches.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **LinkedHashMap** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. LinkedHashMap maintains insertion or access order using a linked list across entries. It is useful for predictable iteration and LRU caches.
 

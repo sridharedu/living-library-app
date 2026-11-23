@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Conditional requests use headers such as If-Match or If-None-Match to avoid unnecessary transfer or prevent conflicting updates.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Conditional requests** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. Conditional requests use headers such as If-Match or If-None-Match to avoid unnecessary transfer or prevent conflicting updates.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> MongoDB supports multi-document ACID transactions, though good document modeling should keep most operations within one document.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Transactions in MongoDB** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. MongoDB supports multi-document ACID transactions, though good document modeling should keep most operations within one document.
 

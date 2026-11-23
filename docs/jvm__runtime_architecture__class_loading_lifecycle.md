@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A class moves through loading, verification, preparation, resolution, initialization, use, and eventual unloading.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Class loading lifecycle** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. A class moves through loading, verification, preparation, resolution, initialization, use, and eventual unloading.
 

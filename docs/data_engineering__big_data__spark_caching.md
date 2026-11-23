@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spark caching keeps reused datasets in memory or on disk to avoid recomputation. Cache only data that is reused enough to justify the memory cost.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spark caching** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. Spark caching keeps reused datasets in memory or on disk to avoid recomputation. Cache only data that is reused enough to justify the memory cost.
 

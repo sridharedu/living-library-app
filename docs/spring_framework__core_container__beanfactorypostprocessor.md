@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> BeanFactoryPostProcessor modifies bean definitions before bean instances are created.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **BeanFactoryPostProcessor** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. BeanFactoryPostProcessor modifies bean definitions before bean instances are created.
 

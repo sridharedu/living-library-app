@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Security misconfiguration includes unsafe defaults, open services, verbose errors, missing headers, weak permissions, and outdated settings.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Security misconfiguration** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Security misconfiguration includes unsafe defaults, open services, verbose errors, missing headers, weak permissions, and outdated settings.
 

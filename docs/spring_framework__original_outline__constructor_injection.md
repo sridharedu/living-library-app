@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Constructor injection supplies all required dependencies when an object is created. It supports immutability, exposes mandatory collaborators clearly, and makes unit testing straightforward.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Constructor Injection** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Constructor injection supplies all required dependencies when an object is created. It supports immutability, exposes mandatory collaborators clearly, and makes unit testing straightforward.
 

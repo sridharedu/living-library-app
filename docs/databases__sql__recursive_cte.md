@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A recursive CTE repeatedly applies a recursive query to model hierarchies, graphs, or generated sequences.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Recursive CTE** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. A recursive CTE repeatedly applies a recursive query to model hierarchies, graphs, or generated sequences.
 

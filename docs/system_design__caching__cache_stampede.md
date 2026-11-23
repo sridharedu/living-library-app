@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A cache stampede occurs when many requests miss the same expired key and simultaneously overload the backing store.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cache stampede** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. A cache stampede occurs when many requests miss the same expired key and simultaneously overload the backing store.
 

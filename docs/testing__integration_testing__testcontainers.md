@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Testcontainers launches disposable Docker containers for databases, brokers, and other dependencies so tests run against realistic infrastructure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Testcontainers** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. Testcontainers launches disposable Docker containers for databases, brokers, and other dependencies so tests run against realistic infrastructure.
 

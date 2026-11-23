@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Comparator chaining combines multiple sort keys using thenComparing. Each later comparator breaks ties from the previous one.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Comparator chaining** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. Comparator chaining combines multiple sort keys using thenComparing. Each later comparator breaks ties from the previous one.
 

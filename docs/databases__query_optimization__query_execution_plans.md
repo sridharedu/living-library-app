@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A query execution plan shows the operators, access paths, join order, and estimates chosen to run a query.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Query execution plans** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. A query execution plan shows the operators, access paths, join order, and estimates chosen to run a query.
 

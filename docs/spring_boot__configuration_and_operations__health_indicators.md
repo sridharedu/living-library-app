@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HealthIndicator components report the status of dependencies and contribute to the application's health endpoint.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Health indicators** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. HealthIndicator components report the status of dependencies and contribute to the application's health endpoint.
 

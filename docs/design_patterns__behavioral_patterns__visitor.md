@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Visitor adds operations to a stable object structure without modifying the element classes, at the cost of harder model evolution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Visitor** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Visitor adds operations to a stable object structure without modifying the element classes, at the cost of harder model evolution.
 

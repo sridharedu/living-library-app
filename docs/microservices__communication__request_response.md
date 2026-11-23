@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Request-response sends a request and expects a corresponding result. It may be synchronous or asynchronous but retains a direct interaction relationship.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Request-response** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. Request-response sends a request and expects a corresponding result. It may be synchronous or asynchronous but retains a direct interaction relationship.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> EKS networking commonly uses the Amazon VPC CNI so Pods receive VPC IP addresses and integrate with AWS routing and security.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **EKS networking** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. EKS networking commonly uses the Amazon VPC CNI so Pods receive VPC IP addresses and integrate with AWS routing and security.
 

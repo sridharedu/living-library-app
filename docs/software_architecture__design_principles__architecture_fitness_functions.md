@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Architecture fitness functions are automated checks that verify qualities such as dependency rules, latency, security, or resilience over time.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Architecture fitness functions** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Architecture fitness functions are automated checks that verify qualities such as dependency rules, latency, security, or resilience over time.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Admission controllers validate or mutate API requests after authentication and authorization but before persistence.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Admission controllers** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Admission controllers validate or mutate API requests after authentication and authorization but before persistence.
 

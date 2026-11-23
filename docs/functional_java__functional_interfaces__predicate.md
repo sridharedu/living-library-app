@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Predicate<T> tests a value and returns boolean. Predicates can be combined with and, or, and negate.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Predicate** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. Predicate<T> tests a value and returns boolean. Predicates can be combined with and, or, and negate.
 

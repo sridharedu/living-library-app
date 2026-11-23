@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Event sourcing stores state changes as an event history, while CQRS separates write commands from read models. They solve specific audit and complexity needs, not every application.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Event Sourcing and CQRS** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Event sourcing stores state changes as an event history, while CQRS separates write commands from read models. They solve specific audit and complexity needs, not every application.
 

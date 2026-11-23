@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ConcurrentLinkedDeque is a lock-free double-ended queue supporting concurrent insertion and removal at both ends.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ConcurrentLinkedDeque** serves as a foundational component within *Concurrent Collections* in the broader **Java Concurrency** ecosystem. ConcurrentLinkedDeque is a lock-free double-ended queue supporting concurrent insertion and removal at both ends.
 

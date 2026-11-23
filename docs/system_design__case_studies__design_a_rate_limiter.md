@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A rate limiter tracks request allowance per identity or key using algorithms such as token bucket or sliding window, with fast shared state and clear rejection behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a rate limiter** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A rate limiter tracks request allowance per identity or key using algorithms such as token bucket or sliding window, with fast shared state and clear rejection behavior.
 

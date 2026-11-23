@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ConcurrentHashMap supports high concurrency with fine-grained synchronization and CAS. Reads are mostly non-blocking and nulls are disallowed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ConcurrentHashMap internals** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. ConcurrentHashMap supports high concurrency with fine-grained synchronization and CAS. Reads are mostly non-blocking and nulls are disallowed.
 

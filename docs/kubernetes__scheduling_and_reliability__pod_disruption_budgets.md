@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A PodDisruptionBudget limits how many replicas may be unavailable during voluntary disruptions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pod disruption budgets** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. A PodDisruptionBudget limits how many replicas may be unavailable during voluntary disruptions.
 

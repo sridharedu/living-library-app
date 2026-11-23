@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring usually applies transactions through an AOP proxy that starts and completes a transaction around eligible method calls.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Transaction proxy** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. Spring usually applies transactions through an AOP proxy that starts and completes a transaction around eligible method calls.
 

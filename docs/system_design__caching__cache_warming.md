@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cache warming preloads likely-needed entries before traffic arrives or before an old cache is retired.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cache warming** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. Cache warming preloads likely-needed entries before traffic arrives or before an old cache is retired.
 

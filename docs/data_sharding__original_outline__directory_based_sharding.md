@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Directory sharding uses a lookup service that maps each key or tenant to a shard. It offers flexibility but adds a metadata dependency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Directory-Based Sharding** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Directory sharding uses a lookup service that maps each key or tenant to a shard. It offers flexibility but adds a metadata dependency.
 

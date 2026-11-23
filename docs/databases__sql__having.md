@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HAVING filters grouped results after aggregation, while WHERE filters rows before grouping.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **HAVING** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. HAVING filters grouped results after aggregation, while WHERE filters rows before grouping.
 

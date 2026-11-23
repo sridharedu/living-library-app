@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Stream.toList returns an unmodifiable list in encounter order. Do not assume a specific concrete implementation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **toList** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. Stream.toList returns an unmodifiable list in encounter order. Do not assume a specific concrete implementation.
 

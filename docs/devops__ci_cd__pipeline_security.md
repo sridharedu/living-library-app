@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pipeline security protects credentials, runners, approvals, artifacts, logs, and deployment permissions from tampering or misuse.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pipeline security** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Pipeline security protects credentials, runners, approvals, artifacts, logs, and deployment permissions from tampering or misuse.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A circular dependency occurs when beans depend on each other. Constructor cycles fail immediately and usually indicate poor separation of responsibilities.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Circular dependencies** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. A circular dependency occurs when beans depend on each other. Constructor cycles fail immediately and usually indicate poor separation of responsibilities.
 

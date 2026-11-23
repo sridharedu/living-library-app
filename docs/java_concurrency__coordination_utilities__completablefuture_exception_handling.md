@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Use exceptionally for fallback, handle for success-or-failure transformation, and whenComplete for observation without replacing the result.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CompletableFuture exception handling** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. Use exceptionally for fallback, handle for success-or-failure transformation, and whenComplete for observation without replacing the result.
 

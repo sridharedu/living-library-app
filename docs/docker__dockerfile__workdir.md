@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> WORKDIR sets the working directory for subsequent Dockerfile instructions and the container process.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **WORKDIR** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. WORKDIR sets the working directory for subsequent Dockerfile instructions and the container process.
 

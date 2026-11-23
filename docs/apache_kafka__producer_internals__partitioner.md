@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Kafka partitioner selects the target partition using the key, a custom rule, or sticky batching behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Partitioner** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. A Kafka partitioner selects the target partition using the key, a custom rule, or sticky batching behavior.
 

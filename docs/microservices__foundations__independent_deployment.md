@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Independent deployment means a service can be released without coordinating changes across unrelated services, provided contracts remain compatible.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Independent deployment** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Independent deployment means a service can be released without coordinating changes across unrelated services, provided contracts remain compatible.
 

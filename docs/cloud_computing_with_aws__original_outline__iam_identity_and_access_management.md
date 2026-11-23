@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IAM controls who can access AWS and what actions they can perform. It manages users, groups, roles, policies, and permission boundaries across an AWS account.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **IAM (Identity and Access Management)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. IAM controls who can access AWS and what actions they can perform. It manages users, groups, roles, policies, and permission boundaries across an AWS account.
 

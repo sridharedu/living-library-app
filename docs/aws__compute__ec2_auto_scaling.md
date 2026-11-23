@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> EC2 Auto Scaling maintains desired capacity and adjusts instance count using health checks, schedules, or scaling policies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **EC2 Auto Scaling** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. EC2 Auto Scaling maintains desired capacity and adjusts instance count using health checks, schedules, or scaling policies.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> awk processes structured text by splitting records into fields and applying pattern-action rules.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **awk** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. awk processes structured text by splitting records into fields and applying pattern-action rules.
 

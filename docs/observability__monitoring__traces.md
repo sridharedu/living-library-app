@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Traces follow one request across services and represent its work as related spans.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Traces** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Traces follow one request across services and represent its work as related spans.
 

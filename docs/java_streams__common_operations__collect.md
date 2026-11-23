@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> collect performs mutable reduction into a container or result structure using a Collector or supplier, accumulator, and combiner.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **collect** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. collect performs mutable reduction into a container or result structure using a Collector or supplier, accumulator, and combiner.
 

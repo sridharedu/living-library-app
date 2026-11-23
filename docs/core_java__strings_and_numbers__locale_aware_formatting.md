@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Locale-aware formatting adapts numbers, currencies, dates, and text rules to regional conventions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Locale-aware formatting** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. Locale-aware formatting adapts numbers, currencies, dates, and text rules to regional conventions.
 

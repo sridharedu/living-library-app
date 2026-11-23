@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Modern alternatives to sun.misc.Unsafe include VarHandle, MethodHandle, ByteBuffer, foreign-memory APIs, and standard concurrency classes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Unsafe alternatives** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. Modern alternatives to sun.misc.Unsafe include VarHandle, MethodHandle, ByteBuffer, foreign-memory APIs, and standard concurrency classes.
 

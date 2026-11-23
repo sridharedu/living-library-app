@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CPU, memory, process, and IO limits prevent one container from consuming excessive host resources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Container resource limits** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. CPU, memory, process, and IO limits prevent one container from consuming excessive host resources.
 

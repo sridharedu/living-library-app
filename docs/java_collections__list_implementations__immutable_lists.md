@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An immutable list cannot be structurally modified. It is safe to share when its elements are also effectively immutable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Immutable lists** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. An immutable list cannot be structurally modified. It is safe to share when its elements are also effectively immutable.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A happens-before relationship guarantees that one action's effects are visible to another action. Locks, volatile access, thread start, and join create such relationships.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Happens-before** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. A happens-before relationship guarantees that one action's effects are visible to another action. Locks, volatile access, thread start, and join create such relationships.
 

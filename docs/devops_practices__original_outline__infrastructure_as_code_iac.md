@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Infrastructure as Code manages infrastructure through versioned definitions instead of manual console changes. It makes environments repeatable, reviewable, testable, and automatable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Infrastructure as Code (IaC)** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Infrastructure as Code manages infrastructure through versioned definitions instead of manual console changes. It makes environments repeatable, reviewable, testable, and automatable.
 

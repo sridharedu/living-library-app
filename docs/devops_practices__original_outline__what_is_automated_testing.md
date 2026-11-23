@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Automated testing is the practice of running test cases through tools instead of manual execution. It is most valuable when tests are reliable, fast, and maintainable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Automated Testing?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Automated testing is the practice of running test cases through tools instead of manual execution. It is most valuable when tests are reliable, fast, and maintainable.
 

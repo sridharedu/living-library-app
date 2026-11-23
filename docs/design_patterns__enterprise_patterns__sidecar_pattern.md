@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The sidecar pattern runs a helper component beside the main application to provide capabilities such as proxying, logging, or configuration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sidecar pattern** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. The sidecar pattern runs a helper component beside the main application to provide capabilities such as proxying, logging, or configuration.
 

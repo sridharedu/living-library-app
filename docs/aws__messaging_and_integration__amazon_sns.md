@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon SNS is a managed publish-subscribe service that pushes messages to subscribers such as SQS, Lambda, HTTP endpoints, or email.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon SNS** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. Amazon SNS is a managed publish-subscribe service that pushes messages to subscribers such as SQS, Lambda, HTTP endpoints, or email.
 

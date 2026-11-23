@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Column-family databases group related columns and are designed for large-scale distributed workloads with predictable key-based access.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Column-family databases** serves as a foundational component within *NoSQL Fundamentals* in the broader **NoSQL** ecosystem. Column-family databases group related columns and are designed for large-scale distributed workloads with predictable key-based access.
 

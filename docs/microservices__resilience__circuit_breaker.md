@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A circuit breaker stops calls to a failing dependency after a threshold, then probes recovery after a delay.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Circuit breaker** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. A circuit breaker stops calls to a failing dependency after a threshold, then probes recovery after a delay.
 

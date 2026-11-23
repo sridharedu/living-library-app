@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A finally block runs after try and catch whether an exception occurs or not, so it is useful for cleanup. For closeable resources, try-with-resources is usually safer and clearer.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Finally Block** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. A finally block runs after try and catch whether an exception occurs or not, so it is useful for cleanup. For closeable resources, try-with-resources is usually safer and clearer.
 

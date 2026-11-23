@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> mapMulti emits zero or more results through a consumer without creating a temporary stream for each input. It can be more efficient than flatMap.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **mapMulti** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. mapMulti emits zero or more results through a consumer without creating a temporary stream for each input. It can be more efficient than flatMap.
 

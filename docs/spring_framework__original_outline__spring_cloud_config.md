@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Cloud Config serves externalized application settings from a central source, commonly Git. It enables environment-specific configuration and controlled updates across many services.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Cloud Config** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Cloud Config serves externalized application settings from a central source, commonly Git. It enables environment-specific configuration and controlled updates across many services.
 

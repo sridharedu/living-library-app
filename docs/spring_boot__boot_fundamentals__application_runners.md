@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ApplicationRunner and CommandLineRunner execute code after the application context is ready.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Application runners** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. ApplicationRunner and CommandLineRunner execute code after the application context is ready.
 

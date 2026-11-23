@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS CodeBuild runs managed build environments for compilation, tests, packaging, and artifact production.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CodeBuild** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. AWS CodeBuild runs managed build environments for compilation, tests, packaging, and artifact production.
 

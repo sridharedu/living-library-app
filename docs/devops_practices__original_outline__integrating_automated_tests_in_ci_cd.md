@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Tests should run at suitable pipeline stages, with fast checks early and slower tests later. Failed critical tests must block promotion.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Integrating Automated Tests in CI/CD** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Tests should run at suitable pipeline stages, with fast checks early and slower tests later. Failed critical tests must block promotion.
 

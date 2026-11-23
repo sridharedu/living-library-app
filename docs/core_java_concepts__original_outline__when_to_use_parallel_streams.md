@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Use parallel streams when work is CPU-bound, stateless, associative, sufficiently large, and easy to split. Avoid them for blocking I/O, small collections, shared mutable state, or latency-sensitive server code.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **When to Use Parallel Streams** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Use parallel streams when work is CPU-bound, stateless, associative, sufficiently large, and easy to split. Avoid them for blocking I/O, small collections, shared mutable state, or latency-sensitive server code.
 

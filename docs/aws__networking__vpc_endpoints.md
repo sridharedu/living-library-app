@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> VPC endpoints provide private access to supported AWS services through gateway or interface endpoint types.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **VPC endpoints** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. VPC endpoints provide private access to supported AWS services through gateway or interface endpoint types.
 

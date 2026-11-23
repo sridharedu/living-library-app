@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An Ansible task invokes one module with arguments and optional conditions, loops, tags, or privilege escalation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Tasks** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. An Ansible task invokes one module with arguments and optional conditions, loops, tags, or privilege escalation.
 

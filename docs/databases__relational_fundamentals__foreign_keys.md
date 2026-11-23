@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A foreign key requires values to reference a valid candidate key in another or the same table.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Foreign keys** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. A foreign key requires values to reference a valid candidate key in another or the same table.
 

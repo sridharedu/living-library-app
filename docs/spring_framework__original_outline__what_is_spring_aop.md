@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring AOP is a lightweight aspect-oriented framework that separates repeated infrastructure concerns from business logic. It mainly intercepts method execution on Spring beans.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Spring AOP?** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring AOP is a lightweight aspect-oriented framework that separates repeated infrastructure concerns from business logic. It mainly intercepts method execution on Spring beans.
 

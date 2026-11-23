@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Aurora Serverless automatically adjusts database capacity for variable workloads while retaining Aurora compatibility and managed storage.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Aurora Serverless** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. Aurora Serverless automatically adjusts database capacity for variable workloads while retaining Aurora compatibility and managed storage.
 

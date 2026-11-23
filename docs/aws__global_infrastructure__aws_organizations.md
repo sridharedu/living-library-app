@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Organizations centrally manages multiple AWS accounts through organizational units, consolidated billing, and service control policies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Organizations** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. AWS Organizations centrally manages multiple AWS accounts through organizational units, consolidated billing, and service control policies.
 

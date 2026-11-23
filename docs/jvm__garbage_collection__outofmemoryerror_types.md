@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> OutOfMemoryError can indicate Java heap exhaustion, Metaspace exhaustion, direct-buffer limits, native-thread creation failure, or GC overhead limits.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **OutOfMemoryError types** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. OutOfMemoryError can indicate Java heap exhaustion, Metaspace exhaustion, direct-buffer limits, native-thread creation failure, or GC overhead limits.
 

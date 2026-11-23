@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The DevOps lifecycle includes planning, coding, building, testing, releasing, deploying, operating, monitoring, and feeding production learning back into development.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DevOps Lifecycle** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. The DevOps lifecycle includes planning, coding, building, testing, releasing, deploying, operating, monitoring, and feeding production learning back into development.
 

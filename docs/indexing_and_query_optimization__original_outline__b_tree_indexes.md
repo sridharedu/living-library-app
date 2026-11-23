@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> B-tree indexes keep ordered keys and support equality, range, prefix, and sorting operations. They are the default index type in many databases.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **B-tree Indexes** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. B-tree indexes keep ordered keys and support equality, range, prefix, and sorting operations. They are the default index type in many databases.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Space-based architecture distributes processing and state across in-memory nodes to reduce database bottlenecks during extreme load.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Space-based architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Space-based architecture distributes processing and state across in-memory nodes to reduce database bottlenecks during extreme load.
 

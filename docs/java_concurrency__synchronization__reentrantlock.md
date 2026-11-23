@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ReentrantLock provides explicit locking with tryLock, interruptible acquisition, fairness options, and multiple Conditions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ReentrantLock** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. ReentrantLock provides explicit locking with tryLock, interruptible acquisition, fairness options, and multiple Conditions.
 

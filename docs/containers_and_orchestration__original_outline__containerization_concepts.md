@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Containerization relies on images, registries, runtimes, namespaces, control groups, writable layers, networking, volumes, and immutable deployment practices.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Containerization Concepts** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Containerization relies on images, registries, runtimes, namespaces, control groups, writable layers, networking, volumes, and immutable deployment practices.
 

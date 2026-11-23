@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A poison pill is a record that repeatedly fails deserialization or processing. Handle it with controlled retries, diagnostics, and dead-letter routing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Poison pill handling** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. A poison pill is a record that repeatedly fails deserialization or processing. Handle it with controlled retries, diagnostics, and dead-letter routing.
 

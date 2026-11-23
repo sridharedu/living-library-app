@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> MapReduce processes large datasets through parallel map tasks followed by shuffle, sort, and reduce stages.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **MapReduce** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. MapReduce processes large datasets through parallel map tasks followed by shuffle, sort, and reduce stages.
 

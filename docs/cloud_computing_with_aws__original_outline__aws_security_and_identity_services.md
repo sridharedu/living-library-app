@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS security services control identity, permissions, encryption, threat protection, and auditability. Core tools include IAM, KMS, Shield, WAF, GuardDuty, Security Hub, and CloudTrail.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Security and Identity Services** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS security services control identity, permissions, encryption, threat protection, and auditability. Core tools include IAM, KMS, Shield, WAF, GuardDuty, Security Hub, and CloudTrail.
 

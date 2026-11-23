@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Method security protects service methods using annotations such as @PreAuthorize, @PostAuthorize, and @Secured.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Method security** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. Method security protects service methods using annotations such as @PreAuthorize, @PostAuthorize, and @Secured.
 

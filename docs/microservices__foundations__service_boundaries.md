@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Service boundaries define what a service owns, exposes, and changes independently. Good boundaries follow business capabilities rather than technical layers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service boundaries** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Service boundaries define what a service owns, exposes, and changes independently. Good boundaries follow business capabilities rather than technical layers.
 

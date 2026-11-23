@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The repository layer expresses persistence operations and hides query mechanics from business services. It should expose domain-meaningful operations rather than leaking every database detail upward.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Repository Layer** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. The repository layer expresses persistence operations and hides query mechanics from business services. It should expose domain-meaningful operations rather than leaking every database detail upward.
 

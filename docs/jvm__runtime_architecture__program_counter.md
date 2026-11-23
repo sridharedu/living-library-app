@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Each thread has a program counter indicating the current bytecode instruction, except while executing native code.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Program counter** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. Each thread has a program counter indicating the current bytecode instruction, except while executing native code.
 

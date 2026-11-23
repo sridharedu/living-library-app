@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Terraform workspaces maintain multiple state instances for one configuration. They suit simple variations but are not a full environment-isolation strategy.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Workspaces** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Terraform workspaces maintain multiple state instances for one configuration. They suit simple variations but are not a full environment-isolation strategy.
 

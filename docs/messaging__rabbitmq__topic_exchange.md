@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A topic exchange routes using dot-separated patterns with wildcards such as * and #.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Topic exchange** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. A topic exchange routes using dot-separated patterns with wildcards such as * and #.
 

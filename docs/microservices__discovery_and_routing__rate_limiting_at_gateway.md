@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Gateway rate limiting protects downstream services by restricting requests per identity, tenant, route, or time window.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Rate limiting at gateway** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Gateway rate limiting protects downstream services by restricting requests per identity, tenant, route, or time window.
 

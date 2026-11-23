@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> flatMapping maps each input to a stream and flattens the results into a downstream collector.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collectors.flatMapping** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. flatMapping maps each input to a stream and flattens the results into a downstream collector.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @SpringBootTest loads a broad Spring Boot application context for end-to-end integration testing within the application boundary.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Boot Test** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. @SpringBootTest loads a broad Spring Boot application context for end-to-end integration testing within the application boundary.
 

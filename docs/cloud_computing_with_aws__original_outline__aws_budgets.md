@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Budgets monitors cost, usage, reservation coverage, or Savings Plans utilization against thresholds. It can send alerts and trigger selected actions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Budgets** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS Budgets monitors cost, usage, reservation coverage, or Savings Plans utilization against thresholds. It can send alerts and trigger selected actions.
 

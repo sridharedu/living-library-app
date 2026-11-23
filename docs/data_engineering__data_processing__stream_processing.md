@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Stream processing handles events continuously as they arrive, usually with low latency and stateful operators.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Stream processing** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. Stream processing handles events continuously as they arrive, usually with low latency and stateful operators.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A union filesystem presents multiple image layers and a writable container layer as one combined filesystem.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Union filesystem** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. A union filesystem presents multiple image layers and a writable container layer as one combined filesystem.
 

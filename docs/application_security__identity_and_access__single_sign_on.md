@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Single sign-on lets a user authenticate once with an identity provider and access multiple trusted applications.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Single sign-on** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Single sign-on lets a user authenticate once with an identity provider and access multiple trusted applications.
 

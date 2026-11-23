@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A readiness probe answers whether the application can currently serve traffic. Failure removes the instance from load balancing without necessarily restarting it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Readiness probes** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. A readiness probe answers whether the application can currently serve traffic. Failure removes the instance from load balancing without necessarily restarting it.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A pipeline stage groups one or more actions, such as fetching source, running a build, or deploying. Artifacts move between stages and failures stop downstream execution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CodePipeline Stages** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A pipeline stage groups one or more actions, such as fetching source, running a build, or deploying. Artifacts move between stages and failures stop downstream execution.
 

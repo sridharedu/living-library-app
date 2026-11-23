@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lambda layers package shared libraries, runtimes, or utilities separately from function code.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lambda layers** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. Lambda layers package shared libraries, runtimes, or utilities separately from function code.
 

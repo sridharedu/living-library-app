@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> GROUP BY forms groups of rows so aggregate functions can calculate one result per group.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **GROUP BY** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. GROUP BY forms groups of rows so aggregate functions can calculate one result per group.
 

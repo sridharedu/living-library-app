@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> gRPC uses Protocol Buffers and HTTP/2 for strongly typed, efficient service calls and streaming. It works well for internal communication but requires schema governance and tooling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **gRPC for Communication Between Services** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. gRPC uses Protocol Buffers and HTTP/2 for strongly typed, efficient service calls and streaming. It works well for internal communication but requires schema governance and tooling.
 

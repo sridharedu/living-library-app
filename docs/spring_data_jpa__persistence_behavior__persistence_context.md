@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The persistence context tracks managed entities, guarantees identity within its scope, and coordinates dirty checking and writes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Persistence context** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. The persistence context tracks managed entities, guarantees identity within its scope, and coordinates dirty checking and writes.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Automated testing uses executable checks to verify software behavior repeatedly. It reduces regression risk and enables rapid feedback in delivery pipelines.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Automated Testing** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Automated testing uses executable checks to verify software behavior repeatedly. It reduces regression risk and enables rapid feedback in delivery pipelines.
 

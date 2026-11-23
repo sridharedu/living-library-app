@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS IAM controls identities, authentication, permissions, and access to AWS resources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS IAM** serves as a foundational component within *Security* in the broader **AWS** ecosystem. AWS IAM controls identities, authentication, permissions, and access to AWS resources.
 

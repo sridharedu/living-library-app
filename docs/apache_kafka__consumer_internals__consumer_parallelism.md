@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kafka consumer parallelism is bounded by partition count because one partition is assigned to only one consumer within a group.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Consumer parallelism** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Kafka consumer parallelism is bounded by partition count because one partition is assigned to only one consumer within a group.
 

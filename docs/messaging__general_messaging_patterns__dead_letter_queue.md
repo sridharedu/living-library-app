@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A dead letter queue isolates messages that cannot be processed successfully for later inspection or replay.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Dead letter queue** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. A dead letter queue isolates messages that cannot be processed successfully for later inspection or replay.
 

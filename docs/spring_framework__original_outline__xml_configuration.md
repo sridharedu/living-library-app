@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> XML AOP configuration declares aspects, advice, and pointcuts outside Java code. It is mostly found in legacy applications and is more verbose than annotation-based configuration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **XML Configuration** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. XML AOP configuration declares aspects, advice, and pointcuts outside Java code. It is mostly found in legacy applications and is more verbose than annotation-based configuration.
 

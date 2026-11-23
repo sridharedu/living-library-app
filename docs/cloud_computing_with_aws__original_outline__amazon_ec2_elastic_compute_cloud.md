@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> EC2 provides resizable virtual servers with configurable CPU, memory, storage, networking, and operating systems. Customers manage the instance software and patching.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon EC2 (Elastic Compute Cloud)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. EC2 provides resizable virtual servers with configurable CPU, memory, storage, networking, and operating systems. Customers manage the instance software and patching.
 

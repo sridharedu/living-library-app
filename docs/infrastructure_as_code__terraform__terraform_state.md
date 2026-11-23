@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Terraform state maps declared resources to real infrastructure and stores attributes needed for planning and dependency tracking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Terraform state** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Terraform state maps declared resources to real infrastructure and stores attributes needed for planning and dependency tracking.
 

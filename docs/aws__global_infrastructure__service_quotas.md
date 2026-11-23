@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS service quotas limit resources or request rates per account and Region. Capacity planning should include monitoring and quota-increase requests.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service quotas** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. AWS service quotas limit resources or request rates per account and Region. Capacity planning should include monitoring and quota-increase requests.
 

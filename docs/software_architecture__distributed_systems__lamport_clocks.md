@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lamport clocks assign logical timestamps that preserve causal ordering, though they cannot detect all concurrent events.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lamport clocks** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Lamport clocks assign logical timestamps that preserve causal ordering, though they cannot detect all concurrent events.
 

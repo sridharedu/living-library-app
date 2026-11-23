@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Publish-subscribe lets one producer emit an event to multiple independent subscribers without knowing who consumes it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Publish-subscribe** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. Publish-subscribe lets one producer emit an event to multiple independent subscribers without knowing who consumes it.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A modular monolith remains one deployment but enforces strong internal module boundaries, making it simpler than microservices while preserving separation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Modular monolith** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. A modular monolith remains one deployment but enforces strong internal module boundaries, making it simpler than microservices while preserving separation.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The working tree is the checked-out filesystem view where files are edited.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Working tree** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. The working tree is the checked-out filesystem view where files are edited.
 

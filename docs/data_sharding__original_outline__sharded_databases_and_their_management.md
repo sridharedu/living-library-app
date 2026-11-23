@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Managing sharded databases requires routing, health monitoring, schema consistency, capacity balancing, backup coordination, and controlled resharding.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sharded Databases and Their Management** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Managing sharded databases requires routing, health monitoring, schema consistency, capacity balancing, backup coordination, and controlled resharding.
 

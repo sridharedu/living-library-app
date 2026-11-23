@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A ServiceAccount provides an identity for Pods and can receive Kubernetes API permissions through RBAC.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service accounts** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. A ServiceAccount provides an identity for Pods and can receive Kubernetes API permissions through RBAC.
 

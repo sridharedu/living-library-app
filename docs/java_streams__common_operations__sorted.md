@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> sorted orders elements by natural order or a Comparator. It is stateful and may need to buffer the whole stream.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **sorted** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. sorted orders elements by natural order or a Comparator. It is stateful and may need to buffer the whole stream.
 

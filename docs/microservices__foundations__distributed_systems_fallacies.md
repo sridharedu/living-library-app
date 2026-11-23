@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The distributed systems fallacies are false assumptions such as reliable networks, zero latency, infinite bandwidth, and stable topology.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Distributed systems fallacies** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. The distributed systems fallacies are false assumptions such as reliable networks, zero latency, infinite bandwidth, and stable topology.
 

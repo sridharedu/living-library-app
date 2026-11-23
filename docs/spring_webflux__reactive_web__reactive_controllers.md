@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Reactive controllers return Mono, Flux, or other reactive types so request processing can remain non-blocking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reactive controllers** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Reactive controllers return Mono, Flux, or other reactive types so request processing can remain non-blocking.
 

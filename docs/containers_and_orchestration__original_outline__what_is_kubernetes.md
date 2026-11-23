@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kubernetes is a container orchestration platform that manages workloads across a cluster of machines. It provides scheduling, service discovery, rollout, scaling, and self-healing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Kubernetes?** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Kubernetes is a container orchestration platform that manages workloads across a cluster of machines. It provides scheduling, service discovery, rollout, scaling, and self-healing.
 

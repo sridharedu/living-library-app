@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Boyce-Codd Normal Form requires every determinant to be a candidate key, strengthening third normal form.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **BCNF** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Boyce-Codd Normal Form requires every determinant to be a candidate key, strengthening third normal form.
 

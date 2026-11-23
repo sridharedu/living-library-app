@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hash indexes map keys to locations and are efficient for exact equality lookups. They generally do not support range searches or ordering.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hash Indexes** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Hash indexes map keys to locations and are efficient for exact equality lookups. They generally do not support range searches or ordering.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multi-leader replication allows writes on multiple leaders and therefore requires conflict handling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Multi-leader replication** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Multi-leader replication allows writes on multiple leaders and therefore requires conflict handling.
 

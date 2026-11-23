@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Messaging integration tests should verify serialization, routing, acknowledgments, retries, ordering, and failure behavior against a real or containerized broker.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Integration testing messaging** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Messaging integration tests should verify serialization, routing, acknowledgments, retries, ordering, and failure behavior against a real or containerized broker.
 

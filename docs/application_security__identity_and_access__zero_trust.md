@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Zero trust assumes no network location is inherently trusted and continuously verifies identity, device, context, and least-privilege access.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Zero trust** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Zero trust assumes no network location is inherently trusted and continuously verifies identity, device, context, and least-privilege access.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> PriorityQueue uses a binary heap. The smallest element by default is at the head, while iteration order is not sorted.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PriorityQueue internals** serves as a foundational component within *Queues and Heaps* in the broader **Java Collections** ecosystem. PriorityQueue uses a binary heap. The smallest element by default is at the head, while iteration order is not sorted.
 

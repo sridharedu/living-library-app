@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multipart upload sends a large object in independent parts that can be uploaded concurrently and retried separately.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **S3 multipart upload** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. Multipart upload sends a large object in independent parts that can be uploaded concurrently and retried separately.
 

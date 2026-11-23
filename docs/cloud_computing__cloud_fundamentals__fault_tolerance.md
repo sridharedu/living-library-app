@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Fault tolerance lets a system continue operating correctly even when components fail, often through replication and automatic recovery.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Fault tolerance** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Fault tolerance lets a system continue operating correctly even when components fail, often through replication and automatic recovery.
 

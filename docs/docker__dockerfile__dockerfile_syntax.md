@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Dockerfile instructions define the base image, files, commands, metadata, runtime configuration, and build stages.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Dockerfile syntax** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. Dockerfile instructions define the base image, files, commands, metadata, runtime configuration, and build stages.
 

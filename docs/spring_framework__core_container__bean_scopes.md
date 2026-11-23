@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Bean scope controls how many instances Spring creates and how long they live, such as singleton, prototype, request, or session.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bean scopes** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. Bean scope controls how many instances Spring creates and how long they live, such as singleton, prototype, request, or session.
 

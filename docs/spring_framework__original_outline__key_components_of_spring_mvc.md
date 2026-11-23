@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Core components include DispatcherServlet, handler mappings, handler adapters, controllers, argument resolvers, validators, message converters, exception resolvers, and view resolvers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Key Components of Spring MVC** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Core components include DispatcherServlet, handler mappings, handler adapters, controllers, argument resolvers, validators, message converters, exception resolvers, and view resolvers.
 

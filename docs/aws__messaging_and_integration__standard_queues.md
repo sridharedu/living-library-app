@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SQS Standard queues offer very high throughput and at-least-once delivery with best-effort ordering.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Standard queues** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. SQS Standard queues offer very high throughput and at-least-once delivery with best-effort ordering.
 

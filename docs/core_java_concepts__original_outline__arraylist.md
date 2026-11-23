@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ArrayList uses a resizable array, giving fast indexed reads and efficient appends. Insertions or removals in the middle are more expensive because later elements must be shifted.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ArrayList** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. ArrayList uses a resizable array, giving fast indexed reads and efficient appends. Insertions or removals in the middle are more expensive because later elements must be shifted.
 

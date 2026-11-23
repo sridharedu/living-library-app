@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A PersistentVolume is cluster storage provisioned independently of any one Pod.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PersistentVolumes** serves as a foundational component within *Configuration and Storage* in the broader **Kubernetes** ecosystem. A PersistentVolume is cluster storage provisioned independently of any one Pod.
 

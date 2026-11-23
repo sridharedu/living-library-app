@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> INNER JOIN returns only rows with matching join conditions on both sides.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **INNER JOIN** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. INNER JOIN returns only rows with matching join conditions on both sides.
 

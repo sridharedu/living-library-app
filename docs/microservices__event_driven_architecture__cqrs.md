@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Command Query Responsibility Segregation separates write models from read models so each can be optimized independently.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CQRS** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Command Query Responsibility Segregation separates write models from read models so each can be optimized independently.
 

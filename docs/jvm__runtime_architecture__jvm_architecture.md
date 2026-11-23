@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The JVM contains class loading, runtime memory areas, execution engines, garbage collection, native interfaces, and supporting runtime services.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JVM architecture** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The JVM contains class loading, runtime memory areas, execution engines, garbage collection, native interfaces, and supporting runtime services.
 

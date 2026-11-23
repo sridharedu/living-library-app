@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis Lua scripts execute atomically on the server, allowing multi-step logic without race conditions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lua scripting** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis Lua scripts execute atomically on the server, allowing multi-step logic without race conditions.
 

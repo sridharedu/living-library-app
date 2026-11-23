@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The second-level cache stores entity data beyond one persistence context and can reduce database reads across transactions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Second-level cache** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. The second-level cache stores entity data beyond one persistence context and can reduce database reads across transactions.
 

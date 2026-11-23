@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Config records resource configurations and how they change over time. It helps answer what changed, when it changed, and whether resources comply with expected rules.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Config** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS Config records resource configurations and how they change over time. It helps answer what changed, when it changed, and whether resources comply with expected rules.
 

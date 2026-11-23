@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> TDD can feel slower initially, is difficult around legacy or highly integrated code, and can produce brittle tests when implementation details are mocked.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Challenges with TDD** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. TDD can feel slower initially, is difficult around legacy or highly integrated code, and can produce brittle tests when implementation details are mocked.
 

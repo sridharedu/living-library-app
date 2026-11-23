@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Docker provides consistent local environments and deployable production images. Production usage still requires secure images, resource limits, health checks, and orchestration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker for Development and Production** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Docker provides consistent local environments and deployable production images. Production usage still requires secure images, resource limits, health checks, and orchestration.
 

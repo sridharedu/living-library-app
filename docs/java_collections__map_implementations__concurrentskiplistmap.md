@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ConcurrentSkipListMap is a thread-safe sorted map implemented with a skip list. It supports scalable navigation and range operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ConcurrentSkipListMap** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. ConcurrentSkipListMap is a thread-safe sorted map implemented with a skip list. It supports scalable navigation and range operations.
 

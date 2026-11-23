@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Component scanning finds annotated classes such as @Component, @Service, @Repository, and @Controller and registers them as beans.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Component scanning** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Component scanning finds annotated classes such as @Component, @Service, @Repository, and @Controller and registers them as beans.
 

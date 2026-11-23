@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A bulkhead isolates resources such as threads, connections, or concurrency limits so one failing dependency cannot exhaust the entire service.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bulkhead** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. A bulkhead isolates resources such as threads, connections, or concurrency limits so one failing dependency cannot exhaust the entire service.
 

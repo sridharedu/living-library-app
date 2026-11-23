@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Active-active architecture serves traffic from multiple regions or sites simultaneously and requires conflict-aware data handling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Active-active architecture** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Active-active architecture serves traffic from multiple regions or sites simultaneously and requires conflict-aware data handling.
 

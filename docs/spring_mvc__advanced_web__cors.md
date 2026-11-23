@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cross-Origin Resource Sharing controls whether browser code from one origin may access resources on another origin.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CORS** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Cross-Origin Resource Sharing controls whether browser code from one origin may access resources on another origin.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The four golden signals are latency, traffic, errors, and saturation. Together they summarize service health from the user and resource perspectives.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Golden signals** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. The four golden signals are latency, traffic, errors, and saturation. Together they summarize service health from the user and resource perspectives.
 

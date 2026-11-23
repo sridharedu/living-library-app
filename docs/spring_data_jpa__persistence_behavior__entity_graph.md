@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An entity graph declares which associations should be fetched for a specific query without changing the entity's default fetch configuration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Entity graph** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. An entity graph declares which associations should be fetched for a specific query without changing the entity's default fetch configuration.
 

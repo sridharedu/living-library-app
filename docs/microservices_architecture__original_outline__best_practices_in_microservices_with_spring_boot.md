@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Keep services cohesive, APIs version-tolerant, calls time-bounded, operations observable, and data ownership explicit. Avoid turning Spring annotations into a substitute for sound service boundaries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Best Practices in Microservices with Spring Boot** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Keep services cohesive, APIs version-tolerant, calls time-bounded, operations observable, and data ownership explicit. Avoid turning Spring annotations into a substitute for sound service boundaries.
 

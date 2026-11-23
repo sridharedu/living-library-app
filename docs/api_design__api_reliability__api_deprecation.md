@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> API deprecation communicates that a contract will be retired and provides timelines, migration guidance, and usage monitoring.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **API deprecation** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. API deprecation communicates that a contract will be retired and provides timelines, migration guidance, and usage monitoring.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> JPA entity states are transient, managed, detached, and removed. Operations behave differently depending on the current state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Entity states** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. JPA entity states are transient, managed, detached, and removed. Operations behave differently depending on the current state.
 

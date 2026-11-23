@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Checkstyle enforces Java formatting and coding conventions through automated rules.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Checkstyle** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Checkstyle enforces Java formatting and coding conventions through automated rules.
 

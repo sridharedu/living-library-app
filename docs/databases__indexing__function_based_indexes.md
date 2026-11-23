@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A function-based index stores the result of an expression so queries using the same expression can avoid full scans.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Function-based indexes** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. A function-based index stores the result of an expression so queries using the same expression can avoid full scans.
 

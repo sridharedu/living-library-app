@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Onion architecture uses concentric layers with the domain model at the center. Outer infrastructure depends on inner abstractions, never the reverse.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Onion architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Onion architecture uses concentric layers with the domain model at the center. Outer infrastructure depends on inner abstractions, never the reverse.
 

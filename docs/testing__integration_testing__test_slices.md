@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Boot test slices load only a focused part of the application, such as MVC, JPA, JSON, or REST clients.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Test slices** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. Spring Boot test slices load only a focused part of the application, such as MVC, JPA, JSON, or REST clients.
 

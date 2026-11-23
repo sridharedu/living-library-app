@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HTTP message converters serialize controller return values and deserialize request bodies for media types such as JSON, XML, text, and binary data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **HTTP message converters** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. HTTP message converters serialize controller return values and deserialize request bodies for media types such as JSON, XML, text, and binary data.
 

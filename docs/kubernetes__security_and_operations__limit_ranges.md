@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A LimitRange sets default, minimum, and maximum resource requests or limits for namespace workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Limit ranges** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. A LimitRange sets default, minimum, and maximum resource requests or limits for namespace workloads.
 

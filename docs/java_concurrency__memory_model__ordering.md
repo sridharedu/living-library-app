@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ordering defines which execution sequences other threads may observe. The JVM and CPU may reorder operations unless memory-model rules prevent it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Ordering** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Ordering defines which execution sequences other threads may observe. The JVM and CPU may reorder operations unless memory-model rules prevent it.
 

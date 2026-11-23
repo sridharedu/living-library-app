@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Database per service gives each service exclusive ownership of its data. Other services access that data through APIs or events rather than direct queries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Database per service** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Database per service gives each service exclusive ownership of its data. Other services access that data through APIs or events rather than direct queries.
 

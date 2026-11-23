@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Signals asynchronously notify processes about events such as termination, interruption, stop, continue, or user-defined conditions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Signals** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Signals asynchronously notify processes about events such as termination, interruption, stop, continue, or user-defined conditions.
 

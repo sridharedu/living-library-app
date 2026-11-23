@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Step Functions orchestrates workflows using state machines with tasks, branching, retries, timeouts, parallelism, and compensation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Step Functions** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. AWS Step Functions orchestrates workflows using state machines with tasks, branching, retries, timeouts, parallelism, and compensation.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Service discovery is the mechanism by which a client or router finds healthy instances of a named service. Discovery may be client-side, server-side, or built into the platform.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Service Discovery?** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Service discovery is the mechanism by which a client or router finds healthy instances of a named service. Discovery may be client-side, server-side, or built into the platform.
 

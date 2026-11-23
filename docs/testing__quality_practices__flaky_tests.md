@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Flaky tests pass and fail without relevant code changes, often because of timing, shared state, environment dependence, or nondeterministic data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Flaky tests** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Flaky tests pass and fail without relevant code changes, often because of timing, shared state, environment dependence, or nondeterministic data.
 

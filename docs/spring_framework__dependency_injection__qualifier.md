@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @Qualifier narrows dependency resolution when multiple beans share the same type.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Qualifier** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. @Qualifier narrows dependency resolution when multiple beans share the same type.
 

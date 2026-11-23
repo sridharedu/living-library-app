@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Programmatic transaction management uses TransactionTemplate or a transaction manager directly when transaction boundaries must be controlled dynamically.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Programmatic transactions** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. Programmatic transaction management uses TransactionTemplate or a transaction manager directly when transaction boundaries must be controlled dynamically.
 

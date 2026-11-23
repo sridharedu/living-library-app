@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A ReplicaSet maintains a specified number of identical Pod replicas. Deployments usually manage ReplicaSets automatically.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ReplicaSets** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A ReplicaSet maintains a specified number of identical Pod replicas. Deployments usually manage ReplicaSets automatically.
 

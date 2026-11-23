@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An architecture decision record captures a significant decision, its context, alternatives, consequences, and current status.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Architecture decision records** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. An architecture decision record captures a significant decision, its context, alternatives, consequences, and current status.
 

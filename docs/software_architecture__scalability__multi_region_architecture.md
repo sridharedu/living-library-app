@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multi-region architecture deploys workloads across geographic regions for latency, resilience, or regulatory needs, but complicates data consistency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Multi-region architecture** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Multi-region architecture deploys workloads across geographic regions for latency, resilience, or regulatory needs, but complicates data consistency.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Platform as a Service manages more of the runtime, scaling, and deployment platform so developers focus mainly on application code.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PaaS** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Platform as a Service manages more of the runtime, scaling, and deployment platform so developers focus mainly on application code.
 

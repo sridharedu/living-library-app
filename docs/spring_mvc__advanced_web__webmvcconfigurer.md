@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> WebMvcConfigurer customizes Spring MVC behavior such as formatters, CORS, interceptors, resource handling, and message converters.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **WebMvcConfigurer** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. WebMvcConfigurer customizes Spring MVC behavior such as formatters, CORS, interceptors, resource handling, and message converters.
 

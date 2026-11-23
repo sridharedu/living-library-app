@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> EBS volume types include general-purpose SSD, provisioned-IOPS SSD, throughput-optimized HDD, and cold HDD.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **EBS volume types** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. EBS volume types include general-purpose SSD, provisioned-IOPS SSD, throughput-optimized HDD, and cold HDD.
 

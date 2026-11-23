@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Security pillar emphasizes identity, traceability, layered protection, data protection, and automated security practices.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Security pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. The Security pillar emphasizes identity, traceability, layered protection, data protection, and automated security practices.
 

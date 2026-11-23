@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Directory partitioning uses a lookup table or routing service that maps each key or tenant to its partition.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Directory partitioning** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Directory partitioning uses a lookup table or routing service that maps each key or tenant to its partition.
 

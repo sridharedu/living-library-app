@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> BinaryOperator<T> is a BiFunction<T,T,T>. It is commonly used in reductions where two values combine into one of the same type.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **BinaryOperator** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. BinaryOperator<T> is a BiFunction<T,T,T>. It is commonly used in reductions where two values combine into one of the same type.
 

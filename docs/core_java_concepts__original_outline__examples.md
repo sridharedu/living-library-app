@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Typical lambda examples include filtering with Predicate, transforming with Function, printing with Consumer, and creating values with Supplier. Good lambdas stay short, clear, and side-effect aware.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Examples** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Typical lambda examples include filtering with Predicate, transforming with Function, printing with Consumer, and creating values with Supplier. Good lambdas stay short, clear, and side-effect aware.
 

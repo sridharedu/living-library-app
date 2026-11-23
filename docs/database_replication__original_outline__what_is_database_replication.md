@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Replication copies data from one database node to others for availability, read scaling, disaster recovery, or geographic distribution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Database Replication?** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Replication copies data from one database node to others for availability, read scaling, disaster recovery, or geographic distribution.
 

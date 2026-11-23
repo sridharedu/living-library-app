@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS monitoring and management services provide metrics, logs, tracing, audit history, configuration tracking, automation, and operational visibility. CloudWatch, CloudTrail, Config, and Systems Manager are central examples.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Monitoring and Management Services** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS monitoring and management services provide metrics, logs, tracing, audit history, configuration tracking, automation, and operational visibility. CloudWatch, CloudTrail, Config, and Systems Manager are central examples.
 

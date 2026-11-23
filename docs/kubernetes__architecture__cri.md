@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Container Runtime Interface lets kubelet communicate with compatible runtimes through a standard API.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CRI** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Container Runtime Interface lets kubelet communicate with compatible runtimes through a standard API.
 

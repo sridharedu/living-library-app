@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HashSet stores unique elements using a HashMap internally. Average add, remove, and contains operations are constant time when hashCode and equals are implemented correctly.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **HashSet** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. HashSet stores unique elements using a HashMap internally. Average add, remove, and contains operations are constant time when hashCode and equals are implemented correctly.
 

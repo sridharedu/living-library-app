@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Collection classes are concrete implementations of collection interfaces. Their internal data structure determines performance, ordering, duplicate handling, thread safety, and memory behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collection Classes** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Collection classes are concrete implementations of collection interfaces. Their internal data structure determines performance, ordering, duplicate handling, thread safety, and memory behavior.
 

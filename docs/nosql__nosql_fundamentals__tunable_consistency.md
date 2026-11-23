@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Tunable consistency lets clients choose read and write acknowledgement levels per operation, balancing latency and consistency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Tunable consistency** serves as a foundational component within *NoSQL Fundamentals* in the broader **NoSQL** ecosystem. Tunable consistency lets clients choose read and write acknowledgement levels per operation, balancing latency and consistency.
 

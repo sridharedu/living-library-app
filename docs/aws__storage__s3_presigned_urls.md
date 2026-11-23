@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A presigned URL grants temporary permission to perform a specific S3 operation without exposing permanent credentials.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **S3 presigned URLs** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. A presigned URL grants temporary permission to perform a specific S3 operation without exposing permanent credentials.
 

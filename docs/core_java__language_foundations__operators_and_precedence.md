@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Operators perform arithmetic, comparison, assignment, logical, bitwise, and other operations. Precedence determines evaluation order unless parentheses override it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Operators and precedence** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Operators perform arithmetic, comparison, assignment, logical, bitwise, and other operations. Precedence determines evaluation order unless parentheses override it.
 

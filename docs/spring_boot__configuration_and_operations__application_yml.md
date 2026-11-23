@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> application.yml stores hierarchical configuration in YAML. It is compact but sensitive to indentation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **application.yml** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. application.yml stores hierarchical configuration in YAML. It is compact but sensitive to indentation.
 

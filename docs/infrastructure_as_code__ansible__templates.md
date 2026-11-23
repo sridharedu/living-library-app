@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ansible templates render Jinja2 files with variables and copy the result to managed hosts.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Templates** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Ansible templates render Jinja2 files with variables and copy the result to managed hosts.
 

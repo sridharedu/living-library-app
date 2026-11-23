@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon Web Services is a pay-as-you-go cloud platform where resources are provisioned through consoles, APIs, command-line tools, or infrastructure-as-code templates.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is AWS?** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Amazon Web Services is a pay-as-you-go cloud platform where resources are provisioned through consoles, APIs, command-line tools, or infrastructure-as-code templates.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @ConfigurationProperties binds structured external configuration into typed Java objects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ConfigurationProperties** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. @ConfigurationProperties binds structured external configuration into typed Java objects.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The AWS Well-Architected Framework evaluates cloud workloads across six architectural pillars and their trade-offs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Well-Architected Framework** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. The AWS Well-Architected Framework evaluates cloud workloads across six architectural pillars and their trade-offs.
 

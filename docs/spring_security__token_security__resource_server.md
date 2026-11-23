@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A resource server hosts protected APIs and validates access tokens before serving requests.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Resource server** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. A resource server hosts protected APIs and validates access tokens before serving requests.
 

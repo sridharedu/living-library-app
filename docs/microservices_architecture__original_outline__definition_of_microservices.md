@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A microservice is a small autonomous application that exposes a clear contract and can be developed, deployed, and scaled independently. Small refers to responsibility, not a fixed code size.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Definition of Microservices** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. A microservice is a small autonomous application that exposes a clear contract and can be developed, deployed, and scaled independently. Small refers to responsibility, not a fixed code size.
 

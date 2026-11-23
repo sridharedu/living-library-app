@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multi-AZ design distributes workloads across independent Availability Zones to survive data-center or zone-level failure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Multi-AZ design** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. Multi-AZ design distributes workloads across independent Availability Zones to survive data-center or zone-level failure.
 

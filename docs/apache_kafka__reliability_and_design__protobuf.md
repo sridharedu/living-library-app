@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Protocol Buffers define strongly typed messages with numbered fields and compact binary encoding.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Protobuf** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Protocol Buffers define strongly typed messages with numbered fields and compact binary encoding.
 

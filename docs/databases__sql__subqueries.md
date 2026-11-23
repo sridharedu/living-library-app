@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A subquery is a query nested inside another statement and may return a scalar, row, set, or derived table.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Subqueries** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. A subquery is a query nested inside another statement and may return a scalar, row, set, or derived table.
 

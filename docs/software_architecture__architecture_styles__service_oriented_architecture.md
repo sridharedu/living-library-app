@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Service-oriented architecture organizes business capabilities as reusable services, often with centralized integration and governance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service-oriented architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Service-oriented architecture organizes business capabilities as reusable services, often with centralized integration and governance.
 

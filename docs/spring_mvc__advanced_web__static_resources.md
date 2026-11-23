@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring MVC can serve static files such as CSS, JavaScript, and images from configured classpath or filesystem locations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Static resources** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Spring MVC can serve static files such as CSS, JavaScript, and images from configured classpath or filesystem locations.
 

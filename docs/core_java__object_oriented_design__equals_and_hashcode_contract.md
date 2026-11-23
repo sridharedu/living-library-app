@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Equal objects must return the same hash code. equals must be reflexive, symmetric, transitive, consistent, and return false for null.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **equals and hashCode contract** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Equal objects must return the same hash code. equals must be reflexive, symmetric, transitive, consistent, and return false for null.
 

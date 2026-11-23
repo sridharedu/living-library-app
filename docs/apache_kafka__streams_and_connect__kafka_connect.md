@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kafka Connect moves data between Kafka and external systems through reusable source and sink connectors.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kafka Connect** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. Kafka Connect moves data between Kafka and external systems through reusable source and sink connectors.
 

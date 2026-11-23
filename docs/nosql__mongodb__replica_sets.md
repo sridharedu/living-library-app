@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A MongoDB replica set contains one primary and secondary members for redundancy, failover, and read scaling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Replica sets** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. A MongoDB replica set contains one primary and secondary members for redundancy, failover, and read scaling.
 

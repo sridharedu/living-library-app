@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> dependencyManagement centralizes dependency versions and defaults without automatically adding those dependencies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Dependency management** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. dependencyManagement centralizes dependency versions and defaults without automatically adding those dependencies.
 

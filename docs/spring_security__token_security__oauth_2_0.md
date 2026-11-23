@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> OAuth 2.0 is an authorization framework that lets clients obtain scoped access tokens without handling the user's password.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **OAuth 2.0** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. OAuth 2.0 is an authorization framework that lets clients obtain scoped access tokens without handling the user's password.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Void methods are stubbed with doNothing, doThrow, or doAnswer. This is useful for simulating failures or side effects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mocking Void Methods and Exceptions** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Void methods are stubbed with doNothing, doThrow, or doAnswer. This is useful for simulating failures or side effects.
 

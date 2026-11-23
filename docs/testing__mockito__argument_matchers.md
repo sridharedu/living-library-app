@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Argument matchers let stubbing or verification accept broad or custom argument conditions instead of exact values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Argument matchers** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Argument matchers let stubbing or verification accept broad or custom argument conditions instead of exact values.
 

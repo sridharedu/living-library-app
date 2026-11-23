@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CGLIB creates a runtime subclass of the target class. Final classes and final methods cannot be advised this way.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CGLIB proxy** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. CGLIB creates a runtime subclass of the target class. Final classes and final methods cannot be advised this way.
 

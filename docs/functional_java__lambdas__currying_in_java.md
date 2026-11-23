@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Currying transforms a function of multiple arguments into nested single-argument functions, such as Function<A, Function<B,R>>.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Currying in Java** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. Currying transforms a function of multiple arguments into nested single-argument functions, such as Function<A, Function<B,R>>.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Template Method defines an algorithm skeleton in a base class while subclasses customize selected steps.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Template Method** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Template Method defines an algorithm skeleton in a base class while subclasses customize selected steps.
 

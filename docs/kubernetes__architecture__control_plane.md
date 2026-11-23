@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Kubernetes control plane stores desired state and makes cluster-wide decisions about scheduling, controllers, and APIs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Control plane** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Kubernetes control plane stores desired state and makes cluster-wide decisions about scheduling, controllers, and APIs.
 

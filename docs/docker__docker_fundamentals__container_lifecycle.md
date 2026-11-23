@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A container moves through create, start, run, pause, stop, restart, and remove states.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Container lifecycle** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. A container moves through create, start, run, pause, stop, restart, and remove states.
 

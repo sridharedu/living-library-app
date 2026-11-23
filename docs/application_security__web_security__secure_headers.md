@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Secure HTTP headers such as HSTS, CSP, X-Content-Type-Options, and frame restrictions reduce browser-based attack surfaces.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Secure headers** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Secure HTTP headers such as HSTS, CSP, X-Content-Type-Options, and frame restrictions reduce browser-based attack surfaces.
 

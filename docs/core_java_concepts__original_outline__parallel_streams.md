@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A parallel stream splits work across the ForkJoin common pool and combines partial results. It can help CPU-heavy, independent operations on large data sets, but it is not automatically faster.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Parallel Streams** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. A parallel stream splits work across the ForkJoin common pool and combines partial results. It can help CPU-heavy, independent operations on large data sets, but it is not automatically faster.
 

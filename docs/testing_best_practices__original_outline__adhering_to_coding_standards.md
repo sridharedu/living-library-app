@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Coding standards improve consistency in naming, formatting, error handling, and structure. Automation should enforce what tools can check.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Adhering to Coding Standards** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Coding standards improve consistency in naming, formatting, error handling, and structure. Automation should enforce what tools can check.
 

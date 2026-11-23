@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A single-thread executor processes tasks sequentially on one worker, preserving submission order and isolating failures through worker replacement.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Single-thread executor** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. A single-thread executor processes tasks sequentially on one worker, preserving submission order and isolating failures through worker replacement.
 

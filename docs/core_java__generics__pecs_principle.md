@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> PECS means Producer Extends, Consumer Super. Use ? extends T when reading T values and ? super T when writing T values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PECS principle** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. PECS means Producer Extends, Consumer Super. Use ? extends T when reading T values and ? super T when writing T values.
 

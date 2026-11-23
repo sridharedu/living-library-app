@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Write skew occurs when concurrent transactions read the same condition, update different rows, and together violate a business rule.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Write skew** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. Write skew occurs when concurrent transactions read the same condition, update different rows, and together violate a business rule.
 

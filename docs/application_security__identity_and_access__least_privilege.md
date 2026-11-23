@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Least privilege grants only the permissions required for a task and only for as long as needed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Least privilege** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Least privilege grants only the permissions required for a task and only for as long as needed.
 

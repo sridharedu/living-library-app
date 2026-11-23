@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Shell scripting automates command execution, pipelines, variables, conditions, loops, functions, and system tasks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Shell scripting** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Shell scripting automates command execution, pipelines, variables, conditions, loops, functions, and system tasks.
 

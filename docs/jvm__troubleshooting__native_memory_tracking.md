@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Native Memory Tracking reports JVM native-memory categories such as class metadata, threads, code cache, GC structures, and direct allocations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Native memory tracking** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. Native Memory Tracking reports JVM native-memory categories such as class metadata, threads, code cache, GC structures, and direct allocations.
 

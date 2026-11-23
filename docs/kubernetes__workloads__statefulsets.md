@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A StatefulSet manages stateful Pods with stable names, ordered lifecycle, and persistent-volume identity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **StatefulSets** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A StatefulSet manages stateful Pods with stable names, ordered lifecycle, and persistent-volume identity.
 

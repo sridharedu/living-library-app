@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Session scope creates one bean instance per HTTP session and is useful for session-specific state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Session scope** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. Session scope creates one bean instance per HTTP session and is useful for session-specific state.
 

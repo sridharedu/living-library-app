@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Distributed builds execute jobs on multiple agents with different labels, tools, operating systems, or capacity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Distributed builds** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Distributed builds execute jobs on multiple agents with different labels, tools, operating systems, or capacity.
 

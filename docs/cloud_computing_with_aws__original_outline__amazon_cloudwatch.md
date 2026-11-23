@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CloudWatch collects metrics, logs, and events from AWS resources and applications. It supports dashboards, alarms, log analysis, and automated responses to operational conditions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon CloudWatch** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. CloudWatch collects metrics, logs, and events from AWS resources and applications. It supports dashboards, alarms, log analysis, and automated responses to operational conditions.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The test trophy emphasizes integration tests as the highest-value layer, supported by unit, end-to-end, and static checks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Test trophy** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. The test trophy emphasizes integration tests as the highest-value layer, supported by unit, end-to-end, and static checks.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java generics are implemented mostly through type erasure, so generic type arguments are removed at runtime and replaced with bounds or Object.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Type erasure** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. Java generics are implemented mostly through type erasure, so generic type arguments are removed at runtime and replaced with bounds or Object.
 

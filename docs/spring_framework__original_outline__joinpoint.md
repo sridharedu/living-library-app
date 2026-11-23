@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A join point is a location where an aspect can be applied. In Spring AOP, the supported join points are primarily method executions on Spring-managed objects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Joinpoint** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. A join point is a location where an aspect can be applied. In Spring AOP, the supported join points are primarily method executions on Spring-managed objects.
 

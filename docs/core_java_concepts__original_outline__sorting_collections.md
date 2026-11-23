@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Collections can be sorted using natural ordering or an explicit comparator. Sorting requires a consistent comparison rule and generally costs O(n log n).
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sorting Collections** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Collections can be sorted using natural ordering or an explicit comparator. Sorting requires a consistent comparison rule and generally costs O(n log n).
 

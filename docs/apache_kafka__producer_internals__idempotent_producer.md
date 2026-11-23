@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An idempotent Kafka producer prevents duplicate records caused by retries within a producer session and partition.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Idempotent producer** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. An idempotent Kafka producer prevents duplicate records caused by retries within a producer session and partition.
 

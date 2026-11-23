@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ECS Service Connect provides service discovery and standardized service-to-service connectivity for ECS applications.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service Connect** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. ECS Service Connect provides service discovery and standardized service-to-service connectivity for ECS applications.
 

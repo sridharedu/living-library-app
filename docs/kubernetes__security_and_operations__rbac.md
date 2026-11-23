@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kubernetes RBAC grants permissions through Roles, ClusterRoles, RoleBindings, and ClusterRoleBindings.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RBAC** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Kubernetes RBAC grants permissions through Roles, ClusterRoles, RoleBindings, and ClusterRoleBindings.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Weaving combines aspect logic with target code. It can happen at compile time, load time, or runtime through proxies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Weaving** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. Weaving combines aspect logic with target code. It can happen at compile time, load time, or runtime through proxies.
 

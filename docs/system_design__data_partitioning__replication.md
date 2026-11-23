@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Replication copies data to multiple nodes for availability, durability, read scaling, or geographic locality.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Replication** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Replication copies data to multiple nodes for availability, durability, read scaling, or geographic locality.
 

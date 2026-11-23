@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An ETag is a response validator representing a resource version and supports caching and optimistic concurrency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ETags** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. An ETag is a response validator representing a resource version and supports caching and optimistic concurrency.
 

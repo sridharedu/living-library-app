@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Decorator adds behavior by wrapping an object without changing its class.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Decorator** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Decorator adds behavior by wrapping an object without changing its class.
 

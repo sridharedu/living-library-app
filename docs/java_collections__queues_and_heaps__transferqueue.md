@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> TransferQueue lets producers optionally wait until consumers receive elements. LinkedTransferQueue is a scalable implementation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **TransferQueue** serves as a foundational component within *Queues and Heaps* in the broader **Java Collections** ecosystem. TransferQueue lets producers optionally wait until consumers receive elements. LinkedTransferQueue is a scalable implementation.
 

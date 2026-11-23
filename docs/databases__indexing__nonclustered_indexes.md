@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A nonclustered index stores indexed keys separately with row locators pointing back to the table data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Nonclustered indexes** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. A nonclustered index stores indexed keys separately with row locators pointing back to the table data.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ObjectId is MongoDB's common 12-byte identifier containing timestamp and uniqueness components.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ObjectId** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. ObjectId is MongoDB's common 12-byte identifier containing timestamp and uniqueness components.
 

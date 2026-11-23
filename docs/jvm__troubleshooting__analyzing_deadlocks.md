@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Analyze deadlocks by examining thread dumps for cycles where threads hold one lock while waiting for another. Fix with lock ordering or reduced lock scope.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Analyzing deadlocks** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. Analyze deadlocks by examining thread dumps for cycles where threads hold one lock while waiting for another. Fix with lock ordering or reduced lock scope.
 

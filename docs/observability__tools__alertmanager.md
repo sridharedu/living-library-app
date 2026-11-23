@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Prometheus Alertmanager groups, deduplicates, silences, and routes alerts to notification channels.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Alertmanager** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Prometheus Alertmanager groups, deduplicates, silences, and routes alerts to notification channels.
 

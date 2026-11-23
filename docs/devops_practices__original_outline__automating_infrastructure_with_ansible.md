@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ansible can install packages, configure services, deploy files, manage users, and orchestrate infrastructure changes. Repeatability depends on idempotent tasks and controlled variables.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Automating Infrastructure with Ansible** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Ansible can install packages, configure services, deploy files, manage users, and orchestrate infrastructure changes. Repeatability depends on idempotent tasks and controlled variables.
 

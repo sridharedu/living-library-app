@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ListIterator traverses a list in both directions and supports add, set, remove, and index-aware navigation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ListIterator** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. ListIterator traverses a list in both directions and supports add, set, remove, and index-aware navigation.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> JVM warm-up is the period when classes load, code compiles, profiles accumulate, and caches fill before steady-state performance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JVM warm-up** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. JVM warm-up is the period when classes load, code compiles, profiles accumulate, and caches fill before steady-state performance.
 

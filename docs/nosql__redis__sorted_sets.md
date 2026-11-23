@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis sorted sets store unique members ordered by numeric scores, making them useful for rankings and time-based indexes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sorted sets** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis sorted sets store unique members ordered by numeric scores, making them useful for rankings and time-based indexes.
 

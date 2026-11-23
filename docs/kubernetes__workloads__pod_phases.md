@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pod phases summarize lifecycle state as Pending, Running, Succeeded, Failed, or Unknown.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pod phases** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. Pod phases summarize lifecycle state as Pending, Running, Succeeded, Failed, or Unknown.
 

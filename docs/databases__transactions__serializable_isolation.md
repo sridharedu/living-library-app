@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Serializable isolation makes concurrent transactions behave as if executed one at a time, offering the strongest isolation at higher coordination cost.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Serializable isolation** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. Serializable isolation makes concurrent transactions behave as if executed one at a time, offering the strongest isolation at higher coordination cost.
 

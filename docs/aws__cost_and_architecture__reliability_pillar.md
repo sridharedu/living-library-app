@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Reliability pillar focuses on recovery, redundancy, capacity management, and handling change or failure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reliability pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. The Reliability pillar focuses on recovery, redundancy, capacity management, and handling change or failure.
 

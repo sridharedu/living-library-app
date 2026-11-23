@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> A Kafka topic is a named logical stream where related records are published and stored. In a Java application, producers send records to a topic name, and consumers subscribe to that same topic to read them.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p>
     A Kafka <strong style="color:#8B3A3A;">topic</strong> is a named logical stream where related records are published and stored. In a Java application, producers send records to a topic name, and consumers subscribe to that same topic to read them.
   </p>

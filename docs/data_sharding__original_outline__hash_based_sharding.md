@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hash sharding applies a hash function to the shard key to distribute records evenly. It reduces hotspots but makes range queries and resharding harder.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hash-Based Sharding** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Hash sharding applies a hash function to the shard key to distribute records evenly. It reduces hotspots but makes range queries and resharding harder.
 

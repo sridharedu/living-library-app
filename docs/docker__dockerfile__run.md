@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RUN executes a command while building an image and commits the resulting filesystem changes into a layer.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RUN** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. RUN executes a command while building an image and commits the resulting filesystem changes into a layer.
 

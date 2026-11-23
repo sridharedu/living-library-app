@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Major features include authentication providers, request and method authorization, security filters, password hashing, session protection, CSRF defense, OAuth integration, and secure default headers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Key Features of Spring Security** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Major features include authentication providers, request and method authorization, security filters, password hashing, session protection, CSRF defense, OAuth integration, and secure default headers.
 

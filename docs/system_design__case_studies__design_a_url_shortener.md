@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A URL shortener maps compact unique codes to long URLs. Core concerns are ID generation, redirects, storage, caching, expiration, analytics, and abuse prevention.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a URL shortener** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A URL shortener maps compact unique codes to long URLs. Core concerns are ID generation, redirects, storage, caching, expiration, analytics, and abuse prevention.
 

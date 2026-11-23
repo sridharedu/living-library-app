@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Java Platform Module System uses module-info.java to declare requires, exports, opens, uses, and provides relationships.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JPMS** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. The Java Platform Module System uses module-info.java to declare requires, exports, opens, uses, and provides relationships.
 

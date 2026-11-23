@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> JPQL queries entities and their mapped fields rather than tables and columns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JPQL** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. JPQL queries entities and their mapped fields rather than tables and columns.
 

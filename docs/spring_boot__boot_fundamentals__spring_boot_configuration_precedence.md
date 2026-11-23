@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Boot resolves configuration from ordered property sources, with higher-precedence sources overriding lower ones.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Boot configuration precedence** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. Spring Boot resolves configuration from ordered property sources, with higher-precedence sources overriding lower ones.
 

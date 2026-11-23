@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Key traits include bounded ownership, independent deployment, decentralized data, automation, observability, fault isolation, and lightweight communication through APIs or events.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Key Characteristics of Microservices** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Key traits include bounded ownership, independent deployment, decentralized data, automation, observability, fault isolation, and lightweight communication through APIs or events.
 

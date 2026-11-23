@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A data pipeline moves and transforms data through ingestion, validation, storage, processing, and serving stages.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Data pipelines** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. A data pipeline moves and transforms data through ingestion, validation, storage, processing, and serving stages.
 

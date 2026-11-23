@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Common Docker network drivers are bridge, host, none, overlay, macvlan, and ipvlan. Each serves different isolation and connectivity requirements.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Types of Docker Networks** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Common Docker network drivers are bridge, host, none, overlay, macvlan, and ipvlan. Each serves different isolation and connectivity requirements.
 

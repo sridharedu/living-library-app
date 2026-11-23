@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Proxy stands in for another object to control access, add lazy loading, remote communication, caching, or security.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Proxy** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Proxy stands in for another object to control access, add lazy loading, remote communication, caching, or security.
 

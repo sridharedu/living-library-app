@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> GC roots include active stack references, static fields, JNI references, and JVM-internal structures. Reachable objects are retained.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Garbage collection roots** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. GC roots include active stack references, static fields, JNI references, and JVM-internal structures. Reachable objects are retained.
 

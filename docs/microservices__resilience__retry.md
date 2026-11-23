@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Retry repeats a failed operation when the failure is likely transient. It requires limits, backoff, jitter, and idempotency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Retry** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. Retry repeats a failed operation when the failure is likely transient. It requires limits, backoff, jitter, and idempotency.
 

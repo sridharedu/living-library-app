@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An Availability Zone is one or more isolated data centers within a Region, connected through low-latency networking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Availability Zones** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. An Availability Zone is one or more isolated data centers within a Region, connected through low-latency networking.
 

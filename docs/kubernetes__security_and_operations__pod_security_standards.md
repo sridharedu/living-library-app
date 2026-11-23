@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pod Security Standards define Privileged, Baseline, and Restricted security profiles for Pod configuration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pod Security Standards** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Pod Security Standards define Privileged, Baseline, and Restricted security profiles for Pod configuration.
 

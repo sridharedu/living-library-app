@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Join types determine which matching and nonmatching rows appear when combining tables.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JOIN types** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. Join types determine which matching and nonmatching rows appear when combining tables.
 

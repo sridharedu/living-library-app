@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Concurrent modification means a collection changes structurally while it is being iterated. With ordinary collections this can invalidate the iterator and trigger ConcurrentModificationException.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Concurrent modification** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. Concurrent modification means a collection changes structurally while it is being iterated. With ordinary collections this can invalidate the iterator and trigger ConcurrentModificationException.
 

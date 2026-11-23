@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ENV defines environment variables available during later build steps and at container runtime.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ENV** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. ENV defines environment variables available during later build steps and at container runtime.
 

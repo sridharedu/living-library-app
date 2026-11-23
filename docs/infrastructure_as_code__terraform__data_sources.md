@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Terraform data sources read existing infrastructure or external information without managing its lifecycle.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Data sources** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Terraform data sources read existing infrastructure or external information without managing its lifecycle.
 

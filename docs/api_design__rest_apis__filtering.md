@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> API filtering lets clients restrict results using explicit query parameters with validated fields and operators.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Filtering** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. API filtering lets clients restrict results using explicit query parameters with validated fields and operators.
 

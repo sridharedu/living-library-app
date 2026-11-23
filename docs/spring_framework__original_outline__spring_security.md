@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Security provides authentication, authorization, exploit protection, and security-context management for Java applications. Its filter chain evaluates every web request before controller execution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Security** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Security provides authentication, authorization, exploit protection, and security-context management for Java applications. Its filter chain evaluates every web request before controller execution.
 

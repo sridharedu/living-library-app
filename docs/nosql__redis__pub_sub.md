@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis Pub/Sub broadcasts messages to current subscribers but does not persist them for offline consumers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pub/Sub** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis Pub/Sub broadcasts messages to current subscribers but does not persist them for offline consumers.
 

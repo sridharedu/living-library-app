@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Document databases store self-contained JSON-like records. They suit flexible domain objects and queries over document fields.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Document-based NoSQL Databases** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Document databases store self-contained JSON-like records. They suit flexible domain objects and queries over document fields.
 

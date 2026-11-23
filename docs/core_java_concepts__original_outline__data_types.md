@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java has primitive types such as int, long, double, boolean, and char, plus reference types such as String, arrays, and objects. The chosen type controls what values can be stored and how much memory and precision are used.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Data Types** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Java has primitive types such as int, long, double, boolean, and char, plus reference types such as String, arrays, and objects. The chosen type controls what values can be stored and how much memory and precision are used.
 

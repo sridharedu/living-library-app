@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS storage includes object storage, block volumes, shared file systems, archive tiers, and hybrid gateways. Each model serves different access, durability, latency, and sharing requirements.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Storage Services** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS storage includes object storage, block volumes, shared file systems, archive tiers, and hybrid gateways. Each model serves different access, durability, latency, and sharing requirements.
 

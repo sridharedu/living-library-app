@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A read-through cache loads missing values through a configured backing store so the application reads only from the cache interface.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Read-through cache** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. A read-through cache loads missing values through a configured backing store so the application reads only from the cache interface.
 

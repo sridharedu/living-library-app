@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kafka log compaction retains the latest value for each key while preserving tombstones long enough to represent deletion.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Compaction** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Kafka log compaction retains the latest value for each key while preserving tombstones long enough to represent deletion.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> UnaryOperator<T> is a Function<T,T> whose input and output types are the same. It represents a value transformation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **UnaryOperator** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. UnaryOperator<T> is a Function<T,T> whose input and output types are the same. It represents a value transformation.
 

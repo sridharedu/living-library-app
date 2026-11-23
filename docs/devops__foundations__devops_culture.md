@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DevOps culture emphasizes shared ownership, collaboration, automation, feedback, learning, and reliable delivery.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DevOps culture** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. DevOps culture emphasizes shared ownership, collaboration, automation, feedback, learning, and reliable delivery.
 

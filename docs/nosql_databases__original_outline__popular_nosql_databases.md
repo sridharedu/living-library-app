@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Popular NoSQL systems include MongoDB, DynamoDB, Cassandra, Redis, Couchbase, Neo4j, and HBase.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Popular NoSQL Databases** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Popular NoSQL systems include MongoDB, DynamoDB, Cassandra, Redis, Couchbase, Neo4j, and HBase.
 

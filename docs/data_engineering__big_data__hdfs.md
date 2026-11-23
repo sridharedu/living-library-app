@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HDFS stores large files across cluster nodes in replicated blocks and is optimized for high-throughput sequential access.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **HDFS** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. HDFS stores large files across cluster nodes in replicated blocks and is optimized for high-throughput sequential access.
 

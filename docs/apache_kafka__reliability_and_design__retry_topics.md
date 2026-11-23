@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Retry topics delay reprocessing by routing failed records through dedicated topics with staged backoff.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Retry topics** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Retry topics delay reprocessing by routing failed records through dedicated topics with staged backoff.
 

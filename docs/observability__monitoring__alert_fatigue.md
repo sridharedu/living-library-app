@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Alert fatigue occurs when excessive low-value alerts desensitize responders and hide genuinely urgent signals.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Alert fatigue** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Alert fatigue occurs when excessive low-value alerts desensitize responders and hide genuinely urgent signals.
 

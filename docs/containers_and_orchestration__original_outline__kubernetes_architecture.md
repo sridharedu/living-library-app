@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Kubernetes cluster contains a control plane and worker nodes. The control plane stores desired state and makes decisions, while nodes run application workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kubernetes Architecture** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Kubernetes cluster contains a control plane and worker nodes. The control plane stores desired state and makes decisions, while nodes run application workloads.
 

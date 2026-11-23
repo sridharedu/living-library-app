@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Overloading defines methods with the same name but different parameter lists. Resolution happens at compile time.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Method overloading** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Overloading defines methods with the same name but different parameter lists. Resolution happens at compile time.
 

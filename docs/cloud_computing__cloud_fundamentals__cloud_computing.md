@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cloud computing delivers compute, storage, networking, databases, and software as on-demand services with metered usage.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cloud computing** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Cloud computing delivers compute, storage, networking, databases, and software as on-demand services with metered usage.
 

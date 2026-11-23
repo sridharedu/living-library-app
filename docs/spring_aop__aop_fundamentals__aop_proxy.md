@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An AOP proxy wraps a target object and intercepts eligible method calls to apply advice such as transactions, security, or logging.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AOP proxy** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. An AOP proxy wraps a target object and intercepts eligible method calls to apply advice such as transactions, security, or logging.
 

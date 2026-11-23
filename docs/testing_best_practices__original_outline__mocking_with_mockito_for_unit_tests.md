@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mockito replaces dependencies with controllable test doubles. It helps isolate the class under test, but over-mocking can make tests brittle.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mocking with Mockito for Unit Tests** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Mockito replaces dependencies with controllable test doubles. It helps isolate the class under test, but over-mocking can make tests brittle.
 

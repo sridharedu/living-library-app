@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @Valid triggers validation and cascades into nested objects marked for validation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Valid annotation** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. @Valid triggers validation and cascades into nested objects marked for validation.
 

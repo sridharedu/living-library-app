@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Partial mocks execute real behavior for some methods and stub others. Use them sparingly because they often signal difficult design.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Partial mocks** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Partial mocks execute real behavior for some methods and stub others. Use them sparingly because they often signal difficult design.
 

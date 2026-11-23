@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> WebClient is Spring's non-blocking HTTP client with reactive request, response, streaming, and filter support.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **WebClient** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. WebClient is Spring's non-blocking HTTP client with reactive request, response, streaming, and filter support.
 

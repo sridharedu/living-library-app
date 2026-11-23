@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Configuration typically includes a datasource, JPA provider, entity scanning, repositories, transaction management, and database properties. Spring Boot auto-configures most of this from dependencies and settings.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Configuring Spring Data JPA** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Configuration typically includes a datasource, JPA provider, entity scanning, repositories, transaction management, and database properties. Spring Boot auto-configures most of this from dependencies and settings.
 

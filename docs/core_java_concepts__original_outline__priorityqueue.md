@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> PriorityQueue retrieves elements according to priority rather than insertion order. Java implements it as a heap, so peek is fast while insertion and removal are logarithmic.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PriorityQueue** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. PriorityQueue retrieves elements according to priority rather than insertion order. Java implements it as a heap, so peek is fast while insertion and removal are logarithmic.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Visibility means one thread can observe another thread's writes. Synchronization, volatile, final-field guarantees, and concurrent utilities provide visibility.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Visibility** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Visibility means one thread can observe another thread's writes. Synchronization, volatile, final-field guarantees, and concurrent utilities provide visibility.
 

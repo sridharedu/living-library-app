@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An idempotency key identifies repeated requests so the server can return the original result instead of repeating side effects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Idempotency keys** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. An idempotency key identifies repeated requests so the server can return the original result instead of repeating side effects.
 

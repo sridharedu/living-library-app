@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A write-behind cache updates the cache immediately and persists changes asynchronously, improving write speed but increasing durability and ordering complexity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Write-behind cache** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. A write-behind cache updates the cache immediately and persists changes asynchronously, improving write speed but increasing durability and ordering complexity.
 

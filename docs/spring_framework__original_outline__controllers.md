@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Controllers receive web requests, validate and delegate work to services, then return views or response bodies. They should remain thin and avoid owning business or persistence logic.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Controllers** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Controllers receive web requests, validate and delegate work to services, then return views or response bodies. They should remain thin and avoid owning business or persistence logic.
 

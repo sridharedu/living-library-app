@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Before advice runs immediately before the target method but cannot directly replace its result.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Before advice** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. Before advice runs immediately before the target method but cannot directly replace its result.
 

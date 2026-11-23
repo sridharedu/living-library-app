@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> JSON Schema defines the structure, types, required fields, and validation rules for JSON documents.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JSON schema** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. JSON Schema defines the structure, types, required fields, and validation rules for JSON documents.
 

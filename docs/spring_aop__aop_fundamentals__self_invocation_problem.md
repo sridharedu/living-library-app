@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A call from one method to another method on the same object bypasses the Spring proxy, so proxy-based advice may not run.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Self-invocation problem** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. A call from one method to another method on the same object bypasses the Spring proxy, so proxy-based advice may not run.
 

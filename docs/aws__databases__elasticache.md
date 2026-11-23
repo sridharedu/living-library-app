@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon ElastiCache provides managed Redis-compatible and Memcached-compatible in-memory caching for low-latency reads and session or transient data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ElastiCache** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. Amazon ElastiCache provides managed Redis-compatible and Memcached-compatible in-memory caching for low-latency reads and session or transient data.
 

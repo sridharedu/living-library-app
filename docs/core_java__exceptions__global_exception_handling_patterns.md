@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Global handlers centralize error mapping, logging, status codes, and response shape. In Spring, @ControllerAdvice is commonly used for this purpose.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Global exception handling patterns** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Global handlers centralize error mapping, logging, status codes, and response shape. In Spring, @ControllerAdvice is commonly used for this purpose.
 

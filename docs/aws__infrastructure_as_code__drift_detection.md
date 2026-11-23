@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Drift detection compares actual resource configuration with the expected CloudFormation template state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Drift detection** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. Drift detection compares actual resource configuration with the expected CloudFormation template state.
 

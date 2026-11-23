@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> thenApply transforms a completed value, while thenCompose flattens a function that already returns another CompletionStage.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **thenApply vs thenCompose** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. thenApply transforms a completed value, while thenCompose flattens a function that already returns another CompletionStage.
 

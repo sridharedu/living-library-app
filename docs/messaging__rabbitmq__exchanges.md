@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An exchange receives messages and routes them to queues according to its type and bindings.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Exchanges** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. An exchange receives messages and routes them to queues according to its type and bindings.
 

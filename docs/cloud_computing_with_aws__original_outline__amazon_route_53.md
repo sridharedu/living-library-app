@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Route 53 is AWS's managed DNS and domain-routing service. It maps names to endpoints and can use health checks and routing policies for traffic control.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon Route 53** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Route 53 is AWS's managed DNS and domain-routing service. It maps names to endpoints and can use health checks and routing policies for traffic control.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The bootstrap class loader loads core Java classes from the runtime image and is implemented inside the JVM.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bootstrap class loader** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The bootstrap class loader loads core Java classes from the runtime image and is implemented inside the JVM.
 

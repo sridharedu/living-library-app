@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Stateful storage preserves data beyond Pod replacement and requires stable volume identity, backup, and recovery planning.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Stateful storage** serves as a foundational component within *Configuration and Storage* in the broader **Kubernetes** ecosystem. Stateful storage preserves data beyond Pod replacement and requires stable volume identity, backup, and recovery planning.
 

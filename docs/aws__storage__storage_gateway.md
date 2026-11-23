@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Storage Gateway connects on-premises environments to cloud storage through file, volume, or tape interfaces.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Storage Gateway** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. AWS Storage Gateway connects on-premises environments to cloud storage through file, volume, or tape interfaces.
 

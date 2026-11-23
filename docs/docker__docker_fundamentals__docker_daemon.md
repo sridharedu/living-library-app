@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Docker daemon manages images, containers, networks, volumes, and container-runtime operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker daemon** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. The Docker daemon manages images, containers, networks, volumes, and container-runtime operations.
 

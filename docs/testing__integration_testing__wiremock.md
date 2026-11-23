@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> WireMock simulates HTTP services with programmable stubs, delays, faults, request matching, and verification.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **WireMock** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. WireMock simulates HTTP services with programmable stubs, delays, faults, request matching, and verification.
 

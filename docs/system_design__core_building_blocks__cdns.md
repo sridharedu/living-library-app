@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A content-delivery network caches content at edge locations to reduce latency and origin load.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CDNs** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. A content-delivery network caches content at edge locations to reduce latency and origin load.
 

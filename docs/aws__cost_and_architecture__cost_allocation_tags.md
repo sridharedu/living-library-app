@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cost allocation tags associate AWS spending with teams, projects, products, or environments.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cost allocation tags** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. Cost allocation tags associate AWS spending with teams, projects, products, or environments.
 

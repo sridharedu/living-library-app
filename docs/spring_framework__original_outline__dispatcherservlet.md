@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DispatcherServlet is the front controller for Spring MVC. It receives requests, locates the matching handler, invokes it through an adapter, and coordinates response rendering or body conversion.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DispatcherServlet** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. DispatcherServlet is the front controller for Spring MVC. It receives requests, locates the matching handler, invokes it through an adapter, and coordinates response rendering or body conversion.
 

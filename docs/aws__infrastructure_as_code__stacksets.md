@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CloudFormation StackSets deploy the same stack definition across multiple accounts and Regions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **StackSets** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. CloudFormation StackSets deploy the same stack definition across multiple accounts and Regions.
 

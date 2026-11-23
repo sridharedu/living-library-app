@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The client credentials grant issues an access token directly to a trusted machine client acting on its own behalf.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Client credentials flow** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. The client credentials grant issues an access token directly to a trusted machine client acting on its own behalf.
 

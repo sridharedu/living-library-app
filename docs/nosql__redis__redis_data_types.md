@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis supports strings, hashes, lists, sets, sorted sets, streams, bitmaps, HyperLogLogs, and geospatial values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Redis data types** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis supports strings, hashes, lists, sets, sorted sets, streams, bitmaps, HyperLogLogs, and geospatial values.
 

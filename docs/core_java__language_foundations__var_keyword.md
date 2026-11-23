@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> var enables local variable type inference while preserving static typing. It can only be used for initialized local variables, not fields or method parameters.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Var keyword** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. var enables local variable type inference while preserving static typing. It can only be used for initialized local variables, not fields or method parameters.
 

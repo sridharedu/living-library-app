@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Rebase rewrites commits onto a new base to create a linear history. Avoid rebasing shared public history.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Rebase** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Rebase rewrites commits onto a new base to create a linear history. Avoid rebasing shared public history.
 

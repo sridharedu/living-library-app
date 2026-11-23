@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An RDBMS is software that stores and manages relational data, enforces constraints, executes SQL, and provides transaction and recovery mechanisms.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Relational Database Management Systems (RDBMS)** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. An RDBMS is software that stores and manages relational data, enforces constraints, executes SQL, and provides transaction and recovery mechanisms.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pods can receive environment variables directly, from ConfigMaps or Secrets, or from downward-API fields.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Environment variables** serves as a foundational component within *Configuration and Storage* in the broader **Kubernetes** ecosystem. Pods can receive environment variables directly, from ConfigMaps or Secrets, or from downward-API fields.
 

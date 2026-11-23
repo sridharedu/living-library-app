@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Operational Excellence focuses on automation, observability, small changes, incident learning, and continuous improvement.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Operational Excellence pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. Operational Excellence focuses on automation, observability, small changes, incident learning, and continuous improvement.
 

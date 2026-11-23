@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> mapping transforms elements before passing them to a downstream collector.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collectors.mapping** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. mapping transforms elements before passing them to a downstream collector.
 

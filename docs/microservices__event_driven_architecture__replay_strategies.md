@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Replay strategies define how historical events are reprocessed safely, including offsets, rate limits, idempotency, and side-effect control.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Replay strategies** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Replay strategies define how historical events are reprocessed safely, including offsets, rate limits, idempotency, and side-effect control.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Modern Helm uses a client that renders charts and communicates directly with the Kubernetes API. Release metadata is stored inside the cluster.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helm Architecture** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Modern Helm uses a client that renders charts and communicates directly with the Kubernetes API. Release metadata is stored inside the cluster.
 

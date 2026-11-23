@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The test pyramid favors many fast unit tests, fewer integration tests, and a small number of end-to-end tests.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Test pyramid** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. The test pyramid favors many fast unit tests, fewer integration tests, and a small number of end-to-end tests.
 

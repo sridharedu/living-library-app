@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mark-and-sweep traces reachable objects, marks them, and reclaims unmarked memory. It may leave fragmentation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mark and sweep** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Mark-and-sweep traces reachable objects, marks them, and reclaims unmarked memory. It may leave fragmentation.
 

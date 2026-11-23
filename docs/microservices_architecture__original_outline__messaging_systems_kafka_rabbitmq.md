@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kafka is optimized for durable ordered event streams and replay, while RabbitMQ excels at flexible queue routing and work distribution. Selection should follow delivery and consumption needs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Messaging Systems (Kafka, RabbitMQ)** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Kafka is optimized for durable ordered event streams and replay, while RabbitMQ excels at flexible queue routing and work distribution. Selection should follow delivery and consumption needs.
 

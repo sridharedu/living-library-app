@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Database statistics describe data distribution and cardinality so the optimizer can choose efficient plans. Stale statistics often lead to poor estimates.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Database Statistics and Optimization** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Database statistics describe data distribution and cardinality so the optimizer can choose efficient plans. Stale statistics often lead to poor estimates.
 

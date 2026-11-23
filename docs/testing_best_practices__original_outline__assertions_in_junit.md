@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Assertions compare actual outcomes with expectations. Common examples include assertEquals, assertTrue, assertThrows, and assertAll.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Assertions in JUnit** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Assertions compare actual outcomes with expectations. Common examples include assertEquals, assertTrue, assertThrows, and assertAll.
 

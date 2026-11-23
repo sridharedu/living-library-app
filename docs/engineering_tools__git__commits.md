@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Git commit points to a tree snapshot, parent commits, author metadata, and a message.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Commits** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. A Git commit points to a tree snapshot, parent commits, author metadata, and a message.
 

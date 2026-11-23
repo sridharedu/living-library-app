@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AOP is built from aspects, advice, pointcuts, join points, and proxies. Together they define what cross-cutting logic runs, where it runs, and when it runs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Key Concepts in AOP** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. AOP is built from aspects, advice, pointcuts, join points, and proxies. Together they define what cross-cutting logic runs, where it runs, and when it runs.
 

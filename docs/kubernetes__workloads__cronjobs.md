@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A CronJob creates Jobs on a schedule and is useful for recurring batch work.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CronJobs** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A CronJob creates Jobs on a schedule and is useful for recurring batch work.
 

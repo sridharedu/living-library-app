@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The ABA problem occurs when a value changes from A to B and back to A, making CAS incorrectly assume nothing changed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ABA problem** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. The ABA problem occurs when a value changes from A to B and back to A, making CAS incorrectly assume nothing changed.
 

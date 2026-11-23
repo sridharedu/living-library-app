@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RDS supports automated backups, transaction-log retention, point-in-time recovery, and manual snapshots. Recovery planning must include restore time and cross-region requirements.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RDS Backup and Restore** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. RDS supports automated backups, transaction-log retention, point-in-time recovery, and manual snapshots. Recovery planning must include restore time and cross-region requirements.
 

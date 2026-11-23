@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> VPC peering privately connects two VPCs, but it is non-transitive and requires explicit routing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **VPC peering** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. VPC peering privately connects two VPCs, but it is non-transitive and requires explicit routing.
 

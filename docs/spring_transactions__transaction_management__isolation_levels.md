@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Isolation levels control which concurrent transaction effects can be observed, balancing consistency against locking and throughput.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Isolation levels** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. Isolation levels control which concurrent transaction effects can be observed, balancing consistency against locking and throughput.
 

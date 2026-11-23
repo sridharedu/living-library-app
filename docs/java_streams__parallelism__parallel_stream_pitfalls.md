@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pitfalls include shared mutable state, blocking calls, small workloads, ordering overhead, common-pool contention, and non-associative reductions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Parallel stream pitfalls** serves as a foundational component within *Parallelism* in the broader **Java Streams** ecosystem. Pitfalls include shared mutable state, blocking calls, small workloads, ordering overhead, common-pool contention, and non-associative reductions.
 

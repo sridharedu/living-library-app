@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Stream API builds pipelines from a source, zero or more intermediate operations, and one terminal operation. Streams are single-use and usually evaluated lazily.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Stream API** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. The Stream API builds pipelines from a source, zero or more intermediate operations, and one terminal operation. Streams are single-use and usually evaluated lazily.
 

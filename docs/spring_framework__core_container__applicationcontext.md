@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ApplicationContext is Spring's full-featured container, adding events, resources, internationalization, environment support, and automatic post-processing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ApplicationContext** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. ApplicationContext is Spring's full-featured container, adding events, resources, internationalization, environment support, and automatic post-processing.
 

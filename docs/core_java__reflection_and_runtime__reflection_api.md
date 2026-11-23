@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Reflection inspects and invokes classes, fields, methods, and constructors at runtime. It is powerful but slower, less type-safe, and can break encapsulation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reflection API** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. Reflection inspects and invokes classes, fields, methods, and constructors at runtime. It is powerful but slower, less type-safe, and can break encapsulation.
 

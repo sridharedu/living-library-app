@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Competing consumers read from the same queue and share work, improving throughput and resilience.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Competing consumers** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Competing consumers read from the same queue and share work, improving throughput and resilience.
 

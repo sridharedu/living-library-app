@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Adapter converts one interface into another expected by a client.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Adapter** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Adapter converts one interface into another expected by a client.
 

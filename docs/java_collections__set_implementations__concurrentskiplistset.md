@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ConcurrentSkipListSet is a thread-safe sorted set with scalable concurrent access and O(log n) operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ConcurrentSkipListSet** serves as a foundational component within *Set Implementations* in the broader **Java Collections** ecosystem. ConcurrentSkipListSet is a thread-safe sorted set with scalable concurrent access and O(log n) operations.
 

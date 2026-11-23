@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> On-Demand pricing charges for resources as they are used without a long-term commitment. It offers flexibility but usually costs more for steady workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **On-Demand Pricing** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. On-Demand pricing charges for resources as they are used without a long-term commitment. It offers flexibility but usually costs more for steady workloads.
 

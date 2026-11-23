@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> MockMvc tests Spring MVC request handling without starting a real server. It verifies routing, validation, serialization, status codes, headers, and response bodies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **MockMvc** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. MockMvc tests Spring MVC request handling without starting a real server. It verifies routing, validation, serialization, status codes, headers, and response bodies.
 

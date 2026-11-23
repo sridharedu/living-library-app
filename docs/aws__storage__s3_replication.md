@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> S3 replication asynchronously copies objects to another bucket in the same or a different Region.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **S3 replication** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. S3 replication asynchronously copies objects to another bucket in the same or a different Region.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> jstat samples JVM statistics such as heap usage, class loading, and garbage-collection activity over time.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **jstat** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. jstat samples JVM statistics such as heap usage, class loading, and garbage-collection activity over time.
 

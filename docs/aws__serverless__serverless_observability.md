@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Serverless observability combines logs, metrics, traces, structured events, cold-start visibility, and per-function or workflow diagnostics.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Serverless observability** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. Serverless observability combines logs, metrics, traces, structured events, cold-start visibility, and per-function or workflow diagnostics.
 

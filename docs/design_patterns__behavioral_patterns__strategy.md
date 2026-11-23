@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Strategy encapsulates interchangeable algorithms behind one interface and selects one at runtime.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Strategy** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Strategy encapsulates interchangeable algorithms behind one interface and selects one at runtime.
 

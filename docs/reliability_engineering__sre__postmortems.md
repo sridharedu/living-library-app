@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A postmortem documents impact, timeline, causes, response, lessons, and follow-up actions after an incident.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Postmortems** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. A postmortem documents impact, timeline, causes, response, lessons, and follow-up actions after an incident.
 

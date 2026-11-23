@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @ControllerAdvice applies shared exception handling, binding, and model configuration across controllers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ControllerAdvice** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. @ControllerAdvice applies shared exception handling, binding, and model configuration across controllers.
 

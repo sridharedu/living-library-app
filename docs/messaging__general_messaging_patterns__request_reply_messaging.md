@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Request-reply messaging sends a request with a correlation ID and reply destination, then waits for a matching response.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Request-reply messaging** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Request-reply messaging sends a request with a correlation ID and reply destination, then waits for a matching response.
 

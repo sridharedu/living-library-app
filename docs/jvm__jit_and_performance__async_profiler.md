@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Async-profiler is a low-overhead profiler for CPU, allocations, locks, and native stacks. It commonly produces flame graphs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Async profiler** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Async-profiler is a low-overhead profiler for CPU, allocations, locks, and native stacks. It commonly produces flame graphs.
 

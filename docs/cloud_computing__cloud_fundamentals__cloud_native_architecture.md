@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cloud-native architecture uses managed services, automation, elasticity, immutable deployment, observability, and failure-aware design.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cloud-native architecture** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Cloud-native architecture uses managed services, automation, elasticity, immutable deployment, observability, and failure-aware design.
 

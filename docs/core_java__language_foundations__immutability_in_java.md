@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An immutable object cannot change after construction. Use final fields, defensive copies, no mutating methods, and controlled construction.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Immutability in Java** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. An immutable object cannot change after construction. Use final fields, defensive copies, no mutating methods, and controlled construction.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A launch template versions EC2 configuration such as AMI, instance type, networking, storage, IAM role, and user data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Launch templates** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. A launch template versions EC2 configuration such as AMI, instance type, networking, storage, IAM role, and user data.
 

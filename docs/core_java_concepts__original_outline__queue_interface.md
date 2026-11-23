@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Queue models elements waiting to be processed, usually in FIFO order, though priority queues are different. Methods such as offer, poll, and peek are preferred because they handle empty or full conditions cleanly.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Queue Interface** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Queue models elements waiting to be processed, usually in FIFO order, though priority queues are different. Methods such as offer, poll, and peek are preferred because they handle empty or full conditions cleanly.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Java lambda behaves like a closure by carrying access to captured values from its lexical scope. Captured locals must be effectively final.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Closures in Java** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. A Java lambda behaves like a closure by carrying access to captured values from its lexical scope. Captured locals must be effectively final.
 

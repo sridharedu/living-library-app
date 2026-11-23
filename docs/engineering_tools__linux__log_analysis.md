@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Log analysis correlates timestamps, levels, request IDs, hosts, and repeated patterns to reconstruct failures and identify causes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Log analysis** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Log analysis correlates timestamps, levels, request IDs, hosts, and repeated patterns to reconstruct failures and identify causes.
 

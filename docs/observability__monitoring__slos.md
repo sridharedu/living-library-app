@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Service Level Objectives define target values for SLIs over a time window.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SLOs** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Service Level Objectives define target values for SLIs over a time window.
 

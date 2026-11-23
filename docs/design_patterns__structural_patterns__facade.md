@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Facade provides a simplified entry point over a complex subsystem.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Facade** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Facade provides a simplified entry point over a complex subsystem.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Evolutionary architecture supports incremental change through modularity, automation, observability, and continuous architectural validation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Evolutionary architecture** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Evolutionary architecture supports incremental change through modularity, automation, observability, and continuous architectural validation.
 

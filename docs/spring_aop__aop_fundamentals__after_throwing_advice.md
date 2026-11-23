@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> After-throwing advice runs when the target method exits with a matching exception.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **After throwing advice** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. After-throwing advice runs when the target method exits with a matching exception.
 

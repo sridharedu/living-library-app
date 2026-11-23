@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Factory Method delegates object creation to subclasses or specialized methods while callers depend on an abstraction.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Factory Method** serves as a foundational component within *Creational Patterns* in the broader **Design Patterns** ecosystem. Factory Method delegates object creation to subclasses or specialized methods while callers depend on an abstraction.
 

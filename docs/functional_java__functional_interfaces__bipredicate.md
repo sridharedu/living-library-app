@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> BiPredicate<T,U> tests two inputs and returns boolean. It is useful for rules that depend on a pair of values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **BiPredicate** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. BiPredicate<T,U> tests two inputs and returns boolean. It is useful for rules that depend on a pair of values.
 

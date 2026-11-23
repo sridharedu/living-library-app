@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Consumer fetch settings control how much data brokers return and how long they wait, balancing throughput, latency, and memory.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Fetch settings** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Consumer fetch settings control how much data brokers return and how long they wait, balancing throughput, latency, and memory.
 

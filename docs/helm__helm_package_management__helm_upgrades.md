@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> helm upgrade renders a new chart version or values and updates the existing release.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helm upgrades** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. helm upgrade renders a new chart version or values and updates the existing release.
 

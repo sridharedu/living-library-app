@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Parameter Store provides hierarchical configuration and secret storage with versioning, IAM control, and optional KMS encryption.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Systems Manager Parameter Store** serves as a foundational component within *Security* in the broader **AWS** ecosystem. Parameter Store provides hierarchical configuration and secret storage with versioning, IAM control, and optional KMS encryption.
 

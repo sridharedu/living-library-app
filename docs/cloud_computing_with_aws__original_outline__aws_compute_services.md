@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS compute options range from virtual machines and containers to serverless functions and managed application platforms. The right choice depends on control, scaling, startup, and operational needs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Compute Services** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS compute options range from virtual machines and containers to serverless functions and managed application platforms. The right choice depends on control, scaling, startup, and operational needs.
 

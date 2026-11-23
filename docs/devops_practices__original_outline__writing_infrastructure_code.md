@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Good infrastructure code is modular, parameterized, idempotent, environment-aware, and reviewed like application code. Avoid duplication and hidden manual prerequisites.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Writing Infrastructure Code** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Good infrastructure code is modular, parameterized, idempotent, environment-aware, and reviewed like application code. Avoid duplication and hidden manual prerequisites.
 

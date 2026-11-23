@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A sharding key decides how rows are distributed across shards. A good key spreads traffic evenly, supports common queries, and avoids hot partitions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sharding Key Selection** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. A sharding key decides how rows are distributed across shards. A good key spreads traffic evenly, supports common queries, and avoids hot partitions.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A table defines a structured set of columns, while each row represents one record following that structure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Tables and rows** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. A table defines a structured set of columns, while each row represents one record following that structure.
 

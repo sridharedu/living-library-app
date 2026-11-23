@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Build automation compiles, tests, packages, and verifies software consistently without manual steps.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Build automation** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Build automation compiles, tests, packages, and verifies software consistently without manual steps.
 

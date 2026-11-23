@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kube-proxy implements Service networking on nodes using packet-forwarding rules or supported proxy modes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kube-proxy** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. Kube-proxy implements Service networking on nodes using packet-forwarding rules or supported proxy modes.
 

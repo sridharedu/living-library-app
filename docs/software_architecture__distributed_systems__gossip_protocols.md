@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Gossip protocols spread state gradually through peer-to-peer exchanges, providing scalable membership and failure information.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Gossip protocols** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Gossip protocols spread state gradually through peer-to-peer exchanges, providing scalable membership and failure information.
 

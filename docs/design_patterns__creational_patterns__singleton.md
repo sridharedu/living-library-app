@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Singleton ensures one shared instance within a defined scope. It should be used carefully because global state harms testing and modularity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Singleton** serves as a foundational component within *Creational Patterns* in the broader **Design Patterns** ecosystem. Singleton ensures one shared instance within a defined scope. It should be used carefully because global state harms testing and modularity.
 

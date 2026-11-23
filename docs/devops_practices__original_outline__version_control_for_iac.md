@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IaC should be stored in version control so every change is reviewable, traceable, and reversible. Pull requests, automated plans, and protected branches reduce infrastructure risk.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Version Control for IaC** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. IaC should be stored in version control so every change is reviewable, traceable, and reversible. Pull requests, automated plans, and protected branches reduce infrastructure risk.
 

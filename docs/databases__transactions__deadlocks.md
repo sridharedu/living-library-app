@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A database deadlock occurs when transactions wait in a cycle for locks held by one another. The database usually aborts one transaction.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Deadlocks** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. A database deadlock occurs when transactions wait in a cycle for locks held by one another. The database usually aborts one transaction.
 

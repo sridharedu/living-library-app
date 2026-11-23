@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A payment system prioritizes correctness, idempotency, ledger integrity, authorization, settlement, reconciliation, retries, fraud controls, and auditability.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a payment system** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A payment system prioritizes correctness, idempotency, ledger integrity, authorization, settlement, reconciliation, retries, fraud controls, and auditability.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A stream pipeline consists of a source, zero or more intermediate operations, and one terminal operation. Data flows through lazily.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Stream pipeline** serves as a foundational component within *Stream Fundamentals* in the broader **Java Streams** ecosystem. A stream pipeline consists of a source, zero or more intermediate operations, and one terminal operation. Data flows through lazily.
 

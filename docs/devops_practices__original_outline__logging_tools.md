@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Common logging tools include Elasticsearch, Logstash, Kibana, Fluent Bit, Fluentd, Loki, Splunk, and cloud-native log services.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Logging Tools** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Common logging tools include Elasticsearch, Logstash, Kibana, Fluent Bit, Fluentd, Loki, Splunk, and cloud-native log services.
 

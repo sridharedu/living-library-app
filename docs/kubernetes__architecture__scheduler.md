@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Kubernetes scheduler assigns unscheduled Pods to suitable nodes based on resources, constraints, affinity, taints, topology, and policies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Scheduler** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Kubernetes scheduler assigns unscheduled Pods to suitable nodes based on resources, constraints, affinity, taints, topology, and policies.
 

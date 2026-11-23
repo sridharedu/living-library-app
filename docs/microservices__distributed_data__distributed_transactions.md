@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Distributed transactions coordinate changes across multiple resources or services. They are expensive and often replaced by sagas or event-driven consistency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Distributed transactions** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. Distributed transactions coordinate changes across multiple resources or services. They are expensive and often replaced by sagas or event-driven consistency.
 

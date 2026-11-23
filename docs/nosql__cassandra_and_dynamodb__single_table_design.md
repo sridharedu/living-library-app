@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Single-table design stores multiple entity types together and models access patterns through composite keys and indexes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Single-table design** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Single-table design stores multiple entity types together and models access patterns through composite keys and indexes.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A covering index contains all columns needed by a query, allowing the database to answer it without visiting the base table...
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Covering indexes** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. A covering index contains all columns needed by a query, allowing the database to answer it without visiting the base table...
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Deployment manages stateless Pods through ReplicaSets and supports rolling updates, rollback, scaling, and revision history.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Deployments** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A Deployment manages stateless Pods through ReplicaSets and supports rolling updates, rollback, scaling, and revision history.
 

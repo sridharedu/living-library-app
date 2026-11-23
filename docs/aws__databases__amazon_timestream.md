@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon Timestream is a managed time-series database for telemetry, IoT, operational metrics, and other timestamped data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon Timestream** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. Amazon Timestream is a managed time-series database for telemetry, IoT, operational metrics, and other timestamped data.
 

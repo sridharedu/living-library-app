@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Database design should reflect business rules, data integrity, access patterns, lifecycle, scale, and security. Model first, then optimize with evidence.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Principles of Database Design** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. Database design should reflect business rules, data integrity, access patterns, lifecycle, scale, and security. Model first, then optimize with evidence.
 

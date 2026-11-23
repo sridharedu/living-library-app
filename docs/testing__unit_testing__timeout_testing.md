@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Timeout testing ensures an operation completes within a defined duration, though strict timing can make tests environment-sensitive.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Timeout testing** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Timeout testing ensures an operation completes within a defined duration, though strict timing can make tests environment-sensitive.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A compensating transaction semantically reverses or offsets a completed business step when a later saga step fails.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Compensating transactions** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. A compensating transaction semantically reverses or offsets a completed business step when a later saga step fails.
 

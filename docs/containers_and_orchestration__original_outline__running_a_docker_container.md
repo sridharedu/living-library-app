@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Running a container creates an isolated process from an image and applies options such as ports, environment variables, volumes, limits, and restart behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Running a Docker Container** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Running a container creates an isolated process from an image and applies options such as ports, environment variables, volumes, limits, and restart behavior.
 

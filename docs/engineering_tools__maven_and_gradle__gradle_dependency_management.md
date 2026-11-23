@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Gradle resolves dependencies from repositories using configurations, version constraints, platforms, and caching.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Gradle dependency management** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. Gradle resolves dependencies from repositories using configurations, version constraints, platforms, and caching.
 

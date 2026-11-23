@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> BiConsumer<T,U> accepts two values and returns nothing. It is useful for side effects such as processing map entries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **BiConsumer** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. BiConsumer<T,U> accepts two values and returns nothing. It is useful for side effects such as processing map entries.
 

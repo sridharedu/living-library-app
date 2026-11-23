@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS is a public cloud platform offering compute, storage, networking, databases, security, analytics, and managed application services across global regions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Introduction to AWS** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS is a public cloud platform offering compute, storage, networking, databases, security, analytics, and managed application services across global regions.
 

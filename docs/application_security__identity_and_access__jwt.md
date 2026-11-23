@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A JSON Web Token carries signed claims between parties. It must be validated for signature, issuer, audience, expiry, and intended use.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JWT** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. A JSON Web Token carries signed claims between parties. It must be validated for signature, issuer, audience, expiry, and intended use.
 

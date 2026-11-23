@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Eventual consistency means replicas or services may temporarily disagree but converge after updates propagate.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Eventual consistency** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. Eventual consistency means replicas or services may temporarily disagree but converge after updates propagate.
 

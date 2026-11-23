@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A unique constraint prevents duplicate combinations of one or more columns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Unique constraints** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. A unique constraint prevents duplicate combinations of one or more columns.
 

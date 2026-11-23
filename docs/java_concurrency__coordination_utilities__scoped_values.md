@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Scoped values provide immutable context shared within a bounded execution scope, offering a safer alternative to some ThreadLocal use cases.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Scoped values** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. Scoped values provide immutable context shared within a bounded execution scope, offering a safer alternative to some ThreadLocal use cases.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Helm hooks run Kubernetes resources at selected lifecycle points such as pre-install, post-upgrade, or pre-delete.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helm hooks** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. Helm hooks run Kubernetes resources at selected lifecycle points such as pre-install, post-upgrade, or pre-delete.
 

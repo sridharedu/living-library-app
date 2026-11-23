@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RDB persistence creates point-in-time snapshots of Redis data. It is compact and fast to restore but may lose recent changes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Persistence RDB** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. RDB persistence creates point-in-time snapshots of Redis data. It is compact and fast to restore but may lose recent changes.
 

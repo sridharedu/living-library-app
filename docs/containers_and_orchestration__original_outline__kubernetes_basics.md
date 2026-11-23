@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kubernetes automates deployment, scaling, networking, and recovery of containerized applications. Users declare desired state and controllers continually reconcile the cluster toward it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kubernetes Basics** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Kubernetes automates deployment, scaling, networking, and recovery of containerized applications. Users declare desired state and controllers continually reconcile the cluster toward it.
 

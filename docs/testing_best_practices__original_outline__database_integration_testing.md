@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Database integration tests verify mappings, queries, transactions, constraints, and migrations against a real or containerized database.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Database Integration Testing** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Database integration tests verify mappings, queries, transactions, constraints, and migrations against a real or containerized database.
 

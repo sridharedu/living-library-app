@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Event deduplication detects repeated event IDs or business keys and prevents duplicate side effects within a defined retention window.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Event deduplication** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event deduplication detects repeated event IDs or business keys and prevents duplicate side effects within a defined retention window.
 

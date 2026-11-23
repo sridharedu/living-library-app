@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> grep searches text for matching patterns and supports regular expressions, recursion, context, and filtering.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **grep** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. grep searches text for matching patterns and supports regular expressions, recursion, context, and filtering.
 

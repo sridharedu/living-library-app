@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Resource modeling represents domain concepts as stable nouns with clear identifiers, relationships, and operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Resource modeling** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. Resource modeling represents domain concepts as stable nouns with clear identifiers, relationships, and operations.
 

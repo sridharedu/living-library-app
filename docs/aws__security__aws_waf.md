@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS WAF filters web requests using managed or custom rules for threats such as SQL injection, bots, and abusive traffic.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS WAF** serves as a foundational component within *Security* in the broader **AWS** ecosystem. AWS WAF filters web requests using managed or custom rules for threats such as SQL injection, bots, and abusive traffic.
 

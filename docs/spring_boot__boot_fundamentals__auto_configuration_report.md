@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The auto-configuration report explains which configurations matched or did not match and why. It is useful for diagnosing Boot behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Auto-configuration report** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. The auto-configuration report explains which configurations matched or did not match and why. It is useful for diagnosing Boot behavior.
 

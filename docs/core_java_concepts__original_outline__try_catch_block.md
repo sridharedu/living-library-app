@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A try block contains code that may fail, while catch handles a matching exception. Catch only errors you can meaningfully recover from or translate; otherwise let them propagate.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Try-Catch Block** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. A try block contains code that may fail, while catch handles a matching exception. Catch only errors you can meaningfully recover from or translate; otherwise let them propagate.
 

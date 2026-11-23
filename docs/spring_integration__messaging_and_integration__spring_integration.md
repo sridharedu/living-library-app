@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Integration implements enterprise integration patterns such as channels, routers, transformers, filters, adapters, and gateways.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Integration** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Spring Integration implements enterprise integration patterns such as channels, routers, transformers, filters, adapters, and gateways.
 

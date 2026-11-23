@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DirectByteBuffer stores data in native memory for efficient IO with channels. Allocation and cleanup are costlier than heap buffers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DirectByteBuffer** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. DirectByteBuffer stores data in native memory for efficient IO with channels. Allocation and cleanup are costlier than heap buffers.
 

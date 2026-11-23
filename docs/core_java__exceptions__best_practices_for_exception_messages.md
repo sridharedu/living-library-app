@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Exception messages should explain what failed, include useful identifiers, and avoid secrets. Preserve the cause so the original stack trace remains available.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Best practices for exception messages** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Exception messages should explain what failed, include useful identifiers, and avoid secrets. Preserve the cause so the original stack trace remains available.
 

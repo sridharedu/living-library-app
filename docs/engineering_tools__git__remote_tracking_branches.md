@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Remote-tracking branches record the last known positions of branches in a remote repository, such as origin/main.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Remote tracking branches** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Remote-tracking branches record the last known positions of branches in a remote repository, such as origin/main.
 

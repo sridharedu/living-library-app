@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Elastic Beanstalk deploys and manages applications while AWS provisions scaling, load balancing, health monitoring, and platform infrastructure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Elastic Beanstalk** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. Elastic Beanstalk deploys and manages applications while AWS provisions scaling, load balancing, health monitoring, and platform infrastructure.
 

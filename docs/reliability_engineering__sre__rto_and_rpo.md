@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Recovery Time Objective is the target restoration time, while Recovery Point Objective is the acceptable amount of data loss.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RTO and RPO** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. Recovery Time Objective is the target restoration time, while Recovery Point Objective is the acceptable amount of data loss.
 

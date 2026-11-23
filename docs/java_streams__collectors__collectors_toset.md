@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Collectors.toSet accumulates unique elements into a Set without guaranteeing ordering or implementation type.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collectors.toSet** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. Collectors.toSet accumulates unique elements into a Set without guaranteeing ordering or implementation type.
 

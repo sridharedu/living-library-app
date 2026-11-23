@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Container orchestration coordinates container placement, scaling, networking, recovery, configuration, and rollout across multiple machines.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Container Orchestration** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Container orchestration coordinates container placement, scaling, networking, recovery, configuration, and rollout across multiple machines.
 

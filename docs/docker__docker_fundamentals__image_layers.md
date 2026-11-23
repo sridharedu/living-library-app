@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Docker image is built from immutable filesystem layers that can be cached and shared between images.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Image layers** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. A Docker image is built from immutable filesystem layers that can be cached and shared between images.
 

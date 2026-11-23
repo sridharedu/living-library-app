@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Code smells are warning signs such as long methods, large classes, duplicated logic, excessive coupling, or primitive obsession.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Code smells** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Code smells are warning signs such as long methods, large classes, duplicated logic, excessive coupling, or primitive obsession.
 

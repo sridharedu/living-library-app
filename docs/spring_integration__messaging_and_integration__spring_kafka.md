@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Kafka provides templates, listener containers, serialization support, transactions, retries, error handling, and testing utilities for Kafka.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Kafka** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Spring Kafka provides templates, listener containers, serialization support, transactions, retries, error handling, and testing utilities for Kafka.
 

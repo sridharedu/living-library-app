@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A bounded type parameter restricts allowed types, such as <T extends Number>. Bounds let generic code safely use methods from the bound.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bounded type parameters** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. A bounded type parameter restricts allowed types, such as <T extends Number>. Bounds let generic code safely use methods from the bound.
 

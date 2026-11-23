@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java NIO introduces buffers, channels, selectors, and non-blocking IO. It is useful for scalable networking and efficient file operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **NIO** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. Java NIO introduces buffers, channels, selectors, and non-blocking IO. It is useful for scalable networking and efficient file operations.
 

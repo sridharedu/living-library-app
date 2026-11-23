@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> findAny may return any matching element and is often more flexible for parallel execution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **findAny** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. findAny may return any matching element and is often more flexible for parallel execution.
 

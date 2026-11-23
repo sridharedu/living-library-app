@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Software supply-chain security verifies source, dependencies, builds, artifacts, provenance, signatures, and deployment integrity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Supply chain security** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Software supply-chain security verifies source, dependencies, builds, artifacts, provenance, signatures, and deployment integrity.
 

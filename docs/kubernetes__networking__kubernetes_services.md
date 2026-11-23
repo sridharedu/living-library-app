@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Kubernetes Service gives a stable virtual IP and DNS name to a changing set of matching Pods.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kubernetes Services** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. A Kubernetes Service gives a stable virtual IP and DNS name to a changing set of matching Pods.
 

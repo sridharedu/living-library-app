@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Terraform module groups reusable resources, variables, outputs, and internal logic behind a stable interface.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Terraform modules** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. A Terraform module groups reusable resources, variables, outputs, and internal logic behind a stable interface.
 

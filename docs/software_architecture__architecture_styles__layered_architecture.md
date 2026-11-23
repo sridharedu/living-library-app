@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Layered architecture separates responsibilities into layers such as presentation, application, domain, and data access. It is simple but can encourage rigid dependencies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Layered architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Layered architecture separates responsibilities into layers such as presentation, application, domain, and data access. It is simple but can encourage rigid dependencies.
 

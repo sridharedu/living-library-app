@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> With cache-aside, the application reads the cache first, loads missing data from the database, and then populates the cache.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cache-aside** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. With cache-aside, the application reads the cache first, loads missing data from the database, and then populates the cache.
 

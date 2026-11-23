@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java has eight primitives: byte, short, int, long, float, double, char, and boolean. They store values directly and are not objects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Primitive data types** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Java has eight primitives: byte, short, int, long, float, double, char, and boolean. They store values directly and are not objects.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Collection interfaces define behavior without fixing implementation details. Programming to List, Set, Queue, or Map makes code easier to replace, test, and optimize later.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collection Interfaces** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Collection interfaces define behavior without fixing implementation details. Programming to List, Set, Queue, or Map makes code easier to replace, test, and optimize later.
 

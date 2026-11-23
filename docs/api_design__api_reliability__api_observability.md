@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> API observability combines request metrics, logs, traces, errors, latency percentiles, saturation, and business outcomes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **API observability** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. API observability combines request metrics, logs, traces, errors, latency percentiles, saturation, and business outcomes.
 

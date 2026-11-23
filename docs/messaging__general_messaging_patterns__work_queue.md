@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A work queue distributes independent tasks among consumers so only one consumer processes each message.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Work queue** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. A work queue distributes independent tasks among consumers so only one consumer processes each message.
 

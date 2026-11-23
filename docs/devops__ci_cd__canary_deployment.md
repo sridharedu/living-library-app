@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Canary deployment sends a small percentage of traffic to a new version before gradually expanding exposure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Canary deployment** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Canary deployment sends a small percentage of traffic to a new version before gradually expanding exposure.
 

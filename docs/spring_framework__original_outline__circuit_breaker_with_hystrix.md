@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hystrix was a Netflix circuit-breaker library that stopped repeated calls to failing dependencies and provided fallbacks. It is now in maintenance mode; Resilience4j is the preferred modern alternative in Spring applications.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Circuit Breaker with Hystrix** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Hystrix was a Netflix circuit-breaker library that stopped repeated calls to failing dependencies and provided fallbacks. It is now in maintenance mode; Resilience4j is the preferred modern alternative in Spring applications.
 

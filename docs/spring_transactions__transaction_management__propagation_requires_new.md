@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> REQUIRES_NEW suspends the current transaction and starts an independent one. Its commit or rollback is separate from the outer transaction.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Propagation REQUIRES_NEW** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. REQUIRES_NEW suspends the current transaction and starts an independent one. Its commit or rollback is separate from the outer transaction.
 

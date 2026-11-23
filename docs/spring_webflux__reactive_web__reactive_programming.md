@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Reactive programming models asynchronous data flows with non-blocking execution, composition, and backpressure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reactive programming** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Reactive programming models asynchronous data flows with non-blocking execution, composition, and backpressure.
 

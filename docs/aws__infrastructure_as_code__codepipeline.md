@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS CodePipeline orchestrates automated release stages such as source, build, test, approval, and deployment.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CodePipeline** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. AWS CodePipeline orchestrates automated release stages such as source, build, test, approval, and deployment.
 

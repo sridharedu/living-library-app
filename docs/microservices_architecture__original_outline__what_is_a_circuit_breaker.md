@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A circuit breaker prevents repeated calls to a failing dependency. It moves through closed, open, and half-open states to protect resources and allow controlled recovery.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is a Circuit Breaker?** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. A circuit breaker prevents repeated calls to a failing dependency. It moves through closed, open, and half-open states to protect resources and allow controlled recovery.
 

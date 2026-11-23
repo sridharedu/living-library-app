@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mockito verification checks whether a collaborator was called with expected arguments and frequency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Verification** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Mockito verification checks whether a collaborator was called with expected arguments and frequency.
 

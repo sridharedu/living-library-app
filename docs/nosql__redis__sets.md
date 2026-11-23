@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis sets store unique unordered members and support union, intersection, and difference.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sets** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis sets store unique unordered members and support union, intersection, and difference.
 

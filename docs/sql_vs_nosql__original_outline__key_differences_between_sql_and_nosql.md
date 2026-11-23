@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SQL databases emphasize relational models, schemas, joins, and transactions. NoSQL systems often prioritize scale, flexible structures, and access-pattern-specific models.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Key Differences Between SQL and NoSQL** serves as a foundational component within *Original outline* in the broader **SQL vs NoSQL** ecosystem. SQL databases emphasize relational models, schemas, joins, and transactions. NoSQL systems often prioritize scale, flexible structures, and access-pattern-specific models.
 

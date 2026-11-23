@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A correlation ID follows one logical request across services, logs, traces, and messages to simplify distributed debugging.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Correlation IDs** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. A correlation ID follows one logical request across services, logs, traces, and messages to simplify distributed debugging.
 

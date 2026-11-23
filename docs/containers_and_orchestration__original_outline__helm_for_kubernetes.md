@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Helm packages Kubernetes manifests into reusable, configurable charts. It simplifies installation, upgrades, rollback, and versioned application releases.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helm for Kubernetes** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Helm packages Kubernetes manifests into reusable, configurable charts. It simplifies installation, upgrades, rollback, and versioned application releases.
 

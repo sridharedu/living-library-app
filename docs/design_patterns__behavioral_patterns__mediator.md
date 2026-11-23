@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mediator centralizes communication between collaborating objects so they do not depend directly on each other.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mediator** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Mediator centralizes communication between collaborating objects so they do not depend directly on each other.
 

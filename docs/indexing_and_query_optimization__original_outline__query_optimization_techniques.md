@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Query optimization includes selecting proper indexes, reducing scanned data, avoiding unnecessary joins, using selective predicates, and examining execution plans.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Query Optimization Techniques** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Query optimization includes selecting proper indexes, reducing scanned data, avoiding unnecessary joins, using selective predicates, and examining execution plans.
 

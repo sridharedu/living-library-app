@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A GlobalKTable replicates the full table to every application instance, enabling local lookups without repartitioning.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **GlobalKTable** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. A GlobalKTable replicates the full table to every application instance, enabling local lookups without repartitioning.
 

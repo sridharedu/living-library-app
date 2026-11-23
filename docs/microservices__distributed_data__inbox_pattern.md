@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The inbox pattern records processed message IDs or incoming events so consumers can handle redelivery idempotently.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Inbox pattern** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. The inbox pattern records processed message IDs or incoming events so consumers can handle redelivery idempotently.
 

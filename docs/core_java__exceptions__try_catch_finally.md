@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A try block contains risky code, catch handles matching exceptions, and finally runs cleanup logic whether execution succeeds or fails. Avoid returning from finally because it can hide errors.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Try-catch-finally** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. A try block contains risky code, catch handles matching exceptions, and finally runs cleanup logic whether execution succeeds or fails. Avoid returning from finally because it can hide errors.
 

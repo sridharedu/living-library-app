@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lightsail packages compute, storage, networking, and predictable pricing into a simplified service. It targets smaller applications that do not need the full flexibility of EC2.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon Lightsail** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Lightsail packages compute, storage, networking, and predictable pricing into a simplified service. It targets smaller applications that do not need the full flexibility of EC2.
 

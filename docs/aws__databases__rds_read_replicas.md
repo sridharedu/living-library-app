@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RDS read replicas asynchronously copy data from a source database and serve read-heavy workloads or disaster-recovery needs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RDS read replicas** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. RDS read replicas asynchronously copy data from a source database and serve read-heavy workloads or disaster-recovery needs.
 

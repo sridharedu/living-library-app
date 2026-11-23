@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hashtable is a legacy synchronized map that rejects null keys and values. ConcurrentHashMap is generally preferred.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hashtable** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. Hashtable is a legacy synchronized map that rejects null keys and values. ConcurrentHashMap is generally preferred.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Runtime-retained annotations are available through reflection and are widely used by frameworks for configuration and metadata.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Runtime annotations** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. Runtime-retained annotations are available through reflection and are widely used by frameworks for configuration and metadata.
 

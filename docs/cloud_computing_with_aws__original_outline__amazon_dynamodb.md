@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DynamoDB is a managed key-value and document database designed for predictable low-latency access at scale. Its performance depends heavily on partition-key and access-pattern design.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon DynamoDB** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. DynamoDB is a managed key-value and document database designed for predictable low-latency access at scale. Its performance depends heavily on partition-key and access-pattern design.
 

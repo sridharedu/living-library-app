@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An API gateway is the controlled entry point to backend services. It handles routing and shared edge concerns such as authentication, rate limiting, headers, logging, and protocol adaptation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **API Gateway** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. An API gateway is the controlled entry point to backend services. It handles routing and shared edge concerns such as authentication, rate limiting, headers, logging, and protocol adaptation.
 

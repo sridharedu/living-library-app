@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DynamoDB Streams capture ordered item-level changes for each partition and can trigger downstream processing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DynamoDB streams** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. DynamoDB Streams capture ordered item-level changes for each partition and can trigger downstream processing.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Compose profiles enable optional service groups so one file can support different development or testing scenarios.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Compose profiles** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Compose profiles enable optional service groups so one file can support different development or testing scenarios.
 

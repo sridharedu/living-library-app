@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A shuffle redistributes data across executors for operations such as joins, grouping, sorting, and repartitioning. It is network- and disk-intensive.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spark shuffles** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. A shuffle redistributes data across executors for operations such as joins, grouping, sorting, and repartitioning. It is network- and disk-intensive.
 

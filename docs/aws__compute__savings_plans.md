@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Savings Plans reduce eligible compute costs in exchange for a committed hourly spend over one or three years.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Savings Plans** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. Savings Plans reduce eligible compute costs in exchange for a committed hourly spend over one or three years.
 

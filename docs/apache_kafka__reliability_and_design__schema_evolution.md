@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Schema evolution changes message formats while preserving compatibility with existing producers, consumers, and retained data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Schema evolution** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Schema evolution changes message formats while preserving compatibility with existing producers, consumers, and retained data.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cost Optimization focuses on visibility, right-sizing, waste reduction, commitment planning, and value delivered per cost.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cost Optimization pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. Cost Optimization focuses on visibility, right-sizing, waste reduction, commitment planning, and value delivered per cost.
 

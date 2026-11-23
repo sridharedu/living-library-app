@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> reduce combines stream elements into one result using an associative accumulator. Parallel reductions also require a compatible identity and combiner.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **reduce** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. reduce combines stream elements into one result using an associative accumulator. Parallel reductions also require a compatible identity and combiner.
 

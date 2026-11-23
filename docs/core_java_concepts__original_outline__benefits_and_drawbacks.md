@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Parallel processing can reduce execution time with minimal code changes, but adds coordination cost, ordering overhead, shared-pool contention, and harder debugging. Measure with realistic benchmarks before adopting it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Benefits and Drawbacks** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Parallel processing can reduce execution time with minimal code changes, but adds coordination cost, ordering overhead, shared-pool contention, and harder debugging. Measure with realistic benchmarks before adopting it.
 

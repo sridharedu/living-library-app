@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Clustering keys order rows within a Cassandra partition and define supported range queries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Clustering keys** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Clustering keys order rows within a Cassandra partition and define supported range queries.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Functional bindings expose Supplier, Function, or Consumer beans as message producers, processors, or consumers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Functional bindings** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Functional bindings expose Supplier, Function, or Consumer beans as message producers, processors, or consumers.
 

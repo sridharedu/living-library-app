@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Data auditing automatically records created-by, created-date, last-modified-by, and last-modified-date values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Auditing** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Spring Data auditing automatically records created-by, created-date, last-modified-by, and last-modified-date values.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Graph databases model entities as nodes and relationships as edges. They excel at traversals such as recommendations, fraud networks, and social connections.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Graph Databases** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Graph databases model entities as nodes and relationships as edges. They excel at traversals such as recommendations, fraud networks, and social connections.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A merge conflict occurs when Git cannot automatically reconcile overlapping changes and requires human resolution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Merge conflicts** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. A merge conflict occurs when Git cannot automatically reconcile overlapping changes and requires human resolution.
 

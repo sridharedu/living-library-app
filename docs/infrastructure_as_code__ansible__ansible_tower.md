@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ansible Tower, now part of Automation Controller, adds a web UI, RBAC, scheduling, credentials, workflows, inventories, and audit history.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Ansible Tower** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Ansible Tower, now part of Automation Controller, adds a web UI, RBAC, scheduling, credentials, workflows, inventories, and audit history.
 

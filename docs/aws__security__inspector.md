@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon Inspector scans supported workloads and images for software vulnerabilities and unintended network exposure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Inspector** serves as a foundational component within *Security* in the broader **AWS** ecosystem. Amazon Inspector scans supported workloads and images for software vulnerabilities and unintended network exposure.
 

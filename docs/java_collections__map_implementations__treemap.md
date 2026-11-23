@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> TreeMap stores entries in a red-black tree ordered by key. Lookup, insertion, and removal are O(log n).
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **TreeMap** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. TreeMap stores entries in a red-black tree ordered by key. Lookup, insertion, and removal are O(log n).
 

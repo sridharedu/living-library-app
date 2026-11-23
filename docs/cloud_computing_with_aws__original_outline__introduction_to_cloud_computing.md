@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cloud computing provides on-demand infrastructure and managed services over a network. It shifts capacity from owned hardware to elastic, metered resources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Introduction to Cloud Computing** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Cloud computing provides on-demand infrastructure and managed services over a network. It shifts capacity from owned hardware to elastic, metered resources.
 

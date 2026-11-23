@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Session management controls creation, fixation protection, concurrency limits, timeout, and invalidation of authenticated sessions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Session management** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Session management controls creation, fixation protection, concurrency limits, timeout, and invalidation of authenticated sessions.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> On-stack replacement compiles and replaces a currently running hot loop without waiting for the method invocation to finish.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **On-stack replacement** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. On-stack replacement compiles and replaces a currently running hot loop without waiting for the method invocation to finish.
 

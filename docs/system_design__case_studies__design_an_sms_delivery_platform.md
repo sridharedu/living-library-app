@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An SMS platform buffers spikes, applies provider and tenant rate limits, selects routes, retries transient failures, deduplicates messages, and tracks delivery receipts.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design an SMS delivery platform** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. An SMS platform buffers spikes, applies provider and tenant rate limits, selects routes, retries transient failures, deduplicates messages, and tracks delivery receipts.
 

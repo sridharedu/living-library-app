@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cost optimization delivers business value at the lowest practical cost. It requires visibility, right-sizing, eliminating waste, commitment planning, and ownership.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cost Optimization** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Cost optimization delivers business value at the lowest practical cost. It requires visibility, right-sizing, eliminating waste, commitment planning, and ownership.
 

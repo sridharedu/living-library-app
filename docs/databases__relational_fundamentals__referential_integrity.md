@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Referential integrity ensures relationships remain valid so foreign-key values point to existing rows or are appropriately null.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Referential integrity** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Referential integrity ensures relationships remain valid so foreign-key values point to existing rows or are appropriately null.
 

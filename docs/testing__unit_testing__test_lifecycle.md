@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The test lifecycle controls setup and cleanup before or after each test or test class.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Test lifecycle** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. The test lifecycle controls setup and cleanup before or after each test or test class.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Compose is useful for local integration environments, test stacks, and simple automation involving multiple services. It is not a replacement for full production orchestration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker Compose in DevOps** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Compose is useful for local integration environments, test stacks, and simple automation involving multiple services. It is not a replacement for full production orchestration.
 

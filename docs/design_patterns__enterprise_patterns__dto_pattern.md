@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Data Transfer Object carries data across process or layer boundaries without exposing internal entity structure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DTO pattern** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. A Data Transfer Object carries data across process or layer boundaries without exposing internal entity structure.
 

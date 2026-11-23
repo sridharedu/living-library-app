@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring profiles group environment-specific configuration and beans. Keep profile usage simple to avoid hidden combinations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Profiles** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Spring profiles group environment-specific configuration and beans. Keep profile usage simple to avoid hidden combinations.
 

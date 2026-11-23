@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> In orchestration, a central coordinator directs each saga step and decides compensating actions when a step fails.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Orchestration saga** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. In orchestration, a central coordinator directs each saga step and decides compensating actions when a step fails.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ORC is a columnar storage format optimized for analytics with compression, indexes, statistics, and predicate pushdown.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ORC** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. ORC is a columnar storage format optimized for analytics with compression, indexes, statistics, and predicate pushdown.
 

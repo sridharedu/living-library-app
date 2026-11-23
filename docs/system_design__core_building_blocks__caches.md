@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Caches store frequently used data closer to consumers to reduce latency and backend work.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Caches** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Caches store frequently used data closer to consumers to reduce latency and backend work.
 

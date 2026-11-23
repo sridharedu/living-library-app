@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Object defines core methods such as equals, hashCode, toString, getClass, clone, wait, notify, and notifyAll.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Object class methods** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Object defines core methods such as equals, hashCode, toString, getClass, clone, wait, notify, and notifyAll.
 

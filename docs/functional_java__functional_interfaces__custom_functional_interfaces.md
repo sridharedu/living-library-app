@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Create a custom functional interface when standard interfaces do not express the domain clearly or require checked exceptions or specialized signatures.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Custom functional interfaces** serves as a foundational component within *Functional Interfaces* in the broader **Functional Java** ecosystem. Create a custom functional interface when standard interfaces do not express the domain clearly or require checked exceptions or specialized signatures.
 

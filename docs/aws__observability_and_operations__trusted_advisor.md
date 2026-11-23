@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Trusted Advisor checks selected workloads for cost, performance, security, fault tolerance, and service-limit improvements.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Trusted Advisor** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. AWS Trusted Advisor checks selected workloads for cost, performance, security, fault tolerance, and service-limit improvements.
 

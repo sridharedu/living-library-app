@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Supplier<T> produces a value without receiving an argument. It is useful for lazy creation, factories, defaults, deferred computation, and dependency providers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Supplier** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Supplier<T> produces a value without receiving an argument. It is useful for lazy creation, factories, defaults, deferred computation, and dependency providers.
 

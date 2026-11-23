@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Remember-me authentication restores a user identity from a persistent token after the normal session expires. Tokens must be protected and revocable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Remember-me authentication** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Remember-me authentication restores a user identity from a persistent token after the normal session expires. Tokens must be protected and revocable.
 

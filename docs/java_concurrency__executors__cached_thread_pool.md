@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A cached thread pool creates threads as needed and reuses idle ones. It can grow rapidly and is risky for unbounded workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cached thread pool** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. A cached thread pool creates threads as needed and reuses idle ones. It can grow rapidly and is risky for unbounded workloads.
 

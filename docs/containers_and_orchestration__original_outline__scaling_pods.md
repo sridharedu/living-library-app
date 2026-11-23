@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pods can be scaled manually or automatically. Horizontal Pod Autoscaler adjusts replica count from metrics, while cluster autoscaling adds or removes nodes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Scaling Pods** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Pods can be scaled manually or automatically. Horizontal Pod Autoscaler adjusts replica count from metrics, while cluster autoscaling adds or removes nodes.
 

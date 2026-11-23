@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> groupingBy classifies elements into a Map of groups and can apply a downstream collector to each group.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collectors.groupingBy** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. groupingBy classifies elements into a Map of groups and can apply a downstream collector to each group.
 

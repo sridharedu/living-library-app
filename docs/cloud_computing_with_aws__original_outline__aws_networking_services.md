@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS networking services provide isolated networks, routing, DNS, load balancing, content delivery, private connectivity, and traffic security for cloud workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Networking Services** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS networking services provide isolated networks, routing, DNS, load balancing, content delivery, private connectivity, and traffic security for cloud workloads.
 

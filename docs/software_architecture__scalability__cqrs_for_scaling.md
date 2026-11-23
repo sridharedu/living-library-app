@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CQRS scales reads and writes independently by separating command models from query models.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CQRS for scaling** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. CQRS scales reads and writes independently by separating command models from query models.
 

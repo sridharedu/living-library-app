@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Loki is a log aggregation system that indexes labels rather than full log contents and integrates closely with Grafana.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Loki** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Loki is a log aggregation system that indexes labels rather than full log contents and integrates closely with Grafana.
 

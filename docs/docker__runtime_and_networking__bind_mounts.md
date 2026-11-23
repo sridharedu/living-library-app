@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Bind mounts map an existing host file or directory directly into a container.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bind mounts** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Bind mounts map an existing host file or directory directly into a container.
 

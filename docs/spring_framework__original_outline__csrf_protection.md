@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CSRF protection prevents a malicious site from causing a browser to submit an authenticated state-changing request. It is essential for cookie-based sessions and often unnecessary for stateless bearer-token APIs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CSRF Protection** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. CSRF protection prevents a malicious site from causing a browser to submit an authenticated state-changing request. It is essential for cookie-based sessions and often unnecessary for stateless bearer-token APIs.
 

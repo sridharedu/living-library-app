@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SortedSet maintains elements in sorted order according to natural ordering or a Comparator.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SortedSet** serves as a foundational component within *Core Interfaces* in the broader **Java Collections** ecosystem. SortedSet maintains elements in sorted order according to natural ordering or a Comparator.
 

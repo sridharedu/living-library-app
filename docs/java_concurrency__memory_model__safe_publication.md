@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Safe publication makes a fully constructed object visible to other threads through synchronization, volatile fields, static initialization, or concurrent collections.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Safe publication** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Safe publication makes a fully constructed object visible to other threads through synchronization, volatile fields, static initialization, or concurrent collections.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring is a Java application framework centered on dependency injection, modular infrastructure, and declarative programming. It reduces boilerplate while keeping business code loosely coupled and testable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Introduction to Spring** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring is a Java application framework centered on dependency injection, modular infrastructure, and declarative programming. It reduces boilerplate while keeping business code loosely coupled and testable.
 

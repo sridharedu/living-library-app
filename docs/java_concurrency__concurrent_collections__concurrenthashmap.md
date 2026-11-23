@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ConcurrentHashMap provides thread-safe high-concurrency map operations with mostly non-blocking reads and no null keys or values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ConcurrentHashMap** serves as a foundational component within *Concurrent Collections* in the broader **Java Concurrency** ecosystem. ConcurrentHashMap provides thread-safe high-concurrency map operations with mostly non-blocking reads and no null keys or values.
 

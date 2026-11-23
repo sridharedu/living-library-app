@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Normalization progressively restructures tables to reduce redundancy and dependency anomalies. Common stages are first, second, and third normal form.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Normalization Process** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. Normalization progressively restructures tables to reduce redundancy and dependency anomalies. Common stages are first, second, and third normal form.
 

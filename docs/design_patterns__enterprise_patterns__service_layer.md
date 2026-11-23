@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Service Layer defines application use cases and coordinates domain objects, transactions, and external systems.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service Layer** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. Service Layer defines application use cases and coordinates domain objects, transactions, and external systems.
 

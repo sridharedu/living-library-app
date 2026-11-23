@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A source connector reads data from an external system and publishes it to Kafka topics.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Source connectors** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. A source connector reads data from an external system and publishes it to Kafka topics.
 

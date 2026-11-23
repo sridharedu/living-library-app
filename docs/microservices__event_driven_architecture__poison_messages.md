@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A poison message repeatedly fails processing because of invalid content, unsupported schema, or a deterministic consumer bug.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Poison messages** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. A poison message repeatedly fails processing because of invalid content, unsupported schema, or a deterministic consumer bug.
 

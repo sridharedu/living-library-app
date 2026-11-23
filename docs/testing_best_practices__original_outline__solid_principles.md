@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SOLID promotes maintainable object-oriented design through single responsibility, open-closed, Liskov substitution, interface segregation, and dependency inversion.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SOLID Principles** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. SOLID promotes maintainable object-oriented design through single responsibility, open-closed, Liskov substitution, interface segregation, and dependency inversion.
 

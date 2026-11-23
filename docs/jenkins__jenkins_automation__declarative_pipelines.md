@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Jenkins declarative pipelines define structured stages, agents, steps, conditions, and post-actions in a Jenkinsfile.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Declarative pipelines** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Jenkins declarative pipelines define structured stages, agents, steps, conditions, and post-actions in a Jenkinsfile.
 

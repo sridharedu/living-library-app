@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Feature flags separate code deployment from feature release and allow targeted rollout or rapid disablement.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Feature flags** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Feature flags separate code deployment from feature release and allow targeted rollout or rapid disablement.
 

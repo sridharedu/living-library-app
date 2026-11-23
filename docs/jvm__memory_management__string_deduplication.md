@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> String deduplication lets supported collectors share identical character data between different String objects to reduce memory usage.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **String deduplication** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. String deduplication lets supported collectors share identical character data between different String objects to reduce memory usage.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ACID means Atomicity, Consistency, Isolation, and Durability. Together they ensure transactions behave reliably even during concurrency or failure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ACID Properties in Relational Databases** serves as a foundational component within *Original outline* in the broader **Relational Databases** ecosystem. ACID means Atomicity, Consistency, Isolation, and Durability. Together they ensure transactions behave reliably even during concurrency or failure.
 

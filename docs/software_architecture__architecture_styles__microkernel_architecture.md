@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Microkernel architecture keeps a small core system and adds optional capabilities through plugins, making product customization easier.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Microkernel architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Microkernel architecture keeps a small core system and adds optional capabilities through plugins, making product customization easier.
 

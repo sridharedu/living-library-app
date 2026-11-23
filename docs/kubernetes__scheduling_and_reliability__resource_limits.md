@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Resource limits cap container resource usage; CPU is throttled, while exceeding memory may cause termination.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Resource limits** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Resource limits cap container resource usage; CPU is throttled, while exceeding memory may cause termination.
 

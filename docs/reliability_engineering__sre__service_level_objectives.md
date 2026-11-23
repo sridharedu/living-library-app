@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A service level objective is an internal reliability target for one or more service level indicators.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service level objectives** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. A service level objective is an internal reliability target for one or more service level indicators.
 

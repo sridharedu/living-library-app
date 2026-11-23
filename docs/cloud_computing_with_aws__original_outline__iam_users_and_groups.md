@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IAM users represent long-lived human or system identities, while groups collect users and attach shared permissions. Modern designs minimize user access keys and prefer federation or roles.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **IAM Users and Groups** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. IAM users represent long-lived human or system identities, while groups collect users and attach shared permissions. Modern designs minimize user access keys and prefer federation or roles.
 

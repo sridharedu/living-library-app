@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Producer batching groups records for the same partition into fewer network requests, improving throughput.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Producer batching** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. Producer batching groups records for the same partition into fewer network requests, improving throughput.
 

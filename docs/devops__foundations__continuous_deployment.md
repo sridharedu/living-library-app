@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Continuous deployment automatically releases every change that passes the required pipeline checks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Continuous deployment** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Continuous deployment automatically releases every change that passes the required pipeline checks.
 

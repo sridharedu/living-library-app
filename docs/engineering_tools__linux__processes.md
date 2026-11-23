@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Linux process is a running program with its own PID, memory, file descriptors, credentials, and execution state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Processes** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. A Linux process is a running program with its own PID, memory, file descriptors, credentials, and execution state.
 

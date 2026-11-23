@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Databases persist structured or unstructured data and provide querying, indexing, consistency, and durability guarantees.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Databases** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Databases persist structured or unstructured data and provide querying, indexing, consistency, and durability guarantees.
 

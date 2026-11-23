@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> subList returns a view backed by the original list. Structural changes outside the view can invalidate it and cause ConcurrentModificationException.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SubList behavior** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. subList returns a view backed by the original list. Structural changes outside the view can invalidate it and cause ConcurrentModificationException.
 

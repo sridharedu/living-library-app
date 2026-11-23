@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Messaging decouples producers from consumers in time and absorbs traffic spikes. It introduces eventual consistency, duplicate delivery, ordering, and failure-handling responsibilities.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Asynchronous Communication (Messaging)** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Messaging decouples producers from consumers in time and absorbs traffic spikes. It introduces eventual consistency, duplicate delivery, ordering, and failure-handling responsibilities.
 

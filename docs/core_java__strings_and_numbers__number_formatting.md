@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> NumberFormat and DecimalFormat convert numbers to locale-sensitive strings and parse formatted values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Number formatting** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. NumberFormat and DecimalFormat convert numbers to locale-sensitive strings and parse formatted values.
 

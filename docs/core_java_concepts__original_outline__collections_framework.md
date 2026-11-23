@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Java Collections Framework provides reusable data structures and algorithms for storing, retrieving, grouping, sorting, and processing objects. Its main abstractions include List, Set, Queue, and Map.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collections Framework** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. The Java Collections Framework provides reusable data structures and algorithms for storing, retrieving, grouping, sorting, and processing objects. Its main abstractions include List, Set, Queue, and Map.
 

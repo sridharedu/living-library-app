@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SpringApplication bootstraps a Spring Boot application by preparing the environment, creating the context, and running startup callbacks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SpringApplication** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. SpringApplication bootstraps a Spring Boot application by preparing the environment, creating the context, and running startup callbacks.
 

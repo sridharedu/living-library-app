@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A bean definition is metadata describing how Spring should create and configure a bean, including class, scope, dependencies, and lifecycle settings.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bean definition** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. A bean definition is metadata describing how Spring should create and configure a bean, including class, scope, dependencies, and lifecycle settings.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> TDD writes a failing test before implementation, then makes it pass and refactors. It supports DevOps by producing fast feedback and safer continuous change.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Test-Driven Development (TDD) in DevOps** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. TDD writes a failing test before implementation, then makes it pass and refactors. It supports DevOps by producing fast feedback and safer continuous change.
 

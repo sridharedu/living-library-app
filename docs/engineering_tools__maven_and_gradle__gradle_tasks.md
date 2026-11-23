@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Gradle tasks are units of work connected in a dependency graph and executed only when required.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Gradle tasks** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. Gradle tasks are units of work connected in a dependency graph and executed only when required.
 

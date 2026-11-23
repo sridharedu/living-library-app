@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Lambda runs functions in response to events without managing servers. AWS handles provisioning and scaling, while charges are based largely on requests and execution duration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Lambda** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS Lambda runs functions in response to events without managing servers. AWS handles provisioning and scaling, while charges are based largely on requests and execution duration.
 

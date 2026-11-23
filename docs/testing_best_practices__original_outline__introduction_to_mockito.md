@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mockito is a Java mocking framework with a fluent API for stubbing and verification. It integrates naturally with JUnit.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Introduction to Mockito** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Mockito is a Java mocking framework with a fluent API for stubbing and verification. It integrates naturally with JUnit.
 

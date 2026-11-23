@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An execution plan shows how the database intends to run a query, including scans, joins, sorts, and estimated costs. It is the primary tool for diagnosing SQL performance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Query Execution Plan** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. An execution plan shows how the database intends to run a query, including scans, joins, sorts, and estimated costs. It is the primary tool for diagnosing SQL performance.
 

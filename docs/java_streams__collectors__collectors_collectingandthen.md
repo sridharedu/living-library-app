@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> collectingAndThen applies a finishing transformation after another collector completes, such as wrapping a result as unmodifiable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collectors.collectingAndThen** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. collectingAndThen applies a finishing transformation after another collector completes, such as wrapping a result as unmodifiable.
 

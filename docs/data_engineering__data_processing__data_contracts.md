@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A data contract defines schema, semantics, ownership, quality, compatibility, and delivery expectations between producers and consumers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Data contracts** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. A data contract defines schema, semantics, ownership, quality, compatibility, and delivery expectations between producers and consumers.
 

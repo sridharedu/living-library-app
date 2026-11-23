@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Taints repel Pods from nodes, while tolerations allow selected Pods to be scheduled there.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Taints and tolerations** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Taints repel Pods from nodes, while tolerations allow selected Pods to be scheduled there.
 

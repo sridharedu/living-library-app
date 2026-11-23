@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A process has its own memory space and resources, while threads share a process's memory and run independently within it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Process vs thread** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. A process has its own memory space and resources, while threads share a process's memory and run independently within it.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SecurityContext stores the current Authentication for the request or execution context.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SecurityContext** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. SecurityContext stores the current Authentication for the request or execution context.
 

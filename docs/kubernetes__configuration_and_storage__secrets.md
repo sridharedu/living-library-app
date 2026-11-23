@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kubernetes Secrets store sensitive values, but base64 encoding alone is not encryption; access control and encryption at rest still matter.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Secrets** serves as a foundational component within *Configuration and Storage* in the broader **Kubernetes** ecosystem. Kubernetes Secrets store sensitive values, but base64 encoding alone is not encryption; access control and encryption at rest still matter.
 

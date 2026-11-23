@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CompletableFuture represents an asynchronous result and supports non-blocking composition, combination, callbacks, and error handling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CompletableFuture** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. CompletableFuture represents an asynchronous result and supports non-blocking composition, combination, callbacks, and error handling.
 

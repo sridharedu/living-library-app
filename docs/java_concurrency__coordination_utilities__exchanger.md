@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Exchanger lets two threads meet and swap objects at a synchronization point.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Exchanger** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. Exchanger lets two threads meet and swap objects at a synchronization point.
 

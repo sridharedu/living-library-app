@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Dockerfile is a sequence of instructions used to build an image. Good Dockerfiles use small bases, deterministic dependencies, multi-stage builds, and minimal layers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Dockerfile** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Dockerfile is a sequence of instructions used to build an image. Good Dockerfiles use small bases, deterministic dependencies, multi-stage builds, and minimal layers.
 

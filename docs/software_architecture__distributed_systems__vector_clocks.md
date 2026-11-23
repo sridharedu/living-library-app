@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Vector clocks track causal history across nodes and can detect whether versions are ordered or concurrent.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Vector clocks** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Vector clocks track causal history across nodes and can detect whether versions are ordered or concurrent.
 

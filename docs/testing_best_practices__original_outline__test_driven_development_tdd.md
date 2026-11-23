@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> TDD develops software through a repeating cycle of failing test, minimal implementation, and refactoring. Tests drive design decisions incrementally.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Test-Driven Development (TDD)** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. TDD develops software through a repeating cycle of failing test, minimal implementation, and refactoring. Tests drive design decisions incrementally.
 

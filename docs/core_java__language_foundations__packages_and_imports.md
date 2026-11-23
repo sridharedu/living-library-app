@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Packages organize types and control namespace access. Imports let code use simple type names without changing where classes belong.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Packages and imports** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Packages organize types and control namespace access. Imports let code use simple type names without changing where classes belong.
 

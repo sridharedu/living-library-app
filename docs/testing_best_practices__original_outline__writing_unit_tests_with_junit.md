@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A JUnit test arranges inputs, invokes behavior, and asserts the result. Keep tests readable and name them after the behavior being verified.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Writing Unit Tests with JUnit** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. A JUnit test arranges inputs, invokes behavior, and asserts the result. Keep tests readable and name them after the behavior being verified.
 

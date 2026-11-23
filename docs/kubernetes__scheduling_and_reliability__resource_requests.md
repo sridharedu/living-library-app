@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Resource requests define the CPU and memory Kubernetes reserves for scheduling a container.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Resource requests** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Resource requests define the CPU and memory Kubernetes reserves for scheduling a container.
 

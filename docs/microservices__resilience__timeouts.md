@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Timeouts bound how long a service waits for a dependency. Every remote call should have explicit connection and response deadlines.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Timeouts** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. Timeouts bound how long a service waits for a dependency. Every remote call should have explicit connection and response deadlines.
 

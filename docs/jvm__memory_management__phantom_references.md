@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Phantom references are enqueued after an object becomes phantom reachable and are used for post-mortem cleanup tracking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Phantom references** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. Phantom references are enqueued after an object becomes phantom reachable and are used for post-mortem cleanup tracking.
 

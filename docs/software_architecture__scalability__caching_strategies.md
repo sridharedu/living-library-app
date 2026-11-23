@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Caching strategies include cache-aside, read-through, write-through, write-behind, and refresh-ahead, each with different consistency trade-offs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Caching strategies** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Caching strategies include cache-aside, read-through, write-through, write-behind, and refresh-ahead, each with different consistency trade-offs.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A reduction operator must be associative so regrouping values produces the same result. This is essential for correct parallel execution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Associativity in reductions** serves as a foundational component within *Parallelism* in the broader **Java Streams** ecosystem. A reduction operator must be associative so regrouping values produces the same result. This is essential for correct parallel execution.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> xargs builds command arguments from standard input and is useful for batching or parallel execution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **xargs** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. xargs builds command arguments from standard input and is useful for batching or parallel execution.
 

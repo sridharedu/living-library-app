@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lazy initialization delays bean creation until first use. It can improve startup but may move configuration failures into runtime.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lazy initialization** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. Lazy initialization delays bean creation until first use. It can improve startup but may move configuration failures into runtime.
 

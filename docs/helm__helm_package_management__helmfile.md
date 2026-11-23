@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Helmfile declaratively coordinates multiple Helm releases, environments, repositories, and shared values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helmfile** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. Helmfile declaratively coordinates multiple Helm releases, environments, repositories, and shared values.
 

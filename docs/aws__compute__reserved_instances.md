@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Reserved Instances provide billing discounts for committed EC2 usage over one or three years, with different payment and flexibility options.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reserved Instances** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. Reserved Instances provide billing discounts for committed EC2 usage over one or three years, with different payment and flexibility options.
 

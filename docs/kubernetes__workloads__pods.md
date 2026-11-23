@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Pod is Kubernetes' smallest deployable unit and groups one or more containers that share networking, storage, and lifecycle.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pods** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A Pod is Kubernetes' smallest deployable unit and groups one or more containers that share networking, storage, and lifecycle.
 

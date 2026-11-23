@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Column-family databases organize sparse data by row keys and column groups. They support large distributed workloads with predictable access patterns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Column-family Stores** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Column-family databases organize sparse data by row keys and column groups. They support large distributed workloads with predictable access patterns.
 

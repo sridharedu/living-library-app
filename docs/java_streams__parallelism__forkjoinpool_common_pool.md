@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The common ForkJoinPool is shared by parallel streams and many CompletableFuture operations. Blocking or heavy unrelated work can cause contention.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ForkJoinPool common pool** serves as a foundational component within *Parallelism* in the broader **Java Streams** ecosystem. The common ForkJoinPool is shared by parallel streams and many CompletableFuture operations. Blocking or heavy unrelated work can cause contention.
 

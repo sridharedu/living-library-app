@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> API gateways provide a managed entry point for routing, authentication, rate limiting, transformation, and observability.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **API gateways** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. API gateways provide a managed entry point for routing, authentication, rate limiting, transformation, and observability.
 

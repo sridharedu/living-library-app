@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A fixed thread pool keeps a constant maximum number of workers and queues additional tasks. An unbounded queue can hide overload.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Fixed thread pool** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. A fixed thread pool keeps a constant maximum number of workers and queues additional tasks. An unbounded queue can hide overload.
 

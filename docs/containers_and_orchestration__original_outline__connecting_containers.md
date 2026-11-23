@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Containers should connect through user-defined networks and service names rather than fixed IP addresses. This keeps communication stable as containers are recreated.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Connecting Containers** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Containers should connect through user-defined networks and service names rather than fixed IP addresses. This keeps communication stable as containers are recreated.
 

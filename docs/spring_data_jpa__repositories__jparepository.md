@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> JpaRepository extends repository abstractions with JPA-specific operations such as flush, batch deletion, and entity references.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JpaRepository** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. JpaRepository extends repository abstractions with JPA-specific operations such as flush, batch deletion, and entity references.
 

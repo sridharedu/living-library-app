@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> PromQL is Prometheus' query language for filtering, aggregating, joining, and calculating over time-series data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PromQL** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. PromQL is Prometheus' query language for filtering, aggregating, joining, and calculating over time-series data.
 

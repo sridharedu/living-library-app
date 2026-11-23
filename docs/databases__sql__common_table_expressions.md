@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A common table expression names a temporary query result for use within one SQL statement, improving readability and composition.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Common table expressions** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. A common table expression names a temporary query result for use within one SQL statement, improving readability and composition.
 

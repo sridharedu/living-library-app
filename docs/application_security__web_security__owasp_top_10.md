@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The OWASP Top 10 summarizes common web-application security risks such as broken access control, injection, insecure design, and misconfiguration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **OWASP Top 10** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. The OWASP Top 10 summarizes common web-application security risks such as broken access control, injection, insecure design, and misconfiguration.
 

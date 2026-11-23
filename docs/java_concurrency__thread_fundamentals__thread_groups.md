@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ThreadGroup is a legacy mechanism for grouping threads. Modern code typically uses executors, structured concurrency, and explicit tracking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Thread groups** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. ThreadGroup is a legacy mechanism for grouping threads. Modern code typically uses executors, structured concurrency, and explicit tracking.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> StampedLock supports write, read, and optimistic-read modes. It is not reentrant and requires careful stamp validation and release.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **StampedLock** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. StampedLock supports write, read, and optimistic-read modes. It is not reentrant and requires careful stamp validation and release.
 

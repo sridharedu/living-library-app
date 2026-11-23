@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The class loading subsystem locates, loads, links, and initializes classes as they are needed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Class loading subsystem** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The class loading subsystem locates, loads, links, and initializes classes as they are needed.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Deadlock occurs when threads wait forever for locks held by one another. Prevent it with consistent lock ordering, timeouts, or reduced lock scope.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Deadlock** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. Deadlock occurs when threads wait forever for locks held by one another. Prevent it with consistent lock ordering, timeouts, or reduced lock scope.
 

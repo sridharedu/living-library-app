@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kibana provides search, dashboards, visualization, and management for data stored in Elasticsearch.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kibana** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Kibana provides search, dashboards, visualization, and management for data stored in Elasticsearch.
 

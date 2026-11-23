@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A monolith deploys the application as one unit, while microservices split it into independently deployable services. Microservices improve autonomy and scaling but add network, data, and operational complexity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Monolithic vs Microservices Architecture** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. A monolith deploys the application as one unit, while microservices split it into independently deployable services. Microservices improve autonomy and scaling but add network, data, and operational complexity.
 

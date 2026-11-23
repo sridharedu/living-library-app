@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> A Kafka broker is a server in the Kafka cluster that stores topic partitions and handles requests from Java producers and consumers.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p>
     A Kafka <strong style="color:#8B3A3A;">broker</strong> is a server in the Kafka cluster that stores topic partitions and handles requests from Java producers and consumers.
   </p>

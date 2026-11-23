@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Fixed-window limiting counts requests in discrete time blocks and is simple but can allow bursts at window boundaries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Fixed window** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Fixed-window limiting counts requests in discrete time blocks and is simple but can allow bursts at window boundaries.
 

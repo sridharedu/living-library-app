@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lazy evaluation delays work until a result is requested. Java streams are lazy for intermediate operations and execute only at a terminal operation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lazy evaluation** serves as a foundational component within *Stream Fundamentals* in the broader **Java Streams** ecosystem. Lazy evaluation delays work until a result is requested. Java streams are lazy for intermediate operations and execute only at a terminal operation.
 

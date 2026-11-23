@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Auto commit periodically commits offsets in the background. It is simple but can commit records before processing finishes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Auto commit** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Auto commit periodically commits offsets in the background. It is simple but can commit records before processing finishes.
 

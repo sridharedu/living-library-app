@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Eureka server hosts the registry, while clients register their metadata and periodically renew leases. Clients use the registry to resolve logical service names into reachable instances.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Configuring Eureka Server and Clients** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. A Eureka server hosts the registry, while clients register their metadata and periodically renew leases. Clients use the registry to resolve logical service names into reachable instances.
 

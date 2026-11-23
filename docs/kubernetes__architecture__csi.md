@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Container Storage Interface standardizes how storage systems expose volumes to container orchestrators.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CSI** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Container Storage Interface standardizes how storage systems expose volumes to container orchestrators.
 

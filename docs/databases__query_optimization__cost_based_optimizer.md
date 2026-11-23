@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A cost-based optimizer compares possible plans using statistics and estimated CPU, IO, memory, and row counts.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cost-based optimizer** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. A cost-based optimizer compares possible plans using statistics and estimated CPU, IO, memory, and row counts.
 

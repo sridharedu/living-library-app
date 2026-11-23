@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IaC is the practice of defining networks, servers, permissions, databases, and other infrastructure in code. Tools apply those definitions to create or update real environments.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Infrastructure as Code?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. IaC is the practice of defining networks, servers, permissions, databases, and other infrastructure in code. Tools apply those definitions to create or update real environments.
 

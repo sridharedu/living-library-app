@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Common refactorings include extracting methods, renaming, simplifying conditionals, removing duplication, and introducing clear abstractions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Refactoring Techniques** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Common refactorings include extracting methods, renaming, simplifying conditionals, removing duplication, and introducing clear abstractions.
 

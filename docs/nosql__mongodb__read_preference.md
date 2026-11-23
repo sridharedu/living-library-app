@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Read preference controls which replica-set members may serve reads, such as primary, secondary, nearest, or preferred variants.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Read preference** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. Read preference controls which replica-set members may serve reads, such as primary, secondary, nearest, or preferred variants.
 

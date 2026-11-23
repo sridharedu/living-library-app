@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Prometheus is a time-series monitoring system that scrapes metrics, stores labeled samples, evaluates rules, and supports alerting.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Prometheus** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Prometheus is a time-series monitoring system that scrapes metrics, stores labeled samples, evaluates rules, and supports alerting.
 

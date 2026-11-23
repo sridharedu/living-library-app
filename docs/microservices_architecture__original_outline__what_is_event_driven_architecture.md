@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Event-driven architecture organizes systems around producing, transporting, and consuming events. An event represents something that already happened and should be treated as immutable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Event-Driven Architecture?** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Event-driven architecture organizes systems around producing, transporting, and consuming events. An event represents something that already happened and should be treated as immutable.
 

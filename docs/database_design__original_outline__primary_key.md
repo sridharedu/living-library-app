@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A primary key uniquely identifies each row and cannot be null. It should be stable and efficient for references and indexes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Primary Key** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. A primary key uniquely identifies each row and cannot be null. It should be stable and efficient for references and indexes.
 

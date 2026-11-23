@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> GC tuning balances throughput, latency, heap size, and CPU usage. Start with measurements, choose a suitable collector, size the heap sensibly, and change one setting at a time.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **GC tuning** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. GC tuning balances throughput, latency, heap size, and CPU usage. Start with measurements, choose a suitable collector, size the heap sensibly, and change one setting at a time.
 

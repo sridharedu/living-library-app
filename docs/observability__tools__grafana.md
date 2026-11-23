@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Grafana creates dashboards, visualizations, alerts, and exploratory views across many telemetry data sources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Grafana** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Grafana creates dashboards, visualizations, alerts, and exploratory views across many telemetry data sources.
 

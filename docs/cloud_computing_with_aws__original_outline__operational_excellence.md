@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Operational excellence focuses on running, monitoring, and improving systems through automation, observability, small changes, and learning from failures.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Operational Excellence** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Operational excellence focuses on running, monitoring, and improving systems through automation, observability, small changes, and learning from failures.
 

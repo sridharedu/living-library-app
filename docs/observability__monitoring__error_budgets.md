@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An error budget is the amount of unreliability allowed by an SLO and helps balance feature delivery against reliability work.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Error budgets** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. An error budget is the amount of unreliability allowed by an SLO and helps balance feature delivery against reliability work.
 

@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> Data binding maps request values into Java object properties. It should be constrained carefully to avoid unintended field updates.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p style="color:#5B3A42; font-family:Georgia, 'Times New Roman', serif; font-weight:700; letter-spacing:0.01em;">
     Data binding maps request values into Java object properties. It should be constrained carefully to avoid unintended field updates.
   </p>

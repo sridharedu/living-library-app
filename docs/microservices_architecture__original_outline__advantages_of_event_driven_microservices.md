@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Benefits include loose coupling, independent scaling, spike absorption, extensibility, and replayable workflows. Costs include eventual consistency and more difficult debugging.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Advantages of Event-Driven Microservices** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Benefits include loose coupling, independent scaling, spike absorption, extensibility, and replayable workflows. Costs include eventual consistency and more difficult debugging.
 

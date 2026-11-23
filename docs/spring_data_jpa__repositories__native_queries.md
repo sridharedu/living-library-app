@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Native queries execute database-specific SQL directly. They provide full SQL power but reduce portability.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Native queries** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Native queries execute database-specific SQL directly. They provide full SQL power but reduce portability.
 

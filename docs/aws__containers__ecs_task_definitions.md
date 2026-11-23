@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An ECS task definition describes containers, images, CPU, memory, ports, environment, volumes, IAM roles, and logging.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ECS task definitions** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. An ECS task definition describes containers, images, CPU, memory, ports, environment, volumes, IAM roles, and logging.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ScheduledExecutorService runs tasks after delays or at fixed rates and delays. It is preferred over Timer for concurrent scheduling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ScheduledExecutorService** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. ScheduledExecutorService runs tasks after delays or at fixed rates and delays. It is preferred over Timer for concurrent scheduling.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Compose file defines services, images, builds, ports, volumes, networks, environment variables, health checks, and dependencies in YAML.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Compose File Format** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Compose file defines services, images, builds, ports, volumes, networks, environment variables, health checks, and dependencies in YAML.
 

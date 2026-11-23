@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kafka Streams supports stream-stream, stream-table, and table-table joins with different timing and state requirements.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Joins** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. Kafka Streams supports stream-stream, stream-table, and table-table joins with different timing and state requirements.
 

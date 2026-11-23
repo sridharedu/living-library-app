@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @PostMapping maps HTTP POST requests, commonly used for creating resources or submitting commands. Request validation and idempotency strategy should match the business operation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **@PostMapping** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. @PostMapping maps HTTP POST requests, commonly used for creating resources or submitting commands. Request validation and idempotency strategy should match the business operation.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Synthetic monitoring runs scripted checks or user journeys on a schedule to detect failures before real users report them.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Synthetic monitoring** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Synthetic monitoring runs scripted checks or user journeys on a schedule to detect failures before real users report them.
 

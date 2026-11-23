@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Port mapping publishes a container port through a host address and port.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Port mapping** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Port mapping publishes a container port through a host address and port.
 

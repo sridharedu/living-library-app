@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Collectors.toMap builds a Map from key and value functions. Duplicate keys require a merge function.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collectors.toMap** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. Collectors.toMap builds a Map from key and value functions. Duplicate keys require a merge function.
 

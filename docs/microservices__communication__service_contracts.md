@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A service contract defines request, response, event, error, authentication, and compatibility expectations between providers and consumers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service contracts** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. A service contract defines request, response, event, error, authentication, and compatibility expectations between providers and consumers.
 

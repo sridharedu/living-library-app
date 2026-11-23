@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Overriding provides a subclass implementation of an inherited method with a compatible signature. Dispatch happens at runtime.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Method overriding** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Overriding provides a subclass implementation of an inherited method with a compatible signature. Dispatch happens at runtime.
 

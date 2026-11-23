@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Indexes help when they match filtering, joining, or ordering columns. Poorly chosen indexes may be ignored or make writes slower.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Using Indexes for Query Optimization** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Indexes help when they match filtering, joining, or ordering columns. Poorly chosen indexes may be ignored or make writes slower.
 

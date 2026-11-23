@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS provides elastic capacity, global reach, managed services, automation, security controls, and multiple pricing models. Benefits depend on disciplined architecture and cost governance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Benefits of AWS Cloud** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS provides elastic capacity, global reach, managed services, automation, security controls, and multiple pricing models. Benefits depend on disciplined architecture and cost governance.
 

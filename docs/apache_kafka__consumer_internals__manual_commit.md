@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Manual commit lets the application commit only after successful processing, giving better delivery control.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Manual commit** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Manual commit lets the application commit only after successful processing, giving better delivery control.
 

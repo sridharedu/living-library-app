@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Prefetch limits how many unacknowledged messages RabbitMQ sends to a consumer, balancing throughput and fairness.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Prefetch** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. Prefetch limits how many unacknowledged messages RabbitMQ sends to a consumer, balancing throughput and fairness.
 

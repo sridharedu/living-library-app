@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> volatile guarantees visibility and ordering for reads and writes of a field, but it does not make compound operations such as increment atomic.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **volatile keyword** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. volatile guarantees visibility and ordering for reads and writes of a field, but it does not make compound operations such as increment atomic.
 

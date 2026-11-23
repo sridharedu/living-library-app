@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Indexes consume storage and add work to inserts, updates, deletes, vacuuming, and statistics maintenance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Index maintenance costs** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. Indexes consume storage and add work to inserts, updates, deletes, vacuuming, and statistics maintenance.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Logstash ingests, transforms, enriches, and routes events through configurable input, filter, and output plugins.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Logstash** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Logstash ingests, transforms, enriches, and routes events through configurable input, filter, and output plugins.
 

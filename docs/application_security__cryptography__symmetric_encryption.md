@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Symmetric encryption uses the same secret key for encryption and decryption and is efficient for bulk data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Symmetric encryption** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Symmetric encryption uses the same secret key for encryption and decryption and is efficient for bulk data.
 

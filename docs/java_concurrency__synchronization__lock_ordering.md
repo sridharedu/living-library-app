@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lock ordering prevents deadlock by requiring every thread to acquire multiple locks in the same global order.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lock ordering** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. Lock ordering prevents deadlock by requiring every thread to acquire multiple locks in the same global order.
 

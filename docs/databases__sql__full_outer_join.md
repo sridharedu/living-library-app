@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> FULL OUTER JOIN returns matching rows plus unmatched rows from both sides.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **FULL OUTER JOIN** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. FULL OUTER JOIN returns matching rows plus unmatched rows from both sides.
 

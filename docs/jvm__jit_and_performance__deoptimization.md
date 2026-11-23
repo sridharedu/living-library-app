@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Deoptimization discards optimized machine code when assumptions become invalid and returns execution to a less optimized form.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Deoptimization** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Deoptimization discards optimized machine code when assumptions become invalid and returns execution to a less optimized form.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Boot is an opinionated layer on Spring that creates standalone, production-ready applications quickly. It configures common infrastructure automatically based on dependencies and properties.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Spring Boot?** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Boot is an opinionated layer on Spring that creates standalone, production-ready applications quickly. It configures common infrastructure automatically based on dependencies and properties.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AtomicStampedReference pairs a reference with a version stamp, helping detect changes that would otherwise create the ABA problem.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AtomicStampedReference** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. AtomicStampedReference pairs a reference with a version stamp, helping detect changes that would otherwise create the ABA problem.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CSI drivers connect Kubernetes to specific block or file storage systems and handle provisioning, attachment, mounting, and snapshots.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CSI drivers** serves as a foundational component within *Configuration and Storage* in the broader **Kubernetes** ecosystem. CSI drivers connect Kubernetes to specific block or file storage systems and handle provisioning, attachment, mounting, and snapshots.
 

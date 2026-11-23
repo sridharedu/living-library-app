@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pod affinity places Pods near other matching Pods based on topology domains.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pod affinity** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Pod affinity places Pods near other matching Pods based on topology domains.
 

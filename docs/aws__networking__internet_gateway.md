@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An Internet Gateway enables communication between a VPC and the public internet for appropriately routed and addressed resources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Internet Gateway** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. An Internet Gateway enables communication between a VPC and the public internet for appropriately routed and addressed resources.
 

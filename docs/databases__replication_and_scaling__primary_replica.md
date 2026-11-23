@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Primary-replica replication directs writes to one primary and copies changes to replicas that can serve reads or fail over.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Primary-replica** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Primary-replica replication directs writes to one primary and copies changes to replicas that can serve reads or fail over.
 

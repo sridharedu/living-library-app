@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Strong service ownership means one team is responsible for design, delivery, operation, reliability, and evolution of a capability.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Team ownership** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Strong service ownership means one team is responsible for design, delivery, operation, reliability, and evolution of a capability.
 

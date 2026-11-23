@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS cost tools help understand usage, forecast spend, set budgets, allocate charges, and optimize resources. Effective cost management requires tagging, ownership, and regular review.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Cost and Billing** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS cost tools help understand usage, forecast spend, set budgets, allocate charges, and optimize resources. Effective cost management requires tagging, ownership, and regular review.
 

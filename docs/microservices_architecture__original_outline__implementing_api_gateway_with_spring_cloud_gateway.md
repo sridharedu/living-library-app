@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Cloud Gateway defines routes and reactive filters for forwarding requests. It supports predicates, header transformation, retries, circuit breakers, and custom edge policies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Implementing API Gateway with Spring Cloud Gateway** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Spring Cloud Gateway defines routes and reactive filters for forwarding requests. It supports predicates, header transformation, retries, circuit breakers, and custom edge policies.
 

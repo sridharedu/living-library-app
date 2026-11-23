@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The common DI styles are constructor, setter, and field injection. Constructor injection is preferred for required dependencies, while setters suit optional or reconfigurable dependencies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Types of Dependency Injection** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. The common DI styles are constructor, setter, and field injection. Constructor injection is preferred for required dependencies, while setters suit optional or reconfigurable dependencies.
 

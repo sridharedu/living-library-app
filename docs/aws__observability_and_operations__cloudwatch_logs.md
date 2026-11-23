@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CloudWatch Logs centralizes application and service logs for search, metrics, retention, alerts, and subscriptions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CloudWatch logs** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. CloudWatch Logs centralizes application and service logs for search, metrics, retention, alerts, and subscriptions.
 

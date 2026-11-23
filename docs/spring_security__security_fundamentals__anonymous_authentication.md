@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Anonymous authentication gives unauthenticated requests a consistent Authentication object with an anonymous identity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Anonymous authentication** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. Anonymous authentication gives unauthenticated requests a consistent Authentication object with an anonymous identity.
 

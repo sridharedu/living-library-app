@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IAM roles are assumable identities that provide temporary credentials to users, services, workloads, or external accounts.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **IAM roles** serves as a foundational component within *Security* in the broader **AWS** ecosystem. IAM roles are assumable identities that provide temporary credentials to users, services, workloads, or external accounts.
 

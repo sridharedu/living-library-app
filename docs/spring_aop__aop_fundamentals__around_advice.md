@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Around advice controls whether and when the target method executes and can modify arguments, results, timing, or exceptions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Around advice** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. Around advice controls whether and when the target method executes and can modify arguments, results, timing, or exceptions.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Abstraction exposes what an object can do while hiding unnecessary implementation details. In Java, interfaces and abstract classes help callers depend on stable contracts instead of concrete internals.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Abstraction** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Abstraction exposes what an object can do while hiding unnecessary implementation details. In Java, interfaces and abstract classes help callers depend on stable contracts instead of concrete internals.
 

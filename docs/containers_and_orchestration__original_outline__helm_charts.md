@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Helm chart is a versioned package containing templates, default values, metadata, and optional dependencies for a Kubernetes application.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helm Charts** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Helm chart is a versioned package containing templates, default values, metadata, and optional dependencies for a Kubernetes application.
 

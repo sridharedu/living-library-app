@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> GC logs record collection events, pause times, heap occupancy, promotion, and collector phases. They are essential for diagnosing allocation pressure and long pauses.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **GC logs** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. GC logs record collection events, pause times, heap occupancy, promotion, and collector phases. They are essential for diagnosing allocation pressure and long pauses.
 

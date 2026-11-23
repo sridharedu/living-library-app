@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> VarHandle provides strongly typed access to fields and array elements with plain, opaque, acquire-release, volatile, and atomic modes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **VarHandle** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. VarHandle provides strongly typed access to fields and array elements with plain, opaque, acquire-release, volatile, and atomic modes.
 

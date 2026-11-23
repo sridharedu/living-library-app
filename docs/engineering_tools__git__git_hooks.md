@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Git hooks are scripts triggered by repository events such as commit, push, or receive and can enforce local or server-side checks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Git hooks** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Git hooks are scripts triggered by repository events such as commit, push, or receive and can enforce local or server-side checks.
 

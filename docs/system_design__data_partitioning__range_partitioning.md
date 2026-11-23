@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Range partitioning assigns contiguous key ranges to partitions and supports efficient range scans but may create hotspots.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Range partitioning** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Range partitioning assigns contiguous key ranges to partitions and supports efficient range scans but may create hotspots.
 

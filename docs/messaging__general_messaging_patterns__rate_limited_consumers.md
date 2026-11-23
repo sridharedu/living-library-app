@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Rate-limited consumers control processing speed with permits, delayed retries, bounded concurrency, or broker prefetch settings.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Rate-limited consumers** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Rate-limited consumers control processing speed with permits, delayed retries, bounded concurrency, or broker prefetch settings.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Normalization restructures data to reduce redundancy and prevent insert, update, and delete anomalies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Normalization** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Normalization restructures data to reduce redundancy and prevent insert, update, and delete anomalies.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The JVM executes bytecode, the JRE provides the runtime and libraries, and the JDK adds development tools such as javac, javadoc, and debuggers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JDK vs JRE vs JVM** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. The JVM executes bytecode, the JRE provides the runtime and libraries, and the JDK adds development tools such as javac, javadoc, and debuggers.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java Flight Recorder collects low-overhead runtime events such as CPU samples, allocation, locks, GC, IO, and exceptions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Flight Recorder** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Java Flight Recorder collects low-overhead runtime events such as CPU samples, allocation, locks, GC, IO, and exceptions.
 

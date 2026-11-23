@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Network Load Balancer operates at Layer 4 for very high-performance TCP, UDP, and TLS traffic with static IP support.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Network Load Balancer** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. A Network Load Balancer operates at Layer 4 for very high-performance TCP, UDP, and TLS traffic with static IP support.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CI/CD pipelines use containers to isolate build tools, run tests, package applications, and publish immutable images. This improves reproducibility and cleanup.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker Containers in CI/CD** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. CI/CD pipelines use containers to isolate build tools, run tests, package applications, and publish immutable images. This improves reproducibility and cleanup.
 

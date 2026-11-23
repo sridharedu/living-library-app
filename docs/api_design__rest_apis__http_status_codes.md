@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HTTP status codes communicate outcome classes: 2xx success, 3xx redirection, 4xx client error, and 5xx server error.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **HTTP status codes** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. HTTP status codes communicate outcome classes: 2xx success, 3xx redirection, 4xx client error, and 5xx server error.
 

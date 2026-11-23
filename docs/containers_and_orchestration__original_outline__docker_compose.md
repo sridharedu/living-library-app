@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Docker Compose defines and runs multi-container applications from a YAML file. It coordinates services, networks, volumes, dependencies, and configuration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker Compose** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Docker Compose defines and runs multi-container applications from a YAML file. It coordinates services, networks, volumes, dependencies, and configuration.
 

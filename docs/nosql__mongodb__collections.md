@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A MongoDB collection groups related documents and is roughly analogous to a table, though documents may have varying shapes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collections** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. A MongoDB collection groups related documents and is roughly analogous to a table, though documents may have varying shapes.
 

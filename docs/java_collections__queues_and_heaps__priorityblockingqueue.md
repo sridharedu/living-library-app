@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> PriorityBlockingQueue is an unbounded thread-safe priority queue. Consumers receive elements by priority rather than insertion order.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PriorityBlockingQueue** serves as a foundational component within *Queues and Heaps* in the broader **Java Collections** ecosystem. PriorityBlockingQueue is an unbounded thread-safe priority queue. Consumers receive elements by priority rather than insertion order.
 

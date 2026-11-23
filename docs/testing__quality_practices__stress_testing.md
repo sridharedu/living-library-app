@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Stress testing pushes a system beyond normal capacity to discover breaking points and recovery behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Stress testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Stress testing pushes a system beyond normal capacity to discover breaking points and recovery behavior.
 

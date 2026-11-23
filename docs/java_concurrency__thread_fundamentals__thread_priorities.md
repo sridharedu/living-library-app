@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Thread priorities are scheduler hints with platform-dependent behavior. Correctness must never rely on them.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Thread priorities** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. Thread priorities are scheduler hints with platform-dependent behavior. Correctness must never rely on them.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Constraints enforce valid data at the database boundary. Examples include primary keys, foreign keys, unique constraints, checks, and not-null rules.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Database Constraints** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. Constraints enforce valid data at the database boundary. Examples include primary keys, foreign keys, unique constraints, checks, and not-null rules.
 

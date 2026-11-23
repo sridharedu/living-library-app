@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A private cloud is dedicated to one organization and offers cloud-like automation and self-service. It provides control but requires more ownership, capacity planning, and operational effort.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Private Cloud** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A private cloud is dedicated to one organization and offers cloud-like automation and self-service. It provides control but requires more ownership, capacity planning, and operational effort.
 

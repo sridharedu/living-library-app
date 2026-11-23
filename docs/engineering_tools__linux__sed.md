@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> sed is a stream editor used for substitutions, deletions, selections, and line-oriented text transformations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **sed** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. sed is a stream editor used for substitutions, deletions, selections, and line-oriented text transformations.
 

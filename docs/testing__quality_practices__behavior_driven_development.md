@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Behavior-driven development describes system behavior in business-readable scenarios and connects examples to executable tests.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Behavior-driven development** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Behavior-driven development describes system behavior in business-readable scenarios and connects examples to executable tests.
 

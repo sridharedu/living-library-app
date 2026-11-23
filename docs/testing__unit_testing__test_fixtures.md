@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Test fixtures are the objects, data, dependencies, and setup needed to run a test consistently.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Test fixtures** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Test fixtures are the objects, data, dependencies, and setup needed to run a test consistently.
 

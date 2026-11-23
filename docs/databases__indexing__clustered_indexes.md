@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A clustered index determines the physical or primary storage order of table rows. A table usually has only one.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Clustered indexes** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. A clustered index determines the physical or primary storage order of table rows. A table usually has only one.
 

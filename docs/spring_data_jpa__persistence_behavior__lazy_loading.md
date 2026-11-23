@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lazy loading delays fetching related data until it is first accessed. It reduces unnecessary work but can fail outside an active persistence context and can trigger many hidden queries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lazy loading** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. Lazy loading delays fetching related data until it is first accessed. It reduces unnecessary work but can fail outside an active persistence context and can trigger many hidden queries.
 

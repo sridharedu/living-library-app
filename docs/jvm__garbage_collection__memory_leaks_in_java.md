@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Java memory leak occurs when objects are no longer useful but remain strongly reachable. Common causes include caches, listeners, static collections, ThreadLocal misuse, and unclosed resources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Memory leaks in Java** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. A Java memory leak occurs when objects are no longer useful but remain strongly reachable. Common causes include caches, listeners, static collections, ThreadLocal misuse, and unclosed resources.
 

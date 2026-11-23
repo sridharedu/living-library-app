@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Load balancers distribute traffic across healthy service instances and may perform health checks, TLS termination, and routing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Load balancers** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Load balancers distribute traffic across healthy service instances and may perform health checks, TLS termination, and routing.
 

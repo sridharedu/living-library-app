@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The platform class loader loads platform modules and libraries that are not part of the bootstrap class path.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Platform class loader** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The platform class loader loads platform modules and libraries that are not part of the bootstrap class path.
 

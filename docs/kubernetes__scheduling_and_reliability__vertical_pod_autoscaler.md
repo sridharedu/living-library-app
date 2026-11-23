@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Vertical Pod Autoscaler recommends or adjusts Pod CPU and memory requests based on observed usage.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Vertical Pod Autoscaler** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. The Vertical Pod Autoscaler recommends or adjusts Pod CPU and memory requests based on observed usage.
 

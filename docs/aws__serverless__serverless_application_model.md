@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS SAM is an infrastructure-as-code framework that simplifies defining and deploying serverless applications.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Serverless Application Model** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. AWS SAM is an infrastructure-as-code framework that simplifies defining and deploying serverless applications.
 

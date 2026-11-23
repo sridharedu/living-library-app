@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SecurityFilterChain defines which Spring Security filters apply to matching requests and how authentication and authorization are configured.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SecurityFilterChain** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. SecurityFilterChain defines which Spring Security filters apply to matching requests and how authentication and authorization are configured.
 

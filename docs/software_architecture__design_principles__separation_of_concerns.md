@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Separation of concerns assigns different responsibilities to distinct modules so each can change with minimal impact on others.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Separation of concerns** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Separation of concerns assigns different responsibilities to distinct modules so each can change with minimal impact on others.
 

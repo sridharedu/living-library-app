@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CloudTrail is AWS's account-level audit service. It captures management events by default and can also record data events and Insights events when configured.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is CloudTrail?** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. CloudTrail is AWS's account-level audit service. It captures management events by default and can also record data events and Insights events when configured.
 

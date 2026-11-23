@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DI reduces coupling, centralizes object creation, improves testability, supports alternate implementations, and clarifies component boundaries. It also lets the framework manage lifecycle and cross-cutting infrastructure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Benefits of Dependency Injection** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. DI reduces coupling, centralizes object creation, improves testability, supports alternate implementations, and clarifies component boundaries. It also lets the framework manage lifecycle and cross-cutting infrastructure.
 

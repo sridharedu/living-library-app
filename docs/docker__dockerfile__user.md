@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> USER selects the user or UID that executes subsequent build steps and the container process.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **USER** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. USER selects the user or UID that executes subsequent build steps and the container process.
 

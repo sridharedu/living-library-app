@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Message deduplication records stable identifiers or uses idempotent writes so repeated deliveries do not repeat business effects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Message deduplication** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Message deduplication records stable identifiers or uses idempotent writes so repeated deliveries do not repeat business effects.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hash-based collections resolve collisions by storing multiple entries in the same bucket. Modern HashMap may treeify heavily populated buckets.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hash collision handling** serves as a foundational component within *Set Implementations* in the broader **Java Collections** ecosystem. Hash-based collections resolve collisions by storing multiple entries in the same bucket. Modern HashMap may treeify heavily populated buckets.
 

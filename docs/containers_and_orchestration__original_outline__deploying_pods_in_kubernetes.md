@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pods are deployed from YAML or API objects, but production workloads normally use controllers such as Deployments, Jobs, StatefulSets, or DaemonSets.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Deploying Pods in Kubernetes** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Pods are deployed from YAML or API objects, but production workloads normally use controllers such as Deployments, Jobs, StatefulSets, or DaemonSets.
 

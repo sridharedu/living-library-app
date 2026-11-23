@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Event versioning identifies incompatible event shapes or semantics and provides migration or compatibility strategies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Event versioning** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event versioning identifies incompatible event shapes or semantics and provides migration or compatibility strategies.
 

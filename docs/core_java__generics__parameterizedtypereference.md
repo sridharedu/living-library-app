@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ParameterizedTypeReference captures full generic type information through an anonymous subclass, helping frameworks deserialize types such as List<Order>.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ParameterizedTypeReference** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. ParameterizedTypeReference captures full generic type information through an anonymous subclass, helping frameworks deserialize types such as List<Order>.
 

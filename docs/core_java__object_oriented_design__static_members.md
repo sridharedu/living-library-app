@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Static members belong to the class rather than an instance. They are shared and should not depend on per-object state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Static members** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Static members belong to the class rather than an instance. They are shared and should not depend on per-object state.
 

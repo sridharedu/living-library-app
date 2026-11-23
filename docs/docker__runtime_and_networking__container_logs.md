@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Container logs usually capture standard output and error through a configured logging driver.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Container logs** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Container logs usually capture standard output and error through a configured logging driver.
 

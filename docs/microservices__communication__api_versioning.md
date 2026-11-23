@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> API versioning allows incompatible contract changes while older consumers continue working. Prefer backward-compatible evolution before introducing a new version.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **API versioning** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. API versioning allows incompatible contract changes while older consumers continue working. Prefer backward-compatible evolution before introducing a new version.
 

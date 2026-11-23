@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Service discovery lets applications locate available service instances dynamically instead of using fixed addresses. It supports scaling, instance replacement, and changing network locations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service Discovery** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Service discovery lets applications locate available service instances dynamically instead of using fixed addresses. It supports scaling, instance replacement, and changing network locations.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Major NoSQL categories are document, key-value, column-family, and graph databases. Each optimizes a different style of data access.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Types of NoSQL Databases** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Major NoSQL categories are document, key-value, column-family, and graph databases. Each optimizes a different style of data access.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> EBS provides persistent block storage volumes for EC2 instances. It behaves like a virtual disk and supports snapshots, encryption, resizing, and multiple performance tiers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon EBS (Elastic Block Store)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. EBS provides persistent block storage volumes for EC2 instances. It behaves like a virtual disk and supports snapshots, encryption, resizing, and multiple performance tiers.
 

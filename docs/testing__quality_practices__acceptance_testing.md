@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Acceptance testing verifies that a feature satisfies business requirements and user-visible outcomes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Acceptance testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Acceptance testing verifies that a feature satisfies business requirements and user-visible outcomes.
 

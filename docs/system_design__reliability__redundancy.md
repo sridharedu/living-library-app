@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redundancy duplicates critical components or data so one failure does not stop the service.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Redundancy** serves as a foundational component within *Reliability* in the broader **System Design** ecosystem. Redundancy duplicates critical components or data so one failure does not stop the service.
 

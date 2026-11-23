@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HTTP methods express intent: GET reads, POST creates or processes, PUT replaces, PATCH partially updates, and DELETE removes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **HTTP methods** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. HTTP methods express intent: GET reads, POST creates or processes, PUT replaces, PATCH partially updates, and DELETE removes.
 

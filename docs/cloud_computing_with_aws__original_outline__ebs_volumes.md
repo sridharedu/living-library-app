@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An EBS volume is network-attached block storage designed for low-latency instance access. Volume type, size, IOPS, and throughput should match workload characteristics.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **EBS Volumes** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. An EBS volume is network-attached block storage designed for low-latency instance access. Volume type, size, IOPS, and throughput should match workload characteristics.
 

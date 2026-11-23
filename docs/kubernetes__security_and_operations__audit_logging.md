@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kubernetes audit logging records API activity, including who performed an action, what resource was affected, and the result.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Audit logging** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Kubernetes audit logging records API activity, including who performed an action, what resource was affected, and the result.
 

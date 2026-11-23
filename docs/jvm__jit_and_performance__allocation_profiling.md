@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Allocation profiling shows which code creates objects and at what rate, helping find avoidable churn and GC pressure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Allocation profiling** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Allocation profiling shows which code creates objects and at what rate, helping find avoidable churn and GC pressure.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pod anti-affinity spreads Pods away from matching Pods to improve fault isolation or resource distribution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pod anti-affinity** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Pod anti-affinity spreads Pods away from matching Pods to improve fault isolation or resource distribution.
 

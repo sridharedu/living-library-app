@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Property sources provide configuration values from files, environment variables, system properties, command-line arguments, and custom sources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Property sources** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Property sources provide configuration values from files, environment variables, system properties, command-line arguments, and custom sources.
 

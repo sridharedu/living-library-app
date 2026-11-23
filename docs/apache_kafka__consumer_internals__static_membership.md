@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Static membership gives a consumer a stable group identity so brief restarts may avoid unnecessary partition reassignment.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Static membership** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Static membership gives a consumer a stable group identity so brief restarts may avoid unnecessary partition reassignment.
 

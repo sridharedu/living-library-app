@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Asynchronous messaging decouples producers and consumers in time, absorbs spikes, and supports retries, but introduces eventual consistency and operational complexity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Asynchronous messaging** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. Asynchronous messaging decouples producers and consumers in time, absorbs spikes, and supports retries, but introduces eventual consistency and operational complexity.
 

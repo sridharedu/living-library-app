@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Container management includes starting, stopping, inspecting, logging, updating, removing, and monitoring containers. Persistent data should live outside the writable container layer.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Managing Docker Containers** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Container management includes starting, stopping, inspecting, logging, updating, removing, and monitoring containers. Persistent data should live outside the writable container layer.
 

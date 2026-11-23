@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Flux represents an asynchronous sequence containing zero to many elements, followed by completion or error.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Flux** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Flux represents an asynchronous sequence containing zero to many elements, followed by completion or error.
 

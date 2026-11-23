@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Denormalization intentionally duplicates or combines data to reduce joins and improve read performance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Denormalization** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Denormalization intentionally duplicates or combines data to reduce joins and improve read performance.
 

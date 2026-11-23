@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Continuous delivery keeps software deployable through automated validation while production release may remain a deliberate decision.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Continuous delivery** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Continuous delivery keeps software deployable through automated validation while production release may remain a deliberate decision.
 

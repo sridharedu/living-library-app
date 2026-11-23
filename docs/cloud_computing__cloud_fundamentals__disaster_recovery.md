@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Disaster recovery restores service after major failure using backups, replication, alternate sites, and tested recovery procedures.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Disaster recovery** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Disaster recovery restores service after major failure using backups, replication, alternate sites, and tested recovery procedures.
 

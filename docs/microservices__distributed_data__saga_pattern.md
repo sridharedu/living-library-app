@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A saga breaks a business transaction into local transactions connected by events or commands, with compensations for failure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Saga pattern** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. A saga breaks a business transaction into local transactions connected by events or commands, with compensations for failure.
 

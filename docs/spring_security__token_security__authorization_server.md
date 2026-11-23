@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An authorization server authenticates users or clients and issues access, refresh, and identity tokens according to configured grants.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Authorization server** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. An authorization server authenticates users or clients and issues access, refresh, and identity tokens according to configured grants.
 

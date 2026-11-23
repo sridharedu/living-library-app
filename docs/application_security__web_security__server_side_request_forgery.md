@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SSRF tricks a server into making unintended requests to internal or external destinations. Restrict outbound targets and validate URLs carefully.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Server-side request forgery** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. SSRF tricks a server into making unintended requests to internal or external destinations. Restrict outbound targets and validate URLs carefully.
 

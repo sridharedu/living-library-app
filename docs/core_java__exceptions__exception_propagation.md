@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An unchecked exception propagates up the call stack until a matching handler is found. Checked exceptions must be caught or declared.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Exception propagation** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. An unchecked exception propagates up the call stack until a matching handler is found. Checked exceptions must be caught or declared.
 

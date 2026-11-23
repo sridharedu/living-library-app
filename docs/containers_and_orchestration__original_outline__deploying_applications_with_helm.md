@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Helm deployment renders chart templates with environment-specific values and applies the resulting resources. Safe usage requires reviewing output and managing secrets carefully.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Deploying Applications with Helm** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Helm deployment renders chart templates with environment-specific values and applies the resulting resources. Safe usage requires reviewing output and managing secrets carefully.
 

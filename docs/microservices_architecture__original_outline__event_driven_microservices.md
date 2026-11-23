@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Event-driven microservices publish facts about completed changes and react asynchronously. This reduces direct coupling but requires strong event contracts, idempotency, and observability.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Event-Driven Microservices** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Event-driven microservices publish facts about completed changes and react asynchronously. This reduces direct coupling but requires strong event contracts, idempotency, and observability.
 

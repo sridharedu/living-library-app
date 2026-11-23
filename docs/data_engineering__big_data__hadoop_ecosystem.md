@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Hadoop ecosystem includes distributed storage and processing tools such as HDFS, MapReduce, YARN, Hive, and related projects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hadoop ecosystem** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. The Hadoop ecosystem includes distributed storage and processing tools such as HDFS, MapReduce, YARN, Hive, and related projects.
 

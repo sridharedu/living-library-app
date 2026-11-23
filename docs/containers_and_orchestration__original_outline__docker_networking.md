@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Docker networking lets containers communicate with each other, the host, and external systems. Networks provide DNS-based discovery and configurable isolation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker Networking** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Docker networking lets containers communicate with each other, the host, and external systems. Networks provide DNS-based discovery and configurable isolation.
 

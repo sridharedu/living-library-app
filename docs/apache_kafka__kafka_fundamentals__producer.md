@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> A Kafka producer is the Java client responsible for creating and sending records to Kafka topics. It is typically implemented using KafkaProducer&lt;K, V&gt;.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p>
     A Kafka <strong style="color:#8B3A3A;">producer</strong> is the Java client responsible for creating and sending records to Kafka topics. It is typically implemented using
     <code style="color:#2F6B67; font-size:0.92em;">KafkaProducer&lt;K, V&gt;</code>.

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ETL transforms data before loading it into the target, while ELT loads raw data first and transforms it inside the destination platform.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ETL vs ELT** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. ETL transforms data before loading it into the target, while ELT loads raw data first and transforms it inside the destination platform.
 

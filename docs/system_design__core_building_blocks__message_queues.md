@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Message queues buffer work between producers and consumers, decoupling their availability and processing rates.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Message queues** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Message queues buffer work between producers and consumers, decoupling their availability and processing rates.
 

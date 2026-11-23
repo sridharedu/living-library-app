@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Full scans can be reduced with selective predicates, suitable indexes, partition pruning, and avoiding functions that hide indexed columns. A full scan is not always bad for small or broad queries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Avoiding Full Table Scans** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Full scans can be reduced with selective predicates, suitable indexes, partition pruning, and avoiding functions that hide indexed columns. A full scan is not always bad for small or broad queries.
 

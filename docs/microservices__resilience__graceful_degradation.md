@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Graceful degradation keeps essential functionality available while disabling or simplifying noncritical features during failure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Graceful degradation** serves as a foundational component within *Resilience* in the broader **Microservices** ecosystem. Graceful degradation keeps essential functionality available while disabling or simplifying noncritical features during failure.
 

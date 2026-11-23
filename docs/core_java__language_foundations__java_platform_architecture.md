@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Java platform consists of source code, compiler, bytecode, class loaders, runtime libraries, and the JVM. This separation enables portability.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Java platform architecture** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. The Java platform consists of source code, compiler, bytecode, class loaders, runtime libraries, and the JVM. This separation enables portability.
 

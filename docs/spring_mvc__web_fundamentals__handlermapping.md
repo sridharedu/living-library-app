@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> HandlerMapping selects the controller method or handler that should process an incoming Spring MVC request.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p style="color:#5B3A42; font-family:Georgia, 'Times New Roman', serif; font-weight:700; letter-spacing:0.01em;">
     HandlerMapping selects the controller method or handler that should process an incoming Spring MVC request.
   </p>

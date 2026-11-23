@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multi-factor authentication requires evidence from more than one factor, such as password, device, biometric, or security key.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Multi-factor authentication** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Multi-factor authentication requires evidence from more than one factor, such as password, device, biometric, or security key.
 

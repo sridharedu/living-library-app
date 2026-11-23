@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Observer notifies subscribed listeners when a subject changes, supporting one-to-many event propagation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Observer** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Observer notifies subscribed listeners when a subject changes, supporting one-to-many event propagation.
 

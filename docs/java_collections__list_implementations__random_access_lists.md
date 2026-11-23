@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lists implementing RandomAccess, such as ArrayList, support efficient indexed access. Algorithms may optimize based on this marker interface.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Random access lists** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. Lists implementing RandomAccess, such as ArrayList, support efficient indexed access. Algorithms may optimize based on this marker interface.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kinesis Data Streams ingests ordered, partitioned real-time event data for multiple consumers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kinesis Data Streams** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. Kinesis Data Streams ingests ordered, partitioned real-time event data for multiple consumers.
 

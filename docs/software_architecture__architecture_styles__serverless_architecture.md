@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Serverless architecture uses managed functions and services that scale on demand, reducing infrastructure work but increasing platform coupling and cold-start concerns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Serverless architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Serverless architecture uses managed functions and services that scale on demand, reducing infrastructure work but increasing platform coupling and cold-start concerns.
 

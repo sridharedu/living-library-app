@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A global secondary index uses an alternative partition and optional sort key and is maintained separately from the base table.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Global secondary indexes** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. A global secondary index uses an alternative partition and optional sort key and is maintained separately from the base table.
 

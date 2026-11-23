@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Executor framework separates task submission from thread creation and scheduling. It provides reusable pools, queues, futures, and lifecycle control.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Executor framework** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. The Executor framework separates task submission from thread creation and scheduling. It provides reusable pools, queues, futures, and lifecycle control.
 

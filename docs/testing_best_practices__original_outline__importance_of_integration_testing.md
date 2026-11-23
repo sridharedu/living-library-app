@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Integration tests reveal problems in serialization, persistence, transactions, networking, and framework configuration that unit tests cannot detect.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Importance of Integration Testing** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Integration tests reveal problems in serialization, persistence, transactions, networking, and framework configuration that unit tests cannot detect.
 

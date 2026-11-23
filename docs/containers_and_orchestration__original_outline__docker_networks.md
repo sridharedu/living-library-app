@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Docker network is a virtual communication boundary for containers. Containers on the same user-defined network can usually discover one another by name.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker Networks** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Docker network is a virtual communication boundary for containers. Containers on the same user-defined network can usually discover one another by name.
 

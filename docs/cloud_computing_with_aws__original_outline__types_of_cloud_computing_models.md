@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cloud models are commonly described by ownership—public, private, or hybrid—and by service level—IaaS, PaaS, or SaaS. Each changes who manages which layers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Types of Cloud Computing Models** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Cloud models are commonly described by ownership—public, private, or hybrid—and by service level—IaaS, PaaS, or SaaS. Each changes who manages which layers.
 

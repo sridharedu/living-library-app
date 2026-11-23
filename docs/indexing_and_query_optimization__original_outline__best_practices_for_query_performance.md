@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Select only needed columns, filter early, index carefully, avoid N+1 access, review plans, paginate large results, and measure with realistic data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Best Practices for Query Performance** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Select only needed columns, filter early, index carefully, avoid N+1 access, review plans, paginate large results, and measure with realistic data.
 

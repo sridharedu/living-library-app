@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A digital signature uses a private key to prove integrity and origin, and a public key to verify it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Digital signatures** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. A digital signature uses a private key to prove integrity and origin, and a public key to verify it.
 

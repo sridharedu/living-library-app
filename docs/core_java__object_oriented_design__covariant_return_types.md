@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An overriding method may return a more specific reference type than the parent method. This improves type precision without breaking polymorphism.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Covariant return types** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. An overriding method may return a more specific reference type than the parent method. This improves type precision without breaking polymorphism.
 

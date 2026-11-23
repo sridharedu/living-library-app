@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> max.poll.interval.ms is the longest allowed time between poll calls before the consumer is considered failed and partitions are reassigned.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Max poll interval** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. max.poll.interval.ms is the longest allowed time between poll calls before the consumer is considered failed and partitions are reassigned.
 

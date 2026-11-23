@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Security Hub aggregates security findings and evaluates accounts against security standards and controls.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Security Hub** serves as a foundational component within *Security* in the broader **AWS** ecosystem. AWS Security Hub aggregates security findings and evaluates accounts against security standards and controls.
 

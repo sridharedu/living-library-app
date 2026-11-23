@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Insecure deserialization lets untrusted data create dangerous object graphs or trigger code paths. Use safe formats and strict type control.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Insecure deserialization** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Insecure deserialization lets untrusted data create dangerous object graphs or trigger code paths. Use safe formats and strict type control.
 

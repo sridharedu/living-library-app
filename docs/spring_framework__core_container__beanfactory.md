@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> BeanFactory is Spring's basic dependency-injection container. ApplicationContext builds on it with richer enterprise features.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **BeanFactory** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. BeanFactory is Spring's basic dependency-injection container. ApplicationContext builds on it with richer enterprise features.
 

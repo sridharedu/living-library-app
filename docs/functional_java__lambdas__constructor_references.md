@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Constructor references such as ArrayList::new create objects through a compatible functional interface. They are concise alternatives to simple construction lambdas.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Constructor references** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. Constructor references such as ArrayList::new create objects through a compatible functional interface. They are concise alternatives to simple construction lambdas.
 

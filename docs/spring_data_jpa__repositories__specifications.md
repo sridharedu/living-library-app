@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Specifications build reusable, composable JPA predicates for dynamic queries through the Criteria API.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Specifications** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Specifications build reusable, composable JPA predicates for dynamic queries through the Criteria API.
 

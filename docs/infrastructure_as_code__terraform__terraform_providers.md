@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Terraform providers are plugins that translate Terraform configuration into API operations for cloud platforms, SaaS tools, and other systems.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Terraform providers** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Terraform providers are plugins that translate Terraform configuration into API operations for cloud platforms, SaaS tools, and other systems.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS provides managed relational, key-value, document, graph, time-series, cache, and warehouse databases. Selection should follow access patterns and consistency requirements.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Database Services** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS provides managed relational, key-value, document, graph, time-series, cache, and warehouse databases. Selection should follow access patterns and consistency requirements.
 

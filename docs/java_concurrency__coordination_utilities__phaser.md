@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Phaser coordinates reusable multi-phase work with dynamically registering and deregistering parties.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Phaser** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. Phaser coordinates reusable multi-phase work with dynamically registering and deregistering parties.
 

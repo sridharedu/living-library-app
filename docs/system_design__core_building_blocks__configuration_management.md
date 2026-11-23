@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Configuration management keeps environment-specific settings controlled, versioned, validated, and separate from application binaries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Configuration management** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Configuration management keeps environment-specific settings controlled, versioned, validated, and separate from application binaries.
 

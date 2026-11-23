@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Collector is the contract behind collect operations. It describes how to create a result container, add elements, combine partial results, and optionally transform the final result.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collector Interface** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Collector is the contract behind collect operations. It describes how to create a result container, add elements, combine partial results, and optionally transform the final result.
 

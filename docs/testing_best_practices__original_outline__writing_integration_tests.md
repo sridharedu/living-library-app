@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Integration tests should exercise realistic boundaries, manage test data carefully, isolate runs, and clean up resources afterward.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Writing Integration Tests** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Integration tests should exercise realistic boundaries, manage test data carefully, isolate runs, and clean up resources afterward.
 

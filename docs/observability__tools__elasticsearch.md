@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Elasticsearch is a distributed search and analytics engine commonly used for logs, text search, and operational data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Elasticsearch** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Elasticsearch is a distributed search and analytics engine commonly used for logs, text search, and operational data.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Advice is the code executed before, after, around, or when a matched method throws an exception. Around advice is the most powerful because it controls whether and how the method proceeds.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Advice** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Advice is the code executed before, after, around, or when a matched method throws an exception. Around advice is the most powerful because it controls whether and how the method proceeds.
 

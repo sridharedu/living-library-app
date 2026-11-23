@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Rebalancing redistributes data or work when nodes, capacity, or traffic patterns change.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Rebalancing** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Rebalancing redistributes data or work when nodes, capacity, or traffic patterns change.
 

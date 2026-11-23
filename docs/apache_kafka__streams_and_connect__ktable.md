@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A KTable represents the latest value for each key as a continuously updated changelog-backed table.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **KTable** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. A KTable represents the latest value for each key as a continuously updated changelog-backed table.
 

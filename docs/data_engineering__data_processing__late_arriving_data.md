@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Late-arriving data reaches the system after its expected event-time window and requires update, correction, or discard policies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Late arriving data** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. Late-arriving data reaches the system after its expected event-time window and requires update, correction, or discard policies.
 

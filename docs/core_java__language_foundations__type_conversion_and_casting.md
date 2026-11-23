@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Widening conversions are usually automatic, while narrowing conversions require an explicit cast and may lose information.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Type conversion and casting** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Widening conversions are usually automatic, while narrowing conversions require an explicit cast and may lose information.
 

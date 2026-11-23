@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Stack is a legacy LIFO collection extending Vector. ArrayDeque is generally faster and cleaner for stack behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Stack class** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. Stack is a legacy LIFO collection extending Vector. ArrayDeque is generally faster and cleaner for stack behavior.
 

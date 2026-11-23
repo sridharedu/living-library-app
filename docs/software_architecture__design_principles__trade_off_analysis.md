@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Trade-off analysis compares architecture options against competing qualities such as latency, cost, consistency, complexity, and operability.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Trade-off analysis** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Trade-off analysis compares architecture options against competing qualities such as latency, cost, consistency, complexity, and operability.
 

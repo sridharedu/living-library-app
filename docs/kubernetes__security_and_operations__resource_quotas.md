@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ResourceQuota limits aggregate resource consumption and object counts within a namespace.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Resource quotas** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. ResourceQuota limits aggregate resource consumption and object counts within a namespace.
 

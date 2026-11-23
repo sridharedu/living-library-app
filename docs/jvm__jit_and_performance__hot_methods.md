@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hot methods are methods executed frequently enough for the JVM to prioritize compilation and optimization.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hot methods** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Hot methods are methods executed frequently enough for the JVM to prioritize compilation and optimization.
 

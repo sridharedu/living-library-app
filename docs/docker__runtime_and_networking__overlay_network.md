@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Overlay networks connect containers across multiple Docker hosts, commonly in orchestrated environments.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Overlay network** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Overlay networks connect containers across multiple Docker hosts, commonly in orchestrated environments.
 

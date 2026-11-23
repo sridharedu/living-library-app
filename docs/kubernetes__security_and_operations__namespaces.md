@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Namespaces partition names and policies within a cluster and help organize teams, environments, and quotas.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Namespaces** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Namespaces partition names and policies within a cluster and help organize teams, environments, and quotas.
 

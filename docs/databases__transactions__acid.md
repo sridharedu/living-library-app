@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ACID means Atomicity, Consistency, Isolation, and Durability, the core guarantees of reliable transactions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ACID** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. ACID means Atomicity, Consistency, Isolation, and Durability, the core guarantees of reliable transactions.
 

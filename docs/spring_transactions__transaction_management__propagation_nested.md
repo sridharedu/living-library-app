@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> NESTED creates a savepoint inside the existing transaction when supported, allowing partial rollback while keeping the outer transaction active.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Propagation NESTED** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. NESTED creates a savepoint inside the existing transaction when supported, allowing partial rollback while keeping the outer transaction active.
 

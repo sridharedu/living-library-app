@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An index scan traverses an index to locate matching rows, sometimes followed by lookups into the base table.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Index scans** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. An index scan traverses an index to locate matching rows, sometimes followed by lookups into the base table.
 

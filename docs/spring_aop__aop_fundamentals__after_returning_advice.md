@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> After-returning advice runs only when the target method completes successfully.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **After returning advice** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. After-returning advice runs only when the target method completes successfully.
 

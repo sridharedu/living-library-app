@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Security headers reduce browser attacks through controls such as Content-Security-Policy, HSTS, X-Content-Type-Options, and frame restrictions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Security headers** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Security headers reduce browser attacks through controls such as Content-Security-Policy, HSTS, X-Content-Type-Options, and frame restrictions.
 

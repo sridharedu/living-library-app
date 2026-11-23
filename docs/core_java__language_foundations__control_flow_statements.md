@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java control flow includes if, switch, loops, break, continue, and return. These determine which statements execute and in what order.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Control flow statements** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Java control flow includes if, switch, loops, break, continue, and return. These determine which statements execute and in what order.
 

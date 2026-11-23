@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Autocomplete serves low-latency prefix suggestions using tries, indexes, ranking signals, caching, popularity updates, and typo handling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a search autocomplete** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. Autocomplete serves low-latency prefix suggestions using tries, indexes, ranking signals, caching, popularity updates, and typo handling.
 

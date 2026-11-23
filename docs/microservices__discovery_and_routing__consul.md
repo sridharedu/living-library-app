@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Consul provides service discovery, health checks, key-value configuration, and service-mesh capabilities.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Consul** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Consul provides service discovery, health checks, key-value configuration, and service-mesh capabilities.
 

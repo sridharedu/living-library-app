@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Elasticity automatically adds or removes resources as demand changes, ideally matching capacity closely to current load.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Elasticity** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Elasticity automatically adds or removes resources as demand changes, ideally matching capacity closely to current load.
 

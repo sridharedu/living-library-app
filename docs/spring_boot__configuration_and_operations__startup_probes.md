@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A startup probe checks whether an application has completed initialization. Until it succeeds, liveness failures should not restart a slow-starting service.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Startup probes** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. A startup probe checks whether an application has completed initialization. Until it succeeds, liveness failures should not restart a slow-starting service.
 

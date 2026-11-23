@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS best practices emphasize least privilege, automation, observability, fault isolation, backup, encryption, tagging, cost ownership, and designing for failure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Best Practices in AWS** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS best practices emphasize least privilege, automation, observability, fault isolation, backup, encryption, tagging, cost ownership, and designing for failure.
 

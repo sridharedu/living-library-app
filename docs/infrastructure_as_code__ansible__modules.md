@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ansible modules perform specific operations such as package installation, file management, service control, or cloud provisioning.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Modules** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Ansible modules perform specific operations such as package installation, file management, service control, or cloud provisioning.
 

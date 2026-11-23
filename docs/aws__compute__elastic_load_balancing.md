@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Elastic Load Balancing distributes traffic across healthy targets and integrates with Auto Scaling, TLS, health checks, and multiple protocols.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Elastic Load Balancing** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. Elastic Load Balancing distributes traffic across healthy targets and integrates with Auto Scaling, TLS, health checks, and multiple protocols.
 

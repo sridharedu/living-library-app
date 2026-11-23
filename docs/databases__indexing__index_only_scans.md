@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An index-only scan returns query results entirely from the index when visibility rules and required columns allow it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Index-only scans** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. An index-only scan returns query results entirely from the index when visibility rules and required columns allow it.
 

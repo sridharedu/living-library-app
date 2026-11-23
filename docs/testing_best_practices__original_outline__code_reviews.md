@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Code reviews improve correctness, design, security, and shared understanding. Effective reviews focus on risk and intent, not personal preference.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Code Reviews** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Code reviews improve correctness, design, security, and shared understanding. Effective reviews focus on risk and intent, not personal preference.
 

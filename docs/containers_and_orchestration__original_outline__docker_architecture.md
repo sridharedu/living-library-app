@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Docker uses a client-server design. The client sends commands to the Docker daemon, which manages images, containers, networks, and volumes through a container runtime.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker Architecture** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Docker uses a client-server design. The client sends commands to the Docker daemon, which manages images, containers, networks, and volumes through a container runtime.
 

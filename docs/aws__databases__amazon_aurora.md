@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon Aurora is an AWS-managed relational database compatible with MySQL and PostgreSQL, using distributed shared storage and managed replication.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon Aurora** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. Amazon Aurora is an AWS-managed relational database compatible with MySQL and PostgreSQL, using distributed shared storage and managed replication.
 

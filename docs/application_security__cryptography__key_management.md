@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Key management covers generation, storage, access control, rotation, backup, revocation, and destruction of cryptographic keys.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Key management** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Key management covers generation, storage, access control, rotation, backup, revocation, and destruction of cryptographic keys.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Helm release is one installed instance of a chart with its own values and revision history.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helm releases** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. A Helm release is one installed instance of a chart with its own values and revision history.
 

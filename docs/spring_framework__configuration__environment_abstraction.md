@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring's Environment exposes active profiles and resolved property values across multiple property sources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Environment abstraction** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Spring's Environment exposes active profiles and resolved property values across multiple property sources.
 

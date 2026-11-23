@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Annotations attach metadata to code for compilers, frameworks, tools, or runtime reflection. They do not execute behavior by themselves.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Annotations** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Annotations attach metadata to code for compilers, frameworks, tools, or runtime reflection. They do not execute behavior by themselves.
 

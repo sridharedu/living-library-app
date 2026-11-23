@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Handlers are tasks triggered by notifications and usually run once at the end of a play, commonly to restart changed services.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Handlers** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Handlers are tasks triggered by notifications and usually run once at the end of a play, commonly to restart changed services.
 

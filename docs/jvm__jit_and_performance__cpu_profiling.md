@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CPU profiling identifies where execution time is spent. Sampling profilers are usually safer for production than heavy instrumentation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CPU profiling** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. CPU profiling identifies where execution time is spent. Sampling profilers are usually safer for production than heavy instrumentation.
 

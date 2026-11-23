@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A work-stealing pool gives each worker a deque and lets idle workers steal tasks from others, improving load balancing for recursive workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Work-stealing pool** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. A work-stealing pool gives each worker a deque and lets idle workers steal tasks from others, improving load balancing for recursive workloads.
 

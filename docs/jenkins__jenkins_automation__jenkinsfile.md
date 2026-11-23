@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Jenkinsfile stores pipeline logic in version control so build and delivery steps can be reviewed, reproduced, and changed with the application.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Jenkinsfile** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. A Jenkinsfile stores pipeline logic in version control so build and delivery steps can be reviewed, reproduced, and changed with the application.
 

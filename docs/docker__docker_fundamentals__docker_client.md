@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Docker client sends commands to a Docker daemon through a local or remote API.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker client** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. The Docker client sends commands to a Docker daemon through a local or remote API.
 

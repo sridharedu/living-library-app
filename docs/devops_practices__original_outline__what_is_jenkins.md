@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Jenkins is an open-source automation server used to build, test, and deploy software. It turns delivery steps into repeatable jobs or pipelines triggered by code changes or schedules.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Jenkins?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Jenkins is an open-source automation server used to build, test, and deploy software. It turns delivery steps into repeatable jobs or pipelines triggered by code changes or schedules.
 

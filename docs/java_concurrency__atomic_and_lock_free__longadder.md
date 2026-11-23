@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> LongAdder spreads updates across internal cells and combines them when read. It offers high-throughput counters under contention.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **LongAdder** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. LongAdder spreads updates across internal cells and combines them when read. It offers high-throughput counters under contention.
 

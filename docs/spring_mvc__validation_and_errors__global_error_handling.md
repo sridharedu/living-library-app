@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Global error handling centralizes exception translation, logging, HTTP status mapping, and consistent response formatting.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Global error handling** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. Global error handling centralizes exception translation, logging, HTTP status mapping, and consistent response formatting.
 

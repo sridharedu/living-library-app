@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> merge inserts a value for a missing key or combines it with the existing value through a remapping function.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Map.merge** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. merge inserts a value for a missing key or combines it with the existing value through a remapping function.
 

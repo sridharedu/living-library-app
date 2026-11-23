@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Failure detectors infer whether nodes are unavailable using heartbeats, timeouts, or suspicion levels, but cannot be perfectly accurate in asynchronous networks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Failure detectors** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Failure detectors infer whether nodes are unavailable using heartbeats, timeouts, or suspicion levels, but cannot be perfectly accurate in asynchronous networks.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Fargate runs ECS or EKS containers without customers managing worker servers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Fargate** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. AWS Fargate runs ECS or EKS containers without customers managing worker servers.
 

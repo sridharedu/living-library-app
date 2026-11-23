@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Load balancing distributes requests across healthy instances using algorithms such as round robin, least connections, hashing, or weighted routing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Load balancing** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Load balancing distributes requests across healthy instances using algorithms such as round robin, least connections, hashing, or weighted routing.
 

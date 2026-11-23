@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> count returns the number of elements in the stream as a long.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **count** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. count returns the number of elements in the stream as a long.
 

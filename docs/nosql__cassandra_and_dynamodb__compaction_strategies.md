@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cassandra compaction merges SSTables, removes obsolete data, and is tuned for write, read, or time-series patterns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Compaction strategies** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Cassandra compaction merges SSTables, removes obsolete data, and is tuned for write, read, or time-series patterns.
 

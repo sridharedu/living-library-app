@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multi-primary replication allows writes on multiple nodes and therefore requires conflict detection and resolution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Multi-primary replication** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Multi-primary replication allows writes on multiple nodes and therefore requires conflict detection and resolution.
 

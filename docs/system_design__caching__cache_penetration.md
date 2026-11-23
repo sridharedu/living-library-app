@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cache penetration happens when repeated requests target missing data and bypass the cache every time. Negative caching or validation can reduce it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cache penetration** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. Cache penetration happens when repeated requests target missing data and bypass the cache every time. Negative caching or validation can reduce it.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Asynchronous replication acknowledges writes before replicas catch up. It reduces latency but allows replication lag and possible data loss during failover.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Asynchronous Replication** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Asynchronous replication acknowledges writes before replicas catch up. It reduces latency but allows replication lag and possible data loss during failover.
 

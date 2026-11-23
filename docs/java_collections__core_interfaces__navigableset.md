@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> NavigableSet extends SortedSet with closest-match operations such as lower, floor, ceiling, and higher.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **NavigableSet** serves as a foundational component within *Core Interfaces* in the broader **Java Collections** ecosystem. NavigableSet extends SortedSet with closest-match operations such as lower, floor, ceiling, and higher.
 

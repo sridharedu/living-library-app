@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IaC improves consistency, speed, auditability, disaster recovery, and collaboration. It also reduces configuration drift and enables repeatable environment creation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **IaC Benefits** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. IaC improves consistency, speed, auditability, disaster recovery, and collaboration. It also reduces configuration drift and enables repeatable environment creation.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pipeline as code stores build and deployment workflows in version control so they can be reviewed, tested, and reproduced.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pipeline as code** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Pipeline as code stores build and deployment workflows in version control so they can be reviewed, tested, and reproduced.
 

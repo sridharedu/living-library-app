@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The scheduler assigns unscheduled Pods to nodes based on resources, constraints, affinity, taints, topology, and policy. Kubelet then starts the assigned workload.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kubernetes Scheduling** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. The scheduler assigns unscheduled Pods to nodes based on resources, constraints, affinity, taints, topology, and policy. Kubelet then starts the assigned workload.
 

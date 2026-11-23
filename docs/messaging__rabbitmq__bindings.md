@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A binding connects an exchange to a queue and may include a routing rule.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bindings** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. A binding connects an exchange to a queue and may include a routing rule.
 

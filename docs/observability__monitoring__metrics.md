@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Metrics are numeric time-series measurements such as latency, error rate, throughput, CPU, or queue depth.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Metrics** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Metrics are numeric time-series measurements such as latency, error rate, throughput, CPU, or queue depth.
 

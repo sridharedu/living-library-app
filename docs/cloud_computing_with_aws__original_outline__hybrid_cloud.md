@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hybrid cloud connects private infrastructure with public cloud services. It supports gradual migration and regulatory needs but adds networking, identity, governance, and operational complexity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hybrid Cloud** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Hybrid cloud connects private infrastructure with public cloud services. It supports gradual migration and regulatory needs but adds networking, identity, governance, and operational complexity.
 

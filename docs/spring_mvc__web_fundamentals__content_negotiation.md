@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Content negotiation selects the response representation, such as JSON or XML, based on request headers and server capabilities.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Content negotiation** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. Content negotiation selects the response representation, such as JSON or XML, based on request headers and server capabilities.
 

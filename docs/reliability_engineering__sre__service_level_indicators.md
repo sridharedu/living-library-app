@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A service level indicator is a concrete measurement of service behavior, such as success ratio, latency percentile, or freshness.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service level indicators** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. A service level indicator is a concrete measurement of service behavior, such as success ratio, latency percentile, or freshness.
 

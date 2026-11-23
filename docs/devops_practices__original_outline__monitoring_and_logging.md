@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Monitoring tracks system health through metrics and alerts, while logging records detailed events and context. Together they support detection, diagnosis, and operational learning.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Monitoring and Logging** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Monitoring tracks system health through metrics and alerts, while logging records detailed events and context. Together they support detection, diagnosis, and operational learning.
 

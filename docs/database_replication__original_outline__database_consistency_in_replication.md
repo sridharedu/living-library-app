@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Replicated databases may provide strong, eventual, session, or read-after-write consistency. Applications must understand what a read from a replica can return.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Database Consistency in Replication** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Replicated databases may provide strong, eventual, session, or read-after-write consistency. Applications must understand what a read from a replica can return.
 

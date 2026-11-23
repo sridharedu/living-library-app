@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> NoSQL systems may offer strong, eventual, causal, session, or tunable consistency depending on replication and read-write settings.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **NoSQL consistency models** serves as a foundational component within *NoSQL Fundamentals* in the broader **NoSQL** ecosystem. NoSQL systems may offer strong, eventual, causal, session, or tunable consistency depending on replication and read-write settings.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A custom starter packages reusable dependencies, auto-configuration, metadata, and defaults for organization-specific capabilities.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Custom starter** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. A custom starter packages reusable dependencies, auto-configuration, metadata, and defaults for organization-specific capabilities.
 

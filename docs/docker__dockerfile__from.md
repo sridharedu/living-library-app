@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> FROM selects the base image for a Docker build stage.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **FROM** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. FROM selects the base image for a Docker build stage.
 

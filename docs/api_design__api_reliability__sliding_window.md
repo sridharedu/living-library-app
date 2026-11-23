@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Sliding-window limiting measures activity over a moving time interval for smoother and more accurate enforcement.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sliding window** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Sliding-window limiting measures activity over a moving time interval for smoother and more accurate enforcement.
 

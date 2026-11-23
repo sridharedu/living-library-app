@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hash sharding distributes rows using a hash of the shard key, usually improving balance but complicating range access.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hash sharding** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Hash sharding distributes rows using a hash of the shard key, usually improving balance but complicating range access.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Secrets management securely stores, distributes, rotates, audits, and revokes credentials, keys, and tokens.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Secrets management** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Secrets management securely stores, distributes, rotates, audits, and revokes credentials, keys, and tokens.
 

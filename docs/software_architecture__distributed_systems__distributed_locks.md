@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A distributed lock coordinates exclusive access across processes. Correct designs require leases, fencing tokens, and failure handling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Distributed locks** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. A distributed lock coordinates exclusive access across processes. Correct designs require leases, fencing tokens, and failure handling.
 

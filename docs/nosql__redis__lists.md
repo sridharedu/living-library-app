@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis lists are linked sequences supporting pushes, pops, ranges, and blocking queue operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lists** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis lists are linked sequences supporting pushes, pops, ranges, and blocking queue operations.
 

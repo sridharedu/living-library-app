@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Deployment pipelines move a verified artifact through environments using automated checks, approvals, and rollout strategies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Deployment pipelines** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Deployment pipelines move a verified artifact through environments using automated checks, approvals, and rollout strategies.
 

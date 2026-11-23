@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @RequestParam binds a query parameter or form value to a controller method parameter.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RequestParam** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @RequestParam binds a query parameter or form value to a controller method parameter.
 

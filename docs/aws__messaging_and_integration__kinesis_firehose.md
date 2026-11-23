@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kinesis Data Firehose delivers streaming data to destinations such as S3, Redshift, OpenSearch, and third-party platforms with minimal management.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kinesis Firehose** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. Kinesis Data Firehose delivers streaming data to destinations such as S3, Redshift, OpenSearch, and third-party platforms with minimal management.
 

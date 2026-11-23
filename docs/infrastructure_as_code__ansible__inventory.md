@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An Ansible inventory defines managed hosts and groups along with connection details and variables.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Inventory** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. An Ansible inventory defines managed hosts and groups along with connection details and variables.
 

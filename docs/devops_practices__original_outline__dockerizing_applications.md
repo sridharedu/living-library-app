@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Dockerizing means creating an image that contains the application and required runtime dependencies. A good image is small, secure, deterministic, and configurable at runtime.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Dockerizing Applications** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Dockerizing means creating an image that contains the application and required runtime dependencies. A good image is small, secure, deterministic, and configurable at runtime.
 

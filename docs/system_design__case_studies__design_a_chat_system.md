@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A chat system needs low-latency bidirectional communication, message ordering, durable history, presence, fanout, offline delivery, and scalable connection management.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a chat system** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A chat system needs low-latency bidirectional communication, message ordering, durable history, presence, fanout, offline delivery, and scalable connection management.
 

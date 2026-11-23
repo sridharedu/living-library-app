@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Time to live defines how long a cached or stored item remains valid before expiring.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **TTL** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. Time to live defines how long a cached or stored item remains valid before expiring.
 

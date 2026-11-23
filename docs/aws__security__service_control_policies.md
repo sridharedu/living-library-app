@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Service control policies define permission guardrails for accounts or organizational units in AWS Organizations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service control policies** serves as a foundational component within *Security* in the broader **AWS** ecosystem. Service control policies define permission guardrails for accounts or organizational units in AWS Organizations.
 

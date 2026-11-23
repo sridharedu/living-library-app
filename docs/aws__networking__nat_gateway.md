@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A NAT Gateway lets resources in private subnets initiate outbound internet connections without accepting unsolicited inbound internet traffic.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **NAT Gateway** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. A NAT Gateway lets resources in private subnets initiate outbound internet connections without accepting unsolicited inbound internet traffic.
 

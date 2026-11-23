@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Test-driven development follows Red, Green, Refactor: write a failing test, implement the minimum behavior, then improve the design.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Test-driven development** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Test-driven development follows Red, Green, Refactor: write a failing test, implement the minimum behavior, then improve the design.
 

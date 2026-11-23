@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CMD provides the default command or arguments used when a container starts and can be overridden.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CMD** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. CMD provides the default command or arguments used when a container starts and can be overridden.
 

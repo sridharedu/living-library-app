@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Token bucket adds tokens at a steady rate and allows bursts up to the bucket capacity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Token bucket** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Token bucket adds tokens at a steady rate and allows bursts up to the bucket capacity.
 

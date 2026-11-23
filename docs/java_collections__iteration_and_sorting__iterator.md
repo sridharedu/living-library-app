@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Iterator traverses a collection using hasNext and next, and may support remove for the current element.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Iterator** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. Iterator traverses a collection using hasNext and next, and may support remove for the current element.
 

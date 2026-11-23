@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Track heap growth, capture dumps near failure, compare retained objects, and follow GC-root paths to the code retaining unused data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Analyzing memory leaks** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. Track heap growth, capture dumps near failure, compare retained objects, and follow GC-root paths to the code retaining unused data.
 

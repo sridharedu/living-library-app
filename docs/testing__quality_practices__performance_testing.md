@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Performance testing measures response time, throughput, resource usage, and scalability under defined workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Performance testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Performance testing measures response time, throughput, resource usage, and scalability under defined workloads.
 

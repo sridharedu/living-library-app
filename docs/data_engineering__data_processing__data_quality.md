@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Data quality covers accuracy, completeness, consistency, freshness, validity, and uniqueness.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Data quality** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. Data quality covers accuracy, completeness, consistency, freshness, validity, and uniqueness.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Joins can be efficient when keys are indexed and result sets are selective. Poor join order, large intermediate results, or mismatched data types can be expensive.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Joins and Their Impact on Query Performance** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Joins can be efficient when keys are indexed and result sets are selective. Poor join order, large intermediate results, or mismatched data types can be expensive.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A permission boundary sets the maximum permissions an IAM user or role can receive from identity policies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Permission boundaries** serves as a foundational component within *Security* in the broader **AWS** ecosystem. A permission boundary sets the maximum permissions an IAM user or role can receive from identity policies.
 

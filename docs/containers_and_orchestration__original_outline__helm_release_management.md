@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Helm tracks each installed release and its revisions. Commands support listing, upgrading, rolling back, testing, and uninstalling releases.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helm Release Management** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Helm tracks each installed release and its revisions. Commands support listing, upgrading, rolling back, testing, and uninstalling releases.
 

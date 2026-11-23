@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> A consumer group shares topic partitions among members so each partition is processed by only one member at a time.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p style="color:#5B3A42; font-family:Georgia, 'Times New Roman', serif; font-weight:700; letter-spacing:0.01em;">
     A consumer group shares topic partitions among members so each partition is processed by only one member at a time.
   </p>

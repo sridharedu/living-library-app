@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Object storage keeps data as objects identified by keys and is optimized for durability, scale, and large unstructured content.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Object storage** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Object storage keeps data as objects identified by keys and is optimized for durability, scale, and large unstructured content.
 

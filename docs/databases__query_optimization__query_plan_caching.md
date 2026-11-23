@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Plan caching reuses compiled execution plans to reduce optimization overhead, but stale or parameter-sensitive plans can hurt performance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Query plan caching** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Plan caching reuses compiled execution plans to reduce optimization overhead, but stale or parameter-sensitive plans can hurt performance.
 

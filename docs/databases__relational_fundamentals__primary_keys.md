@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A primary key uniquely and non-nullably identifies each row in a table.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Primary keys** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. A primary key uniquely and non-nullably identifies each row in a table.
 

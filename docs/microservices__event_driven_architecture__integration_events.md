@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An integration event is a stable external message used to notify other services about a completed business fact.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Integration events** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. An integration event is a stable external message used to notify other services about a completed business fact.
 

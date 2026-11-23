@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Composite represents individual objects and groups through the same interface, enabling tree structures.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Composite** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Composite represents individual objects and groups through the same interface, enabling tree structures.
 

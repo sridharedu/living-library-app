@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A bean typically goes through instantiation, dependency injection, aware callbacks, post-processing, initialization, use, and destruction.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bean lifecycle** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. A bean typically goes through instantiation, dependency injection, aware callbacks, post-processing, initialization, use, and destruction.
 

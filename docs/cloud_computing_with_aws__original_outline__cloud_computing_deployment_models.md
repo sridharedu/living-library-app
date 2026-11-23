@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Deployment models describe where cloud resources run and who controls them. Public, private, hybrid, and multi-cloud approaches trade convenience, control, portability, and cost.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cloud Computing Deployment Models** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Deployment models describe where cloud resources run and who controls them. Public, private, hybrid, and multi-cloud approaches trade convenience, control, portability, and cost.
 

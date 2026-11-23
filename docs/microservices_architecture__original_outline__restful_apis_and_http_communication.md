@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RESTful APIs model resources using HTTP methods, status codes, headers, and representations. Good APIs are predictable, idempotent where appropriate, and backward compatible.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RESTful APIs and HTTP Communication** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. RESTful APIs model resources using HTTP methods, status codes, headers, and representations. Good APIs are predictable, idempotent where appropriate, and backward compatible.
 

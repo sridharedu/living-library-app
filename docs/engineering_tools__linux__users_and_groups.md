@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Linux users identify accounts and processes, while groups simplify shared access control.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Users and groups** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Linux users identify accounts and processes, while groups simplify shared access control.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Global Accelerator routes traffic through the AWS global network to healthy regional endpoints using static anycast IP addresses.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Global Accelerator** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. AWS Global Accelerator routes traffic through the AWS global network to healthy regional endpoints using static anycast IP addresses.
 

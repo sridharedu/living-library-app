@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Load testing evaluates system behavior at expected and peak traffic levels.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Load testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Load testing evaluates system behavior at expected and peak traffic levels.
 

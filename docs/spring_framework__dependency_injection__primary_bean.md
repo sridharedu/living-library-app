@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @Primary marks the preferred bean when several candidates match a dependency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Primary bean** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. @Primary marks the preferred bean when several candidates match a dependency.
 

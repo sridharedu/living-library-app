@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> PaaS manages the runtime platform, deployment environment, and much of the infrastructure. Developers focus on applications but accept platform constraints and less low-level control.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PaaS (Platform as a Service)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. PaaS manages the runtime platform, deployment environment, and much of the infrastructure. Developers focus on applications but accept platform constraints and less low-level control.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mockito can configure methods to throw exceptions so tests can verify failure paths and recovery behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mocking exceptions** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Mockito can configure methods to throw exceptions so tests can verify failure paths and recovery behavior.
 

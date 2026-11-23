@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS offers Application Load Balancer for HTTP routing, Network Load Balancer for high-performance TCP/UDP, and Gateway Load Balancer for virtual network appliances.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Types of Load Balancers** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS offers Application Load Balancer for HTTP routing, Network Load Balancer for high-performance TCP/UDP, and Gateway Load Balancer for virtual network appliances.
 

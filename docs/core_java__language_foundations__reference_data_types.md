@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Reference types include classes, arrays, interfaces, enums, and records. Variables store references to objects rather than the object data itself.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reference data types** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Reference types include classes, arrays, interfaces, enums, and records. Variables store references to objects rather than the object data itself.
 

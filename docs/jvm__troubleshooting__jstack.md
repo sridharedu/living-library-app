@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> jstack prints JVM thread stacks and can expose deadlocks, blocked threads, and current execution locations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **jstack** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. jstack prints JVM thread stacks and can expose deadlocks, blocked threads, and current execution locations.
 

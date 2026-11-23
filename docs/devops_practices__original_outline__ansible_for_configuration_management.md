@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ansible automates server configuration and application setup using agentless SSH or WinRM connections. It describes desired changes in readable YAML playbooks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Ansible for Configuration Management** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Ansible automates server configuration and application setup using agentless SSH or WinRM connections. It describes desired changes in readable YAML playbooks.
 

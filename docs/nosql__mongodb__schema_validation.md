@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> MongoDB schema validation enforces document structure and value rules using JSON Schema-like validators.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Schema validation** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. MongoDB schema validation enforces document structure and value rules using JSON Schema-like validators.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Boot can package web applications with embedded servers such as Tomcat, Jetty, or Undertow, removing the need for external deployment.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Embedded servers** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. Spring Boot can package web applications with embedded servers such as Tomcat, Jetty, or Undertow, removing the need for external deployment.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Modern JVMs detect container CPU and memory limits. Heap percentages, processor count, and native memory still require production validation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Container-aware JVM settings** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. Modern JVMs detect container CPU and memory limits. Heap percentages, processor count, and native memory still require production validation.
 

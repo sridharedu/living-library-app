@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Pod groups one or more tightly coupled containers that share networking, storage volumes, and lifecycle. Containers inside a Pod communicate through localhost.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is a Pod?** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Pod groups one or more tightly coupled containers that share networking, storage volumes, and lifecycle. Containers inside a Pod communicate through localhost.
 

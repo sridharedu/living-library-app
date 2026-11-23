@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Health Dashboard reports AWS events and account-specific service issues that may affect resources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Health Dashboard** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. AWS Health Dashboard reports AWS events and account-specific service issues that may affect resources.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> LEFT JOIN returns every left-side row and matching right-side rows, using nulls when no match exists.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **LEFT JOIN** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. LEFT JOIN returns every left-side row and matching right-side rows, using nulls when no match exists.
 

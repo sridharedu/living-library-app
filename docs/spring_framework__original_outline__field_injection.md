@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Field injection writes dependencies directly into fields through reflection. It is concise, but hides requirements, complicates plain unit tests, and should generally be avoided in production design.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Field Injection** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Field injection writes dependencies directly into fields through reflection. It is concise, but hides requirements, complicates plain unit tests, and should generally be avoided in production design.
 

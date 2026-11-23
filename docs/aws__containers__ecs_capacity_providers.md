@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Capacity providers connect ECS workloads to Fargate or EC2 capacity and define scaling and placement strategies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ECS capacity providers** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. Capacity providers connect ECS workloads to Fargate or EC2 capacity and define scaling and placement strategies.
 

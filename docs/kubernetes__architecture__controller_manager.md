@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The controller manager runs reconciliation loops that continuously move actual cluster state toward the desired state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Controller manager** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The controller manager runs reconciliation loops that continuously move actual cluster state toward the desired state.
 

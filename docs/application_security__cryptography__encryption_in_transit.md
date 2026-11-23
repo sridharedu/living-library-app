@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Encryption in transit protects data while it moves across networks, usually through TLS.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Encryption in transit** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Encryption in transit protects data while it moves across networks, usually through TLS.
 

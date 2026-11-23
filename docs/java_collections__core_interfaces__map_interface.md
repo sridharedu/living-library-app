@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Map stores key-value associations with unique keys. It is not a subtype of Collection.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Map interface** serves as a foundational component within *Core Interfaces* in the broader **Java Collections** ecosystem. Map stores key-value associations with unique keys. It is not a subtype of Collection.
 

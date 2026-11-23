@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A message channel connects producers and consumers. It may deliver messages directly, queue them, publish to many subscribers, or bridge external systems.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Message channels** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. A message channel connects producers and consumers. It may deliver messages directly, queue them, publish to many subscribers, or bridge external systems.
 

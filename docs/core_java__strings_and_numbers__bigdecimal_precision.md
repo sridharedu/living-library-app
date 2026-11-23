@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> BigDecimal represents decimal numbers exactly and is preferred for money. Construct it from strings and specify rounding explicitly.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **BigDecimal precision** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. BigDecimal represents decimal numbers exactly and is preferred for money. Construct it from strings and specify rounding explicitly.
 

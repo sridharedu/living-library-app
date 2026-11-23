@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CloudFormation provisions AWS infrastructure from declarative templates. It creates, updates, and deletes related resources as a managed stack.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS CloudFormation** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. CloudFormation provisions AWS infrastructure from declarative templates. It creates, updates, and deletes related resources as a managed stack.
 

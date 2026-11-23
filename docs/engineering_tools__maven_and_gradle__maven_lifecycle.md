@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Maven defines standard lifecycles such as clean, default, and site, each composed of ordered phases.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Maven lifecycle** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. Maven defines standard lifecycles such as clean, default, and site, each composed of ordered phases.
 

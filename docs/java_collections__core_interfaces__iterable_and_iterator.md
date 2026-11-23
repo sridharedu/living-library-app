@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Iterable provides iterator(), enabling enhanced for loops. Iterator traverses elements one at a time and may support safe removal.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Iterable and Iterator** serves as a foundational component within *Core Interfaces* in the broader **Java Collections** ecosystem. Iterable provides iterator(), enabling enhanced for loops. Iterator traverses elements one at a time and may support safe removal.
 

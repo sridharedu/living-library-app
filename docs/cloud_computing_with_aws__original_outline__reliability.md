@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Reliability means a workload can perform its function consistently and recover from failures. It relies on redundancy, tested recovery, scaling, and change management.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reliability** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Reliability means a workload can perform its function consistently and recover from failures. It relies on redundancy, tested recovery, scaling, and change management.
 

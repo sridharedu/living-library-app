@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The staging area, or index, records the exact content that will become the next commit.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Staging area** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. The staging area, or index, records the exact content that will become the next commit.
 

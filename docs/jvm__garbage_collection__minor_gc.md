@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Minor GC collects the young generation and is usually frequent and relatively short.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Minor GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Minor GC collects the young generation and is usually frequent and relatively short.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Microservices is an architecture where a system is split into independently deployable services aligned to business capabilities. Each service owns its logic, runtime, and usually its data boundary.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Microservices?** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Microservices is an architecture where a system is split into independently deployable services aligned to business capabilities. Each service owns its logic, runtime, and usually its data boundary.
 

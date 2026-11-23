@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS infrastructure is organized into Regions, Availability Zones, and edge locations. This structure supports fault isolation, low latency, and geographically distributed architectures.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AWS Global Infrastructure** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. AWS infrastructure is organized into Regions, Availability Zones, and edge locations. This structure supports fault isolation, low latency, and geographically distributed architectures.
 

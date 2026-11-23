@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> limit keeps at most the first n elements. On ordered parallel streams it can be expensive because encounter order must be preserved.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **limit** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. limit keeps at most the first n elements. On ordered parallel streams it can be expensive because encounter order must be preserved.
 

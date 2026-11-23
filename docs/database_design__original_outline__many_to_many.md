@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A many-to-many relationship uses a junction table containing foreign keys to both entities. The junction may also store relationship attributes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Many-to-Many** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. A many-to-many relationship uses a junction table containing foreign keys to both entities. The junction may also store relationship attributes.
 

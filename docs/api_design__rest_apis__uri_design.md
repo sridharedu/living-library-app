@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Good URIs are predictable, noun-based, hierarchical where useful, and free from implementation details.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **URI design** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. Good URIs are predictable, noun-based, hierarchical where useful, and free from implementation details.
 

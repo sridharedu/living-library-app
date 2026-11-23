@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A stateless service keeps no client-specific session state locally, making requests easy to route across interchangeable instances.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Stateless services** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. A stateless service keeps no client-specific session state locally, making requests easy to route across interchangeable instances.
 

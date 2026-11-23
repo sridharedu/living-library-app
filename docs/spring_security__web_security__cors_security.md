@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CORS should allow only trusted origins, methods, and headers. It is a browser policy and does not replace server-side authorization.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CORS security** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. CORS should allow only trusted origins, methods, and headers. It is a browser policy and does not replace server-side authorization.
 

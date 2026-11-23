@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An idempotent API produces the same intended result when the same request is repeated, usually through stable identifiers or idempotency keys.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Idempotent APIs** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. An idempotent API produces the same intended result when the same request is repeated, usually through stable identifiers or idempotency keys.
 

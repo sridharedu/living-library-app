@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Event ordering guarantees depend on the broker and partitioning model. Global ordering is expensive, so systems usually preserve order per key.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Event ordering** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event ordering guarantees depend on the broker and partitioning model. Global ordering is expensive, so systems usually preserve order per key.
 

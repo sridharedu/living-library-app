@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Key rotation replaces cryptographic keys on a schedule or after risk events while preserving access to existing protected data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Key rotation** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Key rotation replaces cryptographic keys on a schedule or after risk events while preserving access to existing protected data.
 

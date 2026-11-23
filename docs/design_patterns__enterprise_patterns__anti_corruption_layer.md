@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An anti-corruption layer translates between external models and the local domain model so outside concepts do not leak inward.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Anti-corruption layer** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. An anti-corruption layer translates between external models and the local domain model so outside concepts do not leak inward.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> NetworkPolicy resources define allowed Pod ingress and egress traffic when enforced by a compatible network plugin.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Network policies** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. NetworkPolicy resources define allowed Pod ingress and egress traffic when enforced by a compatible network plugin.
 

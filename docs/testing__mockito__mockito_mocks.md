@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mockito mocks are configurable test doubles used to simulate collaborators and verify selected interactions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mockito mocks** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Mockito mocks are configurable test doubles used to simulate collaborators and verify selected interactions.
 

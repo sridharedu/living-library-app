@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Eureka lets service instances register their location and discover other services dynamically. Clients query the registry instead of depending on fixed hostnames and ports.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Service Discovery with Eureka** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Eureka lets service instances register their location and discover other services dynamically. Clients query the registry instead of depending on fixed hostnames and ports.
 

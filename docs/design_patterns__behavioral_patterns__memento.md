@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Memento captures an object's state so it can later be restored without exposing internals.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Memento** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Memento captures an object's state so it can later be restored without exposing internals.
 

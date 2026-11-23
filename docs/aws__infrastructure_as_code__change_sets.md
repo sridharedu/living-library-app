@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A CloudFormation change set previews resource additions, modifications, and removals before an update is executed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Change sets** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. A CloudFormation change set previews resource additions, modifications, and removals before an update is executed.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> toString should provide concise diagnostic information without exposing secrets or producing unstable, excessively large output.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **toString best practices** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. toString should provide concise diagnostic information without exposing secrets or producing unstable, excessively large output.
 

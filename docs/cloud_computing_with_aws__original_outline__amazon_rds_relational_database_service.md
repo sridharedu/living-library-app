@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RDS manages relational database provisioning, backups, patching, monitoring, and optional high availability. Customers still own schema, queries, indexes, and application-level performance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon RDS (Relational Database Service)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. RDS manages relational database provisioning, backups, patching, monitoring, and optional high availability. Customers still own schema, queries, indexes, and application-level performance.
 

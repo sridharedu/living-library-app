@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mockito creates mocks, stubs responses, captures arguments, and verifies interactions. Use it mainly for external collaborators, not every object.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mocking with Mockito** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Mockito creates mocks, stubs responses, captures arguments, and verifies interactions. Use it mainly for external collaborators, not every object.
 

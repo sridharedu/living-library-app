@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spark supports broadcast, sort-merge, shuffle-hash, and nested-loop joins. Data size, partitioning, skew, and statistics influence the chosen strategy.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spark joins** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. Spark supports broadcast, sort-merge, shuffle-hash, and nested-loop joins. Data size, partitioning, skew, and statistics influence the chosen strategy.
 

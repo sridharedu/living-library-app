@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mutation testing deliberately changes production code and checks whether tests fail, revealing weak assertions and untested behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mutation testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Mutation testing deliberately changes production code and checks whether tests fail, revealing weak assertions and untested behavior.
 

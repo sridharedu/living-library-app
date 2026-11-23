@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An Application Load Balancer operates at Layer 7 and supports HTTP routing by host, path, headers, methods, and query values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Application Load Balancer** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. An Application Load Balancer operates at Layer 7 and supports HTTP routing by host, path, headers, methods, and query values.
 

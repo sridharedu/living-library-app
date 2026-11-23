@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A request enters the security filter chain, credentials are extracted, an AuthenticationManager delegates to a provider, and successful authentication is stored in the SecurityContext before authorization continues.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Security Authentication Flow** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. A request enters the security filter chain, credentials are extracted, an AuthenticationManager delegates to a provider, and successful authentication is stored in the SecurityContext before authorization continues.
 

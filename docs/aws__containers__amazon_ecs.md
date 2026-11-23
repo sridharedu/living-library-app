@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon ECS is AWS's managed container orchestrator for running tasks and services on EC2 or Fargate.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon ECS** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. Amazon ECS is AWS's managed container orchestrator for running tasks and services on EC2 or Fargate.
 

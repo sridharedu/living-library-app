@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cooperative rebalancing moves only necessary partitions incrementally, reducing stop-the-world disruption compared with eager rebalancing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cooperative rebalancing** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Cooperative rebalancing moves only necessary partitions incrementally, reducing stop-the-world disruption compared with eager rebalancing.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Sharding complicates joins, transactions, rebalancing, global indexes, backups, and operational troubleshooting. Poor shard keys can create severe hotspots.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Challenges of Data Sharding** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Sharding complicates joins, transactions, rebalancing, global indexes, backups, and operational troubleshooting. Poor shard keys can create severe hotspots.
 

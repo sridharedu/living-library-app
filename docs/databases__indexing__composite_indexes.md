@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A composite index contains multiple columns in a defined order. Queries benefit most when predicates match the leftmost prefix.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Composite indexes** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. A composite index contains multiple columns in a defined order. Queries benefit most when predicates match the leftmost prefix.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon EKS is a managed Kubernetes service where AWS operates the control plane and customers run workloads on nodes or Fargate.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon EKS** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. Amazon EKS is a managed Kubernetes service where AWS operates the control plane and customers run workloads on nodes or Fargate.
 

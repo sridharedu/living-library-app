@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Spring Boot microservice typically defines a bounded responsibility, API or event contract, service layer, persistence boundary, validation, observability, and independent deployment configuration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Creating Microservices with Spring Boot** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. A Spring Boot microservice typically defines a bounded responsibility, API or event contract, service layer, persistence boundary, validation, observability, and independent deployment configuration.
 

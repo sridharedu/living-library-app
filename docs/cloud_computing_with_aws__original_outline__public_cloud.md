@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A public cloud provides shared provider-managed infrastructure to many customers with logical isolation. It offers broad services, rapid provisioning, elasticity, and global reach.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Public Cloud** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A public cloud provides shared provider-managed infrastructure to many customers with logical isolation. It offers broad services, rapid provisioning, elasticity, and global reach.
 

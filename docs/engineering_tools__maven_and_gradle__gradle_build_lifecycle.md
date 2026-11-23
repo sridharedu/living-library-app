@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Gradle moves through initialization, configuration, and execution phases.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Gradle build lifecycle** serves as a foundational component within *Maven and Gradle* in the broader **Engineering Tools** ecosystem. Gradle moves through initialization, configuration, and execution phases.
 

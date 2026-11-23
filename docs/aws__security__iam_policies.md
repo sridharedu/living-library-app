@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IAM policies are JSON documents that allow or deny specific actions on specific resources under optional conditions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **IAM policies** serves as a foundational component within *Security* in the broader **AWS** ecosystem. IAM policies are JSON documents that allow or deny specific actions on specific resources under optional conditions.
 

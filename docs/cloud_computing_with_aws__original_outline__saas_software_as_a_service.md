@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SaaS delivers a complete application managed by the provider and accessed through a browser or API. Customers configure and use it rather than operate the underlying stack.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SaaS (Software as a Service)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. SaaS delivers a complete application managed by the provider and accessed through a browser or API. Customers configure and use it rather than operate the underlying stack.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Content Security Policy limits which scripts, styles, frames, and other resources a browser may load, reducing XSS impact.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Content Security Policy** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Content Security Policy limits which scripts, styles, frames, and other resources a browser may load, reducing XSS impact.
 

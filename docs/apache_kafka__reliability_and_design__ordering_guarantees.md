@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kafka preserves record order only within one partition, not across an entire topic.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Ordering guarantees** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Kafka preserves record order only within one partition, not across an entire topic.
 

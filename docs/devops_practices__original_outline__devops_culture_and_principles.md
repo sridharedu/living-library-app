@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DevOps values shared ownership, small changes, automation, observability, continuous learning, and reducing handoffs. Culture matters more than any individual tool.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DevOps Culture and Principles** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. DevOps values shared ownership, small changes, automation, observability, continuous learning, and reducing handoffs. Culture matters more than any individual tool.
 

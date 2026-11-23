@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Consistent hashing maps keys and nodes onto a ring so adding or removing nodes moves only a limited portion of keys.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Consistent hashing** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Consistent hashing maps keys and nodes onto a ring so adding or removing nodes moves only a limited portion of keys.
 

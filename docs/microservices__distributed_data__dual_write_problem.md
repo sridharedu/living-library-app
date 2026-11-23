@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The dual-write problem occurs when updating a database and publishing a message separately, allowing one operation to succeed while the other fails.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Dual-write problem** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. The dual-write problem occurs when updating a database and publishing a message separately, allowing one operation to succeed while the other fails.
 

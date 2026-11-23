@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A pointcut is an expression that selects the methods where advice should run. Good pointcuts are narrow, intention-revealing, and avoid accidentally intercepting unrelated code.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pointcut** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. A pointcut is an expression that selects the methods where advice should run. Good pointcuts are narrow, intention-revealing, and avoid accidentally intercepting unrelated code.
 

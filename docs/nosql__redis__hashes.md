@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis hashes store field-value pairs under one key and are useful for compact object-like data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hashes** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis hashes store field-value pairs under one key and are useful for compact object-like data.
 

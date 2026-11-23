@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> javac compiles .java source into .class bytecode. The JVM then loads, verifies, interprets, and JIT-compiles frequently executed code.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Java compilation process** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. javac compiles .java source into .class bytecode. The JVM then loads, verifies, interprets, and JIT-compiles frequently executed code.
 

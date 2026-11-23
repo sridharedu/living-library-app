@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ingress defines HTTP and HTTPS routing from outside the cluster to Services, based on host and path rules.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Ingress** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. Ingress defines HTTP and HTTPS routing from outside the cluster to Services, based on host and path rules.
 

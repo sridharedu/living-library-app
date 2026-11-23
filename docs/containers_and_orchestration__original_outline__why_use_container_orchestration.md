@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Orchestration is needed when applications span many containers and hosts. It handles scheduling, failover, service discovery, scaling, and controlled deployments.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Why Use Container Orchestration?** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Orchestration is needed when applications span many containers and hosts. It handles scheduling, failover, service discovery, scaling, and controlled deployments.
 

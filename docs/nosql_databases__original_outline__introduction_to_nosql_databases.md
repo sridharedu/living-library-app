@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> NoSQL databases use data models other than traditional relational tables. They are usually designed around specific access patterns and distributed scale.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Introduction to NoSQL Databases** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. NoSQL databases use data models other than traditional relational tables. They are usually designed around specific access patterns and distributed scale.
 

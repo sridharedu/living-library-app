@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Docker registry stores and distributes versioned container images.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker registries** serves as a foundational component within *Docker Fundamentals* in the broader **Docker** ecosystem. A Docker registry stores and distributes versioned container images.
 

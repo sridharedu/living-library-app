@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java configuration defines beans with @Configuration classes and @Bean methods instead of XML.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Java configuration** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. Java configuration defines beans with @Configuration classes and @Bean methods instead of XML.
 

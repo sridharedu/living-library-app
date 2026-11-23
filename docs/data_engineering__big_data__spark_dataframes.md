@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Spark DataFrame is a distributed table with named columns and a schema. Spark optimizes DataFrame operations through Catalyst and Tungsten.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spark DataFrames** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. A Spark DataFrame is a distributed table with named columns and a schema. Spark optimizes DataFrame operations through Catalyst and Tungsten.
 

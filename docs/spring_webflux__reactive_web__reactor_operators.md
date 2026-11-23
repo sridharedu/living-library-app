@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Reactor operators transform, combine, filter, retry, buffer, and observe Mono and Flux pipelines.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reactor operators** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Reactor operators transform, combine, filter, retry, buffer, and observe Mono and Flux pipelines.
 

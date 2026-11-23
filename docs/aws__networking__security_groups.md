@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Security groups are stateful virtual firewalls attached to network interfaces and define allowed inbound and outbound traffic.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Security groups** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. Security groups are stateful virtual firewalls attached to network interfaces and define allowed inbound and outbound traffic.
 

@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> In Apache Kafka, a message key is the value a producer sends along with a record to influence which partition receives it. In Java, the key is the first generic type in ProducerRecord&lt;K, V&gt;.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
  
   <p>
     In Apache Kafka, a <strong style="color:#8B3A3A;">message key</strong> is the value a producer sends along with a record to influence which partition receives it.

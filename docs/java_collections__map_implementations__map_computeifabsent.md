@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> computeIfAbsent calculates and inserts a value only when a key is missing. The mapping function should be short and side-effect free.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Map.computeIfAbsent** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. computeIfAbsent calculates and inserts a value only when a key is missing. The mapping function should be short and side-effect free.
 

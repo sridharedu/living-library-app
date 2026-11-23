@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Cloud provides patterns and integrations for distributed systems, including configuration, discovery, routing, resilience, messaging, and service-to-service concerns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Cloud** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Cloud provides patterns and integrations for distributed systems, including configuration, discovery, routing, resilience, messaging, and service-to-service concerns.
 

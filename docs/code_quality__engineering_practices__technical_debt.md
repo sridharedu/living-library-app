@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Technical debt is the future cost created by expedient design, code, or operational decisions that require later correction.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Technical debt** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Technical debt is the future cost created by expedient design, code, or operational decisions that require later correction.
 

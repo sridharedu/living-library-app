@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Docker provides tools to build images, run containers, manage networks and volumes, and publish images to registries. It popularized the modern container workflow.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker Basics** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Docker provides tools to build images, run containers, manage networks and volumes, and publish images to registries. It popularized the modern container workflow.
 

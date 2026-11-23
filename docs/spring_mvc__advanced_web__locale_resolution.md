@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Locale resolution determines the user's locale from headers, cookies, sessions, or custom rules for internationalized messages.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Locale resolution** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Locale resolution determines the user's locale from headers, cookies, sessions, or custom rules for internationalized messages.
 

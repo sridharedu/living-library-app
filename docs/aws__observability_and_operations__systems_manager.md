@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Systems Manager manages fleet inventory, patching, remote commands, automation, sessions, parameters, and operational data.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Systems Manager** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. AWS Systems Manager manages fleet inventory, patching, remote commands, automation, sessions, parameters, and operational data.
 

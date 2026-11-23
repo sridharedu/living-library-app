@@ -1,4 +1,9 @@
-﻿<section class="offline-rich-content">
+> **Core Definition:**  
+> Maven dependency scopes define where a dependency is visible and how long it participates in the Maven build lifecycle.
+
+---
+
+<section class="offline-rich-content">
   <p class="offline-rich-lead">
     <strong>Maven dependency scopes</strong> define where a dependency is visible
     and how long it participates in the Maven build lifecycle.

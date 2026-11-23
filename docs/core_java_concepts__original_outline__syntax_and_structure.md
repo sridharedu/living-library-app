@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lambda syntax is parameters, an arrow, and either an expression or block body. Parentheses, parameter types, and return statements may be omitted when Java can infer them safely.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Syntax and Structure** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Lambda syntax is parameters, an arrow, and either an expression or block body. Parentheses, parameter types, and return statements may be omitted when Java can infer them safely.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HashMap uses an array of buckets with linked nodes or balanced trees. Capacity, load factor, hashing, and resizing determine performance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **HashMap internals** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. HashMap uses an array of buckets with linked nodes or balanced trees. Capacity, load factor, hashing, and resizing determine performance.
 

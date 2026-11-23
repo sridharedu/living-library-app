@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Containers provide fast startup, portability, efficient resource use, reproducible environments, and easier deployment. They still require secure images and operational discipline.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Benefits of Containers** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Containers provide fast startup, portability, efficient resource use, reproducible environments, and easier deployment. They still require secure images and operational discipline.
 

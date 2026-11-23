@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IaaS provides virtual machines, networks, and storage while the customer manages the operating system and application stack. It offers flexibility with significant operational responsibility.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **IaaS (Infrastructure as a Service)** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. IaaS provides virtual machines, networks, and storage while the customer manages the operating system and application stack. It offers flexibility with significant operational responsibility.
 

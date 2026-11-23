@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Good test names state the behavior, scenario, and expected outcome rather than repeating implementation details.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Test naming** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Good test names state the behavior, scenario, and expected outcome rather than repeating implementation details.
 

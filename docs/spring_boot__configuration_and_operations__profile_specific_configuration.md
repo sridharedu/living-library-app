@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Files such as application-prod.yml add or override configuration when a matching profile is active.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Profile-specific configuration** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. Files such as application-prod.yml add or override configuration when a matching profile is active.
 

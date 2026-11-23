@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AtomicLong provides atomic operations for long values. Under extreme contention, LongAdder may scale better for counters.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AtomicLong** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. AtomicLong provides atomic operations for long values. Under extreme contention, LongAdder may scale better for counters.
 

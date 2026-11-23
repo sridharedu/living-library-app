@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A blameless culture examines systems, incentives, and conditions rather than punishing individuals for reasonable actions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Blameless culture** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. A blameless culture examines systems, incentives, and conditions rather than punishing individuals for reasonable actions.
 

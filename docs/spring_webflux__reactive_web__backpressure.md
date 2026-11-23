@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Backpressure lets a consumer control how much data a producer sends, preventing unbounded buffering and overload.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Backpressure** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Backpressure lets a consumer control how much data a producer sends, preventing unbounded buffering and overload.
 

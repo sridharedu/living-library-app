@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> High availability keeps a service accessible despite expected component failures through redundancy, health checks, and failover.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **High availability** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. High availability keeps a service accessible despite expected component failures through redundancy, health checks, and failover.
 

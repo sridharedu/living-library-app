@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AuthenticationProvider performs a specific authentication strategy and returns a fully authenticated token when successful.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AuthenticationProvider** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. AuthenticationProvider performs a specific authentication strategy and returns a fully authenticated token when successful.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Search engines build inverted indexes and ranking structures for fast full-text and analytical queries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Search engines** serves as a foundational component within *Core Building Blocks* in the broader **System Design** ecosystem. Search engines build inverted indexes and ranking structures for fast full-text and analytical queries.
 

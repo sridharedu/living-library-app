@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An order system coordinates cart, pricing, inventory, payment, fulfillment, state transitions, events, and compensation across failures.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design an order management system** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. An order system coordinates cart, pricing, inventory, payment, fulfillment, state transitions, events, and compensation across failures.
 

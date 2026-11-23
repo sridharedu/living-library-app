@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Argument matchers such as any(), eq(), and argThat() make stubbing and verification flexible. Use matchers consistently within one method call.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Using Argument Matchers in Mockito** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Argument matchers such as any(), eq(), and argThat() make stubbing and verification flexible. Use matchers consistently within one method call.
 

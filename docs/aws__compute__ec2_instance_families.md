@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> EC2 instance families are optimized for general purpose, compute, memory, storage, accelerated computing, or specialized workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **EC2 instance families** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. EC2 instance families are optimized for general purpose, compute, memory, storage, accelerated computing, or specialized workloads.
 

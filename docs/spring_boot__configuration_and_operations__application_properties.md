@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> application.properties stores flat key-value configuration using dotted names.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **application.properties** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. application.properties stores flat key-value configuration using dotted names.
 

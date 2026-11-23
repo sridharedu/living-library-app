@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The TDD cycle is Red, Green, Refactor: write a failing test, make it pass, then improve the design without changing behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **TDD Cycle** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. The TDD cycle is Red, Green, Refactor: write a failing test, make it pass, then improve the design without changing behavior.
 

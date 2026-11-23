@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Databases commonly use nested loop, hash, and merge joins. The optimizer chooses based on size, ordering, indexes, and estimates.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Join algorithms** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Databases commonly use nested loop, hash, and merge joins. The optimizer chooses based on size, ordering, indexes, and estimates.
 

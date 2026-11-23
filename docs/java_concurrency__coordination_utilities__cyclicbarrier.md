@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CyclicBarrier makes a fixed group of threads wait for one another at a common phase and can be reused.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CyclicBarrier** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. CyclicBarrier makes a fixed group of threads wait for one another at a common phase and can be reused.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Compose creates the required networks and volumes, then starts services according to configuration. Health checks are more reliable than startup order alone.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Running Multi-Container Environments** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Compose creates the required networks and volumes, then starts services according to configuration. Health checks are more reliable than startup order alone.
 

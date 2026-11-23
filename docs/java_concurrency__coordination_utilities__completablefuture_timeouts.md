@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> orTimeout completes exceptionally after a deadline, while completeOnTimeout supplies a fallback value when time expires.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CompletableFuture timeouts** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. orTimeout completes exceptionally after a deadline, while completeOnTimeout supplies a fallback value when time expires.
 

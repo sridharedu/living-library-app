@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A marker interface has no methods and signals a capability or category, such as Serializable. Annotations are often a modern alternative.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Marker interfaces** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. A marker interface has no methods and signals a capability or category, such as Serializable. Annotations are often a modern alternative.
 

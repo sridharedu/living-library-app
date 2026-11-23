@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Attribute-Based Access Control grants access using attributes of the user, resource, action, and environment.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ABAC** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. Attribute-Based Access Control grants access using attributes of the user, resource, action, and environment.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Data lineage records where data came from, how it changed, and where it was consumed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Data lineage** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. Data lineage records where data came from, how it changed, and where it was consumed.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Consistency returns the same latest value to clients, availability returns a response, and partition tolerance continues despite network splits. Trade-offs appear most clearly during partitions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Consistency vs Availability vs Partition Tolerance** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. Consistency returns the same latest value to clients, availability returns a response, and partition tolerance continues despite network splits. Trade-offs appear most clearly during partitions.
 

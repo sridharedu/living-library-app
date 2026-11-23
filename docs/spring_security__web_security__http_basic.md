@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HTTP Basic sends Base64-encoded credentials on every request and must always be protected by TLS.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **HTTP Basic** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. HTTP Basic sends Base64-encoded credentials on every request and must always be protected by TLS.
 

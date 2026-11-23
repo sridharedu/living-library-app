@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java is a strongly typed, object-oriented language compiled into bytecode that runs on the JVM. Its main strengths are portability, a rich ecosystem, automatic memory management, and mature tooling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Definition and Overview** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Java is a strongly typed, object-oriented language compiled into bytecode that runs on the JVM. Its main strengths are portability, a rich ecosystem, automatic memory management, and mature tooling.
 

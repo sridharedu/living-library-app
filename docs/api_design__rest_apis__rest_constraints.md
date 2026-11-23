@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> REST constraints include client-server separation, statelessness, cacheability, a uniform interface, layered systems, and optional code on demand.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **REST constraints** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. REST constraints include client-server separation, statelessness, cacheability, a uniform interface, layered systems, and optional code on demand.
 

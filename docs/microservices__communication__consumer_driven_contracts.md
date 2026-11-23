@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Consumer-driven contract testing captures consumer expectations and verifies that providers continue satisfying them.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Consumer-driven contracts** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. Consumer-driven contract testing captures consumer expectations and verifies that providers continue satisfying them.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @GetMapping is a specialized shortcut for handling HTTP GET requests.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **GetMapping** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @GetMapping is a specialized shortcut for handling HTTP GET requests.
 

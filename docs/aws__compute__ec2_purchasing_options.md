@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> EC2 purchasing options include On-Demand, Reserved Instances, Savings Plans, Spot Instances, Dedicated Hosts, and Capacity Reservations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **EC2 purchasing options** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. EC2 purchasing options include On-Demand, Reserved Instances, Savings Plans, Spot Instances, Dedicated Hosts, and Capacity Reservations.
 

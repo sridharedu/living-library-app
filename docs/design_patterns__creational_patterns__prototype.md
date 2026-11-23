@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Prototype creates new objects by copying an existing configured instance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Prototype** serves as a foundational component within *Creational Patterns* in the broader **Design Patterns** ecosystem. Prototype creates new objects by copying an existing configured instance.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ViewResolver maps a logical view name to a concrete rendering technology such as Thymeleaf, JSP, or another view implementation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ViewResolver** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. ViewResolver maps a logical view name to a concrete rendering technology such as Thymeleaf, JSP, or another view implementation.
 

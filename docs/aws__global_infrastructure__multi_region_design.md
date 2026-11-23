@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multi-region design deploys across geographic Regions for disaster recovery, global latency, or regulatory needs and requires explicit data-consistency choices.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Multi-region design** serves as a foundational component within *Global Infrastructure* in the broader **AWS** ecosystem. Multi-region design deploys across geographic Regions for disaster recovery, global latency, or regulatory needs and requires explicit data-consistency choices.
 

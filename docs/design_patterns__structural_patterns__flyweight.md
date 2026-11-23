@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Flyweight reduces memory by sharing immutable intrinsic state across many lightweight objects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Flyweight** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Flyweight reduces memory by sharing immutable intrinsic state across many lightweight objects.
 

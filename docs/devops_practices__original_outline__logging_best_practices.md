@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Use structured logs with timestamps, severity, correlation IDs, and meaningful context. Avoid secrets, reduce noise, centralize retention, and make logs searchable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Logging Best Practices** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Use structured logs with timestamps, severity, correlation IDs, and meaningful context. Avoid secrets, reduce noise, centralize retention, and make logs searchable.
 

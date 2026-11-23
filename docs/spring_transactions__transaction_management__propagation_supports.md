@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SUPPORTS joins a transaction when one exists but executes without a transaction otherwise.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Propagation SUPPORTS** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. SUPPORTS joins a transaction when one exists but executes without a transaction otherwise.
 

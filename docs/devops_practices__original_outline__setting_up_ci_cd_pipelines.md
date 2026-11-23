@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A CI/CD pipeline should define clear stages for checkout, build, test, security checks, packaging, and deployment. Keep it version-controlled, repeatable, fast, and fail early on meaningful errors.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Setting Up CI/CD Pipelines** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. A CI/CD pipeline should define clear stages for checkout, build, test, security checks, packaging, and deployment. Keep it version-controlled, repeatable, fast, and fail early on meaningful errors.
 

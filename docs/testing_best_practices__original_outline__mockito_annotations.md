@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @Mock creates mocks, @InjectMocks creates the class under test and injects mocks, and @Captor creates argument captors.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mockito Annotations** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. @Mock creates mocks, @InjectMocks creates the class under test and injects mocks, and @Captor creates argument captors.
 

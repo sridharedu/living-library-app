@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kafka producer retries resend records after transient failures. Use idempotence, bounded delivery time, and backoff so retries do not create duplicates or overload.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Producer retries** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. Kafka producer retries resend records after transient failures. Use idempotence, bounded delivery time, and backoff so retries do not create duplicates or overload.
 

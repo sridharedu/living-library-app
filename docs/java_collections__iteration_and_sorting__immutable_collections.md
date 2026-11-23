@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An immutable collection cannot change after creation and has no mutable backing state exposed. List.of and Set.of create compact immutable collections.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Immutable collections** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. An immutable collection cannot change after creation and has no mutable backing state exposed. List.of and Set.of create compact immutable collections.
 

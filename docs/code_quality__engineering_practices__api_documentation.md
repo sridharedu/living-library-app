@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> API documentation explains endpoints, parameters, schemas, authentication, errors, examples, limits, and compatibility expectations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **API documentation** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. API documentation explains endpoints, parameters, schemas, authentication, errors, examples, limits, and compatibility expectations.
 

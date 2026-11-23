@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> OpenTelemetry provides vendor-neutral APIs, SDKs, conventions, and collectors for metrics, logs, and traces.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **OpenTelemetry** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. OpenTelemetry provides vendor-neutral APIs, SDKs, conventions, and collectors for metrics, logs, and traces.
 

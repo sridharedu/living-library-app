@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A subnet is an IP range inside one Availability Zone. Public or private behavior is determined by routing, not by a special subnet type.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Subnets** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. A subnet is an IP range inside one Availability Zone. Public or private behavior is determined by routing, not by a special subnet type.
 

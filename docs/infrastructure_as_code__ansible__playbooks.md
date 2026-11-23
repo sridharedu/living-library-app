@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ansible playbooks are YAML files that apply ordered plays and tasks to selected hosts.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Playbooks** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Ansible playbooks are YAML files that apply ordered plays and tasks to selected hosts.
 

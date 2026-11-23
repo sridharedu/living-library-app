@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Failover promotes a healthy replica or standby when the active database becomes unavailable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Failover** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Failover promotes a healthy replica or standby when the active database becomes unavailable.
 

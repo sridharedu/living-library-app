@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Parquet is a columnar file format with compression, predicate pushdown, and efficient selective reads for analytics.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Parquet** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. Parquet is a columnar file format with compression, predicate pushdown, and efficient selective reads for analytics.
 

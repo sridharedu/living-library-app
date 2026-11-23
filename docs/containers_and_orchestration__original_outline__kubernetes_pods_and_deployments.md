@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Pod is the smallest deployable unit, while a Deployment manages replicated Pods and rolling updates. Applications usually create Deployments rather than standalone Pods.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kubernetes Pods and Deployments** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A Pod is the smallest deployable unit, while a Deployment manages replicated Pods and rolling updates. Applications usually create Deployments rather than standalone Pods.
 

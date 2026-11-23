@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Streams let you describe what result you want through operations such as filter, map, and collect. They reduce loop boilerplate but should remain readable and free of hidden side effects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Introduction to Java Streams** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Streams let you describe what result you want through operations such as filter, map, and collect. They reduce loop boilerplate but should remain readable and free of hidden side effects.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Comparator defines external or alternative ordering without changing the class. Comparators can be chained to sort by multiple fields and reversed for descending order.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Comparator Interface** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Comparator defines external or alternative ordering without changing the class. Comparators can be chained to sort by multiple fields and reversed for descending order.
 

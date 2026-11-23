@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kubernetes provides service discovery through stable Service names and cluster DNS while Pods can be created and replaced dynamically.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kubernetes service discovery** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Kubernetes provides service discovery through stable Service names and cluster DNS while Pods can be created and replaced dynamically.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A foreign key requires values to reference an existing row in another table. It protects referential integrity between related entities.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Foreign Key** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. A foreign key requires values to reference an existing row in another table. It protects referential integrity between related entities.
 

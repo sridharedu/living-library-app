@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java provides standard functional interfaces for testing values, transforming data, consuming inputs, supplying results, and combining values. Reusing them avoids unnecessary custom interfaces.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Common Functional Interfaces** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Java provides standard functional interfaces for testing values, transforming data, consuming inputs, supplying results, and combining values. Reusing them avoids unnecessary custom interfaces.
 

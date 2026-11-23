@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Batch processing handles bounded datasets on a schedule or when enough data accumulates.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Batch processing** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. Batch processing handles bounded datasets on a schedule or when enough data accumulates.
 

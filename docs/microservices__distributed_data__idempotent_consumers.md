@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An idempotent consumer safely handles the same message more than once by detecting duplicates or making repeated processing harmless.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Idempotent consumers** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. An idempotent consumer safely handles the same message more than once by detecting duplicates or making repeated processing harmless.
 

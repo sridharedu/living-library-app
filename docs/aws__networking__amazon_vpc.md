@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon VPC is a logically isolated network where customers define IP ranges, subnets, routing, gateways, and security controls.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon VPC** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. Amazon VPC is a logically isolated network where customers define IP ranges, subnets, routing, gateways, and security controls.
 

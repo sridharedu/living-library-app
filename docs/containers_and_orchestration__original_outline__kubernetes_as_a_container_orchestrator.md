@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kubernetes uses declarative APIs and controllers to manage containers at scale. Its ecosystem supports networking, storage, security, observability, and deployment automation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kubernetes as a Container Orchestrator** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Kubernetes uses declarative APIs and controllers to manage containers at scale. Its ecosystem supports networking, storage, security, observability, and deployment automation.
 

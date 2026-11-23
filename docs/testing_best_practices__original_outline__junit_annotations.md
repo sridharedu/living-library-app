@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> JUnit annotations such as @Test, @BeforeEach, @AfterEach, @ParameterizedTest, and @Disabled control test lifecycle and execution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JUnit Annotations** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. JUnit annotations such as @Test, @BeforeEach, @AfterEach, @ParameterizedTest, and @Disabled control test lifecycle and execution.
 

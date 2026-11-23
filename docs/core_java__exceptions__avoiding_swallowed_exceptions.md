@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Do not catch and ignore exceptions. Either handle them meaningfully, wrap and rethrow them, or let them propagate with enough context.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Avoiding swallowed exceptions** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Do not catch and ignore exceptions. Either handle them meaningfully, wrap and rethrow them, or let them propagate with enough context.
 

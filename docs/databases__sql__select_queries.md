@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SELECT retrieves data and may include filtering, projection, joins, grouping, ordering, and pagination.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SELECT queries** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. SELECT retrieves data and may include filtering, projection, joins, grouping, ordering, and pagination.
 

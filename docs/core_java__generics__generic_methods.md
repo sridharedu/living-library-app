@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A generic method declares its own type parameters before the return type. It can infer types independently of the containing class.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Generic methods** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. A generic method declares its own type parameters before the return type. It can infer types independently of the containing class.
 

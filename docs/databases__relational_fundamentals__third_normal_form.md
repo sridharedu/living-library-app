@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Third normal form requires second normal form and removes transitive dependency of non-key attributes on other non-key attributes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Third normal form** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Third normal form requires second normal form and removes transitive dependency of non-key attributes on other non-key attributes.
 

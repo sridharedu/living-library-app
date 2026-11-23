@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Logs are timestamped event records that provide detailed context about application and infrastructure behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Logs** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Logs are timestamped event records that provide detailed context about application and infrastructure behavior.
 

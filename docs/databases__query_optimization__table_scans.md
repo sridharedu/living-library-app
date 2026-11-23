@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A table scan reads most or all table pages. It can be efficient for small tables or queries returning a large percentage of rows.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Table scans** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. A table scan reads most or all table pages. It can be efficient for small tables or queries returning a large percentage of rows.
 

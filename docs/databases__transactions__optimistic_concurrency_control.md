@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Optimistic concurrency control allows concurrent work and detects conflicts at update time, commonly through version columns or compare-and-set conditions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Optimistic concurrency control** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. Optimistic concurrency control allows concurrent work and detects conflicts at update time, commonly through version columns or compare-and-set conditions.
 

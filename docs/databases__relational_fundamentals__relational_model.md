@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The relational model represents data as relations, commonly implemented as tables with rows, columns, keys, and constraints.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Relational model** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. The relational model represents data as relations, commonly implemented as tables with rows, columns, keys, and constraints.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A tmpfs mount stores temporary container data in host memory and does not persist it to disk.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Tmpfs mounts** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. A tmpfs mount stores temporary container data in host memory and does not persist it to disk.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Custom Actuator endpoints expose controlled management operations using endpoint annotations. They should be secured and narrowly scoped.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Custom actuator endpoints** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. Custom Actuator endpoints expose controlled management operations using endpoint annotations. They should be secured and narrowly scoped.
 

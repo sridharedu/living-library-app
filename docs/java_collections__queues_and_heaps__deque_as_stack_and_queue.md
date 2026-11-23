@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Use addLast and removeFirst for queue behavior, or push and pop for stack behavior. ArrayDeque is usually the best implementation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Deque as stack and queue** serves as a foundational component within *Queues and Heaps* in the broader **Java Collections** ecosystem. Use addLast and removeFirst for queue behavior, or push and pop for stack behavior. ArrayDeque is usually the best implementation.
 

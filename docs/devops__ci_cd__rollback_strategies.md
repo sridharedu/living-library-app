@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Rollback strategies restore a previous application version, configuration, database state, or traffic route after failure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Rollback strategies** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Rollback strategies restore a previous application version, configuration, database state, or traffic route after failure.
 

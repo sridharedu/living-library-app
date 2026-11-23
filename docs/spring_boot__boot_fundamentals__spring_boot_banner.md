@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Spring Boot banner is the startup text displayed before the application context initializes. It can be customized or disabled.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Boot banner** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. The Spring Boot banner is the startup text displayed before the application context initializes. It can be customized or disabled.
 

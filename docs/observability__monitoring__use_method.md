@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The USE method monitors Utilization, Saturation, and Errors for each important resource.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **USE method** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. The USE method monitors Utilization, Saturation, and Errors for each important resource.
 

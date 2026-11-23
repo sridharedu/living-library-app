@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Property-based testing generates many inputs and verifies general rules or invariants instead of checking only hand-picked examples.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Property-based testing** serves as a foundational component within *Quality Practices* in the broader **Testing** ecosystem. Property-based testing generates many inputs and verifies general rules or invariants instead of checking only hand-picked examples.
 

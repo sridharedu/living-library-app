@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RabbitMQ routes messages from publishers through exchanges and bindings into queues consumed by applications.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RabbitMQ architecture** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. RabbitMQ routes messages from publishers through exchanges and bindings into queues consumed by applications.
 

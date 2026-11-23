@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Classes use PascalCase, methods and variables use camelCase, constants use UPPER_SNAKE_CASE, and packages use lowercase names.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Java naming conventions** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Classes use PascalCase, methods and variables use camelCase, constants use UPPER_SNAKE_CASE, and packages use lowercase names.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An aspect groups a cross-cutting concern and the rules that decide where it applies. For example, one aspect may contain logging advice for all service methods.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Aspect** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. An aspect groups a cross-cutting concern and the rules that decide where it applies. For example, one aspect may contain logging advice for all service methods.
 

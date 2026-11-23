@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Site reliability engineering applies software engineering to operations using service levels, automation, error budgets, and reliability practices.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Site reliability engineering** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Site reliability engineering applies software engineering to operations using service levels, automation, error budgets, and reliability practices.
 

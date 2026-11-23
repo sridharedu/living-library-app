@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Job runs one or more Pods until a finite task completes successfully.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Jobs** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A Job runs one or more Pods until a finite task completes successfully.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CompletionStage defines the API for composing asynchronous computations. CompletableFuture is its common implementation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CompletionStage** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. CompletionStage defines the API for composing asynchronous computations. CompletableFuture is its common implementation.
 

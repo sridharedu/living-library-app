@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Sealed classes restrict which types may extend or implement them. They make closed hierarchies explicit and improve exhaustive pattern handling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sealed classes** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Sealed classes restrict which types may extend or implement them. They make closed hierarchies explicit and improve exhaustive pattern handling.
 

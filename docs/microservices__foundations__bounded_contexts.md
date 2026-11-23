@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A bounded context defines a domain model and language that are internally consistent. Different contexts may model the same real-world concept differently.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bounded contexts** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. A bounded context defines a domain model and language that are internally consistent. Different contexts may model the same real-world concept differently.
 

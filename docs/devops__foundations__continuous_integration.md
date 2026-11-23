@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Continuous integration merges small changes frequently and validates them with automated builds and tests.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Continuous integration** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Continuous integration merges small changes frequently and validates them with automated builds and tests.
 

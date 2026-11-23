@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A change is backward compatible when existing consumers continue to function without modification.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Backward compatibility** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. A change is backward compatible when existing consumers continue to function without modification.
 

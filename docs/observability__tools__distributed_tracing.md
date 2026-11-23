@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Distributed tracing follows a request across process and service boundaries using trace IDs, spans, timing, and parent-child relationships.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Distributed tracing** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Distributed tracing follows a request across process and service boundaries using trace IDs, spans, timing, and parent-child relationships.
 

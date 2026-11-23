@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> High cohesion means a module contains closely related responsibilities that belong together.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **High cohesion** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. High cohesion means a module contains closely related responsibilities that belong together.
 

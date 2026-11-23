@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Common index types include B-tree, hash, bitmap, full-text, spatial, composite, clustered, and covering indexes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Types of Indexes** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Common index types include B-tree, hash, bitmap, full-text, spatial, composite, clustered, and covering indexes.
 

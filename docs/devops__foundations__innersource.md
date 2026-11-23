@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> InnerSource applies open-source collaboration practices within an organization, including discoverable repositories, contribution rules, and shared ownership.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **InnerSource** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. InnerSource applies open-source collaboration practices within an organization, including discoverable repositories, contribution rules, and shared ownership.
 

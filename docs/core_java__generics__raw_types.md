@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A raw type omits generic arguments, such as List instead of List<String>. It disables compile-time type safety and should be avoided.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Raw types** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. A raw type omits generic arguments, such as List instead of List<String>. It disables compile-time type safety and should be avoided.
 

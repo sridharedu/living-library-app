@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Throwable is the root type. Error represents serious JVM conditions, while Exception represents conditions applications may handle.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Exception hierarchy** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. Throwable is the root type. Error represents serious JVM conditions, while Exception represents conditions applications may handle.
 

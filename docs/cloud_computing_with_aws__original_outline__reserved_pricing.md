@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Reserved pricing provides discounts in exchange for a one- or three-year commitment. It is best for predictable baseline usage and requires careful capacity planning.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reserved Pricing** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Reserved pricing provides discounts in exchange for a one- or three-year commitment. It is best for predictable baseline usage and requires careful capacity planning.
 

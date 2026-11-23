@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Handler interceptors run around controller invocation and can inspect handler metadata. They are useful for authorization checks, timing, and request context.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Handler interceptors** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Handler interceptors run around controller invocation and can inspect handler metadata. They are useful for authorization checks, timing, and request context.
 

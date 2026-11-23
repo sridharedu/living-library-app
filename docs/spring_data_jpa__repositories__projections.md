@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Projections return only selected fields through interfaces, DTOs, tuples, or records, reducing unnecessary entity loading.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Projections** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. Projections return only selected fields through interfaces, DTOs, tuples, or records, reducing unnecessary entity loading.
 

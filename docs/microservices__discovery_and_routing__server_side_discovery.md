@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> With server-side discovery, a load balancer or gateway discovers service instances and routes requests on behalf of clients.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Server-side discovery** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. With server-side discovery, a load balancer or gateway discovers service instances and routes requests on behalf of clients.
 

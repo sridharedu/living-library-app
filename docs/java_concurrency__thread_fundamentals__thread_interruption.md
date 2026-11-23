@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Interruption is a cooperative cancellation signal. Code should check the interrupt status or handle InterruptedException and usually restore the flag when propagating.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Thread interruption** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. Interruption is a cooperative cancellation signal. Code should check the interrupt status or handle InterruptedException and usually restore the flag when propagating.
 

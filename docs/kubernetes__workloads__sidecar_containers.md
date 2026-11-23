@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A sidecar container runs alongside the main application to provide supporting behavior such as proxying, logging, or synchronization.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sidecar containers** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A sidecar container runs alongside the main application to provide supporting behavior such as proxying, logging, or synchronization.
 

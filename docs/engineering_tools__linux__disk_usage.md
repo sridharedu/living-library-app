@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Use df for filesystem capacity and du for directory or file consumption, then inspect large paths and inode usage.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Disk usage** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Use df for filesystem capacity and du for directory or file consumption, then inspect large paths and inode usage.
 

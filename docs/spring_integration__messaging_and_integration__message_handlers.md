@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Message handlers consume messages and perform work such as transformation, routing, filtering, persistence, or outbound communication.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Message handlers** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Message handlers consume messages and perform work such as transformation, routing, filtering, persistence, or outbound communication.
 

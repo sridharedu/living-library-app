@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Jaeger is a distributed tracing platform for collecting, searching, and visualizing traces and service dependencies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Jaeger** serves as a foundational component within *Tools* in the broader **Observability** ecosystem. Jaeger is a distributed tracing platform for collecting, searching, and visualizing traces and service dependencies.
 

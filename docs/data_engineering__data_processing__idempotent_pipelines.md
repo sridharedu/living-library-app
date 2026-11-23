@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An idempotent pipeline can safely rerun the same input without creating duplicate outputs or repeated side effects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Idempotent pipelines** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. An idempotent pipeline can safely rerun the same input without creating duplicate outputs or repeated side effects.
 

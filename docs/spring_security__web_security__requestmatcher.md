@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RequestMatcher decides whether a request matches a security rule based on path, method, headers, or custom logic.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RequestMatcher** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. RequestMatcher decides whether a request matches a security rule based on path, method, headers, or custom logic.
 

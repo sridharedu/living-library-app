@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A hash join builds a hash table from one input and probes it with the other. It is efficient for large equality joins.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hash join** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. A hash join builds a hash table from one input and probes it with the other. It is efficient for large equality joins.
 

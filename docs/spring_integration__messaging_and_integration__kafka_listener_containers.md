@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Listener containers manage Kafka consumers, polling, thread assignment, acknowledgments, commits, retries, and lifecycle.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kafka listener containers** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. Listener containers manage Kafka consumers, polling, thread assignment, acknowledgments, commits, retries, and lifecycle.
 

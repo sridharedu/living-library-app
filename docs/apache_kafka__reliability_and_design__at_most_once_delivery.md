@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> At-most-once delivery may lose records but avoids duplicate processing, usually by committing before processing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **At-most-once delivery** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. At-most-once delivery may lose records but avoids duplicate processing, usually by committing before processing.
 

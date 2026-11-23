@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Security Token Service issues temporary credentials when identities assume roles or use federation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **STS** serves as a foundational component within *Security* in the broader **AWS** ecosystem. AWS Security Token Service issues temporary credentials when identities assume roles or use federation.
 

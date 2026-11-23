@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The C1 compiler performs fast, lightweight compilation to improve startup and collect profiling data for later optimization.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **C1 compiler** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. The C1 compiler performs fast, lightweight compilation to improve startup and collect profiling data for later optimization.
 

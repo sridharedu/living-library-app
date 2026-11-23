@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Flush synchronizes pending persistence-context changes with the database while the transaction may still remain uncommitted.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Flush** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. Flush synchronizes pending persistence-context changes with the database while the transaction may still remain uncommitted.
 

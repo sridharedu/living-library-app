@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> min and max return an Optional containing the smallest or largest element according to a Comparator.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **min and max** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. min and max return an Optional containing the smallest or largest element according to a Comparator.
 

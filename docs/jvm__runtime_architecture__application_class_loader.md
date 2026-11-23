@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The application class loader loads classes from the application's classpath or module path.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Application class loader** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The application class loader loads classes from the application's classpath or module path.
 

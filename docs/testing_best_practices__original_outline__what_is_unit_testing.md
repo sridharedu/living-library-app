@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Unit testing verifies a small piece of behavior in isolation, usually one class or method. Good unit tests are fast, deterministic, and focused.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Unit Testing?** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Unit testing verifies a small piece of behavior in isolation, usually one class or method. Good unit tests are fast, deterministic, and focused.
 

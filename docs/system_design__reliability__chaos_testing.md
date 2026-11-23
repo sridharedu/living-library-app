@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Chaos testing injects controlled failures to verify resilience assumptions and recovery behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Chaos testing** serves as a foundational component within *Reliability* in the broader **System Design** ecosystem. Chaos testing injects controlled failures to verify resilience assumptions and recovery behavior.
 

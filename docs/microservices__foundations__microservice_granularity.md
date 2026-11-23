@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Service granularity should balance autonomy and cohesion against network cost, operational overhead, and distributed transactions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Microservice granularity** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Service granularity should balance autonomy and cohesion against network cost, operational overhead, and distributed transactions.
 

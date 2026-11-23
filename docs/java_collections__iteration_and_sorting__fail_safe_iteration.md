@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Fail-safe is an informal term for iterators that traverse a snapshot or concurrent structure without throwing ConcurrentModificationException. They may not reflect every concurrent update.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Fail-safe iteration** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. Fail-safe is an informal term for iterators that traverse a snapshot or concurrent structure without throwing ConcurrentModificationException. They may not reflect every concurrent update.
 

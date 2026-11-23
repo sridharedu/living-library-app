@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A non-repeatable read occurs when the same row is read twice and returns different committed values because another transaction updated it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Non-repeatable reads** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. A non-repeatable read occurs when the same row is read twice and returns different committed values because another transaction updated it.
 

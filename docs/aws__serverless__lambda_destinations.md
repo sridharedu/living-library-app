@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Lambda destinations route asynchronous invocation results to services such as SQS, SNS, EventBridge, or another function.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lambda destinations** serves as a foundational component within *Serverless* in the broader **AWS** ecosystem. Lambda destinations route asynchronous invocation results to services such as SQS, SNS, EventBridge, or another function.
 

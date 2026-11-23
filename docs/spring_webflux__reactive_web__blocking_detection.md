@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Blocking detection identifies calls that occupy non-blocking event-loop threads. Tools such as BlockHound can expose accidental blocking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Blocking detection** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Blocking detection identifies calls that occupy non-blocking event-loop threads. Tools such as BlockHound can expose accidental blocking.
 

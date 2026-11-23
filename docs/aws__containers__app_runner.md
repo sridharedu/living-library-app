@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS App Runner builds and runs web applications from source code or container images with managed deployment and scaling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **App Runner** serves as a foundational component within *Containers* in the broader **AWS** ecosystem. AWS App Runner builds and runs web applications from source code or container images with managed deployment and scaling.
 

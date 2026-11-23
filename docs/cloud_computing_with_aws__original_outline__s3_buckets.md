@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An S3 bucket is the top-level container for objects and configuration such as access policies, versioning, encryption, and lifecycle rules. Bucket names are globally unique.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **S3 Buckets** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. An S3 bucket is the top-level container for objects and configuration such as access policies, versioning, encryption, and lifecycle rules. Bucket names are globally unique.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ansible uses a control node, inventory, modules, playbooks, roles, and plugins. Tasks execute remotely and are designed to be idempotent.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Ansible Architecture** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Ansible uses a control node, inventory, modules, playbooks, roles, and plugins. Tasks execute remotely and are designed to be idempotent.
 

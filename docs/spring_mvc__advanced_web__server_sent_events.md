@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Server-sent events provide a one-way HTTP stream from server to browser using the text/event-stream format.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Server-sent events** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Server-sent events provide a one-way HTTP stream from server to browser using the text/event-stream format.
 

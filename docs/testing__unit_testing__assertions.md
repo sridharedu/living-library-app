@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Assertions compare actual behavior with expected outcomes and fail the test when the contract is not met.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Assertions** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Assertions compare actual behavior with expected outcomes and fail the test when the contract is not met.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Publisher confirms asynchronously tell producers whether RabbitMQ accepted and persisted or routed a message according to configuration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Publisher confirms** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. Publisher confirms asynchronously tell producers whether RabbitMQ accepted and persisted or routed a message according to configuration.
 

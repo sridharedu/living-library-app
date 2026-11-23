@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Sharding distributes data partitions across separate database nodes, usually according to a shard key.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sharding** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Sharding distributes data partitions across separate database nodes, usually according to a shard key.
 

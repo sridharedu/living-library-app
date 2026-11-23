@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> dropWhile removes the longest matching prefix, then returns the remaining elements.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **dropWhile** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. dropWhile removes the longest matching prefix, then returns the remaining elements.
 

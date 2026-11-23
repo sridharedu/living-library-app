@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Change data capture streams database changes from logs or tables into downstream systems without modifying the original write path.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Change data capture** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. Change data capture streams database changes from logs or tables into downstream systems without modifying the original write path.
 

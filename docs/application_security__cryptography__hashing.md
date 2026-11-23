@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hashing transforms data into a fixed-size digest and is designed to be one-way and collision resistant.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hashing** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Hashing transforms data into a fixed-size digest and is designed to be one-way and collision resistant.
 

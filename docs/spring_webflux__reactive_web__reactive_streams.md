@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Reactive Streams defines Publisher, Subscriber, Subscription, and Processor contracts for asynchronous streams with non-blocking backpressure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reactive streams** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Reactive Streams defines Publisher, Subscriber, Subscription, and Processor contracts for asynchronous streams with non-blocking backpressure.
 

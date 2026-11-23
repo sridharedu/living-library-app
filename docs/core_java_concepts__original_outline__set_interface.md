@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Set stores unique elements and does not allow duplicates according to equals and hashCode. HashSet favors fast lookup, LinkedHashSet preserves insertion order, and TreeSet keeps elements sorted.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Set Interface** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Set stores unique elements and does not allow duplicates according to equals and hashCode. HashSet favors fast lookup, LinkedHashSet preserves insertion order, and TreeSet keeps elements sorted.
 

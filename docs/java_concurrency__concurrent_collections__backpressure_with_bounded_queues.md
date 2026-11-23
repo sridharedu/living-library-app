@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A bounded queue limits outstanding work and forces producers to slow down, reject, block, or shed load when consumers fall behind.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Backpressure with bounded queues** serves as a foundational component within *Concurrent Collections* in the broader **Java Concurrency** ecosystem. A bounded queue limits outstanding work and forces producers to slow down, reject, block, or shed load when consumers fall behind.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ER modeling represents entities, attributes, and relationships before physical schema creation. It helps clarify business structure and cardinality.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Entity-Relationship (ER) Modeling** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. ER modeling represents entities, attributes, and relationships before physical schema creation. It helps clarify business structure and cardinality.
 

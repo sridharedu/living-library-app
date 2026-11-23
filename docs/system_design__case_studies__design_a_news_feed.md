@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A news feed ranks and delivers personalized content using fanout-on-write, fanout-on-read, caching, pagination, and freshness or relevance signals.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a news feed** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A news feed ranks and delivers personalized content using fanout-on-write, fanout-on-read, caching, pagination, and freshness or relevance signals.
 

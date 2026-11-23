@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Custom exceptions express domain-specific failures such as InvalidOrderException or InsufficientBalanceException. They make error handling clearer and help callers distinguish business problems from technical failures.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Custom Exceptions** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Custom exceptions express domain-specific failures such as InvalidOrderException or InsufficientBalanceException. They make error handling clearer and help callers distinguish business problems from technical failures.
 

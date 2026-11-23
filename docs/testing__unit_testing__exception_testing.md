@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Exception tests verify that a specific operation throws the expected type and, where useful, expected details.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Exception testing** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Exception tests verify that a specific operation throws the expected type and, where useful, expected details.
 

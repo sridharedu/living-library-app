@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Event-driven architecture lets components publish and react to events asynchronously, improving decoupling and scalability while introducing eventual consistency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Event-driven architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Event-driven architecture lets components publish and react to events asynchronously, improving decoupling and scalability while introducing eventual consistency.
 

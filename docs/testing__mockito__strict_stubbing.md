@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Strict stubbing detects unused or mismatched stubs, helping keep tests clear and maintainable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Strict stubbing** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. Strict stubbing detects unused or mismatched stubs, helping keep tests clear and maintainable.
 

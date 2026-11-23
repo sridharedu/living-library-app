@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ModelAndView carries both a logical view name and model data for server-side rendering. It is useful in traditional MVC applications but is uncommon in REST controllers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ModelAndView** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. ModelAndView carries both a logical view name and model data for server-side rendering. It is useful in traditional MVC applications but is uncommon in REST controllers.
 

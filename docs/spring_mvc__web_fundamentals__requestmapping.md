@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @RequestMapping maps HTTP paths, methods, headers, parameters, and media types to controller methods or classes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RequestMapping** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @RequestMapping maps HTTP paths, methods, headers, parameters, and media types to controller methods or classes.
 

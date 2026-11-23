@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A private subnet has no direct route to an Internet Gateway and commonly uses NAT or VPC endpoints for outbound access.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Private subnets** serves as a foundational component within *Networking* in the broader **AWS** ecosystem. A private subnet has no direct route to an Internet Gateway and commonly uses NAT or VPC endpoints for outbound access.
 

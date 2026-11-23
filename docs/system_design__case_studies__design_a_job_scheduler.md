@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A job scheduler stores schedules and state, elects or coordinates workers, dispatches tasks once or idempotently, retries failures, and handles misfires.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a job scheduler** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A job scheduler stores schedules and state, elects or coordinates workers, dispatches tasks once or idempotently, retries failures, and handles misfires.
 

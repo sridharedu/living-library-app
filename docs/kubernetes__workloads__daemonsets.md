@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A DaemonSet runs one Pod on every matching node, commonly for logging, monitoring, networking, or security agents.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DaemonSets** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. A DaemonSet runs one Pod on every matching node, commonly for logging, monitoring, networking, or security agents.
 

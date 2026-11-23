@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ExecutorService executes Runnable and Callable tasks, returns Futures, and provides shutdown methods for controlled lifecycle management.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ExecutorService** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. ExecutorService executes Runnable and Callable tasks, returns Futures, and provides shutdown methods for controlled lifecycle management.
 

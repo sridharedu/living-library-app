@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A fetch join loads an entity and selected associations in one JPQL query. It is effective for targeted reads but can multiply rows for collection joins.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Fetch join** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. A fetch join loads an entity and selected associations in one JPQL query. It is effective for targeted reads but can multiply rows for collection joins.
 

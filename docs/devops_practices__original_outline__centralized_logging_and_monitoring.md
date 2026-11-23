@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Centralization brings logs and metrics from many services into shared systems. It enables cross-service search, dashboards, alerting, and faster incident investigation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Centralized Logging and Monitoring** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Centralization brings logs and metrics from many services into shared systems. It enables cross-service search, dashboards, alerting, and faster incident investigation.
 

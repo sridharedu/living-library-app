@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CPU-bound pools are usually near the number of cores, while blocking workloads may need more threads. Measure queueing, latency, and utilization.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Thread pool sizing** serves as a foundational component within *Executors* in the broader **Java Concurrency** ecosystem. CPU-bound pools are usually near the number of cores, while blocking workloads may need more threads. Measure queueing, latency, and utilization.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Setup involves installing Ansible on a control node, defining inventory, configuring secure connectivity, and validating access before running playbooks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Setting Up Ansible** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Setup involves installing Ansible on a control node, defining inventory, configuring secure connectivity, and validating access before running playbooks.
 

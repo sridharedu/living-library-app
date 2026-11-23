@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multi-stage builds use separate build and runtime stages so the final image contains only necessary artifacts.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Multi-stage builds** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. Multi-stage builds use separate build and runtime stages so the final image contains only necessary artifacts.
 

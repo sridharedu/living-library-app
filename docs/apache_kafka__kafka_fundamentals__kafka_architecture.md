@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> Apache Kafka is built as a distributed append-only log. Producers write records to named topics, Kafka stores those records across brokers, and consumers read them independently at their own pace.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p>
     Apache Kafka is built as a <strong style="color:#8B3A3A;">distributed append-only log</strong>. Producers write records to named topics, Kafka stores those records across brokers, and consumers read them independently at their own pace.
   </p>

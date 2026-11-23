@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Partitioning divides data or workload into smaller independent segments to improve scale, locality, and manageability.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Partitioning** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Partitioning divides data or workload into smaller independent segments to improve scale, locality, and manageability.
 

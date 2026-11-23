@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring rolls back by default for unchecked exceptions and Errors. Checked exceptions require explicit rollback rules when rollback is desired.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Rollback rules** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. Spring rolls back by default for unchecked exceptions and Errors. Checked exceptions require explicit rollback rules when rollback is desired.
 

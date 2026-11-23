@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CAP states that during a network partition, a distributed system must choose between consistent responses and always-available responses. Partition tolerance is unavoidable in distributed systems.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CAP Theorem in NoSQL** serves as a foundational component within *Original outline* in the broader **NoSQL Databases** ecosystem. CAP states that during a network partition, a distributed system must choose between consistent responses and always-available responses. Partition tolerance is unavoidable in distributed systems.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @Transactional defines transaction boundaries and settings such as propagation, isolation, read-only behavior, timeout, and rollback rules.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Transactional annotation** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. @Transactional defines transaction boundaries and settings such as propagation, isolation, read-only behavior, timeout, and rollback rules.
 

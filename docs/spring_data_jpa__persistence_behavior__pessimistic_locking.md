@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pessimistic locking asks the database to lock rows during a transaction. It prevents conflicting access but can reduce concurrency and cause deadlocks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pessimistic locking** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. Pessimistic locking asks the database to lock rows during a transaction. It prevents conflicting access but can reduce concurrency and cause deadlocks.
 

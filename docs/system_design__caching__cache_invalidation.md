@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cache invalidation removes or updates stale entries when underlying data changes. It is often the hardest part of caching.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cache invalidation** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. Cache invalidation removes or updates stale entries when underlying data changes. It is often the hardest part of caching.
 

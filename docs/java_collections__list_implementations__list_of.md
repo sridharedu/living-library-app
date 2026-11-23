@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> List.of creates a compact immutable list that rejects null values and modification operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **List.of** serves as a foundational component within *List Implementations* in the broader **Java Collections** ecosystem. List.of creates a compact immutable list that rejects null values and modification operations.
 

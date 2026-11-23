@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A partial index includes only rows matching a predicate, reducing size and improving selective query performance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Partial indexes** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. A partial index includes only rows matching a predicate, reducing size and improving selective query performance.
 

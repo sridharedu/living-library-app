@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java basics cover how a program is written and executed: classes, the main method, variables, data types, operators, conditions, loops, and methods. These are the building blocks for every larger Java application.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Java Basics** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Java basics cover how a program is written and executed: classes, the main method, variables, data types, operators, conditions, loops, and methods. These are the building blocks for every larger Java application.
 

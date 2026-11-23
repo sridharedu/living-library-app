@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ServiceLoader discovers implementations of a service interface from classpath or module metadata, enabling lightweight plugin architectures.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ServiceLoader** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. ServiceLoader discovers implementations of a service interface from classpath or module metadata, enabling lightweight plugin architectures.
 

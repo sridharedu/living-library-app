@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A stub returns predetermined responses so the test can control a dependency's behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Stubs** serves as a foundational component within *Mockito* in the broader **Testing** ecosystem. A stub returns predetermined responses so the test can control a dependency's behavior.
 

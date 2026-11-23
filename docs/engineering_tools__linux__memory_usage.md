@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Use free, top, ps, vmstat, and /proc to inspect memory, swap, process usage, and pressure.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Memory usage** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Use free, top, ps, vmstat, and /proc to inspect memory, swap, process usage, and pressure.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Shift-left testing moves quality and security feedback earlier in development so defects are cheaper to fix.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Shift-left testing** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Shift-left testing moves quality and security feedback earlier in development so defects are cheaper to fix.
 

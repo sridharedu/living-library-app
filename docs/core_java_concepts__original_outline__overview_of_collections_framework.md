@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Collections are organized around interfaces, implementations, and utility algorithms. Choosing the right collection depends on ordering, uniqueness, lookup speed, insertion cost, concurrency, and memory needs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Overview of Collections Framework** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Collections are organized around interfaces, implementations, and utility algorithms. Choosing the right collection depends on ordering, uniqueness, lookup speed, insertion cost, concurrency, and memory needs.
 

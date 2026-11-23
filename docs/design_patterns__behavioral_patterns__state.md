@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> State lets an object change behavior when its internal state changes by delegating to state-specific implementations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **State** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. State lets an object change behavior when its internal state changes by delegating to state-specific implementations.
 

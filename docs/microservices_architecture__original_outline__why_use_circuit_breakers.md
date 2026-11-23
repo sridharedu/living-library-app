@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Circuit breakers reduce cascading failures, protect thread pools and connections, and provide faster failure responses. They complement, rather than replace, sensible timeouts and capacity controls.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Why Use Circuit Breakers?** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Circuit breakers reduce cascading failures, protect thread pools and connections, and provide faster failure responses. They complement, rather than replace, sensible timeouts and capacity controls.
 

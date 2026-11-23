@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Delayed messages become available only after a configured delay, useful for retries, scheduling, or expiry workflows.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Delayed messages** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Delayed messages become available only after a configured delay, useful for retries, scheduling, or expiry workflows.
 

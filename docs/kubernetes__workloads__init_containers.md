@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Init containers run sequentially before application containers and must finish successfully before the Pod starts normally.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Init containers** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. Init containers run sequentially before application containers and must finish successfully before the Pod starts normally.
 

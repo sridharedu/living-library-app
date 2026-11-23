@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> IAM users are long-lived identities within an AWS account. Human users should usually use federation instead of permanent access keys.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **IAM users** serves as a foundational component within *Security* in the broader **AWS** ecosystem. IAM users are long-lived identities within an AWS account. Human users should usually use federation instead of permanent access keys.
 

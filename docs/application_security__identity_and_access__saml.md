@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SAML is an XML-based federation standard commonly used for enterprise single sign-on between identity providers and service providers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SAML** serves as a foundational component within *Identity and Access* in the broader **Application Security** ecosystem. SAML is an XML-based federation standard commonly used for enterprise single sign-on between identity providers and service providers.
 

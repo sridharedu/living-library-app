@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A transactional producer atomically writes records to multiple partitions and can coordinate consumed offsets with produced output.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Transactional producer** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. A transactional producer atomically writes records to multiple partitions and can coordinate consumed offsets with produced output.
 

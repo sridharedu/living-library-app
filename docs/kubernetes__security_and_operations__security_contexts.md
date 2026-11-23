@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Security contexts configure user IDs, privileges, capabilities, filesystem permissions, and other security settings for Pods and containers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Security contexts** serves as a foundational component within *Security and Operations* in the broader **Kubernetes** ecosystem. Security contexts configure user IDs, privileges, capabilities, filesystem permissions, and other security settings for Pods and containers.
 

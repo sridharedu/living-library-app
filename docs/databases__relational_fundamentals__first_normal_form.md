@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> First normal form requires each column value to be atomic and each row-column intersection to contain one value.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **First normal form** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. First normal form requires each column value to be atomic and each row-column intersection to contain one value.
 

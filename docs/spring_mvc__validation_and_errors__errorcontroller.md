@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ErrorController handles Spring Boot's fallback error path when no more specific exception handler produces a response.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ErrorController** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. ErrorController handles Spring Boot's fallback error path when no more specific exception handler produces a response.
 

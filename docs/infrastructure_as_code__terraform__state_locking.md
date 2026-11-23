@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> State locking prevents multiple Terraform operations from modifying the same state concurrently.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **State locking** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. State locking prevents multiple Terraform operations from modifying the same state concurrently.
 

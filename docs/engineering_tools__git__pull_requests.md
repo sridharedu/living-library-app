@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A pull request proposes branch changes for review, discussion, automated checks, and controlled merge.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pull requests** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. A pull request proposes branch changes for review, discussion, automated checks, and controlled merge.
 

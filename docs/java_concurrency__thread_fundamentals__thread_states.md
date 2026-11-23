@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java thread states are NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, and TERMINATED.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Thread states** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. Java thread states are NEW, RUNNABLE, BLOCKED, WAITING, TIMED_WAITING, and TERMINATED.
 

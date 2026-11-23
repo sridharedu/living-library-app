@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DateTimeFormatter formats and parses java.time values. It is immutable, thread-safe, and supports predefined or custom patterns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DateTimeFormatter** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. DateTimeFormatter formats and parses java.time values. It is immutable, thread-safe, and supports predefined or custom patterns.
 

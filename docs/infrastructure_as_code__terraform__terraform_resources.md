@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Terraform resource declares an infrastructure object that Terraform should create, read, update, or delete.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Terraform resources** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. A Terraform resource declares an infrastructure object that Terraform should create, read, update, or delete.
 

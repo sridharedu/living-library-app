@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Denormalization duplicates or pre-joins data to speed reads. It is useful for analytics and high-read systems but increases write and consistency complexity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Denormalization and Its Use Cases** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. Denormalization duplicates or pre-joins data to speed reads. It is useful for analytics and high-read systems but increases write and consistency complexity.
 

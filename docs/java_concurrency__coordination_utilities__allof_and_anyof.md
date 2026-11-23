@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> allOf completes when every future completes, while anyOf completes when the first future completes. allOf does not directly collect individual results.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **allOf and anyOf** serves as a foundational component within *Coordination Utilities* in the broader **Java Concurrency** ecosystem. allOf completes when every future completes, while anyOf completes when the first future completes. allOf does not directly collect individual results.
 

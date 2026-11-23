@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ENTRYPOINT defines the container's primary executable and is commonly combined with CMD for default arguments.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ENTRYPOINT** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. ENTRYPOINT defines the container's primary executable and is commonly combined with CMD for default arguments.
 

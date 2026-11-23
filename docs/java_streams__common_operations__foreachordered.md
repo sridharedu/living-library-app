@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> forEachOrdered preserves encounter order even in parallel streams, usually at some performance cost.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **forEachOrdered** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. forEachOrdered preserves encounter order even in parallel streams, usually at some performance cost.
 

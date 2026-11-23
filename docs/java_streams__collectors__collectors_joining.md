@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> joining concatenates character sequences, optionally using a delimiter, prefix, and suffix.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collectors.joining** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. joining concatenates character sequences, optionally using a delimiter, prefix, and suffix.
 

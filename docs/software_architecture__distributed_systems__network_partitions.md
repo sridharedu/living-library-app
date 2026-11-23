@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A network partition prevents nodes from communicating while they may still be running. Systems must define availability and consistency behavior during it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Network partitions** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. A network partition prevents nodes from communicating while they may still be running. Systems must define availability and consistency behavior during it.
 

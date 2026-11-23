@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> LinkedHashSet preserves insertion order while providing hash-based uniqueness and near-constant-time lookup.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **LinkedHashSet** serves as a foundational component within *Set Implementations* in the broader **Java Collections** ecosystem. LinkedHashSet preserves insertion order while providing hash-based uniqueness and near-constant-time lookup.
 

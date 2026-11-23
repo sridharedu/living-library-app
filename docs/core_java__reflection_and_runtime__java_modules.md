@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java modules group packages with explicit dependencies and exported APIs. They improve encapsulation and reliable configuration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Java modules** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. Java modules group packages with explicit dependencies and exported APIs. They improve encapsulation and reliable configuration.
 

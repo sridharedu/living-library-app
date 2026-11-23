@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cassandra is a peer-to-peer distributed wide-column database with no single primary and tunable consistency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cassandra architecture** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Cassandra is a peer-to-peer distributed wide-column database with no single primary and tunable consistency.
 

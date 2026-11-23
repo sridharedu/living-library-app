@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> flatMap transforms each element into a stream and flattens the nested streams into one sequence.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **flatMap** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. flatMap transforms each element into a stream and flattens the nested streams into one sequence.
 

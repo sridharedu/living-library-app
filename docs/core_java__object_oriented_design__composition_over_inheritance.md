@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Composition builds behavior by containing collaborators, while inheritance creates an is-a relationship. Composition is usually more flexible and less coupled.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Composition over inheritance** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Composition builds behavior by containing collaborators, while inheritance creates an is-a relationship. Composition is usually more flexible and less coupled.
 

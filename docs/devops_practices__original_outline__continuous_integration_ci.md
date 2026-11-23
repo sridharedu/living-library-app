@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Continuous Integration means developers merge small changes frequently and validate them with automated builds and tests. It exposes integration problems early.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Continuous Integration (CI)** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Continuous Integration means developers merge small changes frequently and validate them with automated builds and tests. It exposes integration problems early.
 

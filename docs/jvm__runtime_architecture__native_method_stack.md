@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The native method stack supports calls into native code through mechanisms such as JNI.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Native method stack** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The native method stack supports calls into native code through mechanisms such as JNI.
 

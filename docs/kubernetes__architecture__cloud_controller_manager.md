@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The cloud controller manager integrates Kubernetes with cloud-provider services such as load balancers, routes, and node lifecycle.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cloud controller manager** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The cloud controller manager integrates Kubernetes with cloud-provider services such as load balancers, routes, and node lifecycle.
 

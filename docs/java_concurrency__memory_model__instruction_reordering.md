@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Compilers and processors may reorder instructions for performance as long as single-thread behavior is preserved. Synchronization constrains harmful reorderings.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Instruction reordering** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Compilers and processors may reorder instructions for performance as long as single-thread behavior is preserved. Synchronization constrains harmful reorderings.
 

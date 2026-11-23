@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Linux permissions control read, write, and execute access for owner, group, and others, with optional ACLs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Permissions** serves as a foundational component within *Linux* in the broader **Engineering Tools** ecosystem. Linux permissions control read, write, and execute access for owner, group, and others, with optional ACLs.
 

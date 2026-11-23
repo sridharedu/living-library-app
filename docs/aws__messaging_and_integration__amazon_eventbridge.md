@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon EventBridge routes events between AWS services, applications, and SaaS systems through event buses and rules.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon EventBridge** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. Amazon EventBridge routes events between AWS services, applications, and SaaS systems through event buses and rules.
 

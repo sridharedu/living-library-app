@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cell-based architecture divides a system into isolated, repeatable units containing compute, data, and dependencies, limiting failure blast radius.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cell-based architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Cell-based architecture divides a system into isolated, repeatable units containing compute, data, and dependencies, limiting failure blast radius.
 

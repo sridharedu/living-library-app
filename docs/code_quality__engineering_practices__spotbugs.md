@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SpotBugs analyzes Java bytecode for patterns associated with defects, null issues, concurrency bugs, and misuse of APIs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SpotBugs** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. SpotBugs analyzes Java bytecode for patterns associated with defects, null issues, concurrency bugs, and misuse of APIs.
 

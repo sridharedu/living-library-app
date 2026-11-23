@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Chaos engineering runs controlled failure experiments to test assumptions and improve resilience before real incidents occur.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Chaos engineering** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. Chaos engineering runs controlled failure experiments to test assumptions and improve resilience before real incidents occur.
 

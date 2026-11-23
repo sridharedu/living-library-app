@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Macvlan gives containers distinct MAC and IP identities on the physical network.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Macvlan** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Macvlan gives containers distinct MAC and IP identities on the physical network.
 

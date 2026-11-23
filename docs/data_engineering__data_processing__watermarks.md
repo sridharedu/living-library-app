@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A watermark represents progress in event time and helps stream processors decide when windows can be evaluated despite delayed events.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Watermarks** serves as a foundational component within *Data Processing* in the broader **Data Engineering** ecosystem. A watermark represents progress in event time and helps stream processors decide when windows can be evaluated despite delayed events.
 

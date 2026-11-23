@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cloud computing is the delivery of compute, storage, databases, networking, and software as remotely managed services. Users provision resources through APIs and pay according to consumption or commitment.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Cloud Computing?** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Cloud computing is the delivery of compute, storage, databases, networking, and software as remotely managed services. Users provision resources through APIs and pay according to consumption or commitment.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Apache Spark is a distributed processing engine for large-scale batch, SQL, machine-learning, graph, and streaming workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Apache Spark** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. Apache Spark is a distributed processing engine for large-scale batch, SQL, machine-learning, graph, and streaming workloads.
 

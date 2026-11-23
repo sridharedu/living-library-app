@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> JMH is the standard Java microbenchmark harness. It handles warm-up, forks, measurement iterations, and many JVM optimization traps.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JMH benchmarking** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. JMH is the standard Java microbenchmark harness. It handles warm-up, forks, measurement iterations, and many JVM optimization traps.
 

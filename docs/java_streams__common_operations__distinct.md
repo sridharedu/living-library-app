@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> distinct removes duplicates according to equals and hashCode. It is stateful because previously seen elements must be tracked.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **distinct** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. distinct removes duplicates according to equals and hashCode. It is stateful because previously seen elements must be tracked.
 

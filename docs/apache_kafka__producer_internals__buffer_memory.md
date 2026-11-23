@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> buffer.memory limits producer memory used for records waiting to be batched and sent. When full, send calls may block up to max.block.ms.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Buffer memory** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. buffer.memory limits producer memory used for records waiting to be batched and sent. When full, send calls may block up to max.block.ms.
 

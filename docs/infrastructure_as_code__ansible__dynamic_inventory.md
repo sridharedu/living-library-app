@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Dynamic inventory discovers hosts from cloud APIs, CMDBs, or other live sources instead of using a static file.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Dynamic inventory** serves as a foundational component within *Ansible* in the broader **Infrastructure as Code** ecosystem. Dynamic inventory discovers hosts from cloud APIs, CMDBs, or other live sources instead of using a static file.
 

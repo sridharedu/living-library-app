@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> A Kafka offset is the numeric position of a record inside one partition. Each record receives an increasing offset when it is appended to that partition.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p>
     A Kafka <strong style="color:#8B3A3A;">offset</strong> is the numeric position of a record inside one partition. Each record receives an increasing offset when it is appended to that partition.
   </p>

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A lock-free algorithm guarantees that some thread always makes progress even if others pause. It often relies on CAS retry loops.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lock-free algorithms** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. A lock-free algorithm guarantees that some thread always makes progress even if others pause. It often relies on CAS retry loops.
 

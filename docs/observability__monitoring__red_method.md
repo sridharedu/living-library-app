@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The RED method monitors request Rate, Errors, and Duration for request-driven services.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RED method** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. The RED method monitors request Rate, Errors, and Duration for request-driven services.
 

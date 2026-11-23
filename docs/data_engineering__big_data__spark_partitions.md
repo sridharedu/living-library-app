@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spark partitions are the units of parallel processing. Too few limit concurrency, while too many increase scheduling and shuffle overhead.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spark partitions** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. Spark partitions are the units of parallel processing. Too few limit concurrency, while too many increase scheduling and shuffle overhead.
 

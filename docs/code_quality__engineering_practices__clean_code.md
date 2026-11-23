@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Clean code communicates intent through clear names, small cohesive units, simple control flow, useful tests, and minimal duplication.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Clean code** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Clean code communicates intent through clear names, small cohesive units, simple control flow, useful tests, and minimal duplication.
 

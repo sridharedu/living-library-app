@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Circuit breakers stop calls to an unhealthy dependency, fail fast, and later probe whether recovery has occurred.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Circuit breakers** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Circuit breakers stop calls to an unhealthy dependency, fail fast, and later probe whether recovery has occurred.
 

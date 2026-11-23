@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> With client-side discovery, the caller queries a service registry and chooses an instance directly.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Client-side discovery** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. With client-side discovery, the caller queries a service registry and chooses an instance directly.
 

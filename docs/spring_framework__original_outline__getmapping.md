@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @GetMapping is a specialized RequestMapping for HTTP GET. Use it for safe, read-oriented operations that should not modify server state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **@GetMapping** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. @GetMapping is a specialized RequestMapping for HTTP GET. Use it for safe, read-oriented operations that should not modify server state.
 

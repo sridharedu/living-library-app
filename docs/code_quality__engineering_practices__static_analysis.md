@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Static analysis examines source or bytecode without executing it to detect bugs, vulnerabilities, style issues, and maintainability risks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Static analysis** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Static analysis examines source or bytecode without executing it to detect bugs, vulnerabilities, style issues, and maintainability risks.
 

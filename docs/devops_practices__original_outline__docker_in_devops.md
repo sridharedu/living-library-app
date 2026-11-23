@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Docker supports DevOps by packaging applications consistently across development, testing, and deployment. It reduces environment differences and simplifies CI/CD artifact handling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker in DevOps** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Docker supports DevOps by packaging applications consistently across development, testing, and deployment. It reduces environment differences and simplifies CI/CD artifact handling.
 

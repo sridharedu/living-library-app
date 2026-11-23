@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Method references are concise lambdas that call an existing method, such as String::trim or System.out::println. They improve readability when the lambda only forwards its arguments.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Method References** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Method references are concise lambdas that call an existing method, such as String::trim or System.out::println. They improve readability when the lambda only forwards its arguments.
 

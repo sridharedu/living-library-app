@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A JWT filter reads the token, validates signature and expiry, loads or derives authorities, and populates the SecurityContext.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **JWT filter** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. A JWT filter reads the token, validates signature and expiry, loads or derives authorities, and populates the SecurityContext.
 

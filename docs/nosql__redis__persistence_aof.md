@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AOF persistence logs write commands and can provide stronger durability at the cost of larger files and more IO.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Persistence AOF** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. AOF persistence logs write commands and can provide stronger durability at the cost of larger files and more IO.
 

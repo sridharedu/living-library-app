@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Clean architecture organizes code around use cases and dependency rules that point inward toward stable business policies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Clean architecture** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Clean architecture organizes code around use cases and dependency rules that point inward toward stable business policies.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Data JPA reduces persistence boilerplate by generating repository implementations over JPA. It supports CRUD, pagination, derived queries, specifications, projections, auditing, and custom queries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Data JPA** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Data JPA reduces persistence boilerplate by generating repository implementations over JPA. It supports CRUD, pagination, derived queries, specifications, projections, auditing, and custom queries.
 

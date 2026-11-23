@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> ResponseEntity gives explicit control over the response body, status code, and headers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **ResponseEntity** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. ResponseEntity gives explicit control over the response body, status code, and headers.
 

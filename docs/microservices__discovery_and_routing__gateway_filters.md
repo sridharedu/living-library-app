@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Gateway filters modify requests or responses and implement concerns such as authentication, logging, retries, header changes, and circuit breaking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Gateway filters** serves as a foundational component within *Discovery and Routing* in the broader **Microservices** ecosystem. Gateway filters modify requests or responses and implement concerns such as authentication, logging, retries, header changes, and circuit breaking.
 

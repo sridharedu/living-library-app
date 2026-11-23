@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AtomicInteger provides thread-safe atomic operations on an int, such as increment, compareAndSet, and updateAndGet, without explicit locking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **AtomicInteger** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. AtomicInteger provides thread-safe atomic operations on an int, such as increment, compareAndSet, and updateAndGet, without explicit locking.
 

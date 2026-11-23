@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon MQ provides managed ActiveMQ and RabbitMQ brokers for applications that need traditional messaging protocols and broker semantics.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon MQ** serves as a foundational component within *Messaging and Integration* in the broader **AWS** ecosystem. Amazon MQ provides managed ActiveMQ and RabbitMQ brokers for applications that need traditional messaging protocols and broker semantics.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mono represents an asynchronous sequence containing zero or one element, followed by completion or error.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Mono** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. Mono represents an asynchronous sequence containing zero or one element, followed by completion or error.
 

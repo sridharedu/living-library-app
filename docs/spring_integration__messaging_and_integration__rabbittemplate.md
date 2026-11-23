@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RabbitTemplate sends and receives RabbitMQ messages and supports exchanges, routing keys, conversion, confirms, and returns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RabbitTemplate** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. RabbitTemplate sends and receives RabbitMQ messages and supports exchanges, routing keys, conversion, confirms, and returns.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Frameworks such as JUnit, Mockito, Testcontainers, Selenium, Cypress, Playwright, and REST Assured provide structure and tooling for automated tests.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Automated Testing Frameworks** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Frameworks such as JUnit, Mockito, Testcontainers, Selenium, Cypress, Playwright, and REST Assured provide structure and tooling for automated tests.
 

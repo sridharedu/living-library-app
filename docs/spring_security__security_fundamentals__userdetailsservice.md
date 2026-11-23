@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> UserDetailsService loads user identity, password hash, status, and authorities for username-based authentication.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **UserDetailsService** serves as a foundational component within *Security Fundamentals* in the broader **Spring Security** ecosystem. UserDetailsService loads user identity, password hash, status, and authorities for username-based authentication.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Split-brain occurs when multiple partitions believe they are authoritative, risking conflicting writes and divergent state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Split-brain** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Split-brain occurs when multiple partitions believe they are authoritative, risking conflicting writes and divergent state.
 

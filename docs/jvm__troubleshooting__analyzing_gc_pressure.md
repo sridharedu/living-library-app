@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> High GC pressure usually comes from excessive allocation, undersized heaps, promotion, large live sets, or memory leaks. Correlate logs with allocation profiles.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Analyzing GC pressure** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. High GC pressure usually comes from excessive allocation, undersized heaps, promotion, large live sets, or memory leaks. Correlate logs with allocation profiles.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Refactoring improves internal structure without changing externally observable behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Refactoring** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Refactoring improves internal structure without changing externally observable behavior.
 

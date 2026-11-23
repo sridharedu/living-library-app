@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Gateway API provides expressive, role-oriented traffic-routing resources that improve on many limitations of Ingress.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Gateway API** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. Gateway API provides expressive, role-oriented traffic-routing resources that improve on many limitations of Ingress.
 

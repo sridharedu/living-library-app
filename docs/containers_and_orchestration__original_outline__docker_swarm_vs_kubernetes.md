@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Docker Swarm is simpler and tightly integrated with Docker, while Kubernetes offers broader capabilities and ecosystem support. Kubernetes has a steeper operational learning curve.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Docker Swarm vs Kubernetes** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Docker Swarm is simpler and tightly integrated with Docker, while Kubernetes offers broader capabilities and ecosystem support. Kubernetes has a steeper operational learning curve.
 

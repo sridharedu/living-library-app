@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Linking verifies bytecode, allocates static storage, and resolves references. Initialization executes static field initializers and static blocks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Linking and initialization** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. Linking verifies bytecode, allocates static storage, and resolves references. Initialization executes static field initializers and static blocks.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Host networking lets a container share the host's network namespace, removing port isolation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Host network** serves as a foundational component within *Runtime and Networking* in the broader **Docker** ecosystem. Host networking lets a container share the host's network namespace, removing port isolation.
 

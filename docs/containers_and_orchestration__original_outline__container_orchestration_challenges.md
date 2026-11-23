@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Challenges include cluster complexity, networking, storage, security, observability, upgrades, capacity planning, and debugging failures across layers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Container Orchestration Challenges** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Challenges include cluster complexity, networking, storage, security, observability, upgrades, capacity planning, and debugging failures across layers.
 

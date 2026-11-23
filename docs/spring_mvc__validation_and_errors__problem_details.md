@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Problem Details is a standard HTTP error format containing fields such as type, title, status, detail, and instance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Problem Details** serves as a foundational component within *Validation and Errors* in the broader **Spring MVC** ecosystem. Problem Details is a standard HTTP error format containing fields such as type, title, status, detail, and instance.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The first-level cache is the mandatory persistence-context cache. Repeated lookup of the same entity ID returns the same managed instance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **First-level cache** serves as a foundational component within *Persistence Behavior* in the broader **Spring Data JPA** ecosystem. The first-level cache is the mandatory persistence-context cache. Repeated lookup of the same entity ID returns the same managed instance.
 

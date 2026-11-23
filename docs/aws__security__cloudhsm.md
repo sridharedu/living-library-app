@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS CloudHSM provides dedicated hardware security modules that customers control for cryptographic key storage and operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CloudHSM** serves as a foundational component within *Security* in the broader **AWS** ecosystem. AWS CloudHSM provides dedicated hardware security modules that customers control for cryptographic key storage and operations.
 

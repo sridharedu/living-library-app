@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon DynamoDB is a fully managed key-value and document database designed for predictable low-latency performance at scale.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DynamoDB** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. Amazon DynamoDB is a fully managed key-value and document database designed for predictable low-latency performance at scale.
 

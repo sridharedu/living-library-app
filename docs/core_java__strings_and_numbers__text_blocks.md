@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Text blocks use triple quotes for readable multi-line strings while handling indentation and embedded quotes more naturally.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Text blocks** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. Text blocks use triple quotes for readable multi-line strings while handling indentation and embedded quotes more naturally.
 

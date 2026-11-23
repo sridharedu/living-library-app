@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Semantic versioning uses MAJOR.MINOR.PATCH: major for incompatible changes, minor for backward-compatible features, and patch for backward-compatible fixes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Semantic versioning** serves as a foundational component within *Engineering Practices* in the broader **Code Quality** ecosystem. Semantic versioning uses MAJOR.MINOR.PATCH: major for incompatible changes, minor for backward-compatible features, and patch for backward-compatible fixes.
 

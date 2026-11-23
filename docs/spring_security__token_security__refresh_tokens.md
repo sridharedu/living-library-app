@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A refresh token is a longer-lived credential used to obtain new access tokens without asking the user to authenticate again.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Refresh tokens** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. A refresh token is a longer-lived credential used to obtain new access tokens without asking the user to authenticate again.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Blue-green deployment maintains two production environments and switches traffic from the old version to the new one.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Blue-green deployment** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Blue-green deployment maintains two production environments and switches traffic from the old version to the new one.
 

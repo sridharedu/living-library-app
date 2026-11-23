@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis Streams provide append-only event logs with IDs, consumer groups, acknowledgements, and pending-entry tracking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Streams** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis Streams provide append-only event logs with IDs, consumer groups, acknowledgements, and pending-entry tracking.
 

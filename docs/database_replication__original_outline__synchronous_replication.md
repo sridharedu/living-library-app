@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Synchronous replication confirms a write only after replicas acknowledge it. It improves durability and consistency but increases latency and sensitivity to replica failures.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Synchronous Replication** serves as a foundational component within *Original outline* in the broader **Database Replication** ecosystem. Synchronous replication confirms a write only after replicas acknowledge it. It improves durability and consistency but increases latency and sensitivity to replica failures.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Boot offers starters, auto-configuration, embedded servers, externalized configuration, Actuator, profiles, executable JARs, and sensible defaults that remain customizable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Features of Spring Boot** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Boot offers starters, auto-configuration, embedded servers, externalized configuration, Actuator, profiles, executable JARs, and sensible defaults that remain customizable.
 

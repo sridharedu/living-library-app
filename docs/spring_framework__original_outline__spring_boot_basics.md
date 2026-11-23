@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Boot accelerates Spring development through auto-configuration, starter dependencies, embedded servers, and production-ready defaults. It removes much of the manual setup needed for a deployable application.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Boot Basics** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Boot accelerates Spring development through auto-configuration, starter dependencies, embedded servers, and production-ready defaults. It removes much of the manual setup needed for a deployable application.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Second normal form requires first normal form and removes partial dependency of non-key attributes on part of a composite key.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Second normal form** serves as a foundational component within *Relational Fundamentals* in the broader **Databases** ecosystem. Second normal form requires first normal form and removes partial dependency of non-key attributes on part of a composite key.
 

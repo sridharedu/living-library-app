@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Boot Actuator exposes production-oriented endpoints for health, metrics, environment, mappings, loggers, and diagnostics.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Actuator** serves as a foundational component within *Configuration and Operations* in the broader **Spring Boot** ecosystem. Spring Boot Actuator exposes production-oriented endpoints for health, metrics, environment, mappings, loggers, and diagnostics.
 

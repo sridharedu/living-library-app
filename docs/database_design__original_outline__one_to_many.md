@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A one-to-many relationship stores the foreign key on the many side. It is the most common relational pattern.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **One-to-Many** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. A one-to-many relationship stores the foreign key on the many side. It is the most common relational pattern.
 

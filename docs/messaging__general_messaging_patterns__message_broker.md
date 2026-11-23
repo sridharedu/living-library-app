@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A message broker accepts, routes, stores, and delivers messages between producers and consumers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Message broker** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. A message broker accepts, routes, stores, and delivers messages between producers and consumers.
 

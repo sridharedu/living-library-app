@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Replication lag is the delay between a change on the primary and its application on a replica.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Replication lag** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Replication lag is the delay between a change on the primary and its application on a replica.
 

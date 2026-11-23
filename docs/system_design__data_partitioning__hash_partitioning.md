@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Hash partitioning distributes records using a hash of the partition key, usually providing more even load.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hash partitioning** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Hash partitioning distributes records using a hash of the partition key, usually providing more even load.
 

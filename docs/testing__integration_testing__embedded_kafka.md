@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Embedded Kafka starts Kafka brokers inside a test environment for producer, consumer, serialization, and listener integration testing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Embedded Kafka** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. Embedded Kafka starts Kafka brokers inside a test environment for producer, consumer, serialization, and listener integration testing.
 

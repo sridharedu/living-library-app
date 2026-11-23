@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Request correlation attaches a shared identifier to logs, traces, and downstream calls for one logical request.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Request correlation** serves as a foundational component within *API Reliability* in the broader **API Design** ecosystem. Request correlation attaches a shared identifier to logs, traces, and downstream calls for one logical request.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> REQUIRED joins an existing transaction or creates a new one when none exists. It is Spring's default propagation mode.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Propagation REQUIRED** serves as a foundational component within *Transaction Management* in the broader **Spring Transactions** ecosystem. REQUIRED joins an existing transaction or creates a new one when none exists. It is Spring's default propagation mode.
 

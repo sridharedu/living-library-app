@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Boot DevTools improves local development with automatic restart, LiveReload support, and development-friendly defaults.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DevTools** serves as a foundational component within *Boot Fundamentals* in the broader **Spring Boot** ecosystem. Spring Boot DevTools improves local development with automatic restart, LiveReload support, and development-friendly defaults.
 

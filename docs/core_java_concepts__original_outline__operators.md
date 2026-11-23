@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Operators perform actions on values, such as arithmetic, comparison, assignment, logical checks, and bit manipulation. Operator precedence decides the evaluation order, so parentheses are useful when clarity matters.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Operators** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Operators perform actions on values, such as arithmetic, comparison, assignment, logical checks, and bit manipulation. Operator precedence decides the evaluation order, so parentheses are useful when clarity matters.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Healthy on-call practices use clear ownership, useful alerts, escalation paths, runbooks, manageable rotations, and recovery time.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **On-call practices** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. Healthy on-call practices use clear ownership, useful alerts, escalation paths, runbooks, manageable rotations, and recovery time.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Performance Efficiency focuses on selecting and evolving resources that meet demand efficiently.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Performance Efficiency pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. Performance Efficiency focuses on selecting and evolving resources that meet demand efficiently.
 

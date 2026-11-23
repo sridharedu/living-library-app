@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> RIGHT JOIN returns every right-side row and matching left-side rows, using nulls when no match exists.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RIGHT JOIN** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. RIGHT JOIN returns every right-side row and matching left-side rows, using nulls when no match exists.
 

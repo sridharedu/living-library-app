@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Default methods let interfaces add behavior without breaking existing implementers. They should support evolution, not become hidden base classes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Default interface methods** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Default methods let interfaces add behavior without breaking existing implementers. They should support evolution, not become hidden base classes.
 

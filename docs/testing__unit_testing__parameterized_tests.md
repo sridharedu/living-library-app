@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Parameterized tests execute the same test logic with multiple argument sets from values, methods, CSV, enums, or custom sources.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Parameterized tests** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Parameterized tests execute the same test logic with multiple argument sets from values, methods, CSV, enums, or custom sources.
 

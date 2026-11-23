@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> filter keeps only elements that satisfy a Predicate. It is a stateless intermediate operation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **filter** serves as a foundational component within *Common Operations* in the broader **Java Streams** ecosystem. filter keeps only elements that satisfy a Predicate. It is a stateless intermediate operation.
 

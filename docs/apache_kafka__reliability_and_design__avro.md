@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Avro is a compact binary serialization format with writer and reader schemas, making it well suited for schema evolution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Avro** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Avro is a compact binary serialization format with writer and reader schemas, making it well suited for schema evolution.
 

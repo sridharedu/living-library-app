@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Service Level Indicators are measured values that represent service reliability, such as availability or successful-request latency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SLIs** serves as a foundational component within *Monitoring* in the broader **Observability** ecosystem. Service Level Indicators are measured values that represent service reliability, such as availability or successful-request latency.
 

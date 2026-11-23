@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Double-checked locking avoids repeated synchronization during lazy initialization. The shared instance field must be volatile for correctness.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Double-checked locking** serves as a foundational component within *Memory Model* in the broader **Java Concurrency** ecosystem. Double-checked locking avoids repeated synchronization during lazy initialization. The shared instance field must be volatile for correctness.
 

@@ -1,4 +1,9 @@
-﻿<section style="color:#4B5563; font-size:16px; line-height:1.7;">
+> **Core Definition:**  
+> HandlerAdapter invokes the selected handler using the correct calling strategy and converts its result into the MVC processing flow.
+
+---
+
+<section style="color:#4B5563; font-size:16px; line-height:1.7;">
   <p style="color:#5B3A42; font-family:Georgia, 'Times New Roman', serif; font-weight:700; letter-spacing:0.01em;">
     HandlerAdapter invokes the selected handler using the correct calling strategy and converts its result into the MVC processing flow.
   </p>

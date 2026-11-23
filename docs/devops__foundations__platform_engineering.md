@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Platform engineering builds reusable internal products and paved paths that help development teams deliver safely with less cognitive load.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Platform engineering** serves as a foundational component within *Foundations* in the broader **DevOps** ecosystem. Platform engineering builds reusable internal products and paved paths that help development teams deliver safely with less cognitive load.
 

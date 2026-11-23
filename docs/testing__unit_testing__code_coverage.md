@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Code coverage measures which lines, branches, or methods tests execute. It is a gap indicator, not proof of test quality.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Code coverage** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Code coverage measures which lines, branches, or methods tests execute. It is a gap indicator, not proof of test quality.
 

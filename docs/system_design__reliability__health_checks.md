@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Health checks determine whether an instance is alive, ready, or dependent on failing resources and should influence routing or recovery.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Health checks** serves as a foundational component within *Reliability* in the broader **System Design** ecosystem. Health checks determine whether an instance is alive, ready, or dependent on failing resources and should influence routing or recovery.
 

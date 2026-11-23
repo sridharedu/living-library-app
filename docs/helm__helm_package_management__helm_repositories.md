@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Helm repository hosts packaged charts and an index that Helm clients can search and download.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helm repositories** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. A Helm repository hosts packaged charts and an index that Helm clients can search and download.
 

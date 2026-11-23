@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A fair lock tends to grant access in waiting order, reducing starvation but often lowering throughput.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lock fairness** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. A fair lock tends to grant access in waiting order, reducing starvation but often lowering throughput.
 

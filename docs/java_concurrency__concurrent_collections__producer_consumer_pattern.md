@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The producer-consumer pattern separates work creation from processing through a shared queue, balancing rates and isolating responsibilities.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Producer-consumer pattern** serves as a foundational component within *Concurrent Collections* in the broader **Java Concurrency** ecosystem. The producer-consumer pattern separates work creation from processing through a shared queue, balancing rates and isolating responsibilities.
 

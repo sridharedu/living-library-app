@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An inner class is tied to an instance of the enclosing class and can access its instance members directly.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Inner classes** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. An inner class is tied to an instance of the enclosing class and can access its instance members directly.
 

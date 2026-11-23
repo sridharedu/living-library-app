@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cassandra tombstones mark deletions until compaction safely removes old values across replicas. Excess tombstones degrade reads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Tombstones** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Cassandra tombstones mark deletions until compaction safely removes old values across replicas. Excess tombstones degrade reads.
 

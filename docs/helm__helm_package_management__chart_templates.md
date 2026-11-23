@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Helm chart templates are Go-template files that generate Kubernetes manifests from chart values and release context.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Chart templates** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. Helm chart templates are Go-template files that generate Kubernetes manifests from chart values and release context.
 

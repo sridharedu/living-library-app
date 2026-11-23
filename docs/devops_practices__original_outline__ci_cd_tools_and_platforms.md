@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CI/CD tools automate source integration, builds, tests, artifact creation, approvals, and deployment. Common choices include Jenkins, GitHub Actions, GitLab CI, Azure DevOps, CircleCI, and AWS CodePipeline.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CI/CD Tools and Platforms** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. CI/CD tools automate source integration, builds, tests, artifact creation, approvals, and deployment. Common choices include Jenkins, GitHub Actions, GitLab CI, Azure DevOps, CircleCI, and AWS CodePipeline.
 

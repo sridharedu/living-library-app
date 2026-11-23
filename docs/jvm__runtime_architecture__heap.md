@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The heap stores objects and arrays shared across threads. Garbage collectors reclaim unreachable objects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Heap** serves as a foundational component within *Runtime Architecture* in the broader **JVM** ecosystem. The heap stores objects and arrays shared across threads. Garbage collectors reclaim unreachable objects.
 

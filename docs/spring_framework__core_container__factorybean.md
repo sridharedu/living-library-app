@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> FactoryBean is a bean that creates another object. Retrieving its name returns the product, while prefixing with & returns the factory itself.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **FactoryBean** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. FactoryBean is a bean that creates another object. Retrieving its name returns the product, while prefixing with & returns the factory itself.
 

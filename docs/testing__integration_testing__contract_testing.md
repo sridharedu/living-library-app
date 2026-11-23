@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Contract testing verifies that service providers and consumers agree on request, response, event, and compatibility expectations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Contract testing** serves as a foundational component within *Integration Testing* in the broader **Testing** ecosystem. Contract testing verifies that service providers and consumers agree on request, response, event, and compatibility expectations.
 

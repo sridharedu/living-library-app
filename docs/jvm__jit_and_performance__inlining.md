@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Inlining replaces a method call with the called method's body, removing call overhead and enabling further optimizations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Inlining** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Inlining replaces a method call with the called method's body, removing call overhead and enabling further optimizations.
 

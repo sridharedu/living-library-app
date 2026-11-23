@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @RequestMapping maps requests by path, HTTP method, headers, parameters, content type, or accepted response type. It can define a common route at class level and narrower routes on methods.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **@RequestMapping** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. @RequestMapping maps requests by path, HTTP method, headers, parameters, content type, or accepted response type. It can define a common route at class level and narrower routes on methods.
 

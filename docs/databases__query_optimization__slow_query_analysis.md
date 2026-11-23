@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Slow query analysis combines timing, execution plans, waits, row counts, indexes, and realistic parameters to find the true bottleneck.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Slow query analysis** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Slow query analysis combines timing, execution plans, waits, row counts, indexes, and realistic parameters to find the true bottleneck.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Leaderless replication lets clients write to and read from multiple replicas using quorum-style coordination.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Leaderless replication** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Leaderless replication lets clients write to and read from multiple replicas using quorum-style coordination.
 

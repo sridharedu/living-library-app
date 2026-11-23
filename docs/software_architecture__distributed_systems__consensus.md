@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Consensus lets distributed nodes agree on one value or ordered log despite failures, using algorithms such as Raft or Paxos.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Consensus** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. Consensus lets distributed nodes agree on one value or ordered log despite failures, using algorithms such as Raft or Paxos.
 

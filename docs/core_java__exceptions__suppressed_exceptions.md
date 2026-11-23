@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> When both the main operation and resource closing fail, try-with-resources keeps the primary exception and attaches close failures as suppressed exceptions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Suppressed exceptions** serves as a foundational component within *Exceptions* in the broader **Core Java** ecosystem. When both the main operation and resource closing fail, try-with-resources keeps the primary exception and attaches close failures as suppressed exceptions.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Remote state stores Terraform state in a shared backend so teams and automation can collaborate safely.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Remote state** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Remote state stores Terraform state in a shared backend so teams and automation can collaborate safely.
 

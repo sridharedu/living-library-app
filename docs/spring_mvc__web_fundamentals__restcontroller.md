@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @RestController combines @Controller and @ResponseBody so method return values are written directly to the HTTP response body.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **RestController** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @RestController combines @Controller and @ResponseBody so method return values are written directly to the HTTP response body.
 

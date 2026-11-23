@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Producer throughput improves with larger batches, modest linger, compression, enough buffer memory, and parallel partitions, while latency and durability requirements set limits.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Producer throughput tuning** serves as a foundational component within *Producer Internals* in the broader **Apache Kafka** ecosystem. Producer throughput improves with larger batches, modest linger, compression, enough buffer memory, and parallel partitions, while latency and durability requirements set limits.
 

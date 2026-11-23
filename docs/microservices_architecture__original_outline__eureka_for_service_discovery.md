@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Eureka is a registry where services register themselves and clients retrieve instance lists. It was designed for resilient discovery in dynamic cloud environments.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Eureka for Service Discovery** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Eureka is a registry where services register themselves and clients retrieve instance lists. It was designed for resilient discovery in dynamic cloud environments.
 

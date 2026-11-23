@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Rolling deployment replaces application instances gradually while keeping part of the old version serving traffic.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Rolling deployment** serves as a foundational component within *CI/CD* in the broader **DevOps** ecosystem. Rolling deployment replaces application instances gradually while keeping part of the old version serving traffic.
 

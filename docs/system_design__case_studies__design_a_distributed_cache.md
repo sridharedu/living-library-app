@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A distributed cache partitions keys across nodes, replicates important data, handles eviction and expiration, and manages consistency and rebalancing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a distributed cache** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A distributed cache partitions keys across nodes, replicates important data, handles eviction and expiration, and manages consistency and rebalancing.
 

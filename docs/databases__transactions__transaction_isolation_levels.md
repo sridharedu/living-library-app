@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Transaction isolation levels control how much one transaction can observe concurrent changes made by others.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Transaction isolation levels** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. Transaction isolation levels control how much one transaction can observe concurrent changes made by others.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SQL injection occurs when untrusted input changes a SQL statement. Prevent it with parameterized queries and strict input handling.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SQL injection** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. SQL injection occurs when untrusted input changes a SQL statement. Prevent it with parameterized queries and strict input handling.
 

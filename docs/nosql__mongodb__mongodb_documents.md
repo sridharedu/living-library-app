@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> MongoDB stores BSON documents with nested objects and arrays, allowing flexible aggregate-oriented models.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **MongoDB documents** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. MongoDB stores BSON documents with nested objects and arrays, allowing flexible aggregate-oriented models.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> EXPOSE documents which port an image intends to listen on but does not publish the port to the host.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **EXPOSE** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. EXPOSE documents which port an image intends to listen on but does not publish the port to the host.
 

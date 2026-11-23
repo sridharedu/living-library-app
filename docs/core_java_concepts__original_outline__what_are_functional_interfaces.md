@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Functional interfaces represent behavior as values, allowing methods to receive, return, and compose logic. Examples include Predicate, Function, Consumer, Supplier, Runnable, and Callable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What are Functional Interfaces?** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Functional interfaces represent behavior as values, allowing methods to receive, return, and compose logic. Examples include Predicate, Function, Consumer, Supplier, Runnable, and Callable.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A notification system accepts events, applies user preferences and templates, routes across email, SMS, or push channels, retries failures, and tracks delivery status.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a notification system** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A notification system accepts events, applies user preferences and templates, routes across email, SMS, or push channels, retries failures, and tracks delivery status.
 

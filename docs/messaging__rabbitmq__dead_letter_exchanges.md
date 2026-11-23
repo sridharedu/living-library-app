@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A dead-letter exchange receives messages rejected, expired, or discarded from a queue.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Dead-letter exchanges** serves as a foundational component within *RabbitMQ* in the broader **Messaging** ecosystem. A dead-letter exchange receives messages rejected, expired, or discarded from a queue.
 

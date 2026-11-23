@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Partial updates change selected fields without replacing the full resource, commonly through PATCH.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Partial updates** serves as a foundational component within *REST APIs* in the broader **API Design** ecosystem. Partial updates change selected fields without replacing the full resource, commonly through PATCH.
 

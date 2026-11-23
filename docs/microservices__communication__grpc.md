@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> gRPC is a high-performance RPC framework using Protocol Buffers and HTTP/2. It supports strongly typed contracts, streaming, and generated clients.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **gRPC** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. gRPC is a high-performance RPC framework using Protocol Buffers and HTTP/2. It supports strongly typed contracts, streaming, and generated clients.
 

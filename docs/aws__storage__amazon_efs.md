@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon EFS provides elastic managed NFS file storage that can be mounted concurrently by multiple compute instances.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon EFS** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. Amazon EFS provides elastic managed NFS file storage that can be mounted concurrently by multiple compute instances.
 

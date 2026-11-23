@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Class objects expose runtime metadata such as name, modifiers, superclass, interfaces, annotations, fields, methods, and constructors.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Class metadata** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. Class objects expose runtime metadata such as name, modifiers, superclass, interfaces, annotations, fields, methods, and constructors.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Offset commits record the next position a consumer should read after restart or rebalance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Offset commits** serves as a foundational component within *Consumer Internals* in the broader **Apache Kafka** ecosystem. Offset commits record the next position a consumer should read after restart or rebalance.
 

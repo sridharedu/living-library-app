@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> S3 storage classes trade access cost, retrieval time, resilience, and minimum duration for different usage patterns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **S3 storage classes** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. S3 storage classes trade access cost, retrieval time, resilience, and minimum duration for different usage patterns.
 

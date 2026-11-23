@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Trunk-based development uses one main branch with frequent small integrations and short-lived branches.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Trunk-based development** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Trunk-based development uses one main branch with frequent small integrations and short-lived branches.
 

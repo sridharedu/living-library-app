@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Shield Standard provides baseline DDoS protection at no extra charge. Shield Advanced adds enhanced detection, near-real-time visibility, response support, and financial safeguards.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Types of AWS Shield** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Shield Standard provides baseline DDoS protection at no extra charge. Shield Advanced adds enhanced detection, near-real-time visibility, response support, and financial safeguards.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> S3 Versioning preserves multiple versions of an object, protecting against accidental overwrite or deletion. It improves recovery but increases storage usage until old versions are removed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **S3 Versioning** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. S3 Versioning preserves multiple versions of an object, protecting against accidental overwrite or deletion. It improves recovery but increases storage usage until old versions are removed.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spark SQL lets applications query structured data with SQL or DataFrame APIs and supports sources such as Hive, Parquet, JSON, and JDBC.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spark SQL** serves as a foundational component within *Big Data* in the broader **Data Engineering** ecosystem. Spark SQL lets applications query structured data with SQL or DataFrame APIs and supports sources such as Hive, Parquet, JSON, and JDBC.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Major GC primarily targets the old generation. Terminology varies by collector and may not imply a full-heap collection.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Major GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Major GC primarily targets the old generation. Terminology varies by collector and may not imply a full-heap collection.
 

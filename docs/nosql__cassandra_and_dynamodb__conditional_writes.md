@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Conditional writes apply a change only when an expression matches, enabling optimistic concurrency and uniqueness checks.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Conditional writes** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Conditional writes apply a change only when an expression matches, enabling optimistic concurrency and uniqueness checks.
 

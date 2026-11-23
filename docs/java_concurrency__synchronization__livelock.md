@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Livelock occurs when threads keep reacting to each other and changing state but make no real progress. Unlike deadlock, they remain active.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Livelock** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. Livelock occurs when threads keep reacting to each other and changing state but make no real progress. Unlike deadlock, they remain active.
 

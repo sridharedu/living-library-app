@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Setter injection provides a dependency after object creation through a setter method. It is useful for optional dependencies but permits partially configured mutable objects.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Setter Injection** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Setter injection provides a dependency after object creation through a setter method. It is useful for optional dependencies but permits partially configured mutable objects.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS X-Ray traces requests across distributed services and visualizes latency, dependencies, and errors.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **X-Ray** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. AWS X-Ray traces requests across distributed services and visualizes latency, dependencies, and errors.
 

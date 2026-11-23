@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Spring IoC container creates, configures, wires, and manages application objects called beans.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring IoC container** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. The Spring IoC container creates, configures, wires, and manages application objects called beans.
 

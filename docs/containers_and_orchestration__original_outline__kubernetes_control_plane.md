@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The control plane exposes the API, stores cluster state, schedules Pods, and runs controllers. It is the decision-making layer of Kubernetes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kubernetes Control Plane** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. The control plane exposes the API, stores cluster state, schedules Pods, and runs controllers. It is the decision-making layer of Kubernetes.
 

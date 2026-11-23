@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DevOps combines culture, practices, and automation to shorten delivery cycles while improving reliability. It connects development, operations, security, and feedback.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Introduction to DevOps** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. DevOps combines culture, practices, and automation to shorten delivery cycles while improving reliability. It connects development, operations, security, and feedback.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Serial GC uses a single garbage-collection thread and suits small heaps or simple applications.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Serial GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Serial GC uses a single garbage-collection thread and suits small heaps or simple applications.
 

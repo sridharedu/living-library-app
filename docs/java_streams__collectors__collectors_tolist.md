@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Collectors.toList accumulates elements into a List, but does not guarantee mutability or implementation type.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Collectors.toList** serves as a foundational component within *Collectors* in the broader **Java Streams** ecosystem. Collectors.toList accumulates elements into a List, but does not guarantee mutability or implementation type.
 

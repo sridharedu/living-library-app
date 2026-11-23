@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Proof Key for Code Exchange binds an authorization-code flow to the client that initiated it, protecting public clients from code interception.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PKCE** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. Proof Key for Code Exchange binds an authorization-code flow to the client that initiated it, protecting public clients from code interception.
 

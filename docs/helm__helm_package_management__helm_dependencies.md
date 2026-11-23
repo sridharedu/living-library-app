@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Helm dependencies let one chart include and configure other charts.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Helm dependencies** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. Helm dependencies let one chart include and configure other charts.
 

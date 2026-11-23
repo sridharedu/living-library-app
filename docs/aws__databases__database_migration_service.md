@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Database Migration Service moves or replicates data between supported sources and targets with minimal downtime.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Database Migration Service** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. AWS Database Migration Service moves or replicates data between supported sources and targets with minimal downtime.
 

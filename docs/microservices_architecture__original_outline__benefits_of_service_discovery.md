@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Discovery removes hard-coded endpoints, supports elastic scaling and failover, and simplifies dynamic environments. It must still be paired with health checks and load balancing.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Benefits of Service Discovery** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Discovery removes hard-coded endpoints, supports elastic scaling and failover, and simplifies dynamic environments. It must still be paired with health checks and load balancing.
 

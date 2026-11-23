@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Git tags are stable references commonly used to mark releases. Annotated tags include metadata and can be signed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Tags** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Git tags are stable references commonly used to mark releases. Annotated tags include metadata and can be signed.
 

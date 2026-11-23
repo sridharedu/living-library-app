@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An interface defines a contract that classes can implement. It supports abstract, default, static, and private methods but no instance state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Interfaces** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. An interface defines a contract that classes can implement. It supports abstract, default, static, and private methods but no instance state.
 

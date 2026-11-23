@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Logout should clear the security context, invalidate the session, remove relevant cookies, and optionally revoke tokens.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Logout handling** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Logout should clear the security context, invalidate the session, remove relevant cookies, and optionally revoke tokens.
 

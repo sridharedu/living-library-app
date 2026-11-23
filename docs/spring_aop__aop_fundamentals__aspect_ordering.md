@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> When several aspects apply, ordering controls nesting and execution sequence. Use explicit order only where behavior depends on it.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Aspect ordering** serves as a foundational component within *AOP Fundamentals* in the broader **Spring AOP** ecosystem. When several aspects apply, ordering controls nesting and execution sequence. Use explicit order only where behavior depends on it.
 

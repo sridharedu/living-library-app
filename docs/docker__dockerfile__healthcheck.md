@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> HEALTHCHECK defines a command Docker runs periodically to determine whether the container is healthy.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **HEALTHCHECK** serves as a foundational component within *Dockerfile* in the broader **Docker** ecosystem. HEALTHCHECK defines a command Docker runs periodically to determine whether the container is healthy.
 

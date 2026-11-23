@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Runnable returns no result and cannot declare checked exceptions, while Callable returns a value and may throw checked exceptions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Runnable vs Callable** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. Runnable returns no result and cannot declare checked exceptions, while Callable returns a value and may throw checked exceptions.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Jenkins freestyle jobs configure build steps through the UI. They are simple but less portable and reviewable than pipeline code.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Freestyle jobs** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Jenkins freestyle jobs configure build steps through the UI. They are simple but less portable and reviewable than pipeline code.
 

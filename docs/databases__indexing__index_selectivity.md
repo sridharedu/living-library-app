@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Index selectivity measures how narrowly an indexed value identifies rows. Highly selective indexes are generally more useful.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Index selectivity** serves as a foundational component within *Indexing* in the broader **Databases** ecosystem. Index selectivity measures how narrowly an indexed value identifies rows. Highly selective indexes are generally more useful.
 

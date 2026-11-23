@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Leader-follower replication sends writes to one leader and copies changes to follower replicas.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Leader-follower replication** serves as a foundational component within *Data Partitioning* in the broader **System Design** ecosystem. Leader-follower replication sends writes to one leader and copies changes to follower replicas.
 

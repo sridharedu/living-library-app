@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Incident response covers detection, triage, containment, communication, mitigation, recovery, and follow-up.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Incident response** serves as a foundational component within *SRE* in the broader **Reliability Engineering** ecosystem. Incident response covers detection, triage, containment, communication, mitigation, recovery, and follow-up.
 

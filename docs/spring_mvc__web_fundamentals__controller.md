@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @Controller marks a Spring MVC component that handles web requests and may return logical view names.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Controller** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @Controller marks a Spring MVC component that handles web requests and may return logical view names.
 

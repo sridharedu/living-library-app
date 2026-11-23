@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon RDS manages relational database provisioning, backups, patching, monitoring, scaling, and high availability for supported engines.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon RDS** serves as a foundational component within *Databases* in the broader **AWS** ecosystem. Amazon RDS manages relational database provisioning, backups, patching, monitoring, scaling, and high availability for supported engines.
 

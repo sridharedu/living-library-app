@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Escape analysis determines whether an object remains within a method or thread, enabling optimizations such as allocation elimination and lock removal.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Escape analysis** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. Escape analysis determines whether an object remains within a method or thread, enabling optimizations such as allocation elimination and lock removal.
 

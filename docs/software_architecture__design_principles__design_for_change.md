@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Design for change isolates volatile decisions, keeps contracts explicit, and avoids premature abstractions that make evolution harder.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design for change** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Design for change isolates volatile decisions, keeps contracts explicit, and avoids premature abstractions that make evolution harder.
 

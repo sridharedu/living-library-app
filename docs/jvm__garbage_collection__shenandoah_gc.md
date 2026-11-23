@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Shenandoah is a low-pause collector that performs concurrent evacuation and compaction to reduce pause times.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Shenandoah GC** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. Shenandoah is a low-pause collector that performs concurrent evacuation and compaction to reduce pause times.
 

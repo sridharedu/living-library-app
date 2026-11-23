@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> TDD can improve design feedback, regression safety, confidence, and refactorability. It is most effective when tests focus on behavior rather than internals.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Benefits of TDD** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. TDD can improve design feedback, regression safety, confidence, and refactorability. It is most effective when tests focus on behavior rather than internals.
 

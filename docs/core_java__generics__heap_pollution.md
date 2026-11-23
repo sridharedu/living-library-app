@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Heap pollution occurs when a variable of a parameterized type refers to an object with an incompatible type, often through raw types or unsafe varargs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Heap pollution** serves as a foundational component within *Generics* in the broader **Core Java** ecosystem. Heap pollution occurs when a variable of a parameterized type refers to an object with an incompatible type, often through raw types or unsafe varargs.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Placement groups influence EC2 placement for low latency, distributed fault isolation, or partitioned large-scale workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Placement groups** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. Placement groups influence EC2 placement for low latency, distributed fault isolation, or partitioned large-scale workloads.
 

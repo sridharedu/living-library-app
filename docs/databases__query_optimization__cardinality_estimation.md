@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cardinality estimation predicts how many rows each plan operator will produce. Poor estimates often lead to poor plans.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cardinality estimation** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Cardinality estimation predicts how many rows each plan operator will produce. Poor estimates often lead to poor plans.
 

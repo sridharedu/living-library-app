@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Scope defines where a variable can be accessed; lifetime defines how long its storage exists. Local variables, fields, and static fields differ.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Variable scope and lifetime** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Scope defines where a variable can be accessed; lifetime defines how long its storage exists. Local variables, fields, and static fields differ.
 

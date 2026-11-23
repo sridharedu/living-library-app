@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Synchronous REST communication gives immediate request-response semantics but couples availability and latency between caller and callee.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Synchronous REST communication** serves as a foundational component within *Communication* in the broader **Microservices** ecosystem. Synchronous REST communication gives immediate request-response semantics but couples availability and latency between caller and callee.
 

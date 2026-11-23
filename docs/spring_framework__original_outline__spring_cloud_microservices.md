@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Cloud helps microservices handle shared distributed concerns such as configuration, discovery, routing, resilience, and messaging. It complements Spring Boot rather than replacing service design fundamentals.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Spring Cloud Microservices** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Cloud helps microservices handle shared distributed concerns such as configuration, discovery, routing, resilience, and messaging. It complements Spring Boot rather than replacing service design fundamentals.
 

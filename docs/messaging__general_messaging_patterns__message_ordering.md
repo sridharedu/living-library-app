@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Message ordering usually depends on one queue or partition and can be broken by concurrency, retries, or redelivery.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Message ordering** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Message ordering usually depends on one queue or partition and can be broken by concurrency, retries, or redelivery.
 

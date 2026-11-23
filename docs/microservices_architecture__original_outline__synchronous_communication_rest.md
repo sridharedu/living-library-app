@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> REST calls provide an immediate request-response interaction and are easy to understand. They also create temporal coupling, so timeouts, retries, circuit breakers, and idempotency are essential.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Synchronous Communication (REST)** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. REST calls provide an immediate request-response interaction and are easy to understand. They also create temporal coupling, so timeouts, retries, circuit breakers, and idempotency are essential.
 

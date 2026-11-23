@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> UNION combines results and removes duplicates, while UNION ALL preserves duplicates and is usually faster.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **UNION vs UNION ALL** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. UNION combines results and removes duplicates, while UNION ALL preserves duplicates and is usually faster.
 

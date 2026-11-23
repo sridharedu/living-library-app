@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> jcmd sends diagnostic commands to a running JVM for thread dumps, heap dumps, GC information, Flight Recorder, and native-memory tracking.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **jcmd** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. jcmd sends diagnostic commands to a running JVM for thread dumps, heap dumps, GC information, Flight Recorder, and native-memory tracking.
 

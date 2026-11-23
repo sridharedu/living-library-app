@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Information hiding keeps implementation decisions private behind an interface so callers depend only on stable behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Information hiding** serves as a foundational component within *Design Principles* in the broader **Software Architecture** ecosystem. Information hiding keeps implementation decisions private behind an interface so callers depend only on stable behavior.
 

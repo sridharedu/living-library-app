@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A DynamoDB partition key is hashed to distribute items across physical partitions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DynamoDB partition keys** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. A DynamoDB partition key is hashed to distribute items across physical partitions.
 

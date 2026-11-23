@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A lambda can capture local variables from its enclosing scope only when they are final or effectively final. Instance fields can still change.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Variable capture** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. A lambda can capture local variables from its enclosing scope only when they are final or effectively final. Instance fields can still change.
 

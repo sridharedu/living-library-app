@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Indexes accelerate lookups and sorting by maintaining additional data structures. They improve reads but consume storage and add write overhead.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Indexes in Database Design** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. Indexes accelerate lookups and sorting by maintaining additional data structures. They improve reads but consume storage and add write overhead.
 

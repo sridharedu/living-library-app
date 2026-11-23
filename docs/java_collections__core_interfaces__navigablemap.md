@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> NavigableMap extends SortedMap with navigation methods for nearest keys and descending views.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **NavigableMap** serves as a foundational component within *Core Interfaces* in the broader **Java Collections** ecosystem. NavigableMap extends SortedMap with navigation methods for nearest keys and descending views.
 

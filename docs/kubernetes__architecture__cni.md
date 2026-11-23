@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Container Network Interface defines how plugins configure Pod network interfaces, IP addresses, and routes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CNI** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The Container Network Interface defines how plugins configure Pod network interfaces, IP addresses, and routes.
 

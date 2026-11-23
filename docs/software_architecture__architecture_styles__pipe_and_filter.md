@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pipe-and-filter architecture processes data through independent transformation stages connected as a pipeline.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Pipe-and-filter** serves as a foundational component within *Architecture Styles* in the broader **Software Architecture** ecosystem. Pipe-and-filter architecture processes data through independent transformation stages connected as a pipeline.
 

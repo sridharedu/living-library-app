@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> KafkaTemplate sends records to Kafka asynchronously and supports keys, headers, partitions, callbacks, and transactions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **KafkaTemplate** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. KafkaTemplate sends records to Kafka asynchronously and supports keys, headers, partitions, callbacks, and transactions.
 

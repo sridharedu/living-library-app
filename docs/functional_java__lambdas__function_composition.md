@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Function composition combines transformations into pipelines using compose and andThen. Order matters because output from one becomes input to the next.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Function composition** serves as a foundational component within *Lambdas* in the broader **Functional Java** ecosystem. Function composition combines transformations into pipelines using compose and andThen. Order matters because output from one becomes input to the next.
 

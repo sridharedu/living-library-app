@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A write-through cache updates the cache and backing store in the same request path, keeping them consistent but adding write latency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Write-through cache** serves as a foundational component within *Caching* in the broader **System Design** ecosystem. A write-through cache updates the cache and backing store in the same request path, keeping them consistent but adding write latency.
 

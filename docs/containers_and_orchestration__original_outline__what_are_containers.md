@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A container is an isolated process that shares the host operating-system kernel while using its own filesystem, network, and resource limits.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What are Containers?** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. A container is an isolated process that shares the host operating-system kernel while using its own filesystem, network, and resource limits.
 

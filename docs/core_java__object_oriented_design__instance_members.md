@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Instance members belong to individual objects and can access that object's fields and methods through this.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Instance members** serves as a foundational component within *Object-Oriented Design* in the broader **Core Java** ecosystem. Instance members belong to individual objects and can access that object's fields and methods through this.
 

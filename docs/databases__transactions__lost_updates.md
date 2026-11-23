@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A lost update occurs when two transactions read the same value and later one write overwrites the other's change.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Lost updates** serves as a foundational component within *Transactions* in the broader **Databases** ecosystem. A lost update occurs when two transactions read the same value and later one write overwrites the other's change.
 

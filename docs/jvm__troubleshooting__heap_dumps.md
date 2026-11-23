@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A heap dump is a snapshot of live JVM objects and references. It supports retained-memory and leak analysis.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Heap dumps** serves as a foundational component within *Troubleshooting* in the broader **JVM** ecosystem. A heap dump is a snapshot of live JVM objects and references. It supports retained-memory and leak analysis.
 

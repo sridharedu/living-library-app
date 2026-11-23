@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Soft references may survive until memory pressure increases. They are not a reliable general-purpose cache policy.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Soft references** serves as a foundational component within *Memory Management* in the broader **JVM** ecosystem. Soft references may survive until memory pressure increases. They are not a reliable general-purpose cache policy.
 

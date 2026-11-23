@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Transport Layer Security authenticates endpoints and provides encrypted, integrity-protected network communication.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **TLS** serves as a foundational component within *Cryptography* in the broader **Application Security** ecosystem. Transport Layer Security authenticates endpoints and provides encrypted, integrity-protected network communication.
 

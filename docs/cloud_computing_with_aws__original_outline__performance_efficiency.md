@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Performance efficiency uses computing resources effectively as demand and technology change. It emphasizes measurement, suitable service choices, and continuous optimization.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Performance Efficiency** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. Performance efficiency uses computing resources effectively as demand and technology change. It emphasizes measurement, suitable service choices, and continuous optimization.
 

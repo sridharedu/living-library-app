@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> GitFlow uses long-lived main and develop branches plus feature, release, and hotfix branches, adding structure but also merge overhead.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **GitFlow** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. GitFlow uses long-lived main and develop branches plus feature, release, and hotfix branches, adding structure but also merge overhead.
 

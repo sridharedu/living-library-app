@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kafka exactly-once processing atomically commits consumed offsets and produced records so failures do not create duplicate visible results.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Exactly-once processing** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. Kafka exactly-once processing atomically commits consumed offsets and produced records so failures do not create duplicate visible results.
 

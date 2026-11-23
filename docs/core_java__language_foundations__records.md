@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Records are concise immutable data carriers that automatically provide accessors, equals, hashCode, and toString based on their components.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Records** serves as a foundational component within *Language Foundations* in the broader **Core Java** ecosystem. Records are concise immutable data carriers that automatically provide accessors, equals, hashCode, and toString based on their components.
 

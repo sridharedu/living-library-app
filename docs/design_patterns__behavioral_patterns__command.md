@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Command represents an action as an object, enabling queuing, retries, logging, undo, and decoupled invocation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Command** serves as a foundational component within *Behavioral Patterns* in the broader **Design Patterns** ecosystem. Command represents an action as an object, enabling queuing, retries, logging, undo, and decoupled invocation.
 

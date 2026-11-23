@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Event schema evolution changes event structure without breaking old producers, consumers, or retained historical messages.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Event schema evolution** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. Event schema evolution changes event structure without breaking old producers, consumers, or retained historical messages.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Jenkins automates software delivery tasks through jobs, pipelines, plugins, and distributed agents. It is flexible and mature, but requires active maintenance, security hardening, and plugin governance.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Jenkins for Automation** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Jenkins automates software delivery tasks through jobs, pipelines, plugins, and distributed agents. It is flexible and mature, but requires active maintenance, security hardening, and plugin governance.
 

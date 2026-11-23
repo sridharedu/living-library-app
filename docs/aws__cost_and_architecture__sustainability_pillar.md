@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The Sustainability pillar reduces the environmental impact of workloads through efficient resources, utilization, and managed services.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sustainability pillar** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. The Sustainability pillar reduces the environmental impact of workloads through efficient resources, utilization, and managed services.
 

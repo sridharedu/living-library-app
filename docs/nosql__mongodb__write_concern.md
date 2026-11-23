@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Write concern defines how many acknowledgements and durability guarantees a MongoDB write requires.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Write concern** serves as a foundational component within *MongoDB* in the broader **NoSQL** ecosystem. Write concern defines how many acknowledgements and durability guarantees a MongoDB write requires.
 

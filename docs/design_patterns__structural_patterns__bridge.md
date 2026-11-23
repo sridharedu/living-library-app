@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Bridge separates an abstraction from its implementation so both can evolve independently.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Bridge** serves as a foundational component within *Structural Patterns* in the broader **Design Patterns** ecosystem. Bridge separates an abstraction from its implementation so both can evolve independently.
 

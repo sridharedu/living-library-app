@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis Cluster partitions keys across nodes using hash slots and provides distributed failover.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Redis Cluster** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis Cluster partitions keys across nodes using hash slots and provides distributed failover.
 

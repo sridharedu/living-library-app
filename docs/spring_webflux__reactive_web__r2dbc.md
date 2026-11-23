@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> R2DBC provides reactive, non-blocking access to relational databases through drivers designed for asynchronous execution.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **R2DBC** serves as a foundational component within *Reactive Web* in the broader **Spring WebFlux** ecosystem. R2DBC provides reactive, non-blocking access to relational databases through drivers designed for asynchronous execution.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Externalizable gives a class full control over its serialized form through writeExternal and readExternal. It is more manual than Serializable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Externalization** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. Externalizable gives a class full control over its serialized form through writeExternal and readExternal. It is more manual than Serializable.
 

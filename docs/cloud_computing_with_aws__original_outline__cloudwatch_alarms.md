@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CloudWatch alarms evaluate metrics against thresholds and can notify, scale, or trigger automation. Good alarms focus on user impact and actionable conditions rather than raw noise.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CloudWatch Alarms** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. CloudWatch alarms evaluate metrics against thresholds and can notify, scale, or trigger automation. Good alarms focus on user impact and actionable conditions rather than raw noise.
 

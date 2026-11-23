@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @Import adds configuration classes, selectors, or registrars to an application context.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Import annotation** serves as a foundational component within *Configuration* in the broader **Spring Framework** ecosystem. @Import adds configuration classes, selectors, or registrars to an application context.
 

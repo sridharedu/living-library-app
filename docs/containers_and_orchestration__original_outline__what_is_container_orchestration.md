@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Container orchestration is the automated management of containerized workloads in a cluster. It keeps actual runtime state aligned with declared desired state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Container Orchestration?** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Container orchestration is the automated management of containerized workloads in a cluster. It keeps actual runtime state aligned with declared desired state.
 

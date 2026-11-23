@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Comparator defines an external ordering strategy without changing the class itself. It is ideal when multiple sort orders are needed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Comparator** serves as a foundational component within *Iteration and Sorting* in the broader **Java Collections** ecosystem. Comparator defines an external ordering strategy without changing the class itself. It is ideal when multiple sort orders are needed.
 

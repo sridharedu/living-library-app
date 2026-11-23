@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> StringBuilder is faster for single-threaded mutable text, while StringBuffer synchronizes methods for thread safety.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **StringBuilder vs StringBuffer** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. StringBuilder is faster for single-threaded mutable text, while StringBuffer synchronizes methods for thread safety.
 

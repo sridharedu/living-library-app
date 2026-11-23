@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Test-Driven Development means writing a test before production code, then implementing only enough behavior to make the test pass.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is TDD?** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Test-Driven Development means writing a test before production code, then implementing only enough behavior to make the test pass.
 

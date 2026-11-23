@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CloudWatch Synthetics runs scripted canaries that test endpoints and user journeys from outside the application.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CloudWatch Synthetics** serves as a foundational component within *Observability and Operations* in the broader **AWS** ecosystem. CloudWatch Synthetics runs scripted canaries that test endpoints and user journeys from outside the application.
 

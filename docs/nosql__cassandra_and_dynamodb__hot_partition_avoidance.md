@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Avoid hot DynamoDB partitions by choosing high-cardinality keys, spreading traffic, and sharding bursty write patterns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Hot partition avoidance** serves as a foundational component within *Cassandra and DynamoDB* in the broader **NoSQL** ecosystem. Avoid hot DynamoDB partitions by choosing high-cardinality keys, spreading traffic, and sharding bursty write patterns.
 

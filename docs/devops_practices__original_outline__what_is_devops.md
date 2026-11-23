@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DevOps is a collaborative operating model where teams jointly own software from design through production. Automation and fast feedback enable frequent, safer changes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is DevOps?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. DevOps is a collaborative operating model where teams jointly own software from design through production. Automation and fast feedback enable frequent, safer changes.
 

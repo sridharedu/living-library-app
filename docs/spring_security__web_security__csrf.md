@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Cross-Site Request Forgery tricks a browser into sending an authenticated state-changing request. CSRF tokens protect cookie-based sessions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CSRF** serves as a foundational component within *Web Security* in the broader **Spring Security** ecosystem. Cross-Site Request Forgery tricks a browser into sending an authenticated state-changing request. CSRF tokens protect cookie-based sessions.
 

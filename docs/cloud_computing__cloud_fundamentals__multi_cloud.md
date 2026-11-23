@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multi-cloud uses services from more than one cloud provider for business, resilience, regulatory, or capability reasons, but increases operational complexity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Multi-cloud** serves as a foundational component within *Cloud Fundamentals* in the broader **Cloud Computing** ecosystem. Multi-cloud uses services from more than one cloud provider for business, resilience, regulatory, or capability reasons, but increases operational complexity.
 

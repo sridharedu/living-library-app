@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Unit testing verifies one small behavior in isolation with fast, deterministic tests.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Unit testing** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Unit testing verifies one small behavior in isolation with fast, deterministic tests.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Duplication increases maintenance cost and inconsistency. Remove repeated knowledge when it is truly the same concept, not merely similar-looking code.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Avoiding Code Duplication** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Duplication increases maintenance cost and inconsistency. Remove repeated knowledge when it is truly the same concept, not merely similar-looking code.
 

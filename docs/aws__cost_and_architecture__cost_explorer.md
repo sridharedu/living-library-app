@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AWS Cost Explorer visualizes historical and forecasted spend and usage across services, accounts, tags, and dimensions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cost Explorer** serves as a foundational component within *Cost and Architecture* in the broader **AWS** ecosystem. AWS Cost Explorer visualizes historical and forecasted spend and usage across services, accounts, tags, and dimensions.
 

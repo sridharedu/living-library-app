@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Prototype scope creates a new bean each time it is requested. Spring does not manage the full destruction lifecycle afterward.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Prototype scope** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. Prototype scope creates a new bean each time it is requested. Spring does not manage the full destruction lifecycle afterward.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Retries repeat transiently failed operations with limits, backoff, jitter, and idempotency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Retries** serves as a foundational component within *Reliability* in the broader **System Design** ecosystem. Retries repeat transiently failed operations with limits, backoff, jitter, and idempotency.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A metrics platform ingests labeled time-series data, aggregates and stores it efficiently, evaluates alerts, and supports dashboards and queries.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design a metrics platform** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. A metrics platform ingests labeled time-series data, aggregates and stores it efficiently, evaluates alerts, and supports dashboards and queries.
 

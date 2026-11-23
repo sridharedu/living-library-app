@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Mocking replaces a real dependency with a controllable test double. It lets a test simulate responses and verify interactions.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Mocking?** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Mocking replaces a real dependency with a controllable test double. It lets a test simulate responses and verify interactions.
 

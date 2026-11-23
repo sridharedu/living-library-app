@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Token revocation invalidates a token before natural expiry through server-side state, deny lists, token versioning, or key rotation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Token revocation** serves as a foundational component within *Token Security* in the broader **Spring Security** ecosystem. Token revocation invalidates a token before natural expiry through server-side state, deny lists, token versioning, or key rotation.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @PathVariable binds a value from the URI path, such as /orders/{id}, to a controller method parameter.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PathVariable** serves as a foundational component within *Web Fundamentals* in the broader **Spring MVC** ecosystem. @PathVariable binds a value from the URI path, such as /orders/{id}, to a controller method parameter.
 

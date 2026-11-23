@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The container runtime pulls images and creates, starts, stops, and removes containers on Kubernetes nodes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Container runtime** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. The container runtime pulls images and creates, starts, stops, and removes containers on Kubernetes nodes.
 

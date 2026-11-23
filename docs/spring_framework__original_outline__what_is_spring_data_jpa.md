@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Spring Data JPA is a repository abstraction built on the JPA specification, usually backed by Hibernate. It simplifies data access without replacing entity mapping, transactions, or persistence-context behavior.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Spring Data JPA?** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Spring Data JPA is a repository abstraction built on the JPA specification, usually backed by Hibernate. It simplifies data access without replacing entity mapping, transactions, or persistence-context behavior.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Message TTL defines how long a message may remain before expiring or being dead-lettered.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Message TTL** serves as a foundational component within *General Messaging Patterns* in the broader **Messaging** ecosystem. Message TTL defines how long a message may remain before expiring or being dead-lettered.
 

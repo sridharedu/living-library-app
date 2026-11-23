@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Multipart requests carry files and form fields in separate body parts. Applications should enforce size, type, storage, and security limits.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Multipart uploads** serves as a foundational component within *Advanced Web* in the broader **Spring MVC** ecosystem. Multipart requests carry files and form fields in separate body parts. Applications should enforce size, type, storage, and security limits.
 

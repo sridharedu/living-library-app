@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Daemon threads do not keep the JVM alive when only daemon threads remain. They are unsuitable for critical work that must finish.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Daemon threads** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. Daemon threads do not keep the JVM alive when only daemon threads remain. They are unsuitable for critical work that must finish.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Profile-based beans are activated only when specified Spring profiles are active, allowing environment-specific implementations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Profile-based beans** serves as a foundational component within *Dependency Injection* in the broader **Spring Framework** ecosystem. Profile-based beans are activated only when specified Spring profiles are active, allowing environment-specific implementations.
 

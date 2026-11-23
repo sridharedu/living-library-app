@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Parallel stages run independent work at the same time, such as tests across modules or platforms, reducing pipeline duration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Parallel stages** serves as a foundational component within *Jenkins Automation* in the broader **Jenkins** ecosystem. Parallel stages run independent work at the same time, such as tests across modules or platforms, reducing pipeline duration.
 

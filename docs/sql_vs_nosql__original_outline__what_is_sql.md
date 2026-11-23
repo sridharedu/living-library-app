@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SQL is the language used to define, query, modify, and control relational data. It supports selection, joins, aggregation, transactions, and schema operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is SQL?** serves as a foundational component within *Original outline* in the broader **SQL vs NoSQL** ecosystem. SQL is the language used to define, query, modify, and control relational data. It supports selection, joins, aggregation, transactions, and schema operations.
 

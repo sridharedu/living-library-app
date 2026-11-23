@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> BigInteger supports integers larger than primitive long. Its operations return new immutable values.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **BigInteger** serves as a foundational component within *Strings and Numbers* in the broader **Core Java** ecosystem. BigInteger supports integers larger than primitive long. Its operations return new immutable values.
 

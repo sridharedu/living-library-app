@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Shard rebalancing moves data and traffic when capacity or distribution changes. It must minimize downtime, duplication, and inconsistency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Rebalancing shards** serves as a foundational component within *Replication and Scaling* in the broader **Databases** ecosystem. Shard rebalancing moves data and traffic when capacity or distribution changes. It must minimize downtime, duplication, and inconsistency.
 

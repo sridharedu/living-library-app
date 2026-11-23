@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Repository provides a collection-like abstraction over domain object persistence and query operations.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Repository pattern** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. Repository provides a collection-like abstraction over domain object persistence and query operations.
 

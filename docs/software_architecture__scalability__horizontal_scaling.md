@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Horizontal scaling adds more instances and distributes traffic or data among them.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Horizontal scaling** serves as a foundational component within *Scalability* in the broader **Software Architecture** ecosystem. Horizontal scaling adds more instances and distributes traffic or data among them.
 

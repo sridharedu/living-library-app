@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Inheritance lets one class reuse and extend the behavior of another class through an is-a relationship. It can reduce duplication, but composition is often safer when the relationship is not truly hierarchical.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Inheritance** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Inheritance lets one class reuse and extend the behavior of another class through an is-a relationship. It can reduce duplication, but composition is often safer when the relationship is not truly hierarchical.
 

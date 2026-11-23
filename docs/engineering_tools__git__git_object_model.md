@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Git stores immutable blobs, trees, commits, and annotated tags addressed by content hashes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Git object model** serves as a foundational component within *Git* in the broader **Engineering Tools** ecosystem. Git stores immutable blobs, trees, commits, and annotated tags addressed by content hashes.
 

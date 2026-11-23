@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Services communicate synchronously through APIs or asynchronously through messaging. The choice affects latency, coupling, consistency, resilience, and operational complexity.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Inter-Service Communication** serves as a foundational component within *Original outline* in the broader **Microservices Architecture** ecosystem. Services communicate synchronously through APIs or asynchronously through messaging. The choice affects latency, coupling, consistency, resilience, and operational complexity.
 

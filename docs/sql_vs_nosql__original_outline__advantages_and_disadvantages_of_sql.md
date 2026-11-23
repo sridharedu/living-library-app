@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SQL offers mature transactions, constraints, joins, and tooling. Its challenges include rigid schemas and scaling some workloads horizontally.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Advantages and Disadvantages of SQL** serves as a foundational component within *Original outline* in the broader **SQL vs NoSQL** ecosystem. SQL offers mature transactions, constraints, joins, and tooling. Its challenges include rigid schemas and scaling some workloads horizontally.
 

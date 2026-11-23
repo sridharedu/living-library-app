@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An uncaught exception handler receives exceptions that terminate a thread without being caught. It is useful for logging and failure reporting.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Thread uncaught exception handler** serves as a foundational component within *Thread Fundamentals* in the broader **Java Concurrency** ecosystem. An uncaught exception handler receives exceptions that terminate a thread without being caught. It is useful for logging and failure reporting.
 

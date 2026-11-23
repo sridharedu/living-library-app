@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java configuration uses @Configuration classes and @Bean methods to define application components explicitly. It is type-safe, refactor-friendly, and the preferred modern alternative to XML.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Java-based Configuration** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Java configuration uses @Configuration classes and @Bean methods to define application components explicitly. It is type-safe, refactor-friendly, and the preferred modern alternative to XML.
 

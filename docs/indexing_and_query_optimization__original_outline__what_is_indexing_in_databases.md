@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Indexing creates auxiliary structures that help the database locate rows without scanning every record. Effective indexes follow real query patterns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Indexing in Databases?** serves as a foundational component within *Original outline* in the broader **Indexing and Query Optimization** ecosystem. Indexing creates auxiliary structures that help the database locate rows without scanning every record. Effective indexes follow real query patterns.
 

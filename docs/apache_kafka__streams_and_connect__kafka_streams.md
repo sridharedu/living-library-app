@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Kafka Streams is a Java library for building stateful or stateless stream-processing applications directly on Kafka.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Kafka Streams** serves as a foundational component within *Streams and Connect* in the broader **Apache Kafka** ecosystem. Kafka Streams is a Java library for building stateful or stateless stream-processing applications directly on Kafka.
 

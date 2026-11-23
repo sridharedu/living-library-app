@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> DevOps tools support source control, build, testing, artifact management, infrastructure automation, containers, deployment, monitoring, and collaboration.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **DevOps Tools Ecosystem** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. DevOps tools support source control, build, testing, artifact management, infrastructure automation, containers, deployment, monitoring, and collaboration.
 

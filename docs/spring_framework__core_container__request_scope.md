@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Request scope creates one bean instance per HTTP request and requires a web-aware application context.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Request scope** serves as a foundational component within *Core Container* in the broader **Spring Framework** ecosystem. Request scope creates one bean instance per HTTP request and requires a web-aware application context.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Terraform import associates an existing infrastructure object with a resource address in state so it can be managed declaratively.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Import** serves as a foundational component within *Terraform* in the broader **Infrastructure as Code** ecosystem. Terraform import associates an existing infrastructure object with a resource address in state so it can be managed declaratively.
 

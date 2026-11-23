@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Terraform provisions AWS resources through declarative configuration, providers, plans, and managed state.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Terraform on AWS** serves as a foundational component within *Infrastructure as Code* in the broader **AWS** ecosystem. Terraform provisions AWS resources through declarative configuration, providers, plans, and managed state.
 

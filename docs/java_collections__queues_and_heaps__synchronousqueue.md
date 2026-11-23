@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> SynchronousQueue has no capacity; each put waits for a matching take. It directly hands work from producer to consumer.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **SynchronousQueue** serves as a foundational component within *Queues and Heaps* in the broader **Java Collections** ecosystem. SynchronousQueue has no capacity; each put waits for a matching take. It directly hands work from producer to consumer.
 

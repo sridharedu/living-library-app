@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An API gateway centralizes routing, authentication, rate limiting, transformation, observability, and resilience while avoiding a single bottleneck.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Design an API gateway** serves as a foundational component within *Case Studies* in the broader **System Design** ecosystem. An API gateway centralizes routing, authentication, rate limiting, transformation, observability, and resilience while avoiding a single bottleneck.
 

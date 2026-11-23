@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Common tools include Spring Boot Test, Testcontainers, WireMock, REST Assured, embedded brokers, and dedicated test environments.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Tools for Integration Testing** serves as a foundational component within *Original outline* in the broader **Testing & Best Practices** ecosystem. Common tools include Spring Boot Test, Testcontainers, WireMock, REST Assured, embedded brokers, and dedicated test environments.
 

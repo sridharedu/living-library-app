@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Window functions calculate values across related rows without collapsing them into one row per group.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Window functions** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. Window functions calculate values across related rows without collapsing them into one row per group.
 

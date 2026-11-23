@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Buffered streams reduce expensive underlying read or write calls by using an in-memory buffer. They usually improve IO performance significantly.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Buffered streams** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. Buffered streams reduce expensive underlying read or write calls by using an in-memory buffer. They usually improve IO performance significantly.
 

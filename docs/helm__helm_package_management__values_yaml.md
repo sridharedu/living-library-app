@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> values.yaml provides default configuration values consumed by Helm templates.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **values.yaml** serves as a foundational component within *Helm Package Management* in the broader **Helm** ecosystem. values.yaml provides default configuration values consumed by Helm templates.
 

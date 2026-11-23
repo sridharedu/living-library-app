@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Annotation-based AOP uses @Aspect with advice annotations such as @Around and @Before. It is concise, readable, and the standard approach in modern Spring applications.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Annotation-based Configuration** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. Annotation-based AOP uses @Aspect with advice annotations such as @Around and @Before. It is concise, readable, and the standard approach in modern Spring applications.
 

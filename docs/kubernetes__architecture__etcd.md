@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> etcd is Kubernetes' strongly consistent key-value store for cluster state, configuration, and coordination. Protecting and backing it up is critical.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **etcd** serves as a foundational component within *Architecture* in the broader **Kubernetes** ecosystem. etcd is Kubernetes' strongly consistent key-value store for cluster state, configuration, and coordination. Protecting and backing it up is critical.
 

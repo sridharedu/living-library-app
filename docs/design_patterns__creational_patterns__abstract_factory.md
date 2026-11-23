@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Abstract Factory creates families of related objects without exposing concrete classes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Abstract Factory** serves as a foundational component within *Creational Patterns* in the broader **Design Patterns** ecosystem. Abstract Factory creates families of related objects without exposing concrete classes.
 

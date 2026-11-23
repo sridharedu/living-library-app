@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Annotation processors run at compile time to inspect annotations and generate source code, metadata, or validation errors.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Annotation processing** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. Annotation processors run at compile time to inspect annotations and generate source code, metadata, or validation errors.
 

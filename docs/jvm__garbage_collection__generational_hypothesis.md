@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The generational hypothesis observes that most objects die young, so collectors separate young and old objects for efficiency.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Generational hypothesis** serves as a foundational component within *Garbage Collection* in the broader **JVM** ecosystem. The generational hypothesis observes that most objects die young, so collectors separate young and old objects for efficiency.
 

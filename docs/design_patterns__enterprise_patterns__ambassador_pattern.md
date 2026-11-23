@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The ambassador pattern places a local proxy beside an application to manage outbound communication, retries, security, or discovery.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Ambassador pattern** serves as a foundational component within *Enterprise Patterns* in the broader **Design Patterns** ecosystem. The ambassador pattern places a local proxy beside an application to manage outbound communication, retries, security, or discovery.
 

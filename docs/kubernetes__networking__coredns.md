@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CoreDNS provides cluster DNS resolution for Services, Pods, and external names.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CoreDNS** serves as a foundational component within *Networking* in the broader **Kubernetes** ecosystem. CoreDNS provides cluster DNS resolution for Services, Pods, and external names.
 

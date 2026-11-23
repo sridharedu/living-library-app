@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Builder constructs complex objects step by step and is useful when many optional parameters or validation rules exist.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Builder** serves as a foundational component within *Creational Patterns* in the broader **Design Patterns** ecosystem. Builder constructs complex objects step by step and is useful when many optional parameters or validation rules exist.
 

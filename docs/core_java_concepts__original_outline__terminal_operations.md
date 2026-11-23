@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Terminal operations such as collect, reduce, count, forEach, and findFirst trigger stream execution. After a terminal operation, the stream cannot be reused.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Terminal Operations** serves as a foundational component within *Original outline* in the broader **Core Java Concepts** ecosystem. Terminal operations such as collect, reduce, count, forEach, and findFirst trigger stream execution. After a terminal operation, the stream cannot be reused.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Nested tests group related scenarios hierarchically and can share contextual setup through nested classes.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Nested tests** serves as a foundational component within *Unit Testing* in the broader **Testing** ecosystem. Nested tests group related scenarios hierarchically and can share contextual setup through nested classes.
 

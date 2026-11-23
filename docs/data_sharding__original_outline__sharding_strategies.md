@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Common sharding strategies include range, hash, directory, geographic, and tenant-based distribution. The choice should follow access patterns, growth, and rebalancing needs.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Sharding Strategies** serves as a foundational component within *Original outline* in the broader **Data Sharding** ecosystem. Common sharding strategies include range, hash, directory, geographic, and tenant-based distribution. The choice should follow access patterns, growth, and rebalancing needs.
 

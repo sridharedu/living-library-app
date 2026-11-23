@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> @Controller marks a class as an MVC web component whose methods may return view names. Add @ResponseBody, or use @RestController, when methods should write data directly to the HTTP response.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **@Controller** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. @Controller marks a class as an MVC web component whose methods may return view names. Add @ResponseBody, or use @RestController, when methods should write data directly to the HTTP response.
 

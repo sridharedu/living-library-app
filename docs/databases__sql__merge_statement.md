@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> MERGE conditionally inserts, updates, or deletes target rows based on matches with a source dataset.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **MERGE statement** serves as a foundational component within *SQL* in the broader **Databases** ecosystem. MERGE conditionally inserts, updates, or deletes target rows based on matches with a source dataset.
 

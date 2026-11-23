@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> CAP states that during a network partition, a distributed system must choose between consistent responses and always-available responses.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CAP theorem** serves as a foundational component within *Distributed Systems* in the broader **Software Architecture** ecosystem. CAP states that during a network partition, a distributed system must choose between consistent responses and always-available responses.
 

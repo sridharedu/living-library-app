@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A domain event represents something meaningful that happened inside a bounded context, such as OrderConfirmed.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Domain events** serves as a foundational component within *Event-Driven Architecture* in the broader **Microservices** ecosystem. A domain event represents something meaningful that happened inside a bounded context, such as OrderConfirmed.
 

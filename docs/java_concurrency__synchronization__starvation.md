@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Starvation happens when a thread is repeatedly denied CPU time, locks, or other resources because other threads keep winning access.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Starvation** serves as a foundational component within *Synchronization* in the broader **Java Concurrency** ecosystem. Starvation happens when a thread is repeatedly denied CPU time, locks, or other resources because other threads keep winning access.
 

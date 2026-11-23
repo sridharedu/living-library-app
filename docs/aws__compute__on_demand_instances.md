@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> On-Demand Instances provide flexible capacity without long-term commitment and are suited to variable or short-lived workloads.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **On-Demand Instances** serves as a foundational component within *Compute* in the broader **AWS** ecosystem. On-Demand Instances provide flexible capacity without long-term commitment and are suited to variable or short-lived workloads.
 

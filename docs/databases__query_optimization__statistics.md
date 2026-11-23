@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Database statistics describe row counts, distinct values, distributions, and correlations used by the optimizer.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Statistics** serves as a foundational component within *Query Optimization* in the broader **Databases** ecosystem. Database statistics describe row counts, distinct values, distributions, and correlations used by the optimizer.
 

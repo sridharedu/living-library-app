@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Exactly-once semantics means each logical effect occurs once despite retries or failures. In practice it requires coordinated idempotency, transactions, or deduplication.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Exactly-once semantics** serves as a foundational component within *Distributed Data* in the broader **Microservices** ecosystem. Exactly-once semantics means each logical effect occurs once despite retries or failures. In practice it requires coordinated idempotency, transactions, or deduplication.
 

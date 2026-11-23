@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> NOT NULL requires a value, while CHECK validates a condition such as a range or status set. Both prevent invalid data from entering the table.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Check and Not Null Constraints** serves as a foundational component within *Original outline* in the broader **Database Design** ecosystem. NOT NULL requires a value, while CHECK validates a condition such as a range or status set. Both prevent invalid data from entering the table.
 

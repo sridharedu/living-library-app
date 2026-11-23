@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Tiered storage moves older Kafka log segments to cheaper remote storage while keeping recent data locally for fast access.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Tiered storage** serves as a foundational component within *Reliability and Design* in the broader **Apache Kafka** ecosystem. Tiered storage moves older Kafka log segments to cheaper remote storage while keeping recent data locally for fast access.
 

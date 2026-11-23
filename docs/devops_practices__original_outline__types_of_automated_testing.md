@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Common automated tests include unit, integration, component, contract, API, UI, performance, security, and end-to-end tests. Each covers a different risk boundary.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Types of Automated Testing** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Common automated tests include unit, integration, component, contract, API, UI, performance, security, and end-to-end tests. Each covers a different risk boundary.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> AOP can be enabled through annotations or XML, then applied using aspect classes and pointcut expressions. Proxy behavior and self-invocation limitations must be understood.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Configuring AOP** serves as a foundational component within *Original outline* in the broader **Spring Framework** ecosystem. AOP can be enabled through annotations or XML, then applied using aspect classes and pointcut expressions. Proxy behavior and self-invocation limitations must be understood.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Redis eviction policies decide which keys to remove when memory is full, such as LRU, LFU, TTL-based, random, or no eviction.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Cache eviction policies** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. Redis eviction policies decide which keys to remove when memory is full, such as LRU, LFU, TTL-based, random, or no eviction.
 

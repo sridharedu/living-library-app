@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A Redis lock usually uses SET with NX, expiry, and a unique token. Correctness-sensitive use cases also need fencing or stronger coordination.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Distributed locks with Redis** serves as a foundational component within *Redis* in the broader **NoSQL** ecosystem. A Redis lock usually uses SET with NX, expiry, and a unique token. Correctness-sensitive use cases also need fencing or stronger coordination.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Helm is a package manager for Kubernetes. It renders templates with values and stores release history so deployments can be upgraded or rolled back.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Helm?** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Helm is a package manager for Kubernetes. It renders templates with values and stores release history so deployments can be upgraded or rolled back.
 

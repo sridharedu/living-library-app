@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Labels attach searchable metadata to resources, while selectors identify matching resources for Services, controllers, and policies.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Labels and selectors** serves as a foundational component within *Scheduling and Reliability* in the broader **Kubernetes** ecosystem. Labels attach searchable metadata to resources, while selectors identify matching resources for Services, controllers, and policies.
 

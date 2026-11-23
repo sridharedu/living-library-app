@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> The binding model connects application inputs and outputs to external messaging destinations through configurable binders.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Binding model** serves as a foundational component within *Messaging and Integration* in the broader **Spring Integration** ecosystem. The binding model connects application inputs and outputs to external messaging destinations through configurable binders.
 

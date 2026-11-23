@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Java Mission Control analyzes Flight Recorder data through timelines, event views, automated rules, and profiling dashboards.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Java Mission Control** serves as a foundational component within *JIT and Performance* in the broader **JVM** ecosystem. Java Mission Control analyzes Flight Recorder data through timelines, event views, automated rules, and profiling dashboards.
 

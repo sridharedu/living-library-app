@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> A memory-mapped file maps file regions into virtual memory using MappedByteBuffer. It can speed random access but requires careful resource and size management.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Memory-mapped files** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. A memory-mapped file maps file regions into virtual memory using MappedByteBuffer. It can speed random access but requires careful resource and size management.
 

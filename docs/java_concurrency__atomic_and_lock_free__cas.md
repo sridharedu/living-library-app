@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Compare-and-set atomically updates a value only when it still matches an expected value. It is the foundation of many lock-free algorithms.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **CAS** serves as a foundational component within *Atomic and Lock-Free* in the broader **Java Concurrency** ecosystem. Compare-and-set atomically updates a value only when it still matches an expected value. It is the foundation of many lock-free algorithms.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Pod restart policies are Always, OnFailure, or Never and define when kubelet restarts terminated containers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Restart policies** serves as a foundational component within *Workloads* in the broader **Kubernetes** ecosystem. Pod restart policies are Always, OnFailure, or Never and define when kubelet restarts terminated containers.
 

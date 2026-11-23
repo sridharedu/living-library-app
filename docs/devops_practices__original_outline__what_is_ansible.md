@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Ansible is an automation tool for configuration management, provisioning, deployment, and orchestration. It is agentless and typically controls remote systems from a central node.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **What is Ansible?** serves as a foundational component within *Original outline* in the broader **DevOps Practices** ecosystem. Ansible is an automation tool for configuration management, provisioning, deployment, and orchestration. It is agentless and typically controls remote systems from a central node.
 

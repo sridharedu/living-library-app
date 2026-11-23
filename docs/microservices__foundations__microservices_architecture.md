@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Microservices architecture structures a system as independently deployable services aligned to business capabilities and owned by autonomous teams.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Microservices architecture** serves as a foundational component within *Foundations* in the broader **Microservices** ecosystem. Microservices architecture structures a system as independently deployable services aligned to business capabilities and owned by autonomous teams.
 

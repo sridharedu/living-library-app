@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> PagingAndSortingRepository adds pagination and sorting operations to repository access.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **PagingAndSortingRepository** serves as a foundational component within *Repositories* in the broader **Spring Data JPA** ecosystem. PagingAndSortingRepository adds pagination and sorting operations to repository access.
 

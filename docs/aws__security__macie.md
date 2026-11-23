@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon Macie discovers and classifies sensitive data in S3 and identifies risky access patterns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Macie** serves as a foundational component within *Security* in the broader **AWS** ecosystem. Amazon Macie discovers and classifies sensitive data in S3 and identifies risky access patterns.
 

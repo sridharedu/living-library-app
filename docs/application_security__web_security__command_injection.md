@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Command injection occurs when untrusted input becomes part of an operating-system command. Avoid shell execution or use fixed arguments and strict validation.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Command injection** serves as a foundational component within *Web Security* in the broader **Application Security** ecosystem. Command injection occurs when untrusted input becomes part of an operating-system command. Avoid shell execution or use fixed arguments and strict validation.
 

@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Read large files incrementally with buffered streams, channels, or streaming APIs rather than loading the entire file into memory.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Reading large files efficiently** serves as a foundational component within *I/O and Files* in the broader **Core Java** ecosystem. Read large files incrementally with buffered streams, channels, or streaming APIs rather than loading the entire file into memory.
 

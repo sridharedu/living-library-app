@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> JNI lets Java call native code and native code call Java. It enables platform integration but adds complexity, portability risk, and memory-safety concerns.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Native methods and JNI** serves as a foundational component within *Reflection and Runtime* in the broader **Core Java** ecosystem. JNI lets Java call native code and native code call Java. It enables platform integration but adds complexity, portability risk, and memory-safety concerns.
 

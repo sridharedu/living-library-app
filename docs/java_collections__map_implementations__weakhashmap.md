@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> WeakHashMap holds keys with weak references, allowing entries to disappear when keys are no longer strongly reachable.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **WeakHashMap** serves as a foundational component within *Map Implementations* in the broader **Java Collections** ecosystem. WeakHashMap holds keys with weak references, allowing entries to disappear when keys are no longer strongly reachable.
 

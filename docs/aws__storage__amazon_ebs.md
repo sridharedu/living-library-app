@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Amazon EBS provides persistent block storage volumes for EC2 with snapshots, encryption, and multiple performance tiers.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Amazon EBS** serves as a foundational component within *Storage* in the broader **AWS** ecosystem. Amazon EBS provides persistent block storage volumes for EC2 with snapshots, encryption, and multiple performance tiers.
 

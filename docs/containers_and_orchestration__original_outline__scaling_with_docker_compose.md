@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> Compose can run multiple instances of a stateless service, but local Compose is not a full production orchestrator. Scaling also requires load balancing and external state management.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **Scaling with Docker Compose** serves as a foundational component within *Original outline* in the broader **Containers and Orchestration** ecosystem. Compose can run multiple instances of a stateless service, but local Compose is not a full production orchestrator. Scaling also requires load balancing and external state management.
 

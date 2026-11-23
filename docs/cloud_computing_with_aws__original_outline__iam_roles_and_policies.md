@@ -1,4 +1,9 @@
-﻿## 1. Architectural Overview & Mental Model
+> **Core Definition:**  
+> An IAM role is an assumable identity with temporary credentials, while a policy is a JSON document that grants or denies actions on resources. Roles are preferred for applications and AWS services.
+
+---
+
+## 1. Architectural Overview & Mental Model
 
 **IAM Roles and Policies** serves as a foundational component within *Original outline* in the broader **Cloud Computing with AWS** ecosystem. An IAM role is an assumable identity with temporary credentials, while a policy is a JSON document that grants or denies actions on resources. Roles are preferred for applications and AWS services.
 
